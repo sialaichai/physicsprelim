@@ -30,12 +30,20 @@ document.addEventListener('DOMContentLoaded', () => {
     const paperFilterApply = document.getElementById('paper-filter-apply');
     const paperFilterCount = document.getElementById('paper-filter-count');
 
+    // JC Filter elements (NEW)
+    const jcFilterBtn = document.getElementById('jc-filter-btn');
+    const jcFilterPanel = document.getElementById('jc-filter-panel');
+    const jcFilterList = document.getElementById('jc-filter-list');
+    const jcFilterApply = document.getElementById('jc-filter-apply');
+    const jcFilterCount = document.getElementById('jc-filter-count');
+
     let allData = []; // To store all parsed data from XML
     
     // --- State for selected filters ---
     let selectedTopics = new Set();
     let selectedYears = new Set();
     let selectedPapers = new Set();
+    let selectedJCs = new Set(); // (NEW)
 
     // --- Helper function to safely get and trim text from XML ---
     function safeGetText(item, tagName) {
@@ -44,7 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // --- 1. Fetch and Parse the XML data ---
-    fetch('PrelimPhy.xml') // <-- MODIFICATION 1
+    fetch('PrelimPhy.xml') // <-- MODIFICATION 1 (Filename)
         .then(response => {
             if (!response.ok) throw new Error(`Failed to fetch PrelimPhy.xml - Status: ${response.status}`);
             return response.text();
@@ -66,6 +74,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 allData.push({
                     filename: safeGetText(item, 'Filename'),
                     year: safeGetText(item, 'Year'),
+                    jc: safeGetText(item, 'JC'), // <-- MODIFICATION 3 (Add JC data)
                     paper: safeGetText(item, 'Paper'),
                     question: safeGetText(item, 'Question'),
                     mainTopic: safeGetText(item, 'Topic_x0020_Category'),
@@ -85,23 +94,16 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- 2. Populate Dropdowns AND Checkbox Lists ---
     function populateDropdowns() {
         
-        // --- ▼▼▼ MODIFIED SECTION (USING SAFER CODE) ▼▼▼ ---
-        // 1. Get ALL topic strings from mainTopic ONLY
         const allTopicStrings = allData.map(item => item.mainTopic);
-
-        // 2. Split any strings that contain ";" or ",", then trim whitespace (safer method)
         const allCleanTopics = allTopicStrings
-            .map(topicStr => topicStr.split(/[;,]/))      // Creates an array of arrays
-            .reduce((acc, val) => acc.concat(val), [])  // Flattens to a single array
-            .map(s => s.trim());                          // Trims whitespace
-
-        // 3. Now, get the unique, non-empty, sorted list from the CLEAN data
+            .map(topicStr => topicStr.split(/[;,]/))
+            .reduce((acc, val) => acc.concat(val), [])
+            .map(s => s.trim());
         const topics = [...new Set(allCleanTopics.filter(Boolean))].sort();
-        // --- ▲▲▲ END OF MODIFICATION ▲▲▲ ---
 
-        // Get unique, filtered, sorted values (for other filters)
         const years = [...new Set(allData.map(item => item.year).filter(Boolean))].sort((a, b) => b - a); // Sort desc
         const papers = [...new Set(allData.map(item => item.paper).filter(Boolean))].sort();
+        const jcs = [...new Set(allData.map(item => item.jc).filter(Boolean))].sort(); // <-- MODIFICATION 3 (Get JCs)
         const questions = [...new Set(allData.map(item => item.question).filter(Boolean))].sort();
 
         // Helper: Add <option> to <select>
@@ -139,6 +141,7 @@ document.addEventListener('DOMContentLoaded', () => {
         addCheckboxes(topicFilterList, topics, 'topic-checkbox');
         addCheckboxes(yearFilterList, years, 'year-checkbox');
         addCheckboxes(paperFilterList, papers, 'paper-checkbox');
+        addCheckboxes(jcFilterList, jcs, 'jc-checkbox'); // <-- MODIFICATION 3 (Populate JC list)
     }
     
     // --- 3. Setup Event Listeners ---
@@ -165,15 +168,17 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         };
 
-        // Setup all three checkbox filters
+        // Setup all checkbox filters
         setupFilterPanel(topicFilterBtn, topicFilterPanel, topicFilterList, topicFilterApply, selectedTopics, topicFilterCount, 'topic-checkbox');
         setupFilterPanel(yearFilterBtn, yearFilterPanel, yearFilterList, yearFilterApply, selectedYears, yearFilterCount, 'year-checkbox');
         setupFilterPanel(paperFilterBtn, paperFilterPanel, paperFilterList, paperFilterApply, selectedPapers, paperFilterCount, 'paper-checkbox');
+        setupFilterPanel(jcFilterBtn, jcFilterPanel, jcFilterList, jcFilterApply, selectedJCs, jcFilterCount, 'jc-checkbox'); // <-- MODIFICATION 3 (Setup JC panel)
 
         // Close panels if clicking outside
         document.addEventListener('click', (event) => {
-            const panels = [topicFilterPanel, yearFilterPanel, paperFilterPanel];
-            const buttons = [topicFilterBtn, yearFilterBtn, paperFilterBtn];
+            // <-- MODIFICATION 3 (Add new elements to arrays)
+            const panels = [topicFilterPanel, yearFilterPanel, paperFilterPanel, jcFilterPanel];
+            const buttons = [topicFilterBtn, yearFilterBtn, paperFilterBtn, jcFilterBtn];
 
             // Check if the click is outside all panels and all buttons
             if (!panels.some(p => p.contains(event.target)) && !buttons.some(b => b.contains(event.target))) {
@@ -191,11 +196,9 @@ document.addEventListener('DOMContentLoaded', () => {
         // Apply Topic Filter
         if (selectedTopics.size > 0) {
             filteredData = filteredData.filter(item => {
-                // We only check the mainTopic field now
                 const itemTopics = item.mainTopic
                     .split(/[;,]/)
                     .map(s => s.trim());
-
                 for (const topic of itemTopics) {
                     if (selectedTopics.has(topic)) {
                         return true;
@@ -208,6 +211,11 @@ document.addEventListener('DOMContentLoaded', () => {
         // Apply Year Filter
         if (selectedYears.size > 0) {
             filteredData = filteredData.filter(item => selectedYears.has(item.year));
+        }
+        
+        // Apply JC Filter (NEW)
+        if (selectedJCs.size > 0) {
+            filteredData = filteredData.filter(item => selectedJCs.has(item.jc));
         }
 
         // Apply Paper Filter
@@ -228,16 +236,18 @@ document.addEventListener('DOMContentLoaded', () => {
         tableBody.innerHTML = '';
         for (const rowData of data) {
             const tr = document.createElement('tr');
+            // <-- MODIFICATION 3 (Add new <td> for jc)
             tr.innerHTML = `
                 <td>${rowData.filename}</td>
                 <td>${rowData.year}</td>
+                <td>${rowData.jc}</td>
                 <td>${rowData.paper}</td>
                 <td>${rowData.question}</td>
                 <td>${rowData.mainTopic}</td>
                 <td>${rowData.otherTopics.join(', ')}</td>
             `;
             tr.addEventListener('click', () => {
-                // --- MODIFICATION 2 (Path includes year) ---
+                // <-- MODIFICATION 2 (Path includes year)
                 pdfViewer.src = `pdfs/${rowData.year}/${rowData.filename}`;
             });
             tableBody.appendChild(tr);
@@ -263,8 +273,10 @@ document.addEventListener('DOMContentLoaded', () => {
         visibleRows.forEach(row => {
             const filename = row.cells[0].textContent;
             const year = row.cells[1].textContent;
-            const mainTopic = row.cells[4].textContent;
-            // --- MODIFICATION 3 (Path includes year) ---
+            // <-- MODIFICATION 3 (mainTopic is now at index 5)
+            const mainTopic = row.cells[5].textContent; 
+            
+            // <-- MODIFICATION 2 (Path includes year)
             const fullPdfUrl = `${pdfBaseUrl}${year}/${filename}`;
             
             htmlContent += `
