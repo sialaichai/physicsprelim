@@ -9,6 +9,9 @@ document.addEventListener('DOMContentLoaded', () => {
     /**
      * Simple hashing function.
      */
+
+
+    // Simple hashing function
     function simpleHash(str) {
         let hash = 0;
         for (let i = 0; i < str.length; i++) {
@@ -19,14 +22,14 @@ document.addEventListener('DOMContentLoaded', () => {
         return hash.toString();
     }
 
-    function checkPassword() {
-        // 1. Check if user is already logged in for this session
+    function checkSessionAndLogin() {
+        // 1. Check Session Memory first
         if (sessionStorage.getItem('accessGranted') === 'true') {
             document.getElementById('main-container').style.display = 'flex';
-            return; // Stop here, no need to ask again
+            return; 
         }
 
-        // 2. SETUP MODE LOGIC (If hash is empty)
+        // 2. SETUP MODE (Use standard prompt for setup only)
         if (correctHash === "") {
             const setupPass = prompt("SETUP MODE: Enter the password you WANT to use:");
             if (setupPass) {
@@ -35,29 +38,92 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        // 3. Ask for password
-        const password = prompt("Please enter the password to access this page:");
-        
-        if (!password) {
-            document.body.innerHTML = "<h1 style='text-align: center; margin-top: 50px; color: red;'>Access Denied</h1>";
-            return;
-        }
-
-        if (simpleHash(password) === correctHash) {
-            // Success! 
-            // Save the login status to the browser's session memory
-            sessionStorage.setItem('accessGranted', 'true'); 
-            
-            document.getElementById('main-container').style.display = 'flex';
-        } else {
-            alert("Incorrect password.");
-            checkPassword(); // Ask again
-        }
+        // 3. Create Custom Login Modal (since prompt() can't hide text)
+        createLoginModal();
     }
 
-    // Run the password check immediately
-    checkPassword();
+    function createLoginModal() {
+        // Create the overlay background
+        const overlay = document.createElement('div');
+        overlay.id = 'login-overlay';
+        Object.assign(overlay.style, {
+            position: 'fixed', top: '0', left: '0', width: '100%', height: '100%',
+            backgroundColor: 'rgba(0,0,0,0.85)', zIndex: '9999',
+            display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column'
+        });
 
+        // Create the white box
+        const box = document.createElement('div');
+        Object.assign(box.style, {
+            backgroundColor: 'white', padding: '30px', borderRadius: '8px',
+            textAlign: 'center', boxShadow: '0 4px 15px rgba(0,0,0,0.3)', fontFamily: 'sans-serif'
+        });
+
+        // Title
+        const title = document.createElement('h2');
+        title.innerText = "Restricted Access";
+        title.style.marginTop = '0';
+
+        // Password Input (The important part: type="password")
+        const input = document.createElement('input');
+        input.type = 'password'; 
+        input.placeholder = "Enter Password";
+        Object.assign(input.style, {
+            padding: '10px', fontSize: '16px', width: '200px', margin: '15px 0',
+            border: '1px solid #ccc', borderRadius: '4px'
+        });
+
+        // Button
+        const btn = document.createElement('button');
+        btn.innerText = "Login";
+        Object.assign(btn.style, {
+            padding: '10px 20px', fontSize: '16px', backgroundColor: '#007bff', color: 'white',
+            border: 'none', borderRadius: '4px', cursor: 'pointer'
+        });
+
+        // Error Message (Hidden by default)
+        const errorMsg = document.createElement('p');
+        errorMsg.style.color = 'red';
+        errorMsg.style.display = 'none';
+        errorMsg.innerText = "Incorrect Password";
+
+        // Append elements
+        box.appendChild(title);
+        box.appendChild(input);
+        box.appendChild(document.createElement('br'));
+        box.appendChild(btn);
+        box.appendChild(errorMsg);
+        overlay.appendChild(box);
+        document.body.appendChild(overlay);
+
+        // --- Logic to handle login ---
+        function attemptLogin() {
+            const password = input.value;
+            if (simpleHash(password) === correctHash) {
+                sessionStorage.setItem('accessGranted', 'true');
+                document.body.removeChild(overlay); // Remove modal
+                document.getElementById('main-container').style.display = 'flex'; // Show site
+            } else {
+                errorMsg.style.display = 'block';
+                input.value = ''; // Clear input
+                input.focus();
+            }
+        }
+
+        // Click listener
+        btn.addEventListener('click', attemptLogin);
+
+        // "Enter" key listener
+        input.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') attemptLogin();
+        });
+
+        // Focus the input immediately
+        input.focus();
+    }
+
+    // Run the check immediately
+    checkSessionAndLogin();
     
     // --- Get references to all interactive elements ---
     const tableBody = document.getElementById('data-table-body');
