@@ -3,46 +3,51 @@ document.addEventListener('DOMContentLoaded', () => {
     // ======================================================
     // 1. PASSWORD PROTECTION (Simple Version)
     // ======================================================
-    
-    // This hash "-1944308406" corresponds to the password "12345"
+
     // using the simpleHash function below.
     const correctHash = "2095256207"; 
-
     /**
-     * A simple hashing function that works in all browsers and local files.
+     * Simple hashing function.
      */
     function simpleHash(str) {
         let hash = 0;
         for (let i = 0; i < str.length; i++) {
             const char = str.charCodeAt(i);
             hash = ((hash << 5) - hash) + char;
-            hash = hash & hash; // Convert to 32bit integer
+            hash = hash & hash; 
         }
         return hash.toString();
     }
 
     function checkPassword() {
-        // SETUP MODE LOGIC:
-        // If you set correctHash to "" above, this block helps you find
-        // the hash number for your own custom password.
+        // 1. Check if user is already logged in for this session
+        if (sessionStorage.getItem('accessGranted') === 'true') {
+            document.getElementById('main-container').style.display = 'flex';
+            return; // Stop here, no need to ask again
+        }
+
+        // 2. SETUP MODE LOGIC (If hash is empty)
         if (correctHash === "") {
             const setupPass = prompt("SETUP MODE: Enter the password you WANT to use:");
             if (setupPass) {
-                alert("The hash for '" + setupPass + "' is:\n\n" + simpleHash(setupPass) + "\n\nCopy this number into the 'correctHash' variable in script.js.");
+                alert("The hash for '" + setupPass + "' is:\n\n" + simpleHash(setupPass) + "\n\nCopy this number into the 'correctHash' variable.");
             }
             return;
         }
 
+        // 3. Ask for password
         const password = prompt("Please enter the password to access this page:");
         
         if (!password) {
-            // User cancelled
             document.body.innerHTML = "<h1 style='text-align: center; margin-top: 50px; color: red;'>Access Denied</h1>";
             return;
         }
 
         if (simpleHash(password) === correctHash) {
-            // Success! Reveal the content.
+            // Success! 
+            // Save the login status to the browser's session memory
+            sessionStorage.setItem('accessGranted', 'true'); 
+            
             document.getElementById('main-container').style.display = 'flex';
         } else {
             alert("Incorrect password.");
