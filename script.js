@@ -259,7 +259,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- 6. Logic for the "Create HTML" button ---
     generateBtn.addEventListener('click', () => {
         const visibleRows = tableBody.querySelectorAll('tr');
-        const pdfBaseUrl = "pdfs/"; // Using relative path
+        const pdfBaseUrl = "https://sialaichai.github.io/physicsprelim/pdfs/"; // Using relative path
         let htmlContent = `
             <!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>Filtered PDF Report</title>
             <style>
