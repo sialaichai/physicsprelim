@@ -126,7 +126,7 @@ tbody tr:hover {
     border: 1px solid #ccc;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     z-index: 100;
-    min-width: 250px;
+    min-width: 150px;
     padding: 10px;
     border-radius: 4px;
 }
@@ -186,7 +186,7 @@ tbody tr:hover {
 }
 
 #topic-filter-btn {
-    min-width: 380px; /* Double width */
+    min-width: 340px; /* Double width */
 }
 
 /* --- File Count Display --- */
