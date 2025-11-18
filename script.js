@@ -1,4 +1,66 @@
 document.addEventListener('DOMContentLoaded', () => {
+
+    // --- NEW HASH-BASED PASSWORD PROMPT ---
+
+    // PASTE YOUR HASH FROM STEP 1 HERE
+    const correctHash = "264f0c9271560e8480611fa589195d56d5fdb67c85b6eeb64eb22c26af0651f9"; // <-- YOUR HASH
+    
+    let attempts = 0;
+
+    /**
+     * Helper function to compute a SHA-256 hash of a string.
+     * Returns the hash as a lowercase hex string.
+     */
+    async function sha256(message) {
+        // encode as UTF-8
+        const msgBuffer = new TextEncoder().encode(message);                    
+        // hash the message
+        const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);
+        // convert to byte array
+        const hashArray = Array.from(new Uint8Array(hashBuffer));
+        // convert bytes to hex string
+        const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+        return hashHex;
+    }
+
+    /**
+     * Asks for a password, hashes it, and compares it to the correctHash.
+     */
+    async function checkPassword() {
+        const password = prompt("Please enter the password to access this page:");
+
+        if (!password) {
+            // User hit 'Cancel' or 'Escape'
+            document.body.innerHTML = "<h1 style='text-align: center; margin-top: 50px;'>Access Denied</h1>";
+            return;
+        }
+
+        // Hash the user's input
+        const hashedInput = await sha256(password);
+        
+        if (hashedInput === correctHash) {
+            // Password is correct! Show the main content.
+            document.getElementById('main-container').style.display = 'flex';
+        } else {
+            attempts++;
+            if (attempts < 3) {
+                alert("Incorrect password. Please try again.");
+                checkPassword(); // Ask again
+            } else {
+                // Too many wrong attempts.
+                alert("You have failed too many times.");
+                document.body.innerHTML = "<h1 style='text-align: center; margin-top: 50px;'>Access Denied</h1>";
+            }
+        }
+    }
+    
+    checkPassword(); // Ask for the password immediately
+    // --- END OF NEW CODE ---
+
+
+    // --- Get references to all interactive elements ---
+    const tableBody = document.getElementById('data-table-body');
+    // ... (rest of your script.js file) ...
     
     // --- Get references to all interactive elements ---
     const tableBody = document.getElementById('data-table-body');
