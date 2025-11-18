@@ -310,10 +310,23 @@ document.addEventListener('DOMContentLoaded', () => {
         fileCountDisplay.textContent = `${data.length} files found`;
     }
     
-    // --- 6. Logic for the "Create HTML" button ---
+   // --- Create HTML button ---
     generateBtn.addEventListener('click', () => {
         const visibleRows = tableBody.querySelectorAll('tr');
-        const pdfBaseUrl = "https://sialaichai.github.io/physicsprelim/pdfs/"; // Using relative path
+
+        // 1. Warning for too many files
+        if (visibleRows.length > 100) {
+            const userConfirmed = confirm(`Warning: You are about to generate a report with ${visibleRows.length} PDF files.\n\nThis may result in a very large file that is slow to open.\n\nDo you want to continue?`);
+            
+            if (!userConfirmed) {
+                return; // Stop execution if user clicks Cancel
+            }
+        }
+
+        // 2. Define the Base URL (UPDATED)
+        // We use the absolute URL so links work even if the HTML file is saved locally.
+        const pdfBaseUrl = "https://sialaichai.github.io/physicsprelim/pdfs/";
+
         let htmlContent = `
             <!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>Filtered PDF Report</title>
             <style>
@@ -324,13 +337,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 embed { width: 100%; height: 800px; border: 1px solid #ccc; border-radius: 4px; }
             </style></head><body><h1>Filtered PDF Report</h1>
         `;
+
         visibleRows.forEach(row => {
             const filename = row.cells[0].textContent;
             const year = row.cells[1].textContent;
-            // <-- MODIFICATION 3 (mainTopic is now at index 5)
-            const mainTopic = row.cells[5].textContent; 
-            
-            // <-- MODIFICATION 2 (Path includes year)
+            const mainTopic = row.cells[5].textContent;
+
+            // Build the full URL using the absolute path + year + filename
             const fullPdfUrl = `${pdfBaseUrl}${year}/${filename}`;
             
             htmlContent += `
@@ -343,7 +356,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>
             `;
         });
+
         htmlContent += `</body></html>`;
+        
         const blob = new Blob([htmlContent], { type: 'text/html' });
         const a = document.createElement('a');
         a.href = URL.createObjectURL(blob);
