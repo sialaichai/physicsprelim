@@ -177,7 +177,7 @@ tbody tr:hover {
     background-color: white;
     height: 36px;
     box-sizing: border-box;
-    min-width: 100px; /* Half width */
+    min-width: 80px; /* Half width */
 }
 
 #year-filter-btn,
