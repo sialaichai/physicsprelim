@@ -177,7 +177,7 @@ tbody tr:hover {
     background-color: white;
     height: 36px;
     box-sizing: border-box;
-    min-width: 120px; /* Half width */
+    min-width: 100px; /* Half width */
 }
 
 #year-filter-btn,
@@ -186,7 +186,7 @@ tbody tr:hover {
 }
 
 #topic-filter-btn {
-    min-width: 340px; /* Double width */
+    min-width: 320px; /* Double width */
 }
 
 /* --- File Count Display --- */
