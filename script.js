@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     
     // This hash "-1944308406" corresponds to the password "12345"
     // using the simpleHash function below.
-    const correctHash = ""; 
+    const correctHash = "2095256207"; 
 
     /**
      * A simple hashing function that works in all browsers and local files.
