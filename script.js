@@ -201,7 +201,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     year: safeGetText(item, 'Year'),
                     jc: safeGetText(item, 'JC'), // <-- MODIFICATION 3 (Add JC data)
                     paper: safeGetText(item, 'Paper'),
-                    question: safeGetText(item, 'Question'),
+                    question: safeGetText(item, 'Question').replace('.pdf', ''),
                     mainTopic: safeGetText(item, 'Topic_x0020_Category'),
                     otherTopics: otherTopics
                 });
