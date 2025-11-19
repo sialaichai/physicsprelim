@@ -42,7 +42,15 @@
                     </div>
                 </div>
                 
-                <select id="filter-question"></select>
+                <div class="dropdown-check-container">
+                    <button id="question-filter-btn" class="filter-button">
+                        Question (<span id="question-filter-count">0</span>)
+                    </button>
+                    <div id="question-filter-panel" class="dropdown-panel">
+                        <div id="question-filter-list" class="dropdown-list"></div>
+                        <button id="question-filter-apply" class="apply-button">Apply</button>
+                    </div>
+                </div>
                 
                 <div class="dropdown-check-container">
                     <button id="topic-filter-btn" class="filter-button">
@@ -83,5 +91,5 @@
                     </tbody>
             </table>
         </div>
-    </div> <script src="script.js?v=1.4.9"></script> </body>
+    </div> <script src="script.js?v=1.5.0"></script> </body>
 </html>
