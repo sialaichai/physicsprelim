@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded', () => {
 
     // ======================================================
-    // 1. PASSWORD PROTECTION (Custom Login Modal)
+    // 1. PASSWORD PROTECTION
     // ======================================================
-    const correctHash = "2095256207"; // Password: 12345
+    const correctHash = "2085256207"; // Password: 12345
 
     function simpleHash(str) {
         let hash = 0;
@@ -20,13 +20,11 @@ document.addEventListener('DOMContentLoaded', () => {
             document.getElementById('main-container').style.display = 'flex';
             return; 
         }
-
         if (correctHash === "") {
             const setupPass = prompt("SETUP MODE: Enter password to hash:");
             if (setupPass) alert(simpleHash(setupPass));
             return;
         }
-
         createLoginModal();
     }
 
@@ -98,7 +96,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
     // ======================================================
-    // 2. MAIN APPLICATION LOGIC (OPTIMIZED FOR JSON)
+    // 2. MAIN APPLICATION LOGIC
     // ======================================================
 
     const tableBody = document.getElementById('data-table-body');
@@ -136,15 +134,37 @@ document.addEventListener('DOMContentLoaded', () => {
     let selectedPapers = new Set();
     let selectedJCs = new Set();
 
-    // --- 1. Fetch JSON (Much Faster) ---
-    fetch('PrelimPhy.json') // <--- NOW FETCHING JSON
+    // --- 1. Fetch JSON ---
+    fetch('PrelimPhy.json')
         .then(response => {
             if (!response.ok) throw new Error(`Failed to fetch PrelimPhy.json - Status: ${response.status}`);
-            return response.json(); // <--- NATIVE JSON PARSING
+            return response.json();
         })
         .then(jsonData => {
-            // The Python script already cleaned the data, so we just assign it!
-            allData = jsonData;
+            // --- 1b. CLEAN DATA & NORMALIZE QUESTIONS ---
+            allData = jsonData.map(item => {
+                // 1. Basic trim
+                let q = (item.question || '').trim();
+                
+                // 2. Remove ".pdf" (just in case)
+                q = q.replace(/\.pdf$/i, '');
+                
+                // 3. Normalize "q08" -> "q8" (Remove leading zero after q)
+                // This is the ONLY line you need for your specific issue.
+                q = q.replace(/^q0+(\d)/i, 'q$1');
+
+                return {
+                    filename: (item.filename || '').trim(),
+                    year: (item.year || '').trim(),
+                    jc: (item.jc || '').trim(),
+                    paper: (item.paper || '').trim(),
+                    question: q, // <--- Use the cleaned question
+                    mainTopic: (item.mainTopic || '').trim(),
+                    otherTopics: Array.isArray(item.otherTopics) 
+                        ? item.otherTopics.map(t => t.trim()).filter(t => t !== "") 
+                        : []
+                };
+            });
 
             populateDropdowns();
             setupEventListeners();
@@ -157,7 +177,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- 2. Populate Dropdowns ---
     function populateDropdowns() {
-        // Extract topics
         const allTopicStrings = allData.map(item => item.mainTopic);
         const allCleanTopics = allTopicStrings
             .map(topicStr => topicStr.split(/[;,]/))
@@ -165,11 +184,11 @@ document.addEventListener('DOMContentLoaded', () => {
             .map(s => s.trim());
         const topics = [...new Set(allCleanTopics.filter(Boolean))].sort();
 
-        // Extract other filters
         const years = [...new Set(allData.map(item => item.year).filter(Boolean))].sort((a, b) => b - a); 
         const papers = [...new Set(allData.map(item => item.paper).filter(Boolean))].sort();
         const jcs = [...new Set(allData.map(item => item.jc).filter(Boolean))].sort();
-        const questions = [...new Set(allData.map(item => item.question).filter(Boolean))].sort();
+        // Sort with natural order (q1, q2, q10)
+        const questions = [...new Set(allData.map(item => item.question).filter(Boolean))].sort(naturalSort);
 
         const addOptions = (selectElement, options, defaultText) => {
             if (!selectElement) return;
@@ -200,6 +219,10 @@ document.addEventListener('DOMContentLoaded', () => {
         addCheckboxes(yearFilterList, years, 'year-checkbox');
         addCheckboxes(paperFilterList, papers, 'paper-checkbox');
         addCheckboxes(jcFilterList, jcs, 'jc-checkbox');
+    }
+    
+    function naturalSort(a, b) {
+        return a.localeCompare(b, undefined, { numeric: true, sensitivity: 'base' });
     }
     
     // --- 3. Setup Event Listeners ---
@@ -243,7 +266,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (selectedTopics.size > 0) {
             filteredData = filteredData.filter(item => {
-                // Handle cases where mainTopic might be null/empty gracefully
                 if (!item.mainTopic) return false;
                 const itemTopics = item.mainTopic.split(/[;,]/).map(s => s.trim());
                 return itemTopics.some(topic => selectedTopics.has(topic));
@@ -261,12 +283,9 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- 5. Render Table ---
     function renderTable(data) {
         tableBody.innerHTML = '';
-        // Fragment improves rendering speed for large lists
         const fragment = document.createDocumentFragment();
         
-        // Limit rendering to first 500 to prevent browser crash if list is huge
-        // (Optional: you can remove .slice(0, 500) if you really want to see all 5000)
-        const displayData = data; 
+        const displayData = data.length > 500 ? data.slice(0, 500) : data; 
 
         for (const rowData of displayData) {
             const tr = document.createElement('tr');
@@ -285,7 +304,12 @@ document.addEventListener('DOMContentLoaded', () => {
             fragment.appendChild(tr);
         }
         tableBody.appendChild(fragment);
-        fileCountDisplay.textContent = `${data.length} files found`;
+        
+        if (data.length > 500) {
+            fileCountDisplay.textContent = `Showing first 500 of ${data.length} files`;
+        } else {
+            fileCountDisplay.textContent = `${data.length} files found`;
+        }
     }
     
     // --- 6. Generate HTML Report ---
