@@ -329,7 +329,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const visibleRows = tableBody.querySelectorAll('tr');
 
         if (visibleRows.length > 100) {
-            const userConfirmed = confirm(`Warning: Generating a report with ${visibleRows.length} files. Continue?`);
+            const userConfirmed = confirm(`Warning: Generating a report with ${visibleRows.length} files. Browser may not load properly. Continue?`);
             if (!userConfirmed) return; 
         }
 
