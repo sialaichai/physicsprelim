@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // ======================================================
     // 1. PASSWORD PROTECTION
     // ======================================================
-    const correctHash = "2085256207"; // Password: 12345
+    const correctHash = "2095256207"; // Password: 12345
 
     function simpleHash(str) {
         let hash = 0;
@@ -104,35 +104,52 @@ document.addEventListener('DOMContentLoaded', () => {
     const generateBtn = document.getElementById('generate-html-btn');
     const fileCountDisplay = document.getElementById('file-count-display');
     
-    // Filters
-    const questionFilter = document.getElementById('filter-question');
+    // --- Filter References ---
+    
+    // Topic
     const topicFilterBtn = document.getElementById('topic-filter-btn');
     const topicFilterPanel = document.getElementById('topic-filter-panel');
     const topicFilterList = document.getElementById('topic-filter-list');
     const topicFilterApply = document.getElementById('topic-filter-apply');
     const topicFilterCount = document.getElementById('topic-filter-count');
+
+    // Year
     const yearFilterBtn = document.getElementById('year-filter-btn');
     const yearFilterPanel = document.getElementById('year-filter-panel');
     const yearFilterList = document.getElementById('year-filter-list');
     const yearFilterApply = document.getElementById('year-filter-apply');
     const yearFilterCount = document.getElementById('year-filter-count');
+
+    // Paper
     const paperFilterBtn = document.getElementById('paper-filter-btn');
     const paperFilterPanel = document.getElementById('paper-filter-panel');
     const paperFilterList = document.getElementById('paper-filter-list');
     const paperFilterApply = document.getElementById('paper-filter-apply');
     const paperFilterCount = document.getElementById('paper-filter-count');
+
+    // JC (School)
     const jcFilterBtn = document.getElementById('jc-filter-btn');
     const jcFilterPanel = document.getElementById('jc-filter-panel');
     const jcFilterList = document.getElementById('jc-filter-list');
     const jcFilterApply = document.getElementById('jc-filter-apply');
     const jcFilterCount = document.getElementById('jc-filter-count');
 
+    // Question (NEW CHECKBOX FILTER)
+    const questionFilterBtn = document.getElementById('question-filter-btn');
+    const questionFilterPanel = document.getElementById('question-filter-panel');
+    const questionFilterList = document.getElementById('question-filter-list');
+    const questionFilterApply = document.getElementById('question-filter-apply');
+    const questionFilterCount = document.getElementById('question-filter-count');
+
+
     let allData = [];
     
+    // --- Filter States ---
     let selectedTopics = new Set();
     let selectedYears = new Set();
     let selectedPapers = new Set();
     let selectedJCs = new Set();
+    let selectedQuestions = new Set(); // NEW
 
     // --- 1. Fetch JSON ---
     fetch('PrelimPhy.json')
@@ -150,7 +167,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 q = q.replace(/\.pdf$/i, '');
                 
                 // 3. Normalize "q08" -> "q8" (Remove leading zero after q)
-                // This is the ONLY line you need for your specific issue.
                 q = q.replace(/^q0+(\d)/i, 'q$1');
 
                 return {
@@ -158,7 +174,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     year: (item.year || '').trim(),
                     jc: (item.jc || '').trim(),
                     paper: (item.paper || '').trim(),
-                    question: q, // <--- Use the cleaned question
+                    question: q, 
                     mainTopic: (item.mainTopic || '').trim(),
                     otherTopics: Array.isArray(item.otherTopics) 
                         ? item.otherTopics.map(t => t.trim()).filter(t => t !== "") 
@@ -187,18 +203,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const years = [...new Set(allData.map(item => item.year).filter(Boolean))].sort((a, b) => b - a); 
         const papers = [...new Set(allData.map(item => item.paper).filter(Boolean))].sort();
         const jcs = [...new Set(allData.map(item => item.jc).filter(Boolean))].sort();
-        // Sort with natural order (q1, q2, q10)
         const questions = [...new Set(allData.map(item => item.question).filter(Boolean))].sort(naturalSort);
-
-        const addOptions = (selectElement, options, defaultText) => {
-            if (!selectElement) return;
-            selectElement.innerHTML = `<option value="all">All ${defaultText}</option>`;
-            options.forEach(opt => {
-                const el = document.createElement('option');
-                el.value = opt; el.text = opt;
-                selectElement.appendChild(el);
-            });
-        };
 
         const addCheckboxes = (listElement, values, className) => {
             listElement.innerHTML = ''; 
@@ -214,11 +219,12 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         };
 
-        addOptions(questionFilter, questions, 'Questions');
+        // Populate all lists as checkboxes now
         addCheckboxes(topicFilterList, topics, 'topic-checkbox');
         addCheckboxes(yearFilterList, years, 'year-checkbox');
         addCheckboxes(paperFilterList, papers, 'paper-checkbox');
         addCheckboxes(jcFilterList, jcs, 'jc-checkbox');
+        addCheckboxes(questionFilterList, questions, 'question-checkbox'); // NEW
     }
     
     function naturalSort(a, b) {
@@ -227,8 +233,7 @@ document.addEventListener('DOMContentLoaded', () => {
     
     // --- 3. Setup Event Listeners ---
     function setupEventListeners() {
-        questionFilter.addEventListener('change', applyFilters);
-
+        
         const setupFilterPanel = (btn, panel, list, applyBtn, selectedSet, countElement, checkboxClass) => {
             btn.addEventListener('click', () => {
                 const isVisible = panel.style.display === 'block';
@@ -249,10 +254,13 @@ document.addEventListener('DOMContentLoaded', () => {
         setupFilterPanel(yearFilterBtn, yearFilterPanel, yearFilterList, yearFilterApply, selectedYears, yearFilterCount, 'year-checkbox');
         setupFilterPanel(paperFilterBtn, paperFilterPanel, paperFilterList, paperFilterApply, selectedPapers, paperFilterCount, 'paper-checkbox');
         setupFilterPanel(jcFilterBtn, jcFilterPanel, jcFilterList, jcFilterApply, selectedJCs, jcFilterCount, 'jc-checkbox');
+        setupFilterPanel(questionFilterBtn, questionFilterPanel, questionFilterList, questionFilterApply, selectedQuestions, questionFilterCount, 'question-checkbox'); // NEW
 
+        // Close panels when clicking outside
         document.addEventListener('click', (event) => {
-            const panels = [topicFilterPanel, yearFilterPanel, paperFilterPanel, jcFilterPanel];
-            const buttons = [topicFilterBtn, yearFilterBtn, paperFilterBtn, jcFilterBtn];
+            const panels = [topicFilterPanel, yearFilterPanel, paperFilterPanel, jcFilterPanel, questionFilterPanel];
+            const buttons = [topicFilterBtn, yearFilterBtn, paperFilterBtn, jcFilterBtn, questionFilterBtn];
+            
             if (!panels.some(p => p.contains(event.target)) && !buttons.some(b => b.contains(event.target))) {
                 panels.forEach(p => p.style.display = 'none');
             }
@@ -261,9 +269,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- 4. Filter Data ---
     function applyFilters() {
-        const selectedQuestion = questionFilter.value;
         let filteredData = allData;
 
+        // 1. Topics
         if (selectedTopics.size > 0) {
             filteredData = filteredData.filter(item => {
                 if (!item.mainTopic) return false;
@@ -272,10 +280,14 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         }
 
+        // 2. Years
         if (selectedYears.size > 0) filteredData = filteredData.filter(item => selectedYears.has(item.year));
+        // 3. JCs
         if (selectedJCs.size > 0) filteredData = filteredData.filter(item => selectedJCs.has(item.jc));
+        // 4. Papers
         if (selectedPapers.size > 0) filteredData = filteredData.filter(item => selectedPapers.has(item.paper));
-        if (selectedQuestion !== 'all') filteredData = filteredData.filter(item => item.question === selectedQuestion);
+        // 5. Questions (NEW)
+        if (selectedQuestions.size > 0) filteredData = filteredData.filter(item => selectedQuestions.has(item.question));
 
         renderTable(filteredData);
     }
