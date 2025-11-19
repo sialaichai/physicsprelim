@@ -179,7 +179,7 @@ tbody tr:hover {
     box-sizing: border-box;
     min-width: 80px; /* Half width */
 }
-#school-filter-btn,
+#jc-filter-btn,
 #year-filter-btn,
 #paper-filter-btn {
     min-width: 120px; /* Half width */
