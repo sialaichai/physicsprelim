@@ -180,7 +180,10 @@ tbody tr:hover {
     min-width: 80px; /* Half width */
 }
 #jc-filter-btn,
-#year-filter-btn,
+#year-filter-btn {
+    min-width: 80px; /* Half width */
+}
+
 #paper-filter-btn {
     min-width: 120px; /* Half width */
 }
