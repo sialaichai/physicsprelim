@@ -139,7 +139,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- 1. Fetch JSON (Much Faster) ---
     fetch('PrelimPhy.json') // <--- NOW FETCHING JSON
         .then(response => {
-            if (!response.ok) throw new Error(`Failed to fetch data.json - Status: ${response.status}`);
+            if (!response.ok) throw new Error(`Failed to fetch PrelimPhy.json - Status: ${response.status}`);
             return response.json(); // <--- NATIVE JSON PARSING
         })
         .then(jsonData => {
