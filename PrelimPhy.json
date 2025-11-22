@@ -4318,6 +4318,7 @@
   {"filename":"2025_HCI_MCQ_q24.pdf","year":"2025","jc":"HCI","paper":"MCQ","question":"q24","mainTopic":"17 Electromagnetic Forces","otherTopics":[]},
   {"filename":"2025_HCI_MCQ_q25.pdf","year":"2025","jc":"HCI","paper":"MCQ","question":"q25","mainTopic":"17 Electromagnetic Forces","otherTopics":["16 Circuits"]},
   {"filename":"2025_HCI_MCQ_q26.pdf","year":"2025","jc":"HCI","paper":"MCQ","question":"q26","mainTopic":"18 Electromagnetic Induction","otherTopics":[]},
+  {"filename":"2025_HCI_MCQ_q27.pdf","year":"2025","jc":"HCI","paper":"MCQ","question":"q27","mainTopic":"15 Currents","otherTopics":[]},
   {"filename":"2025_HCI_MCQ_q28.pdf","year":"2025","jc":"HCI","paper":"MCQ","question":"q28","mainTopic":"19 Quantum Physics","otherTopics":[]},
   {"filename":"2025_HCI_MCQ_q29.pdf","year":"2025","jc":"HCI","paper":"MCQ","question":"q29","mainTopic":"19 Quantum Physics","otherTopics":[]},
   {"filename":"2025_HCI_MCQ_q3.pdf","year":"2025","jc":"HCI","paper":"MCQ","question":"q3","mainTopic":"6 Collisions","otherTopics":["3 Motion and Forces"]},
@@ -4847,4 +4848,5 @@
   {"filename":"2025_NYJC_P3_q6.pdf","year":"2025","jc":"NYJC","paper":"P3","question":"q6","mainTopic":"18 Electromagnetic Induction","otherTopics":[]},
   {"filename":"2025_NYJC_P3_q7.pdf","year":"2025","jc":"NYJC","paper":"P3","question":"q7","mainTopic":"14 Electric Fields","otherTopics":["4 Energy and Fields"]},
   {"filename":"2025_NYJC_P3_q8.pdf","year":"2025","jc":"NYJC","paper":"P3","question":"q8","mainTopic":"16 Circuits","otherTopics":["15 Currents"]},
+
   {"filename":"2025_NYJC_P3_q9.pdf","year":"2025","jc":"NYJC","paper":"P3","question":"q9","mainTopic":"19 Quantum Physics","otherTopics":["14 Electric Fields"]}]
