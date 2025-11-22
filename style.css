@@ -74,6 +74,17 @@ tbody tr:hover {
     background-color: #f9f9f9; 
     cursor: pointer; 
 }
+/* Add zebra striping to table rows */
+#data-table tbody tr:nth-child(even) {
+    background-color: #f9f9f9; /* A very light gray */
+}
+
+#data-table tbody tr:hover {
+    background-color: #e0e0e0; /* Slightly darker gray on hover */
+    cursor: pointer;
+}
+
+
 
 /* --- Button Styles --- */
 #generate-html-btn {
@@ -189,7 +200,7 @@ tbody tr:hover {
 }
 
 #topic-filter-btn {
-    min-width: 300px; /* Double width */
+    min-width: 320px; /* Double width */
 }
 
 /* --- File Count Display --- */
