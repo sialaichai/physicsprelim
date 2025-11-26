@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Prelim Data Encryptor</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+    <style>
+        body { font-family: sans-serif; padding: 40px; max-width: 600px; margin: 0 auto; background: #f4f4f4; }
+        .card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        label { display: block; margin-top: 15px; font-weight: bold; }
+        input { width: 100%; padding: 10px; margin-top: 5px; box-sizing: border-box; }
+        button { margin-top: 20px; width: 100%; padding: 15px; background: #28a745; color: white; border: none; font-size: 16px; font-weight: bold; cursor: pointer; }
+        button:hover { background: #218838; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h2>Encrypt Your Prelim Data</h2>
+        
+        <label>1. PDF Folder Name (on GitHub):</label>
+        <input type="text" id="folderName" value="pdfs">
+        <small>Use "pdfs" or "assets_x9_secure" depending on your folder name.</small>
+        
+        <label>2. Select PrelimPhy.json:</label>
+        <input type="file" id="fileInput">
+
+        <label>3. Set Password:</label>
+        <input type="password" id="password" placeholder="Enter password">
+
+        <button onclick="processAndEncrypt()">Generate payload.enc</button>
+        <p id="status" style="margin-top:15px; color:blue;"></p>
+    </div>
+
+    <script>
+        function processAndEncrypt() {
+            const folder = document.getElementById('folderName').value.trim();
+            const pass = document.getElementById('password').value;
+            const fileInput = document.getElementById('fileInput');
+
+            if (!folder || !pass || !fileInput.files[0]) {
+                alert("Please fill in all fields.");
+                return;
+            }
+
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                try {
+                    let rawText = e.target.result;
+                    if (rawText.charCodeAt(0) === 0xFEFF) rawText = rawText.slice(1);
+                    
+                    const jsonData = JSON.parse(rawText);
+                    const bundle = { secure_folder: folder, data: jsonData };
+                    const encrypted = CryptoJS.AES.encrypt(JSON.stringify(bundle), pass).toString();
+                    
+                    const element = document.createElement('a');
+                    element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(encrypted));
+                    element.setAttribute('download', 'payload.enc');
+                    document.body.appendChild(element);
+                    element.click();
+                    document.body.removeChild(element);
+                    
+                    document.getElementById('status').innerText = "Success! Upload payload.enc to GitHub.";
+                } catch (err) {
+                    alert("Error: " + err.message);
+                }
+            };
+            reader.readAsText(fileInput.files[0]);
+        }
+    </script>
+</body>
+</html>
