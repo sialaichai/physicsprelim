@@ -455,7 +455,8 @@
                     const { PDFDocument, rgb, StandardFonts } = PDFLib;
                     const mergedPdf = await PDFDocument.create();
                     const font = await mergedPdf.embedFont(StandardFonts.HelveticaBold);
-                    const pdfBaseUrl = `https://sialaichai.github.io/physics9702/${PDF_FOLDER}/`;
+                    //const pdfBaseUrl = `https://sialaichai.github.io/physics9702/${PDF_FOLDER}/`;
+					const pdfBaseUrl = `https://sialaichai.github.io/physicsprelim/${PDF_FOLDER}/`;
 
                     // 3. Iterate through filtered rows
                     for (let i = 0; i < rows.length; i++) {
