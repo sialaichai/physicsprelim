@@ -623,7 +623,7 @@
                 fragment.appendChild(tr);
             });
             tableBody.appendChild(fragment);
-            fileCountDisplay.textContent = data.length > 500 ? `Top 500 of ${data.length}` : `${data.length} files`;
+            fileCountDisplay.textContent = data.length > 500 ? `Top 500/${data.length}` : `${data.length} files`;
         }
 
         // Dragger Resizer
