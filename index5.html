@@ -8,7 +8,7 @@
     <script src="https://unpkg.com/pdf-lib@1.17.1/dist/pdf-lib.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
     <style>
-        /* ==========================================
+        /* =========================================
            1. MERGED STYLE.CSS
            ========================================= */
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; overflow: hidden; }
@@ -143,21 +143,37 @@
             position: fixed;
             bottom: 10px;
             right: 10px;
-            background: rgba(0,0,0,0.8);
+            background: rgba(0,0,0,0.9);
             color: #0f0;
             padding: 10px;
             border-radius: 5px;
             font-family: monospace;
-            font-size: 12px;
-            max-width: 400px;
-            max-height: 200px;
+            font-size: 11px;
+            max-width: 500px;
+            max-height: 300px;
             overflow-y: auto;
             z-index: 9999;
             display: none;
+            white-space: pre-wrap;
+            word-wrap: break-word;
         }
         #debug-console.show {
             display: block;
         }
+        #debug-toggle {
+            position: fixed;
+            bottom: 10px;
+            right: 10px;
+            z-index: 10000;
+            background: #333;
+            color: white;
+            border: none;
+            padding: 5px 10px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 12px;
+        }
+        #debug-toggle:hover { background: #555; }
     </style>
 </head>
 <body>
@@ -260,6 +276,7 @@
     </div>
 
     <!-- Debug Console -->
+    <button id="debug-toggle">🐞 Debug</button>
     <div id="debug-console"></div>
 
     <script>
@@ -275,18 +292,25 @@
     let ENCRYPTED_TEXT = '';
     let msLookup = {};  // { "year_jc_paper": true } for quick lookup
     let debugMessages = [];
+    let debugVisible = false;
 
     const statusEl = document.getElementById('status-msg');
     const errorEl = document.getElementById('error-msg');
     const debugConsole = document.getElementById('debug-console');
+    const debugToggle = document.getElementById('debug-toggle');
+
+    debugToggle.addEventListener('click', () => {
+        debugVisible = !debugVisible;
+        debugConsole.classList.toggle('show', debugVisible);
+        debugToggle.textContent = debugVisible ? '🐞 Hide' : '🐞 Debug';
+    });
 
     function debugLog(msg) {
         const timestamp = new Date().toLocaleTimeString();
         const logMsg = `[${timestamp}] ${msg}`;
         debugMessages.push(logMsg);
-        if (debugMessages.length > 50) debugMessages.shift();
+        if (debugMessages.length > 100) debugMessages.shift();
         debugConsole.textContent = debugMessages.join('\n');
-        debugConsole.classList.add('show');
         console.log(logMsg);
     }
 
@@ -355,35 +379,44 @@
                 PDF_FOLDER = bundle.secure_folder;
                 let mainData = bundle.data;
 
-                // Load ms.json
-                logStatus("Loading mark scheme data...");
+                // Load ms.json - IMPORTANT: load it from the root directory
+                logStatus("Loading mark scheme data from ms.json...");
+                debugLog("Fetching ms.json from root directory...");
                 fetch(MS_JSON_FILE)
                     .then(res => {
+                        debugLog(`ms.json fetch response: ${res.status} ${res.statusText}`);
                         if (res.status === 404) { 
-                            console.warn("ms.json not found. Mark scheme feature disabled.");
-                            debugLog("ms.json not found");
+                            debugLog("ms.json not found (404)");
                             return [];
                         }
-                        if (!res.ok) throw new Error("Failed to load ms.json");
+                        if (!res.ok) throw new Error(`Failed to load ms.json: ${res.status}`);
                         return res.json();
                     })
                     .then(msData => {
+                        debugLog(`ms.json raw data: ${JSON.stringify(msData).substring(0, 200)}...`);
+                        
                         // Build lookup: key = "year_jc_paper" (case-insensitive)
                         msLookup = {};
                         if (Array.isArray(msData)) {
                             debugLog(`Found ${msData.length} entries in ms.json`);
-                            msData.forEach(item => {
+                            msData.forEach((item, index) => {
                                 const year = (item.year || '').trim();
                                 const jc = (item.jc || item.JC || '').trim();
                                 const paper = (item.paper || '').trim();
+                                debugLog(`Entry ${index}: year="${year}", jc="${jc}", paper="${paper}"`);
                                 if (year && jc && paper) {
                                     const key = `${year}_${jc}_${paper}`.toLowerCase();
                                     msLookup[key] = true;
-                                    debugLog(`MS lookup added: ${key}`);
+                                    debugLog(`✅ MS lookup added: ${key}`);
+                                } else {
+                                    debugLog(`⚠️ Skipping entry ${index} - missing fields`);
                                 }
                             });
+                        } else {
+                            debugLog(`⚠️ msData is not an array: ${typeof msData}`);
                         }
-                        debugLog(`MS lookup built with ${Object.keys(msLookup).length} entries`);
+                        debugLog(`📊 MS lookup built with ${Object.keys(msLookup).length} entries`);
+                        debugLog(`📊 MS keys: ${Object.keys(msLookup).join(', ')}`);
                         
                         // Check for updates
                         logStatus("Checking for updates...");
@@ -412,7 +445,7 @@
                     })
                     .catch(err => {
                         console.warn("ms.json error:", err);
-                        debugLog("ms.json error: " + err.message);
+                        debugLog("❌ ms.json error: " + err.message);
                         // Continue without MS
                         startApp(mainData);
                         document.getElementById('login-screen').style.display = 'none';
@@ -448,7 +481,8 @@
         const fileCountDisplay = document.getElementById('file-count-display');
         const msToggle = document.getElementById('ms-toggle-checkbox');
 
-        debugLog(`Starting app with ${allData.length} items`);
+        debugLog(`🚀 Starting app with ${allData.length} items`);
+        debugLog(`📁 PDF_FOLDER: ${PDF_FOLDER}`);
 
         // --- NORMALIZE DATA ---
         allData = allData.map(item => {
@@ -490,7 +524,7 @@
         // --- MS Toggle Handler ---
         msToggle.addEventListener('change', function() {
             msEnabled = this.checked;
-            debugLog(`MS toggle: ${msEnabled ? 'ON' : 'OFF'}`);
+            debugLog(`🔄 MS toggle: ${msEnabled ? 'ON' : 'OFF'}`);
             // If MS is enabled, check if current PDF has an MS and show it
             const currentSrc = pdfViewer.src;
             if (msEnabled && currentSrc) {
@@ -512,20 +546,36 @@
 
         // Helper function to load MS file
         function loadMSFile(fname, baseUrl) {
-            debugLog(`Attempting to load MS for: ${fname}`);
-            debugLog(`Base URL: ${baseUrl}`);
+            debugLog(`🔍 Attempting to load MS for: ${fname}`);
+            debugLog(`📁 Base URL: ${baseUrl}`);
             
             // Extract year, jc, paper from filename
             const keyParts = fname.replace(/\.pdf$/i,'').split('_');
-            debugLog(`Key parts: ${keyParts.join(', ')}`);
+            debugLog(`📝 Key parts: ${keyParts.join(', ')}`);
             
             if (keyParts.length >= 3) {
                 const year = keyParts[0];
                 const jc = keyParts[1];
                 const paper = keyParts[2];
                 const lookupKey = `${year}_${jc}_${paper}`.toLowerCase();
-                debugLog(`Lookup key: ${lookupKey}`);
-                debugLog(`msLookup has key: ${msLookup[lookupKey] ? 'YES' : 'NO'}`);
+                debugLog(`🔑 Lookup key: "${lookupKey}"`);
+                
+                // Check if this key exists in msLookup
+                const hasKey = msLookup[lookupKey] || false;
+                debugLog(`📊 msLookup has key "${lookupKey}": ${hasKey ? 'YES ✅' : 'NO ❌'}`);
+                
+                // Also show all available keys for debugging
+                if (!hasKey) {
+                    debugLog(`📊 Available msLookup keys: ${Object.keys(msLookup).join(', ')}`);
+                    
+                    // Try to find similar keys
+                    const similarKeys = Object.keys(msLookup).filter(k => 
+                        k.includes(year) || k.includes(jc.toLowerCase()) || k.includes(paper.toLowerCase())
+                    );
+                    if (similarKeys.length > 0) {
+                        debugLog(`🔍 Similar keys found: ${similarKeys.join(', ')}`);
+                    }
+                }
                 
                 if (msLookup[lookupKey]) {
                     // Try different MS filename patterns
@@ -533,42 +583,53 @@
                     const msPatterns = [
                         `${base}_ms.pdf`,
                         `${base}_MS.pdf`,
-                        `${base}_ms.pdf`,
-                        `${base}_MS.pdf`,
                         `${base.replace(/_q\d+$/, '')}_ms.pdf`,
                         `${base.replace(/_q\d+$/, '')}_MS.pdf`,
+                        `${base.replace(/_q\d+$/, '')}_ms.pdf`,
+                        `${base.replace(/_q\d+$/, '')}_MS.pdf`,
+                        `${base}_ms.pdf`,
+                        `${base}.ms.pdf`,
                     ];
                     
-                    debugLog(`Trying MS patterns: ${msPatterns.join(', ')}`);
+                    // Remove duplicates
+                    const uniquePatterns = [...new Set(msPatterns)];
+                    debugLog(`📄 Trying MS patterns: ${uniquePatterns.join(', ')}`);
                     
-                    for (const msFile of msPatterns) {
+                    let found = false;
+                    for (const msFile of uniquePatterns) {
                         const msUrl = baseUrl + msFile;
-                        debugLog(`Trying: ${msUrl}`);
+                        debugLog(`🌐 Trying: ${msUrl}`);
                         // Try to load with HEAD request
                         fetch(msUrl, { method: 'HEAD' })
                             .then(res => {
-                                debugLog(`HEAD request for ${msFile}: ${res.status}`);
+                                debugLog(`📡 HEAD request for ${msFile}: ${res.status}`);
                                 if (res.ok) {
                                     msViewer.src = msUrl;
                                     msViewer.style.display = 'block';
                                     pdfViewer.style.flex = '1';
                                     msViewer.style.flex = '1';
                                     debugLog(`✅ SUCCESS: Found MS file: ${msFile}`);
+                                    found = true;
+                                } else {
+                                    debugLog(`❌ ${msFile} not found (${res.status})`);
                                 }
                             })
                             .catch(err => {
                                 debugLog(`❌ Failed to load ${msFile}: ${err.message}`);
                             });
-                        // We'll try all patterns, the first one that works will set the src
+                        if (found) break;
+                    }
+                    if (!found) {
+                        debugLog(`⚠️ No MS file found for ${fname}`);
                     }
                 } else {
-                    debugLog(`No MS entry found for: ${lookupKey}`);
+                    debugLog(`❌ No MS entry found for: ${lookupKey}`);
                     msViewer.src = '';
                     msViewer.style.display = 'none';
                     pdfViewer.style.flex = '1';
                 }
             } else {
-                debugLog(`Filename doesn't have enough parts: ${keyParts.length}`);
+                debugLog(`⚠️ Filename doesn't have enough parts: ${keyParts.length}`);
                 msViewer.src = '';
                 msViewer.style.display = 'none';
                 pdfViewer.style.flex = '1';
@@ -889,7 +950,7 @@
                     const pdfUrl = `${pdfBaseUrl}${r.year}/${r.filename}`;
                     pdfViewer.src = pdfUrl;
                     pdfViewer.style.flex = '1';
-                    debugLog(`Row clicked: ${r.filename}`);
+                    debugLog(`🖱️ Row clicked: ${r.filename}`);
                     // Check MS
                     if (msEnabled) {
                         loadMSFile(r.filename, `${pdfBaseUrl}${r.year}/`);
