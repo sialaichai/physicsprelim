@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Prelim Physics Viewer</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js?v=1.0.1"></script>
-    <script src="https://unpkg.com/pdf-lib@1.17.1/dist/pdf-lib.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+	<script src="https://unpkg.com/pdf-lib@1.17.1/dist/pdf-lib.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
     <style>
         /* =========================================
            1. MERGED STYLE.CSS
@@ -57,12 +57,8 @@
             align-items: center; gap: 10px; flex-wrap: wrap; 
             border-bottom: 1px solid #ddd; 
         }
-        #pdf-viewer-container { flex: 1; background: #525659; position: relative; }
+        #pdf-viewer-container { flex: 1; background: #525659; }
         #pdf-viewer { width: 100%; height: 100%; border: none; }
-        #ms-viewer { width: 100%; height: 100%; border: none; display: none; }
-        .split-view { display: flex; height: 100%; }
-        .split-view iframe { flex: 1; height: 100%; }
-        .split-view #ms-viewer { display: block; border-left: 2px solid #444; }
         
         /* TABLE STYLES */
         table { width: 100%; border-collapse: collapse; font-size: 14px; }
@@ -96,18 +92,26 @@
         #year-filter-btn, #jc-filter-btn, #paper-filter-btn, #question-filter-btn { min-width: 60px; }
         #topic-filter-btn { min-width: 300px; }
 
-        .nav-link {
-            text-decoration: none;
-            color: white;
-            background-color: #3437eb;
-            padding: 8px 2px;
-            border-radius: 4px;
-            font-weight: bold;
-            border: 1px solid #ccc;
-            font-size: 14px;
-        }
-        .nav-link:hover { background-color: #6365f7; }
-        
+        /* UTILS */
+	
+	
+	    .nav-link {
+	      text-decoration: none;
+	      color: white;
+	      background-color: #3437eb;
+	      padding: 8px 2px;
+	      border-radius: 4px;
+	      font-weight: bold;
+	      border: 1px solid #ccc;
+	      font-size: 14px;
+	    }
+	
+	    .nav-link:hover {
+	      background-color: #6365f7;
+	    }
+
+
+		
         #generate-html-btn { 
             background-color: #28a745; color: white; padding: 8px 2px; 
             border: none; border-radius: 4px; font-weight: bold; 
@@ -123,57 +127,6 @@
         #data-table th:nth-child(3), #data-table td:nth-child(3) { width: 5%; }  /* JC */
         #data-table th:nth-child(4), #data-table td:nth-child(4) { width: 5%; }  /* Paper */
         #data-table th:nth-child(5), #data-table td:nth-child(5) { width: 5%; }  /* Question */
-
-        /* MS checkbox styling */
-        .ms-toggle {
-            display: inline-flex;
-            align-items: center;
-            margin-left: 10px;
-            font-size: 14px;
-            cursor: pointer;
-            background: #e9ecef;
-            padding: 4px 10px;
-            border-radius: 4px;
-            border: 1px solid #ccc;
-        }
-        .ms-toggle input { margin-right: 4px; cursor: pointer; }
-        
-        /* Debug console */
-        #debug-console {
-            position: fixed;
-            bottom: 10px;
-            right: 10px;
-            background: rgba(0,0,0,0.9);
-            color: #0f0;
-            padding: 10px;
-            border-radius: 5px;
-            font-family: monospace;
-            font-size: 11px;
-            max-width: 500px;
-            max-height: 300px;
-            overflow-y: auto;
-            z-index: 9999;
-            display: none;
-            white-space: pre-wrap;
-            word-wrap: break-word;
-        }
-        #debug-console.show {
-            display: block;
-        }
-        #debug-toggle {
-            position: fixed;
-            bottom: 10px;
-            right: 10px;
-            z-index: 10000;
-            background: #333;
-            color: white;
-            border: none;
-            padding: 5px 10px;
-            border-radius: 4px;
-            cursor: pointer;
-            font-size: 12px;
-        }
-        #debug-toggle:hover { background: #555; }
     </style>
 </head>
 <body>
@@ -182,7 +135,7 @@
         <div class="login-box">
             <h2>Restricted Access</h2>
             <p>Enter password to unlock prelim papers</p>
-            <p>Clear Browser Cache for latest updates</p>
+			<p>Clear Browser Cache for latest updates</p>
             <input type="password" id="pass-input" placeholder="Password" onkeypress="handleEnter(event)">
             <button onclick="unlock()">Login</button>
             <div id="status-msg" class="status">Initializing...</div>
@@ -193,6 +146,7 @@
     <div id="main-container">
         <div id="upper-panel">
             <div id="controls">
+				     
                 <div class="dropdown-check-container">
                     <button id="year-filter-btn" class="filter-button">Year (<span id="year-filter-count">0</span>)</button>
                     <div id="year-filter-panel" class="dropdown-panel">
@@ -200,6 +154,7 @@
                         <button id="year-filter-apply" class="apply-button">Apply</button>
                     </div>
                 </div>
+				
                 <div class="dropdown-check-container">
                     <button id="jc-filter-btn" class="filter-button">JC (<span id="jc-filter-count">0</span>)</button>
                     <div id="jc-filter-panel" class="dropdown-panel">
@@ -207,6 +162,7 @@
                         <button id="jc-filter-apply" class="apply-button">Apply</button>
                     </div>
                 </div>
+
                 <div class="dropdown-check-container">
                     <button id="paper-filter-btn" class="filter-button">Paper (<span id="paper-filter-count">0</span>)</button>
                     <div id="paper-filter-panel" class="dropdown-panel">
@@ -214,6 +170,7 @@
                         <button id="paper-filter-apply" class="apply-button">Apply</button>
                     </div>
                 </div>
+
                 <div class="dropdown-check-container">
                     <button id="question-filter-btn" class="filter-button">Question (<span id="question-filter-count">0</span>)</button>
                     <div id="question-filter-panel" class="dropdown-panel">
@@ -221,38 +178,29 @@
                         <button id="question-filter-apply" class="apply-button">Apply</button>
                     </div>
                 </div>
-                <div class="dropdown-check-container">
-                    <button id="topic-filter-btn" class="filter-button">Topic (<span id="topic-filter-count">0</span>)</button>
-                    <div id="topic-filter-panel" class="dropdown-panel">
-                        <div id="topic-filter-list" class="dropdown-list"></div>
-                        <button id="topic-filter-apply" class="apply-button">Apply</button>
-                    </div>
-                </div>
-                <label style="display:inline-flex;align-items:center;margin-left:10px;font-size:14px;">
-                    <input type="checkbox" id="include-other-topics" />
-                    <span style="margin-left:4px;">"Other Topics"</span>
-                </label>
-                
-                <!-- MS TOGGLE -->
-                <label class="ms-toggle">
-                    <input type="checkbox" id="ms-toggle-checkbox"> MS
-                </label>
 
+				<div class="dropdown-check-container">
+				  <button id="topic-filter-btn" class="filter-button">Topic (<span id="topic-filter-count">0</span>)</button>
+				  <div id="topic-filter-panel" class="dropdown-panel">
+				    <div id="topic-filter-list" class="dropdown-list"></div>
+				    <button id="topic-filter-apply" class="apply-button">Apply</button>
+				  </div>
+				</div>
+				<label style="display:inline-flex;align-items:center;margin-left:10px;font-size:14px;">
+				  <input type="checkbox" id="include-other-topics" />
+				  <span style="margin-left:4px;">“Other Topics”</span>
+				</label>
+                
                 <button id="generate-html-btn">HTML</button>
-                <button id="merge-pdf-btn" style="background-color: #007bff; color: white; padding: 8px 2px; border: none; border-radius: 4px; font-weight: bold; cursor: pointer; font-size: 14px;">PDFs</button>
+<button id="merge-pdf-btn" style="background-color: #007bff; color: white; padding: 8px 2px; border: none; border-radius: 4px; font-weight: bold; cursor: pointer; font-size: 14px;">PDFs</button>
                 <button id="download-zip-btn" style="background-color: #ff9800; color: white; padding: 8px 2px; border: none; border-radius: 4px; font-weight: bold; cursor: pointer; font-size: 14px;">ZIP</button>
-                <span id="file-count-display"></span>
+				<span id="file-count-display"></span>
                 
                 <a href="https://sialaichai.github.io/physics9702/" class="nav-link" style="margin-left:auto;">9702</a>
                 <a href="https://sialaichai.github.io/physicsseab/" class="nav-link">SEAB</a>
-                <a href="https://sialaichai.github.io/physynoptic/" class="nav-link">Data</a>
+				<a href="https://sialaichai.github.io/physynoptic/" class="nav-link">Data</a>
             </div>
-            <div id="pdf-viewer-container">
-                <div id="pdf-viewer-wrapper" style="display:flex; height:100%;">
-                    <iframe id="pdf-viewer" src="" frameborder="0" style="flex:1; height:100%;"></iframe>
-                    <iframe id="ms-viewer" src="" frameborder="0" style="flex:1; height:100%; display:none; border-left:2px solid #444;"></iframe>
-                </div>
-            </div>
+            <div id="pdf-viewer-container"><iframe id="pdf-viewer" src="" frameborder="0"></iframe></div>
         </div>
 
         <div id="dragger"></div>
@@ -273,11 +221,7 @@
                 <tbody id="data-table-body"></tbody>
             </table>
         </div>
-    </div>
-
-    <!-- Debug Console -->
-    <button id="debug-toggle">🐞 Debug</button>
-    <div id="debug-console"></div>
+    </div> 
 
     <script>
     // ======================================================
@@ -287,46 +231,23 @@
     // CONFIGURATION
     const PAYLOAD_FILE = 'payload.enc';
     const UPDATES_FILE = 'updates.json'; 
-    const MS_JSON_FILE = 'ms.json';
     let PDF_FOLDER = ''; 
     let ENCRYPTED_TEXT = '';
-    let msLookup = {};  // { "year_jc_paper": true } for quick lookup
-    let debugMessages = [];
-    let debugVisible = false;
 
     const statusEl = document.getElementById('status-msg');
     const errorEl = document.getElementById('error-msg');
-    const debugConsole = document.getElementById('debug-console');
-    const debugToggle = document.getElementById('debug-toggle');
-
-    debugToggle.addEventListener('click', () => {
-        debugVisible = !debugVisible;
-        debugConsole.classList.toggle('show', debugVisible);
-        debugToggle.textContent = debugVisible ? '🐞 Hide' : '🐞 Debug';
-    });
-
-    function debugLog(msg) {
-        const timestamp = new Date().toLocaleTimeString();
-        const logMsg = `[${timestamp}] ${msg}`;
-        debugMessages.push(logMsg);
-        if (debugMessages.length > 100) debugMessages.shift();
-        debugConsole.textContent = debugMessages.join('\n');
-        console.log(logMsg);
-    }
 
     function logError(msg) {
         errorEl.style.display = 'block';
         errorEl.textContent = msg;
         statusEl.style.display = 'none';
         console.error(msg);
-        debugLog('ERROR: ' + msg);
     }
 
     function logStatus(msg) {
         statusEl.textContent = msg;
         statusEl.style.display = 'block';
         errorEl.style.display = 'none';
-        debugLog('STATUS: ' + msg);
     }
 
     // 1. PRELOAD ENCRYPTED DATA
@@ -342,6 +263,7 @@
             ENCRYPTED_TEXT = text.trim();
             logStatus(`Ready.`);
             
+            // Auto-Login Check
             const savedPass = sessionStorage.getItem('prelim_session_key');
             if(savedPass) {
                 logStatus("Restoring Session...");
@@ -367,6 +289,7 @@
 
         setTimeout(() => {
             try {
+                // Decrypt
                 const bytes = CryptoJS.AES.decrypt(ENCRYPTED_TEXT, pass);
                 if (bytes.sigBytes < 0) throw new Error("Decryption Key Mismatch.");
                 
@@ -375,78 +298,31 @@
 
                 let bundle = JSON.parse(decryptedStr);
                 
+                // Success
                 sessionStorage.setItem('prelim_session_key', pass);
                 PDF_FOLDER = bundle.secure_folder;
                 let mainData = bundle.data;
 
-                // Load ms.json
-                logStatus("Loading mark scheme data from ms.json...");
-                debugLog("Fetching ms.json from root directory...");
-                fetch(MS_JSON_FILE)
+                // Check for Updates (Hybrid Mode)
+                logStatus("Checking for updates...");
+                fetch(UPDATES_FILE)
                     .then(res => {
-                        debugLog(`ms.json fetch response: ${res.status} ${res.statusText}`);
-                        if (res.status === 404) { 
-                            debugLog("ms.json not found (404)");
-                            return [];
-                        }
-                        if (!res.ok) throw new Error(`Failed to load ms.json: ${res.status}`);
+                        if (res.status === 404) return []; 
+                        if (!res.ok) throw new Error("Update check failed");
                         return res.json();
                     })
-                    .then(msData => {
-                        debugLog(`ms.json raw data: ${JSON.stringify(msData).substring(0, 200)}...`);
-                        
-                        // Build lookup: key = "year_jc_paper" (case-insensitive)
-                        msLookup = {};
-                        if (Array.isArray(msData)) {
-                            debugLog(`Found ${msData.length} entries in ms.json`);
-                            msData.forEach((item, index) => {
-                                const year = (item.year || '').trim();
-                                const jc = (item.jc || item.JC || '').trim();
-                                const paper = (item.paper || '').trim();
-                                debugLog(`Entry ${index}: year="${year}", jc="${jc}", paper="${paper}"`);
-                                if (year && jc && paper) {
-                                    const key = `${year}_${jc}_${paper}`.toLowerCase();
-                                    msLookup[key] = true;
-                                    debugLog(`✅ MS lookup added: ${key}`);
-                                } else {
-                                    debugLog(`⚠️ Skipping entry ${index} - missing fields`);
-                                }
-                            });
-                        } else {
-                            debugLog(`⚠️ msData is not an array: ${typeof msData}`);
+                    .then(updateData => {
+                        if(Array.isArray(updateData) && updateData.length > 0) {
+                            console.log(`Merging ${updateData.length} new items.`);
+                            mainData = mainData.concat(updateData);
                         }
-                        debugLog(`📊 MS lookup built with ${Object.keys(msLookup).length} entries`);
-                        
-                        // Check for updates
-                        logStatus("Checking for updates...");
-                        fetch(UPDATES_FILE)
-                            .then(res => {
-                                if (res.status === 404) return []; 
-                                if (!res.ok) throw new Error("Update check failed");
-                                return res.json();
-                            })
-                            .then(updateData => {
-                                if(Array.isArray(updateData) && updateData.length > 0) {
-                                    debugLog(`Merging ${updateData.length} new items`);
-                                    mainData = mainData.concat(updateData);
-                                }
-                                startApp(mainData);
-                                document.getElementById('login-screen').style.display = 'none';
-                                document.getElementById('main-container').style.display = 'flex';
-                            })
-                            .catch(err => {
-                                console.warn("Update fetch error:", err);
-                                debugLog("Update fetch error: " + err.message);
-                                startApp(mainData);
-                                document.getElementById('login-screen').style.display = 'none';
-                                document.getElementById('main-container').style.display = 'flex';
-                            });
+                        startApp(mainData);
+                        document.getElementById('login-screen').style.display = 'none';
+                        document.getElementById('main-container').style.display = 'flex';
                     })
                     .catch(err => {
-                        console.warn("ms.json error:", err);
-                        debugLog("❌ ms.json error: " + err.message);
-                        // Continue without MS
-                        startApp(mainData);
+                        console.warn("Update fetch error:", err);
+                        startApp(mainData); // Fallback to main data
                         document.getElementById('login-screen').style.display = 'none';
                         document.getElementById('main-container').style.display = 'flex';
                     });
@@ -463,42 +339,28 @@
         }, 100);
     }
 
-    // Helper function to get MS filename with question number
-    function getMSFilename(baseFilename) {
-        // baseFilename is like "2025_ACJC_P2_q1.pdf"
-        // Return "2025_ACJC_P2_q1_ms.pdf"
-        const base = baseFilename.replace(/\.pdf$/i, '');
-        return `${base}_ms.pdf`;
-    }
-
     // 3. MAIN APP LOGIC
     function startApp(allData) {
         
         // --- STATE VARIABLES ---
         let selectedTopics = new Set();
         let selectedYears = new Set();
-        let selectedJCs = new Set();
+        let selectedJCs = new Set();    // Added JC
         let selectedPapers = new Set();
         let selectedQuestions = new Set();
-        let msEnabled = false; // MS toggle state
         
         const tableBody = document.getElementById('data-table-body');
         const pdfViewer = document.getElementById('pdf-viewer');
-        const msViewer = document.getElementById('ms-viewer');
         const fileCountDisplay = document.getElementById('file-count-display');
-        const msToggle = document.getElementById('ms-toggle-checkbox');
 
-        debugLog(`🚀 Starting app with ${allData.length} items`);
-        debugLog(`📁 PDF_FOLDER: ${PDF_FOLDER}`);
-
-        // --- NORMALIZE DATA ---
+        // --- NORMALIZE DATA (Handle JC field) ---
         allData = allData.map(item => {
             let q = (item.question || '').trim();
             q = q.replace(/\.pdf$/i, '').replace(/^q0+(\d)/i, 'q$1');
             return {
                 filename: (item.filename || '').trim(),
                 year: (item.year || '').trim(),
-                jc: (item.jc || '').trim(),
+                jc: (item.jc || '').trim(), // New Field
                 paper: (item.paper || '').trim(),
                 question: q, 
                 mainTopic: (item.mainTopic || '').trim(),
@@ -506,9 +368,9 @@
             };
         });
 
-        // --- Sort State & Listeners ---
+        // --- NEW: Sort State & Listeners ---
         let currentFilteredData = [...allData]; 
-        let currentSort = { column: 1, asc: false };
+        let currentSort = { column: 1, asc: false }; // Default: Year (index 1), Descending
         const baseHeaders = ['Filename', 'Year', 'JC', 'Paper', 'Question', 'Main Topic', 'Other Topics'];
         const headers = document.querySelectorAll('#data-table th');
         
@@ -518,98 +380,16 @@
                     currentSort.asc = !currentSort.asc;
                 } else {
                     currentSort.column = index;
-                    currentSort.asc = false;
+                    currentSort.asc = false; // Default to descending when a new column is clicked
                 }
                 renderTable(currentFilteredData);
             });
         });
+        // -----------------------------------
 
         populateDropdowns(allData);
         setupEventListeners(allData);
-        renderTable(currentFilteredData);
-
-        // --- MS Toggle Handler ---
-        msToggle.addEventListener('change', function() {
-            msEnabled = this.checked;
-            debugLog(`🔄 MS toggle: ${msEnabled ? 'ON' : 'OFF'}`);
-            // If MS is enabled, check if current PDF has an MS and show it
-            const currentSrc = pdfViewer.src;
-            if (msEnabled && currentSrc) {
-                // Extract filename from src (remove base path)
-                const parts = currentSrc.split('/');
-                const fname = parts[parts.length - 1];
-                debugLog(`Current PDF: ${fname}`);
-                if (fname) {
-                    // Try to load MS
-                    loadMSFile(fname, currentSrc.replace(/[^/]+$/, ''));
-                }
-            } else {
-                msViewer.src = '';
-                msViewer.style.display = 'none';
-                pdfViewer.style.flex = '1';
-                debugLog('MS viewer hidden');
-            }
-        });
-
-        // Helper function to load MS file
-        function loadMSFile(fname, baseUrl) {
-            debugLog(`🔍 Attempting to load MS for: ${fname}`);
-            debugLog(`📁 Base URL: ${baseUrl}`);
-            
-            // Extract year, jc, paper from filename
-            const keyParts = fname.replace(/\.pdf$/i,'').split('_');
-            debugLog(`📝 Key parts: ${keyParts.join(', ')}`);
-            
-            if (keyParts.length >= 3) {
-                const year = keyParts[0];
-                const jc = keyParts[1];
-                const paper = keyParts[2];
-                const lookupKey = `${year}_${jc}_${paper}`.toLowerCase();
-                debugLog(`🔑 Lookup key: "${lookupKey}"`);
-                
-                if (msLookup[lookupKey]) {
-                    // Use the correct MS filename with question number
-                    const msFile = getMSFilename(fname);
-                    const msUrl = baseUrl + msFile;
-                    debugLog(`📄 Trying MS file: ${msFile}`);
-                    debugLog(`🌐 URL: ${msUrl}`);
-                    
-                    // Try to load with HEAD request
-                    fetch(msUrl, { method: 'HEAD' })
-                        .then(res => {
-                            debugLog(`📡 HEAD request for ${msFile}: ${res.status}`);
-                            if (res.ok) {
-                                msViewer.src = msUrl;
-                                msViewer.style.display = 'block';
-                                pdfViewer.style.flex = '1';
-                                msViewer.style.flex = '1';
-                                debugLog(`✅ SUCCESS: Found MS file: ${msFile}`);
-                            } else {
-                                debugLog(`❌ ${msFile} not found (${res.status})`);
-                                msViewer.src = '';
-                                msViewer.style.display = 'none';
-                                pdfViewer.style.flex = '1';
-                            }
-                        })
-                        .catch(err => {
-                            debugLog(`❌ Failed to load ${msFile}: ${err.message}`);
-                            msViewer.src = '';
-                            msViewer.style.display = 'none';
-                            pdfViewer.style.flex = '1';
-                        });
-                } else {
-                    debugLog(`❌ No MS entry found for: ${lookupKey}`);
-                    msViewer.src = '';
-                    msViewer.style.display = 'none';
-                    pdfViewer.style.flex = '1';
-                }
-            } else {
-                debugLog(`⚠️ Filename doesn't have enough parts: ${keyParts.length}`);
-                msViewer.src = '';
-                msViewer.style.display = 'none';
-                pdfViewer.style.flex = '1';
-            }
-        }
+        renderTable(currentFilteredData); // Use the new tracking variable
 
         function populateDropdowns(data) {
             const getUniques = (mapper, sorter) => [...new Set(data.map(mapper).flat().filter(Boolean))].sort(sorter);
@@ -623,7 +403,7 @@
 
             const topics = getUniques(i => i.mainTopic.split(/[;,]/).map(s=>s.trim()), undefined);
             const years = getUniques(i => i.year, yearSort);
-            const jcs = getUniques(i => i.jc, undefined);
+            const jcs = getUniques(i => i.jc, undefined); // JC List
             const papers = getUniques(i => i.paper, undefined);
             const questions = getUniques(i => i.question, naturalSort);
 
@@ -638,7 +418,7 @@
             }
             setupList('topic-filter-list', topics, 'topic-checkbox');
             setupList('year-filter-list', years, 'year-checkbox');
-            setupList('jc-filter-list', jcs, 'jc-checkbox');
+            setupList('jc-filter-list', jcs, 'jc-checkbox'); // Setup JC
             setupList('paper-filter-list', papers, 'paper-checkbox');
             setupList('question-filter-list', questions, 'question-checkbox');
         }
@@ -656,7 +436,7 @@
             };
             setup('topic-filter-btn', 'topic-filter-panel', 'topic-filter-list', 'topic-filter-apply', selectedTopics, 'topic-checkbox');
             setup('year-filter-btn', 'year-filter-panel', 'year-filter-list', 'year-filter-apply', selectedYears, 'year-checkbox');
-            setup('jc-filter-btn', 'jc-filter-panel', 'jc-filter-list', 'jc-filter-apply', selectedJCs, 'jc-checkbox');
+            setup('jc-filter-btn', 'jc-filter-panel', 'jc-filter-list', 'jc-filter-apply', selectedJCs, 'jc-checkbox'); // Hook up JC
             setup('paper-filter-btn', 'paper-filter-panel', 'paper-filter-list', 'paper-filter-apply', selectedPapers, 'paper-checkbox');
             setup('question-filter-btn', 'question-filter-panel', 'question-filter-list', 'question-filter-apply', selectedQuestions, 'question-checkbox');
 
@@ -667,30 +447,20 @@
                 });
             });
 
-            // --- HTML GENERATE ---
+            // Generate Button
             const genBtn = document.getElementById('generate-html-btn');
             genBtn.addEventListener('click', () => {
                 const rows = tableBody.querySelectorAll('tr');
-                if(rows.length > 100 && !confirm(`Generate report for ${rows.length} files? Browser may crash.`)) return;
+                if(rows.length > 100 && !confirm(`Generate report for ${rows.length} files? Browser may crash due to large number of files. Safer to keep < 100 files.` )) return;
                 
                 const pdfBaseUrl = `https://sialaichai.github.io/physicsprelim/${PDF_FOLDER}/`;
-                let html = `<!DOCTYPE html><html><head><title>Report</title><style>body{font-family:sans-serif;margin:20px;background:#f4f4f4}h1{text-align:center}.pdf-section{margin-bottom:40px;background:#fff;padding:15px;border-radius:8px;box-shadow:0 2px 5px rgba(0,0,0,0.1)}.header-row{font-size:1.2em;margin-bottom:10px;border-bottom:1px solid #eee;padding-bottom:5px}embed{width:100%;height:800px;border:1px solid #ccc}.ms-embed{width:100%;height:800px;border:1px solid #aaa;margin-top:10px}</style></head><body><h1>Filtered PDF Report</h1>`;
+                let html = `<!DOCTYPE html><html><head><title>Report</title><style>body{font-family:sans-serif;margin:20px;background:#f4f4f4}h1{text-align:center}.pdf-section{margin-bottom:40px;background:#fff;padding:15px;border-radius:8px;box-shadow:0 2px 5px rgba(0,0,0,0.1)}.header-row{font-size:1.2em;margin-bottom:10px;border-bottom:1px solid #eee;padding-bottom:5px}embed{width:100%;height:800px;border:1px solid #ccc}</style></head><body><h1>Filtered PDF Report</h1>`;
                 
                 rows.forEach(r => {
                     const fname = r.cells[0].textContent;
                     const year = r.cells[1].textContent;
-                    const mainTopic = r.cells[5].textContent;
-                    const keyParts = fname.replace(/\.pdf$/i,'').split('_');
-                    let msUrl = '';
-                    if (msEnabled && keyParts.length >= 3) {
-                        const lookupKey = `${keyParts[0]}_${keyParts[1]}_${keyParts[2]}`.toLowerCase();
-                        if (msLookup[lookupKey]) {
-                            // Use the correct MS filename with question number
-                            const msFile = getMSFilename(fname);
-                            msUrl = `${pdfBaseUrl}${year}/${msFile}`;
-                            debugLog(`HTML: Using MS file: ${msFile}`);
-                        }
-                    }
+                    // Column Index 5 is Main Topic (Filename=0, Year=1, JC=2, Paper=3, Question=4, Topic=5)
+                    const mainTopic = r.cells[5].textContent; 
                     
                     html += `
                         <div class='pdf-section'>
@@ -698,7 +468,6 @@
                                 <b>${fname}</b> <span style="color:#666; font-size:0.9em;">(${mainTopic})</span>
                             </div>
                             <embed src='${pdfBaseUrl}${year}/${fname}' type='application/pdf' />
-                            ${msUrl ? `<div style="margin-top:10px;font-weight:bold;color:#0066cc;">Mark Scheme</div><embed class="ms-embed" src='${msUrl}' type='application/pdf' />` : ''}
                         </div>
                     `;
                 });
@@ -708,95 +477,90 @@
                 a.download = 'filtered_report.html'; a.click();
             });
 
-            // --- MERGE PDF (linear banner style) ---
+			// --- MERGE PDF FUNCTIONALITY (LINEAR BANNER STYLE) ---
             const mergeBtn = document.getElementById('merge-pdf-btn');
             mergeBtn.addEventListener('click', async () => {
                 const rows = Array.from(tableBody.querySelectorAll('tr'));
+                
+                // 1. Safety Checks
                 if (rows.length === 0) { alert("No files to merge."); return; }
-                if (rows.length > 50 && !confirm(`Merging ${rows.length} PDFs may crash browser. Continue?`)) return;
+                if (rows.length > 50 && !confirm(`Merging ${rows.length} PDFs is memory intensive and may crash your browser. Continue?`)) return;
 
                 const originalBtnText = mergeBtn.textContent;
                 mergeBtn.textContent = "Processing...";
                 mergeBtn.disabled = true;
 
                 try {
+                    // 2. Initialize new PDF
                     const { PDFDocument, rgb, StandardFonts } = PDFLib;
                     const mergedPdf = await PDFDocument.create();
                     const font = await mergedPdf.embedFont(StandardFonts.HelveticaBold);
-                    const pdfBaseUrl = `https://sialaichai.github.io/physicsprelim/${PDF_FOLDER}/`;
+                    //const pdfBaseUrl = `https://sialaichai.github.io/physics9702/${PDF_FOLDER}/`;
+					const pdfBaseUrl = `https://sialaichai.github.io/physicsprelim/${PDF_FOLDER}/`;
 
+                    // 3. Iterate through filtered rows
                     for (let i = 0; i < rows.length; i++) {
                         const r = rows[i];
-                        const fname = r.cells[0].textContent;
-                        const year = r.cells[1].textContent;
+                        const fname = r.cells[0].textContent; // Filename
+                        const year = r.cells[1].textContent;  // Year
 
                         mergeBtn.textContent = `Merging ${i + 1}/${rows.length}...`;
 
-                        // Main PDF
+                        // Fetch the individual PDF
                         const fileUrl = `${pdfBaseUrl}${year}/${fname}`;
                         const res = await fetch(fileUrl);
                         if (!res.ok) { console.error(`Failed to fetch ${fname}`); continue; }
                         const existingPdfBytes = await res.arrayBuffer();
+
+                        // Load the source PDF
                         const sourcePdf = await PDFDocument.load(existingPdfBytes);
                         
+                        // Create a "Banner Page"
+                        // Get dimensions of the first page so our banner matches the width
                         const firstPage = sourcePdf.getPages()[0];
                         const { width } = firstPage.getSize();
 
-                        // Banner for main file
+                        // Add a short page (50px height) to act as a header
                         const bannerPage = mergedPdf.addPage([width, 30]);
+                        
+                        // Draw Filename on this banner page
                         bannerPage.drawText(`File: ${fname}`, {
-                            x: 15, y: 15, size: 10, font: font, color: rgb(1, 0, 0),
+                            x: 15,
+                            y: 15, // Centered vertically in the 50px height
+                            size: 10,
+                            font: font,
+                            color: rgb(1, 0, 0), // Black text
                         });
+
+                        // Copy actual pages and append them after the banner
                         const copiedPages = await mergedPdf.copyPages(sourcePdf, sourcePdf.getPageIndices());
                         copiedPages.forEach((page) => mergedPdf.addPage(page));
-
-                        // MS PDF if enabled and exists
-                        if (msEnabled) {
-                            const keyParts = fname.replace(/\.pdf$/i,'').split('_');
-                            if (keyParts.length >= 3) {
-                                const lookupKey = `${keyParts[0]}_${keyParts[1]}_${keyParts[2]}`.toLowerCase();
-                                if (msLookup[lookupKey]) {
-                                    // Use the correct MS filename with question number
-                                    const msFile = getMSFilename(fname);
-                                    const msUrl = `${pdfBaseUrl}${year}/${msFile}`;
-                                    debugLog(`PDF Merge: Using MS file: ${msFile}`);
-                                    const msRes = await fetch(msUrl);
-                                    if (msRes.ok) {
-                                        const msBytes = await msRes.arrayBuffer();
-                                        const msPdf = await PDFDocument.load(msBytes);
-                                        const msBanner = mergedPdf.addPage([width, 30]);
-                                        msBanner.drawText(`Mark Scheme: ${msFile}`, {
-                                            x: 15, y: 15, size: 10, font: font, color: rgb(0, 0, 1),
-                                        });
-                                        const msPages = await mergedPdf.copyPages(msPdf, msPdf.getPageIndices());
-                                        msPages.forEach((page) => mergedPdf.addPage(page));
-                                    }
-                                }
-                            }
-                        }
                     }
 
+                    // 4. Save and Download
                     mergeBtn.textContent = "Finalizing...";
                     const pdfBytes = await mergedPdf.save();
                     const blob = new Blob([pdfBytes], { type: 'application/pdf' });
                     const link = document.createElement('a');
                     link.href = URL.createObjectURL(blob);
-                    link.download = `merged_physics_${new Date().toISOString().slice(0,10)}.pdf`;
+                    link.download = `merged_physics_linear_${new Date().toISOString().slice(0,10)}.pdf`;
                     link.click();
 
                 } catch (err) {
                     console.error(err);
-                    alert("Error merging:\n" + err.message);
+                    alert("An error occurred while merging:\n" + err.message);
                 } finally {
                     mergeBtn.textContent = originalBtnText;
                     mergeBtn.disabled = false;
                 }
             });
 
-            // --- ZIP DOWNLOAD ---
+			// --- DOWNLOAD ZIP FUNCTIONALITY ---
             const zipBtn = document.getElementById('download-zip-btn');
             zipBtn.addEventListener('click', async () => {
                 const rows = Array.from(tableBody.querySelectorAll('tr'));
+                
+                // 1. Safety Checks
                 if (rows.length === 0) { alert("No files to zip."); return; }
                 if (rows.length > 100 && !confirm(`Zipping ${rows.length} files might take a while. Continue?`)) return;
 
@@ -804,56 +568,46 @@
                 zipBtn.disabled = true;
 
                 try {
+                    // 2. Initialize JSZip
                     const zip = new JSZip();
                     const pdfBaseUrl = `https://sialaichai.github.io/physicsprelim/${PDF_FOLDER}/`;
 
+                    // 3. Iterate through filtered rows and fetch files
                     for (let i = 0; i < rows.length; i++) {
                         const r = rows[i];
-                        const fname = r.cells[0].textContent;
-                        const year = r.cells[1].textContent;
+                        const fname = r.cells[0].textContent; // Filename
+                        const year = r.cells[1].textContent;  // Year
 
                         zipBtn.textContent = `Fetching ${i + 1}/${rows.length}...`;
 
+                        // Fetch the individual PDF
                         const fileUrl = `${pdfBaseUrl}${year}/${fname}`;
                         const res = await fetch(fileUrl);
+                        
                         if (res.ok) {
                             const blob = await res.blob();
+                            // Add file to the zip folder
                             zip.file(fname, blob);
                         } else {
                             console.error(`Failed to fetch ${fname}`);
                         }
-
-                        // MS if enabled
-                        if (msEnabled) {
-                            const keyParts = fname.replace(/\.pdf$/i,'').split('_');
-                            if (keyParts.length >= 3) {
-                                const lookupKey = `${keyParts[0]}_${keyParts[1]}_${keyParts[2]}`.toLowerCase();
-                                if (msLookup[lookupKey]) {
-                                    // Use the correct MS filename with question number
-                                    const msFile = getMSFilename(fname);
-                                    const msUrl = `${pdfBaseUrl}${year}/${msFile}`;
-                                    debugLog(`ZIP: Using MS file: ${msFile}`);
-                                    const msRes = await fetch(msUrl);
-                                    if (msRes.ok) {
-                                        const msBlob = await msRes.blob();
-                                        zip.file(msFile, msBlob);
-                                    }
-                                }
-                            }
-                        }
                     }
 
+                    // 4. Generate the ZIP file and Download
                     zipBtn.textContent = "Zipping...";
                     const content = await zip.generateAsync({ type: "blob" });
+                    
                     const link = document.createElement('a');
                     link.href = URL.createObjectURL(content);
                     link.download = `prelim_papers_${new Date().toISOString().slice(0,10)}.zip`;
                     link.click();
+                    
+                    // Clean up memory
                     URL.revokeObjectURL(link.href);
 
                 } catch (err) {
                     console.error(err);
-                    alert("Error creating zip:\n" + err.message);
+                    alert("An error occurred while creating the zip:\n" + err.message);
                 } finally {
                     zipBtn.textContent = originalBtnText;
                     zipBtn.disabled = false;
@@ -862,24 +616,30 @@
         }
 
         function applyFilters(data) {
-            let fd = [...data];
-            if (selectedTopics.size > 0) {
-                const includeOther = document.getElementById('include-other-topics').checked;
-                fd = fd.filter(item => {
-                    if (selectedTopics.has(item.mainTopic)) return true;
-                    if (includeOther && item.otherTopics.some(t => selectedTopics.has(t))) return true;
-                    return false;
-                });
-            }
-            if (selectedYears.size > 0) fd = fd.filter(i => selectedYears.has(i.year));
-            if (selectedJCs.size > 0) fd = fd.filter(i => selectedJCs.has(i.jc));
-            if (selectedPapers.size > 0) fd = fd.filter(i => selectedPapers.has(i.paper));
-            if (selectedQuestions.size > 0) fd = fd.filter(i => selectedQuestions.has(i.question));
-            currentFilteredData = fd;
-            renderTable(currentFilteredData);
+          let fd = [...data]; // Prevents mutating the original array when filtering
+        
+          if (selectedTopics.size > 0) {
+            const includeOther = document.getElementById('include-other-topics').checked;
+            fd = fd.filter(item => {
+              // Match if selected topic is the main topic
+              if (selectedTopics.has(item.mainTopic)) return true;
+              // If enabled, also match if it appears in otherTopics
+              if (includeOther && item.otherTopics.some(t => selectedTopics.has(t))) return true;
+              return false;
+            });
+          }
+        
+          if (selectedYears.size > 0) fd = fd.filter(i => selectedYears.has(i.year));
+          if (selectedJCs.size > 0) fd = fd.filter(i => selectedJCs.has(i.jc));
+          if (selectedPapers.size > 0) fd = fd.filter(i => selectedPapers.has(i.paper));
+          if (selectedQuestions.size > 0) fd = fd.filter(i => selectedQuestions.has(i.question));
+        
+          currentFilteredData = fd; // Keep track of the newly filtered dataset
+          renderTable(currentFilteredData);
         }
 
         function renderTable(data) {
+            // Update Headers with Arrows
             const headers = document.querySelectorAll('#data-table th');
             headers.forEach((th, index) => {
                 if (currentSort.column === index) {
@@ -889,20 +649,27 @@
                 }
             });
 
+            // Dynamic Sorting Logic
             data.sort((a, b) => {
                 const keys = ['filename', 'year', 'jc', 'paper', 'question', 'mainTopic', 'otherTopics'];
                 const key = keys[currentSort.column];
+                
                 let valA = a[key] || '';
                 let valB = b[key] || '';
+                
+                // Numeric sorting for year
                 if (key === 'year') {
                     valA = parseInt(valA.toString().replace(/\D/g, '')) || 0;
                     valB = parseInt(valB.toString().replace(/\D/g, '')) || 0;
                     return currentSort.asc ? valA - valB : valB - valA;
                 }
+                
+                // Convert arrays to strings for sorting
                 if (key === 'otherTopics') {
                     valA = valA.join(', ');
                     valB = valB.join(', ');
                 }
+
                 return currentSort.asc 
                     ? String(valA).localeCompare(String(valB), undefined, { numeric: true, sensitivity: 'base' })
                     : String(valB).localeCompare(String(valA), undefined, { numeric: true, sensitivity: 'base' });
@@ -923,21 +690,8 @@
                     <td>${r.mainTopic}</td>
                     <td>${r.otherTopics.join(', ')}</td>
                 `;
-                tr.addEventListener('click', () => {
-                    const pdfBaseUrl = `https://sialaichai.github.io/physicsprelim/${PDF_FOLDER}/`;
-                    const pdfUrl = `${pdfBaseUrl}${r.year}/${r.filename}`;
-                    pdfViewer.src = pdfUrl;
-                    pdfViewer.style.flex = '1';
-                    debugLog(`🖱️ Row clicked: ${r.filename}`);
-                    // Check MS
-                    if (msEnabled) {
-                        loadMSFile(r.filename, `${pdfBaseUrl}${r.year}/`);
-                    } else {
-                        msViewer.src = '';
-                        msViewer.style.display = 'none';
-                        pdfViewer.style.flex = '1';
-                    }
-                });
+                // Click row to load PDF
+                tr.addEventListener('click', () => pdfViewer.src = `${PDF_FOLDER}/${r.year}/${r.filename}`);
                 fragment.appendChild(tr);
             });
             tableBody.appendChild(fragment);

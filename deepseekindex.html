@@ -193,7 +193,7 @@
                 </div>
                 <label style="display:inline-flex;align-items:center;margin-left:10px;font-size:14px;">
                     <input type="checkbox" id="include-other-topics" />
-                    <span style="margin-left:4px;">“Other Topics”</span>
+                    <span style="margin-left:4px;">"Other Topics"</span>
                 </label>
                 
                 <!-- MS TOGGLE -->
@@ -329,20 +329,22 @@
                         return res.json();
                     })
                     .then(msData => {
-                        // Build lookup: key = "year_JC_paper" (case-insensitive)
+                        // Build lookup: key = "year_jc_paper" (case-insensitive)
                         msLookup = {};
                         if (Array.isArray(msData)) {
                             msData.forEach(item => {
                                 const year = (item.year || '').trim();
-                                const jc = (item.JC || '').trim();
+                                const jc = (item.jc || item.JC || '').trim(); // Handle both 'jc' and 'JC'
                                 const paper = (item.paper || '').trim();
                                 if (year && jc && paper) {
                                     const key = `${year}_${jc}_${paper}`.toLowerCase();
                                     msLookup[key] = true;
+                                    console.log(`MS lookup: ${key}`);
                                 }
                             });
                         }
                         console.log(`MS lookup built with ${Object.keys(msLookup).length} entries.`);
+                        console.log('MS Lookup keys:', Object.keys(msLookup));
                         
                         // Check for updates
                         logStatus("Checking for updates...");
@@ -464,6 +466,7 @@
                             const jc = keyParts[1];
                             const paper = keyParts[2];
                             const lookupKey = `${year}_${jc}_${paper}`.toLowerCase();
+                            console.log(`Checking MS for: ${lookupKey}`);
                             if (msLookup[lookupKey]) {
                                 msViewer.src = msUrl;
                                 msViewer.style.display = 'block';
@@ -803,6 +806,7 @@
                         const keyParts = r.filename.replace(/\.pdf$/i,'').split('_');
                         if (keyParts.length >= 3) {
                             const lookupKey = `${keyParts[0]}_${keyParts[1]}_${keyParts[2]}`.toLowerCase();
+                            console.log(`Row click - Checking MS for: ${lookupKey}`);
                             if (msLookup[lookupKey]) {
                                 const base = r.filename.replace(/\.pdf$/i,'');
                                 const msFile = `${base}_ms.pdf`;
