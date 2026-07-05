@@ -379,7 +379,7 @@
                 PDF_FOLDER = bundle.secure_folder;
                 let mainData = bundle.data;
 
-                // Load ms.json - IMPORTANT: load it from the root directory
+                // Load ms.json
                 logStatus("Loading mark scheme data from ms.json...");
                 debugLog("Fetching ms.json from root directory...");
                 fetch(MS_JSON_FILE)
@@ -416,7 +416,6 @@
                             debugLog(`⚠️ msData is not an array: ${typeof msData}`);
                         }
                         debugLog(`📊 MS lookup built with ${Object.keys(msLookup).length} entries`);
-                        debugLog(`📊 MS keys: ${Object.keys(msLookup).join(', ')}`);
                         
                         // Check for updates
                         logStatus("Checking for updates...");
@@ -462,6 +461,14 @@
                 }
             }
         }, 100);
+    }
+
+    // Helper function to get MS filename with question number
+    function getMSFilename(baseFilename) {
+        // baseFilename is like "2025_ACJC_P2_q1.pdf"
+        // Return "2025_ACJC_P2_q1_ms.pdf"
+        const base = baseFilename.replace(/\.pdf$/i, '');
+        return `${base}_ms.pdf`;
     }
 
     // 3. MAIN APP LOGIC
@@ -560,68 +567,36 @@
                 const lookupKey = `${year}_${jc}_${paper}`.toLowerCase();
                 debugLog(`🔑 Lookup key: "${lookupKey}"`);
                 
-                // Check if this key exists in msLookup
-                const hasKey = msLookup[lookupKey] || false;
-                debugLog(`📊 msLookup has key "${lookupKey}": ${hasKey ? 'YES ✅' : 'NO ❌'}`);
-                
-                // Also show all available keys for debugging
-                if (!hasKey) {
-                    debugLog(`📊 Available msLookup keys: ${Object.keys(msLookup).join(', ')}`);
-                    
-                    // Try to find similar keys
-                    const similarKeys = Object.keys(msLookup).filter(k => 
-                        k.includes(year) || k.includes(jc.toLowerCase()) || k.includes(paper.toLowerCase())
-                    );
-                    if (similarKeys.length > 0) {
-                        debugLog(`🔍 Similar keys found: ${similarKeys.join(', ')}`);
-                    }
-                }
-                
                 if (msLookup[lookupKey]) {
-                    // Try different MS filename patterns
-                    const base = fname.replace(/\.pdf$/i,'');
-                    const msPatterns = [
-                        `${base}_ms.pdf`,
-                        `${base}_MS.pdf`,
-                        `${base.replace(/_q\d+$/, '')}_ms.pdf`,
-                        `${base.replace(/_q\d+$/, '')}_MS.pdf`,
-                        `${base.replace(/_q\d+$/, '')}_ms.pdf`,
-                        `${base.replace(/_q\d+$/, '')}_MS.pdf`,
-                        `${base}_ms.pdf`,
-                        `${base}.ms.pdf`,
-                    ];
+                    // Use the correct MS filename with question number
+                    const msFile = getMSFilename(fname);
+                    const msUrl = baseUrl + msFile;
+                    debugLog(`📄 Trying MS file: ${msFile}`);
+                    debugLog(`🌐 URL: ${msUrl}`);
                     
-                    // Remove duplicates
-                    const uniquePatterns = [...new Set(msPatterns)];
-                    debugLog(`📄 Trying MS patterns: ${uniquePatterns.join(', ')}`);
-                    
-                    let found = false;
-                    for (const msFile of uniquePatterns) {
-                        const msUrl = baseUrl + msFile;
-                        debugLog(`🌐 Trying: ${msUrl}`);
-                        // Try to load with HEAD request
-                        fetch(msUrl, { method: 'HEAD' })
-                            .then(res => {
-                                debugLog(`📡 HEAD request for ${msFile}: ${res.status}`);
-                                if (res.ok) {
-                                    msViewer.src = msUrl;
-                                    msViewer.style.display = 'block';
-                                    pdfViewer.style.flex = '1';
-                                    msViewer.style.flex = '1';
-                                    debugLog(`✅ SUCCESS: Found MS file: ${msFile}`);
-                                    found = true;
-                                } else {
-                                    debugLog(`❌ ${msFile} not found (${res.status})`);
-                                }
-                            })
-                            .catch(err => {
-                                debugLog(`❌ Failed to load ${msFile}: ${err.message}`);
-                            });
-                        if (found) break;
-                    }
-                    if (!found) {
-                        debugLog(`⚠️ No MS file found for ${fname}`);
-                    }
+                    // Try to load with HEAD request
+                    fetch(msUrl, { method: 'HEAD' })
+                        .then(res => {
+                            debugLog(`📡 HEAD request for ${msFile}: ${res.status}`);
+                            if (res.ok) {
+                                msViewer.src = msUrl;
+                                msViewer.style.display = 'block';
+                                pdfViewer.style.flex = '1';
+                                msViewer.style.flex = '1';
+                                debugLog(`✅ SUCCESS: Found MS file: ${msFile}`);
+                            } else {
+                                debugLog(`❌ ${msFile} not found (${res.status})`);
+                                msViewer.src = '';
+                                msViewer.style.display = 'none';
+                                pdfViewer.style.flex = '1';
+                            }
+                        })
+                        .catch(err => {
+                            debugLog(`❌ Failed to load ${msFile}: ${err.message}`);
+                            msViewer.src = '';
+                            msViewer.style.display = 'none';
+                            pdfViewer.style.flex = '1';
+                        });
                 } else {
                     debugLog(`❌ No MS entry found for: ${lookupKey}`);
                     msViewer.src = '';
@@ -710,9 +685,10 @@
                     if (msEnabled && keyParts.length >= 3) {
                         const lookupKey = `${keyParts[0]}_${keyParts[1]}_${keyParts[2]}`.toLowerCase();
                         if (msLookup[lookupKey]) {
-                            const base = fname.replace(/\.pdf$/i,'');
-                            const msFile = `${base.replace(/_q\d+$/, '')}_ms.pdf`;
+                            // Use the correct MS filename with question number
+                            const msFile = getMSFilename(fname);
                             msUrl = `${pdfBaseUrl}${year}/${msFile}`;
+                            debugLog(`HTML: Using MS file: ${msFile}`);
                         }
                     }
                     
@@ -780,9 +756,10 @@
                             if (keyParts.length >= 3) {
                                 const lookupKey = `${keyParts[0]}_${keyParts[1]}_${keyParts[2]}`.toLowerCase();
                                 if (msLookup[lookupKey]) {
-                                    const base = fname.replace(/\.pdf$/i,'');
-                                    const msFile = `${base.replace(/_q\d+$/, '')}_ms.pdf`;
+                                    // Use the correct MS filename with question number
+                                    const msFile = getMSFilename(fname);
                                     const msUrl = `${pdfBaseUrl}${year}/${msFile}`;
+                                    debugLog(`PDF Merge: Using MS file: ${msFile}`);
                                     const msRes = await fetch(msUrl);
                                     if (msRes.ok) {
                                         const msBytes = await msRes.arrayBuffer();
@@ -852,9 +829,10 @@
                             if (keyParts.length >= 3) {
                                 const lookupKey = `${keyParts[0]}_${keyParts[1]}_${keyParts[2]}`.toLowerCase();
                                 if (msLookup[lookupKey]) {
-                                    const base = fname.replace(/\.pdf$/i,'');
-                                    const msFile = `${base.replace(/_q\d+$/, '')}_ms.pdf`;
+                                    // Use the correct MS filename with question number
+                                    const msFile = getMSFilename(fname);
                                     const msUrl = `${pdfBaseUrl}${year}/${msFile}`;
+                                    debugLog(`ZIP: Using MS file: ${msFile}`);
                                     const msRes = await fetch(msUrl);
                                     if (msRes.ok) {
                                         const msBlob = await msRes.blob();
