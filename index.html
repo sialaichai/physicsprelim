@@ -367,7 +367,7 @@
     // CONFIGURATION
     const PAYLOAD_FILE = 'payload.enc';
     const UPDATES_FILE = 'updates.json'; 
-    const MS_JSON_FILE = 'ms.json';
+    const MS_JSON_FILE = 'ms.json?v=${Date.now()}';
     let PDF_FOLDER = ''; 
     let ENCRYPTED_TEXT = '';
     let msLookup = {};  // { "year_jc_paper": true } for quick lookup
