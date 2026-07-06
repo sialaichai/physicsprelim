@@ -141,7 +141,7 @@
         /* Debug console */
         #debug-console {
             position: fixed;
-            bottom: 60px;
+            bottom: 10px;
             right: 10px;
             background: rgba(0,0,0,0.9);
             color: #0f0;
@@ -174,83 +174,6 @@
             font-size: 12px;
         }
         #debug-toggle:hover { background: #555; }
-
-        /* Toast Notification - Bottom Right */
-        #toast-container {
-            position: fixed;
-            bottom: 60px;
-            right: 10px;
-            z-index: 99998;
-            display: flex;
-            flex-direction: column-reverse;
-            gap: 8px;
-            max-width: 400px;
-            pointer-events: none;
-        }
-        .toast {
-            padding: 12px 16px;
-            border-radius: 6px;
-            color: white;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            font-size: 13px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.25);
-            animation: slideUp 0.3s ease-out;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            pointer-events: auto;
-            min-width: 200px;
-            max-width: 380px;
-            backdrop-filter: blur(4px);
-        }
-        .toast-warning {
-            background: rgba(240, 173, 78, 0.95);
-            border-left: 4px solid #d58512;
-        }
-        .toast-info {
-            background: rgba(91, 192, 222, 0.95);
-            border-left: 4px solid #2a9fd6;
-        }
-        .toast-success {
-            background: rgba(92, 184, 92, 0.95);
-            border-left: 4px solid #398439;
-        }
-        .toast-error {
-            background: rgba(217, 83, 79, 0.95);
-            border-left: 4px solid #b52b27;
-        }
-        .toast-icon {
-            font-size: 18px;
-            flex-shrink: 0;
-        }
-        .toast-message {
-            flex: 1;
-            word-break: break-word;
-            line-height: 1.4;
-        }
-        .toast-close {
-            margin-left: auto;
-            cursor: pointer;
-            background: none;
-            border: none;
-            color: white;
-            font-size: 16px;
-            opacity: 0.7;
-            padding: 0 5px;
-            flex-shrink: 0;
-        }
-        .toast-close:hover { opacity: 1; }
-        @keyframes slideUp {
-            from { transform: translateY(20px) scale(0.95); opacity: 0; }
-            to { transform: translateY(0) scale(1); opacity: 1; }
-        }
-        @keyframes fadeOut {
-            from { opacity: 1; transform: translateY(0) scale(1); }
-            to { opacity: 0; transform: translateY(-10px) scale(0.95); }
-        }
-        .toast-hiding {
-            animation: fadeOut 0.25s ease-in forwards;
-        }
     </style>
 </head>
 <body>
@@ -352,9 +275,6 @@
         </div>
     </div>
 
-    <!-- Toast Container - Bottom Right -->
-    <div id="toast-container"></div>
-
     <!-- Debug Console -->
     <button id="debug-toggle">🐞 Debug</button>
     <div id="debug-console"></div>
@@ -373,13 +293,11 @@
     let msLookup = {};  // { "year_jc_paper": true } for quick lookup
     let debugMessages = [];
     let debugVisible = false;
-    let toastTimeout = null;
 
     const statusEl = document.getElementById('status-msg');
     const errorEl = document.getElementById('error-msg');
     const debugConsole = document.getElementById('debug-console');
     const debugToggle = document.getElementById('debug-toggle');
-    const toastContainer = document.getElementById('toast-container');
 
     debugToggle.addEventListener('click', () => {
         debugVisible = !debugVisible;
@@ -396,63 +314,12 @@
         console.log(logMsg);
     }
 
-    // Toast notification system
-    function showToast(message, type = 'info', duration = 4000) {
-        // Clear existing timeout
-        if (toastTimeout) {
-            clearTimeout(toastTimeout);
-            toastTimeout = null;
-        }
-
-        // Remove old toasts
-        const oldToasts = toastContainer.querySelectorAll('.toast');
-        oldToasts.forEach(toast => {
-            toast.classList.add('toast-hiding');
-            setTimeout(() => toast.remove(), 300);
-        });
-
-        // Create new toast
-        const toast = document.createElement('div');
-        toast.className = `toast toast-${type}`;
-        
-        const icons = {
-            warning: '⚠️',
-            info: 'ℹ️',
-            success: '✅',
-            error: '❌'
-        };
-        
-        toast.innerHTML = `
-            <span class="toast-icon">${icons[type] || 'ℹ️'}</span>
-            <span class="toast-message">${message}</span>
-            <button class="toast-close">&times;</button>
-        `;
-        
-        // Close button
-        toast.querySelector('.toast-close').addEventListener('click', () => {
-            toast.classList.add('toast-hiding');
-            setTimeout(() => toast.remove(), 300);
-        });
-        
-        toastContainer.appendChild(toast);
-        
-        // Auto-remove after duration
-        toastTimeout = setTimeout(() => {
-            if (toast.parentNode) {
-                toast.classList.add('toast-hiding');
-                setTimeout(() => toast.remove(), 300);
-            }
-            toastTimeout = null;
-        }, duration);
-    }
-
     function logError(msg) {
         errorEl.style.display = 'block';
         errorEl.textContent = msg;
         statusEl.style.display = 'none';
         console.error(msg);
         debugLog('ERROR: ' + msg);
-        showToast(msg, 'error', 6000);
     }
 
     function logStatus(msg) {
@@ -520,7 +387,6 @@
                         debugLog(`ms.json fetch response: ${res.status} ${res.statusText}`);
                         if (res.status === 404) { 
                             debugLog("ms.json not found (404)");
-                            showToast("ms.json not found. Mark scheme feature disabled.", 'warning', 5000);
                             return [];
                         }
                         if (!res.ok) throw new Error(`Failed to load ms.json: ${res.status}`);
@@ -550,7 +416,6 @@
                             debugLog(`⚠️ msData is not an array: ${typeof msData}`);
                         }
                         debugLog(`📊 MS lookup built with ${Object.keys(msLookup).length} entries`);
-                        showToast(`Loaded ${Object.keys(msLookup).length} mark scheme entries`, 'success', 3000);
                         
                         // Check for updates
                         logStatus("Checking for updates...");
@@ -580,7 +445,6 @@
                     .catch(err => {
                         console.warn("ms.json error:", err);
                         debugLog("❌ ms.json error: " + err.message);
-                        showToast("Error loading mark scheme data", 'error', 5000);
                         // Continue without MS
                         startApp(mainData);
                         document.getElementById('login-screen').style.display = 'none';
@@ -617,7 +481,6 @@
         let selectedPapers = new Set();
         let selectedQuestions = new Set();
         let msEnabled = false; // MS toggle state
-        let lastNotifiedFile = ''; // Prevent duplicate notifications
         
         const tableBody = document.getElementById('data-table-body');
         const pdfViewer = document.getElementById('pdf-viewer');
@@ -669,30 +532,26 @@
         msToggle.addEventListener('change', function() {
             msEnabled = this.checked;
             debugLog(`🔄 MS toggle: ${msEnabled ? 'ON' : 'OFF'}`);
-            if (!msEnabled) {
-                // Hide MS viewer when toggling off
-                msViewer.src = '';
-                msViewer.style.display = 'none';
-                pdfViewer.style.flex = '1';
-                showToast('Mark scheme view disabled', 'info', 2000);
-                return;
-            }
-            
             // If MS is enabled, check if current PDF has an MS and show it
             const currentSrc = pdfViewer.src;
-            if (currentSrc) {
+            if (msEnabled && currentSrc) {
+                // Extract filename from src (remove base path)
                 const parts = currentSrc.split('/');
                 const fname = parts[parts.length - 1];
                 debugLog(`Current PDF: ${fname}`);
                 if (fname) {
+                    // Try to load MS
                     loadMSFile(fname, currentSrc.replace(/[^/]+$/, ''));
                 }
             } else {
-                showToast('Please select a question paper first', 'info', 3000);
+                msViewer.src = '';
+                msViewer.style.display = 'none';
+                pdfViewer.style.flex = '1';
+                debugLog('MS viewer hidden');
             }
         });
 
-        // Helper function to load MS file with toast notifications
+        // Helper function to load MS file
         function loadMSFile(fname, baseUrl) {
             debugLog(`🔍 Attempting to load MS for: ${fname}`);
             debugLog(`📁 Base URL: ${baseUrl}`);
@@ -725,17 +584,11 @@
                                 pdfViewer.style.flex = '1';
                                 msViewer.style.flex = '1';
                                 debugLog(`✅ SUCCESS: Found MS file: ${msFile}`);
-                                showToast(`✅ Mark scheme loaded: ${msFile}`, 'success', 3000);
-                                lastNotifiedFile = fname;
                             } else {
                                 debugLog(`❌ ${msFile} not found (${res.status})`);
                                 msViewer.src = '';
                                 msViewer.style.display = 'none';
                                 pdfViewer.style.flex = '1';
-                                if (lastNotifiedFile !== fname) {
-                                    showToast(`⚠️ Mark scheme not available for: ${fname}`, 'warning', 4000);
-                                    lastNotifiedFile = fname;
-                                }
                             }
                         })
                         .catch(err => {
@@ -743,30 +596,18 @@
                             msViewer.src = '';
                             msViewer.style.display = 'none';
                             pdfViewer.style.flex = '1';
-                            if (lastNotifiedFile !== fname) {
-                                showToast(`⚠️ Mark scheme not available for: ${fname}`, 'warning', 4000);
-                                lastNotifiedFile = fname;
-                            }
                         });
                 } else {
                     debugLog(`❌ No MS entry found for: ${lookupKey}`);
                     msViewer.src = '';
                     msViewer.style.display = 'none';
                     pdfViewer.style.flex = '1';
-                    if (lastNotifiedFile !== fname) {
-                        showToast(`⚠️ No mark scheme entry found for: ${year} ${jc} ${paper}`, 'warning', 4000);
-                        lastNotifiedFile = fname;
-                    }
                 }
             } else {
                 debugLog(`⚠️ Filename doesn't have enough parts: ${keyParts.length}`);
                 msViewer.src = '';
                 msViewer.style.display = 'none';
                 pdfViewer.style.flex = '1';
-                if (lastNotifiedFile !== fname) {
-                    showToast(`⚠️ Invalid filename format for mark scheme lookup`, 'warning', 4000);
-                    lastNotifiedFile = fname;
-                }
             }
         }
 
@@ -844,6 +685,7 @@
                     if (msEnabled && keyParts.length >= 3) {
                         const lookupKey = `${keyParts[0]}_${keyParts[1]}_${keyParts[2]}`.toLowerCase();
                         if (msLookup[lookupKey]) {
+                            // Use the correct MS filename with question number
                             const msFile = getMSFilename(fname);
                             msUrl = `${pdfBaseUrl}${year}/${msFile}`;
                             debugLog(`HTML: Using MS file: ${msFile}`);
@@ -864,14 +706,13 @@
                 const a = document.createElement('a');
                 a.href = URL.createObjectURL(new Blob([html], {type:'text/html'}));
                 a.download = 'filtered_report.html'; a.click();
-                showToast(`HTML report generated with ${rows.length} files`, 'success', 3000);
             });
 
             // --- MERGE PDF (linear banner style) ---
             const mergeBtn = document.getElementById('merge-pdf-btn');
             mergeBtn.addEventListener('click', async () => {
                 const rows = Array.from(tableBody.querySelectorAll('tr'));
-                if (rows.length === 0) { showToast("No files to merge.", 'warning', 3000); return; }
+                if (rows.length === 0) { alert("No files to merge."); return; }
                 if (rows.length > 50 && !confirm(`Merging ${rows.length} PDFs may crash browser. Continue?`)) return;
 
                 const originalBtnText = mergeBtn.textContent;
@@ -883,9 +724,6 @@
                     const mergedPdf = await PDFDocument.create();
                     const font = await mergedPdf.embedFont(StandardFonts.HelveticaBold);
                     const pdfBaseUrl = `https://sialaichai.github.io/physicsprelim/${PDF_FOLDER}/`;
-
-                    let msFound = 0;
-                    let msNotFound = 0;
 
                     for (let i = 0; i < rows.length; i++) {
                         const r = rows[i];
@@ -918,6 +756,7 @@
                             if (keyParts.length >= 3) {
                                 const lookupKey = `${keyParts[0]}_${keyParts[1]}_${keyParts[2]}`.toLowerCase();
                                 if (msLookup[lookupKey]) {
+                                    // Use the correct MS filename with question number
                                     const msFile = getMSFilename(fname);
                                     const msUrl = `${pdfBaseUrl}${year}/${msFile}`;
                                     debugLog(`PDF Merge: Using MS file: ${msFile}`);
@@ -931,12 +770,7 @@
                                         });
                                         const msPages = await mergedPdf.copyPages(msPdf, msPdf.getPageIndices());
                                         msPages.forEach((page) => mergedPdf.addPage(page));
-                                        msFound++;
-                                    } else {
-                                        msNotFound++;
                                     }
-                                } else {
-                                    msNotFound++;
                                 }
                             }
                         }
@@ -949,16 +783,10 @@
                     link.href = URL.createObjectURL(blob);
                     link.download = `merged_physics_${new Date().toISOString().slice(0,10)}.pdf`;
                     link.click();
-                    
-                    if (msEnabled) {
-                        showToast(`✅ Merged ${rows.length} files (${msFound} MS found, ${msNotFound} MS missing)`, 'success', 4000);
-                    } else {
-                        showToast(`✅ Merged ${rows.length} files`, 'success', 3000);
-                    }
 
                 } catch (err) {
                     console.error(err);
-                    showToast(`Error merging: ${err.message}`, 'error', 5000);
+                    alert("Error merging:\n" + err.message);
                 } finally {
                     mergeBtn.textContent = originalBtnText;
                     mergeBtn.disabled = false;
@@ -969,7 +797,7 @@
             const zipBtn = document.getElementById('download-zip-btn');
             zipBtn.addEventListener('click', async () => {
                 const rows = Array.from(tableBody.querySelectorAll('tr'));
-                if (rows.length === 0) { showToast("No files to zip.", 'warning', 3000); return; }
+                if (rows.length === 0) { alert("No files to zip."); return; }
                 if (rows.length > 100 && !confirm(`Zipping ${rows.length} files might take a while. Continue?`)) return;
 
                 const originalBtnText = zipBtn.textContent;
@@ -978,9 +806,6 @@
                 try {
                     const zip = new JSZip();
                     const pdfBaseUrl = `https://sialaichai.github.io/physicsprelim/${PDF_FOLDER}/`;
-
-                    let msFound = 0;
-                    let msNotFound = 0;
 
                     for (let i = 0; i < rows.length; i++) {
                         const r = rows[i];
@@ -1004,6 +829,7 @@
                             if (keyParts.length >= 3) {
                                 const lookupKey = `${keyParts[0]}_${keyParts[1]}_${keyParts[2]}`.toLowerCase();
                                 if (msLookup[lookupKey]) {
+                                    // Use the correct MS filename with question number
                                     const msFile = getMSFilename(fname);
                                     const msUrl = `${pdfBaseUrl}${year}/${msFile}`;
                                     debugLog(`ZIP: Using MS file: ${msFile}`);
@@ -1011,12 +837,7 @@
                                     if (msRes.ok) {
                                         const msBlob = await msRes.blob();
                                         zip.file(msFile, msBlob);
-                                        msFound++;
-                                    } else {
-                                        msNotFound++;
                                     }
-                                } else {
-                                    msNotFound++;
                                 }
                             }
                         }
@@ -1030,15 +851,9 @@
                     link.click();
                     URL.revokeObjectURL(link.href);
 
-                    if (msEnabled) {
-                        showToast(`✅ Zipped ${rows.length} files (${msFound} MS found, ${msNotFound} MS missing)`, 'success', 4000);
-                    } else {
-                        showToast(`✅ Zipped ${rows.length} files`, 'success', 3000);
-                    }
-
                 } catch (err) {
                     console.error(err);
-                    showToast(`Error creating zip: ${err.message}`, 'error', 5000);
+                    alert("Error creating zip:\n" + err.message);
                 } finally {
                     zipBtn.textContent = originalBtnText;
                     zipBtn.disabled = false;
@@ -1114,8 +929,6 @@
                     pdfViewer.src = pdfUrl;
                     pdfViewer.style.flex = '1';
                     debugLog(`🖱️ Row clicked: ${r.filename}`);
-                    // Reset notification tracker for new file
-                    lastNotifiedFile = '';
                     // Check MS
                     if (msEnabled) {
                         loadMSFile(r.filename, `${pdfBaseUrl}${r.year}/`);
