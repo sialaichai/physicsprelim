@@ -948,4 +948,23 @@
 {"filename":"2020_JPJC_MCQ_q27.pdf","year":"2020","pcode":"JPJC","paper":"MCQ","question":"q27","mainTopic":"15 Currents","otherTopics":["16 Circuits"]}, 
 {"filename":"2020_JPJC_MCQ_q28.pdf","year":"2020","pcode":"JPJC","paper":"MCQ","question":"q28","mainTopic":"15 Currents","otherTopics":[]}, 
 {"filename":"2020_JPJC_MCQ_q29.pdf","year":"2020","pcode":"JPJC","paper":"MCQ","question":"q29","mainTopic":"19 Quantum Physics","otherTopics":[]}, 
-{"filename":"2020_JPJC_MCQ_q30.pdf","year":"2020","pcode":"JPJC","paper":"MCQ","question":"q30","mainTopic":"19 Quantum Physics","otherTopics":[]}
+{"filename":"2020_JPJC_MCQ_q30.pdf","year":"2020","pcode":"JPJC","paper":"MCQ","question":"q30","mainTopic":"19 Quantum Physics","otherTopics":[]},
+{"filename":"2020_JPJC_P2_q1.pdf","year":"2020","pcode":"JPJC","paper":"P2","question":"q1","mainTopic":"2 Forces and Moments","otherTopics":["4 Energy and Fields"]},
+{“filename”:"2020_JPJC_P2_q2.pdf","year":"2020","pcode":"JPJC","paper":"P2","question":"q2","mainTopic":"7 Circular Motion","otherTopics":[]},
+{“filename”:"2020_JPJC_P2_q3.pdf","year":"2020","pcode":"JPJC","paper":"P2","question":"q3","mainTopic":"9 Oscillations","otherTopics":[]},
+{“filename”:"2020_JPJC_P2_q4.pdf","year":"2020","pcode":"JPJC","paper":"P2","question":"q4","mainTopic":"10 Wave Motion","otherTopics":[]},
+{“filename”:"2020_JPJC_P2_q5.pdf","year":"2020","pcode":"JPJC","paper":"P2","question":"q5","mainTopic":"14 Electric Fields","otherTopics":[]},
+{“filename”:"2020_JPJC_P2_q6.pdf","year":"2020","pcode":"JPJC","paper":"P2","question":"q6","mainTopic":"16 Circuits","otherTopics":["15 Currents"]},
+{“filename”:"2020_JPJC_P2_q7.pdf","year":"2020","pcode":"JPJC","paper":"P2","question":"q7","mainTopic":"18 Electromagnetic Induction","otherTopics":[]},
+{“filename”:"2020_JPJC_P2_q8.pdf","year":"2020","pcode":"JPJC","paper":"P2","question":"q8","mainTopic":"4 Energy and Fields","otherTopics":["3 Motion and Forces"]},
+{“filename”:"2020_JPJC_P3_q1.pdf","year":"2020","pcode":"JPJC","paper":"P3","question":"q1","mainTopic":"3 Motion and Forces","otherTopics":["6 Collisions"]},
+{“filename”:"2020_JPJC_P3_q2.pdf","year":"2020","pcode":"JPJC","paper":"P3","question":"q2","mainTopic":"3 Motion and Forces","otherTopics":[]},
+{“filename”:"2020_JPJC_P3_q3.pdf","year":"2020","pcode":"JPJC","paper":"P3","question":"q3","mainTopic":"13 Thermodynamic Systems","otherTopics":["12 Temperature and Ideal Gases"]},
+{“filename”:"2020_JPJC_P3_q4.pdf","year":"2020","pcode":"JPJC","paper":"P3","question":"q4","mainTopic":"11 Superposition","otherTopics":["10 Wave Motion"]},
+{“filename”:"2020_JPJC_P3_q5.pdf","year":"2020","pcode":"JPJC","paper":"P3","question":"q5","mainTopic":"16 Circuits","otherTopics":["15 Currents"]},
+{“filename”:"2020_JPJC_P3_q6.pdf","year":"2020","pcode":"JPJC","paper":"P3","question":"q6","mainTopic":"17 Electromagnetic Forces","otherTopics":[]},
+{“filename”:"2020_JPJC_P3_q7.pdf","year":"2020","pcode":"JPJC","paper":"P3","question":"q7","mainTopic":"18 Electromagnetic Induction","otherTopics":[]},
+{“filename”:"2020_JPJC_P3_q8.pdf","year":"2020","pcode":"JPJC","paper":"P3","question":"q8","mainTopic":"8 Gravitational Fields","otherTopics":[]},
+{“filename”:"2020_JPJC_P3_q9.pdf","year":"2020","pcode":"JPJC","paper":"P3","question":"q9","mainTopic":"19 Quantum Physics","otherTopics":[]} 
+
+
