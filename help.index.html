@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Physics Viewer - Help Guide</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #f0f2f5;
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            padding: 40px;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 3px solid #007bff;
+            padding-bottom: 15px;
+            margin-bottom: 30px;
+            font-size: 28px;
+        }
+        h2 {
+            color: #2c3e50;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            font-size: 22px;
+            border-left: 4px solid #007bff;
+            padding-left: 12px;
+        }
+        h3 {
+            color: #34495e;
+            margin-top: 20px;
+            margin-bottom: 10px;
+            font-size: 18px;
+        }
+        .feature-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin: 20px 0;
+        }
+        .feature-card {
+            background: #f8f9fa;
+            border: 1px solid #e9ecef;
+            border-radius: 8px;
+            padding: 16px 20px;
+            transition: all 0.2s;
+        }
+        .feature-card:hover {
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            border-color: #007bff;
+        }
+        .feature-card .icon {
+            font-size: 24px;
+            display: block;
+            margin-bottom: 8px;
+        }
+        .feature-card h4 {
+            color: #2c3e50;
+            margin-bottom: 6px;
+        }
+        .feature-card p {
+            font-size: 14px;
+            color: #6c757d;
+            margin: 0;
+        }
+        .badge-example {
+            display: inline-block;
+            padding: 2px 12px;
+            border-radius: 12px;
+            font-size: 12px;
+            font-weight: bold;
+            color: white;
+            margin: 2px 4px;
+        }
+        .badge-1 { background: #28a745; }
+        .badge-2 { background: #17a2b8; }
+        .badge-3 { background: #fd7e14; }
+        .badge-4 { background: #dc3545; }
+        .badge-5 { background: #6f42c1; }
+        .keyboard-shortcut {
+            background: #2c3e50;
+            color: white;
+            padding: 2px 10px;
+            border-radius: 4px;
+            font-family: monospace;
+            font-size: 13px;
+            display: inline-block;
+        }
+        .step-list {
+            padding-left: 20px;
+            margin: 10px 0;
+        }
+        .step-list li {
+            margin-bottom: 8px;
+        }
+        .note-box {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 12px 16px;
+            border-radius: 4px;
+            margin: 15px 0;
+        }
+        .tip-box {
+            background: #d1ecf1;
+            border-left: 4px solid #17a2b8;
+            padding: 12px 16px;
+            border-radius: 4px;
+            margin: 15px 0;
+        }
+        .table-icon {
+            font-size: 18px;
+            vertical-align: middle;
+        }
+        .color-dot {
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            margin-right: 6px;
+            vertical-align: middle;
+        }
+        .dot-1 { background: #28a745; }
+        .dot-2 { background: #17a2b8; }
+        .dot-3 { background: #fd7e14; }
+        .dot-4 { background: #dc3545; }
+        .dot-5 { background: #6f42c1; }
+        .dot-none { background: #dee2e6; }
+        @media (max-width: 768px) {
+            .feature-grid {
+                grid-template-columns: 1fr;
+            }
+            .container {
+                padding: 20px;
+            }
+        }
+        .toc {
+            background: #f8f9fa;
+            padding: 16px 20px;
+            border-radius: 8px;
+            margin-bottom: 25px;
+        }
+        .toc a {
+            color: #007bff;
+            text-decoration: none;
+            margin-right: 15px;
+        }
+        .toc a:hover {
+            text-decoration: underline;
+        }
+        hr {
+            margin: 30px 0;
+            border: none;
+            border-top: 1px solid #e9ecef;
+        }
+        .btn-close {
+            display: inline-block;
+            background: #6c757d;
+            color: white;
+            padding: 10px 24px;
+            border: none;
+            border-radius: 6px;
+            font-size: 16px;
+            cursor: pointer;
+            margin-top: 20px;
+            text-decoration: none;
+            transition: background 0.3s;
+        }
+        .btn-close:hover {
+            background: #5a6268;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📚 Physics Viewer - User Guide</h1>
+        
+        <!-- Table of Contents -->
+        <div class="toc">
+            <strong>Quick Navigation:</strong>
+            <a href="#getting-started">Getting Started</a>
+            <a href="#filters">Filters</a>
+            <a href="#mcq-levels">MCQ Levels</a>
+            <a href="#table-features">Table Features</a>
+            <a href="#export-tools">Export Tools</a>
+            <a href="#mark-schemes">Mark Schemes</a>
+            <a href="#navigation">Navigation</a>
+            <a href="#keyboard-shortcuts">Keyboard Shortcuts</a>
+        </div>
+
+        <!-- ============================================ -->
+        <!-- 1. GETTING STARTED -->
+        <!-- ============================================ -->
+        <h2 id="getting-started">🚀 Getting Started</h2>
+        <p>Welcome to the Physics Viewer! This tool helps you browse, filter, and export physics question papers with ease.</p>
+        
+        <h3>Login</h3>
+        <p>When you first open the page, you'll see a login screen:</p>
+        <ul class="step-list">
+            <li><strong>Enter your password</strong> in the text field</li>
+            <li>Press <kbd>Enter</kbd> or click the <strong>Login</strong> button</li>
+            <li>Your session is saved - you won't need to re-enter the password on subsequent visits</li>
+            <li>If you get locked out, <strong>clear your browser cache</strong> and try again</li>
+        </ul>
+        
+        <div class="tip-box">
+            💡 <strong>Tip:</strong> After logging in, you'll see the main interface with a table of all available papers and a PDF viewer above.
+        </div>
+
+        <!-- ============================================ -->
+        <!-- 2. FILTERS -->
+        <!-- ============================================ -->
+        <h2 id="filters">🔍 Filters</h2>
+        <p>Use the dropdown filters to narrow down the papers you want to see. Each filter allows <strong>multiple selections</strong>.</p>
+        
+        <div class="feature-grid">
+            <div class="feature-card">
+                <span class="icon">📅</span>
+                <h4>Year Filter</h4>
+                <p>Filter papers by year. Select one or multiple years to see papers from those years only.</p>
+            </div>
+            <div class="feature-card">
+                <span class="icon">📄</span>
+                <h4>Paper Filter</h4>
+                <p>Filter by paper type (e.g., P1, P2, P3). Select multiple paper codes.</p>
+            </div>
+            <div class="feature-card">
+                <span class="icon">❓</span>
+                <h4>Question Filter</h4>
+                <p>Filter by question number (e.g., q1, q2, q3). Useful for finding specific questions.</p>
+            </div>
+            <div class="feature-card">
+                <span class="icon">📂</span>
+                <h4>Topic Filter</h4>
+                <p>Filter by main topic. You can also enable <strong>"Other Topics"</strong> to include papers that have the selected topic as a secondary topic.</p>
+            </div>
+        </div>
+
+        <h3>How to Use Filters</h3>
+        <ol class="step-list">
+            <li>Click on a filter button (e.g., <strong>Year</strong>)</li>
+            <li>Check the boxes for the items you want to include</li>
+            <li>Click <strong>Apply</strong> to filter the table</li>
+            <li>The count on the button shows how many items are selected</li>
+            <li>To clear a filter, uncheck all items and click Apply</li>
+        </ol>
+
+        <div class="tip-box">
+            💡 <strong>Tip:</strong> You can combine multiple filters at once (e.g., Year + Topic + Level) to narrow down results precisely.
+        </div>
+
+        <!-- ============================================ -->
+        <!-- 3. MCQ LEVELS -->
+        <!-- ============================================ -->
+        <h2 id="mcq-levels">🎯 MCQ Levels</h2>
+        <p>The system automatically detects MCQ questions and assigns difficulty levels based on a separate <code>MCQ.json</code> file.</p>
+
+        <h3>Level Definitions</h3>
+        <div class="feature-grid">
+            <div class="feature-card">
+                <span class="badge-example badge-1">L1</span>
+                <h4>Level 1 - Recall</h4>
+                <p>Basic recall of facts, definitions, and simple concepts.</p>
+            </div>
+            <div class="feature-card">
+                <span class="badge-example badge-2">L2</span>
+                <h4>Level 2 - Comprehension</h4>
+                <p>Understanding and interpreting information.</p>
+            </div>
+            <div class="feature-card">
+                <span class="badge-example badge-3">L3</span>
+                <h4>Level 3 - Application</h4>
+                <p>Applying knowledge to new situations.</p>
+            </div>
+            <div class="feature-card">
+                <span class="badge-example badge-4">L4</span>
+                <h4>Level 4 - Analysis</h4>
+                <p>Breaking down complex problems and analyzing components.</p>
+            </div>
+            <div class="feature-card">
+                <span class="badge-example badge-5">L5</span>
+                <h4>Level 5 - Mastery/Synthesis</h4>
+                <p>Combining concepts and solving complex, multi-step problems.</p>
+            </div>
+        </div>
+
+        <h3>Using the Level Filter</h3>
+        <ul class="step-list">
+            <li>Click the <strong>Level</strong> filter button</li>
+            <li>Check one or more levels (e.g., L1, L2, L3)</li>
+            <li>Click <strong>Apply</strong> to show only questions at those levels</li>
+            <li>Only files with assigned levels will appear when filtering</li>
+        </ul>
+
+        <h3>Visual Indicators</h3>
+        <ul class="step-list">
+            <li>📌 <strong>Color-coded badges</strong> appear next to filenames for MCQ questions</li>
+            <li><span class="color-dot dot-1"></span> Level 1 - Green</li>
+            <li><span class="color-dot dot-2"></span> Level 2 - Blue</li>
+            <li><span class="color-dot dot-3"></span> Level 3 - Orange</li>
+            <li><span class="color-dot dot-4"></span> Level 4 - Red</li>
+            <li><span class="color-dot dot-5"></span> Level 5 - Purple</li>
+            <li>💡 <strong>Row background colors</strong> also match the level for quick visual scanning</li>
+            <li>Non-MCQ questions show no badge and have a standard row color</li>
+        </ul>
+
+        <div class="note-box">
+            ⚠️ <strong>Note:</strong> MCQ levels are loaded in the background. If you don't see levels immediately, wait a few seconds. The app will show a toast notification when levels are loaded.
+        </div>
+
+        <!-- ============================================ -->
+        <!-- 4. TABLE FEATURES -->
+        <!-- ============================================ -->
+        <h2 id="table-features">📊 Table Features</h2>
+        
+        <div class="feature-grid">
+            <div class="feature-card">
+                <span class="icon">☑️</span>
+                <h4>Row Selection Checkboxes</h4>
+                <p>Each row has a checkbox. Use the <strong>"Select All"</strong> checkbox in the header to toggle all rows. Uncheck individual rows to exclude them from exports.</p>
+            </div>
+            <div class="feature-card">
+                <span class="icon">🔽</span>
+                <h4>Sortable Columns</h4>
+                <p>Click any column header to sort by that column. Click again to reverse the sort order (ascending/descending).</p>
+            </div>
+            <div class="feature-card">
+                <span class="icon">🖱️</span>
+                <h4>Click to View PDF</h4>
+                <p>Click on any row to load the corresponding PDF in the viewer above. The viewer will display the full paper.</p>
+            </div>
+            <div class="feature-card">
+                <span class="icon">📈</span>
+                <h4>File Counter</h4>
+                <p>The top-right shows how many files are currently displayed in the table. If more than 500 files, it shows "Top 500/X" to indicate the display limit.</p>
+            </div>
+        </div>
+
+        <h3>Display Limit</h3>
+        <p>For performance reasons, the table only displays the first <strong>500 files</strong>. However:</p>
+        <ul class="step-list">
+            <li>✅ All filters apply to the <strong>full dataset</strong> (not just the 500 displayed)</li>
+            <li>✅ Exports (HTML, PDFs, ZIP) include <strong>all filtered files</strong> (not just the 500 displayed)</li>
+            <li>✅ The file counter shows the total filtered count</li>
+        </ul>
+
+        <!-- ============================================ -->
+        <!-- 5. EXPORT TOOLS -->
+        <!-- ============================================ -->
+        <h2 id="export-tools">📦 Export Tools</h2>
+        <p>All export tools are located in the <strong>⬇️ dropdown menu</strong> next to the MS toggle.</p>
+
+        <div class="feature-grid">
+            <div class="feature-card">
+                <span class="icon">📄</span>
+                <h4>HTML Report</h4>
+                <p>Generates an HTML page with embedded PDFs of all <strong>selected</strong> files. Great for offline viewing or sharing with students.</p>
+                <p><small>⚠️ Limit: 100 files recommended for browser stability.</small></p>
+            </div>
+            <div class="feature-card">
+                <span class="icon">📑</span>
+                <h4>PDF Merge</h4>
+                <p>Merges all <strong>selected</strong> PDFs into a single PDF file. Each file starts with a banner page showing the filename.</p>
+                <p><small>⚠️ Limit: 50 files recommended for memory stability.</small></p>
+            </div>
+            <div class="feature-card">
+                <span class="icon">📦</span>
+                <h4>ZIP Download</h4>
+                <p>Downloads all <strong>selected</strong> PDFs as a ZIP file. The original filenames are preserved.</p>
+                <p><small>⚠️ Limit: 100 files recommended for browser stability.</small></p>
+            </div>
+        </div>
+
+        <h3>How Exports Work</h3>
+        <ol class="step-list">
+            <li><strong>Select files</strong> using the checkboxes (all are selected by default)</li>
+            <li>Uncheck any files you <strong>don't</strong> want to include</li>
+            <li>Click the <strong>⬇️</strong> dropdown to open the tools menu</li>
+            <li>Choose <strong>HTML</strong>, <strong>PDFs</strong>, or <strong>ZIP</strong></li>
+            <li>Only the <strong>checked files</strong> will be processed</li>
+            <li>The file will download automatically</li>
+        </ol>
+
+        <div class="tip-box">
+            💡 <strong>Tip:</strong> Use the checkboxes to create custom selections. For example, select only Level 4 and Level 5 questions, or only questions from a specific year, then export them.
+        </div>
+
+        <!-- ============================================ -->
+        <!-- 6. MARK SCHEMES -->
+        <!-- ============================================ -->
+        <h2 id="mark-schemes">📝 Mark Schemes (MS)</h2>
+        <p>The app automatically detects mark scheme files if they follow the naming convention.</p>
+
+        <h3>How It Works</h3>
+        <ul class="step-list">
+            <li>Toggle the <strong>MS</strong> switch to enable mark scheme viewing</li>
+            <li>When you click a row, the app will try to load <code>filename_ms.pdf</code> in the same folder</li>
+            <li>If found, the mark scheme appears <strong>side-by-side</strong> with the question paper</li>
+            <li>If not found, you'll see a notification that the mark scheme isn't available</li>
+        </ul>
+
+        <div class="note-box">
+            📌 <strong>Important:</strong> Mark schemes are <strong>not</strong> automatically included in exports. The MS toggle only affects the viewer display.
+        </div>
+
+        <!-- ============================================ -->
+        <!-- 7. NAVIGATION -->
+        <!-- ============================================ -->
+        <h2 id="navigation">🧭 Navigation</h2>
+        <p>The <strong>Goto</strong> dropdown in the top-right corner lets you switch between different paper collections:</p>
+        <ul class="step-list">
+            <li><strong>9702</strong> - Cambridge A-Level Physics papers</li>
+            <li><strong>SEAB</strong> - Singapore SEAB papers</li>
+            <li><strong>Prelim</strong> - Preliminary exam papers</li>
+            <li><strong>Data</strong> - Additional data resources</li>
+        </ul>
+
+        <!-- ============================================ -->
+        <!-- 8. KEYBOARD SHORTCUTS -->
+        <!-- ============================================ -->
+        <h2 id="keyboard-shortcuts">⌨️ Keyboard Shortcuts</h2>
+        <ul class="step-list">
+            <li><span class="keyboard-shortcut">Ctrl+Shift+D</span> - Toggle the Debug Console</li>
+            <li><span class="keyboard-shortcut">Enter</span> - Submit login password</li>
+        </ul>
+
+        <!-- ============================================ -->
+        <!-- 9. TROUBLESHOOTING -->
+        <!-- ============================================ -->
+        <h2 id="troubleshooting">🔧 Troubleshooting</h2>
+
+        <div class="feature-grid">
+            <div class="feature-card">
+                <span class="icon">🔄</span>
+                <h4>Login Not Working</h4>
+                <p>Clear your browser cache and try again. The session might have expired.</p>
+            </div>
+            <div class="feature-card">
+                <span class="icon">📂</span>
+                <h4>No Levels Showing</h4>
+                <p>MCQ.json loads in the background. Wait a few seconds. Check the debug console (<kbd>Ctrl+Shift+D</kbd>) to see if it loaded.</p>
+            </div>
+            <div class="feature-card">
+                <span class="icon">📄</span>
+                <h4>PDF Not Loading</h4>
+                <p>Make sure the PDF exists in the folder. The app tries to load from <code>/pdfs/&lt;year&gt;/&lt;filename&gt;</code>.</p>
+            </div>
+            <div class="feature-card">
+                <span class="icon">💾</span>
+                <h4>Export Fails</h4>
+                <p>Too many files selected? Try reducing the selection. The app has limits to prevent browser crashes.</p>
+            </div>
+        </div>
+
+        <!-- ============================================ -->
+        <!-- 10. SUMMARY -->
+        <!-- ============================================ -->
+        <hr>
+        <h2>✨ Quick Reference</h2>
+        <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px; margin: 15px 0;">
+            <div style="background: #e8f5e9; padding: 12px; border-radius: 8px; text-align: center;">
+                <strong>🔍 Filters</strong>
+                <p style="font-size: 13px; margin: 5px 0 0;">Year • Paper • Qn • Topic • Level</p>
+            </div>
+            <div style="background: #e3f2fd; padding: 12px; border-radius: 8px; text-align: center;">
+                <strong>📦 Exports</strong>
+                <p style="font-size: 13px; margin: 5px 0 0;">HTML • PDFs • ZIP</p>
+            </div>
+            <div style="background: #fce4ec; padding: 12px; border-radius: 8px; text-align: center;">
+                <strong>🎯 MCQ Levels</strong>
+                <p style="font-size: 13px; margin: 5px 0 0;">L1 • L2 • L3 • L4 • L5</p>
+            </div>
+        </div>
+
+        <div style="text-align: center; margin-top: 30px;">
+            <a href="#" onclick="window.close(); return false;" class="btn-close">✕ Close Help</a>
+        </div>
+    </div>
+</body>
+</html>
