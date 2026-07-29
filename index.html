@@ -636,6 +636,15 @@
         }
     });
 
+
+    // Help button handler
+    document.getElementById('help-btn').addEventListener('click', function() {
+        // Open help in a new window
+        window.open('help.html', 'PhysicsViewerHelp', 
+            'width=1024,height=768,scrollbars=yes,resizable=yes'
+        );
+    });
+        
     // Close button for debug console
     if (debugClose) {
         debugClose.addEventListener('click', () => {
@@ -1628,13 +1637,7 @@
         };
     }
 
-            // Help button handler
-    document.getElementById('help-btn').addEventListener('click', function() {
-        // Open help in a new window
-        window.open('help.html', 'PhysicsViewerHelp', 
-            'width=1024,height=768,scrollbars=yes,resizable=yes'
-        );
-    });
+
     </script>
 </body>
 </html>
