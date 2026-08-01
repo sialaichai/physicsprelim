@@ -1,0 +1,673 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Manager - Generate users.enc</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #f0f2f5;
+            padding: 20px;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+        }
+        .container {
+            max-width: 900px;
+            width: 100%;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            padding: 30px;
+            margin: 20px 0;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 3px solid #007bff;
+            padding-bottom: 12px;
+            margin-bottom: 20px;
+            font-size: 24px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .subtitle {
+            color: #6c757d;
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+        .warning {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 12px 16px;
+            border-radius: 4px;
+            margin-bottom: 20px;
+            font-size: 14px;
+        }
+        .warning strong {
+            color: #856404;
+        }
+        .form-group {
+            margin-bottom: 16px;
+        }
+        .form-group label {
+            display: block;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 4px;
+            font-size: 14px;
+        }
+        .form-group input,
+        .form-group textarea {
+            width: 100%;
+            padding: 10px 12px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            font-size: 14px;
+            font-family: inherit;
+            transition: border-color 0.3s;
+        }
+        .form-group input:focus,
+        .form-group textarea:focus {
+            outline: none;
+            border-color: #007bff;
+            box-shadow: 0 0 0 3px rgba(0,123,255,0.1);
+        }
+        .form-group textarea {
+            min-height: 120px;
+            font-family: 'Courier New', monospace;
+            font-size: 13px;
+            resize: vertical;
+        }
+        .form-group .hint {
+            font-size: 12px;
+            color: #888;
+            margin-top: 4px;
+        }
+        .btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 6px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .btn-primary {
+            background: #007bff;
+            color: white;
+        }
+        .btn-primary:hover {
+            background: #0056b3;
+            transform: translateY(-1px);
+            box-shadow: 0 2px 8px rgba(0,123,255,0.3);
+        }
+        .btn-success {
+            background: #28a745;
+            color: white;
+        }
+        .btn-success:hover {
+            background: #218838;
+            transform: translateY(-1px);
+            box-shadow: 0 2px 8px rgba(40,167,69,0.3);
+        }
+        .btn-danger {
+            background: #dc3545;
+            color: white;
+        }
+        .btn-danger:hover {
+            background: #c82333;
+        }
+        .btn-secondary {
+            background: #6c757d;
+            color: white;
+        }
+        .btn-secondary:hover {
+            background: #5a6268;
+        }
+        .btn-group {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-top: 16px;
+        }
+        .user-list {
+            margin-top: 20px;
+        }
+        .user-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 14px;
+        }
+        .user-table th {
+            background: #f8f9fa;
+            text-align: left;
+            padding: 8px 12px;
+            border-bottom: 2px solid #dee2e6;
+        }
+        .user-table td {
+            padding: 8px 12px;
+            border-bottom: 1px solid #e9ecef;
+            vertical-align: middle;
+        }
+        .user-table tr:hover td {
+            background: #f8f9fa;
+        }
+        .user-table .username {
+            font-weight: 600;
+            color: #2c3e50;
+            font-family: 'Courier New', monospace;
+        }
+        .user-table .role-badge {
+            display: inline-block;
+            padding: 2px 10px;
+            border-radius: 12px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+        .role-admin {
+            background: #cce5ff;
+            color: #004085;
+        }
+        .role-user {
+            background: #d4edda;
+            color: #155724;
+        }
+        .btn-sm {
+            padding: 4px 10px;
+            font-size: 12px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .btn-sm-danger {
+            background: #dc3545;
+            color: white;
+        }
+        .btn-sm-danger:hover {
+            background: #c82333;
+        }
+        .output-section {
+            margin-top: 20px;
+            border-top: 2px solid #e9ecef;
+            padding-top: 20px;
+            display: none;
+        }
+        .output-section.show {
+            display: block;
+        }
+        .output-box {
+            background: #2d2d2d;
+            color: #f8f9fa;
+            padding: 16px;
+            border-radius: 6px;
+            font-family: 'Courier New', monospace;
+            font-size: 13px;
+            word-break: break-all;
+            white-space: pre-wrap;
+            max-height: 300px;
+            overflow-y: auto;
+            margin: 10px 0;
+            position: relative;
+        }
+        .output-box .copy-btn {
+            position: absolute;
+            top: 8px;
+            right: 8px;
+            background: rgba(255,255,255,0.1);
+            color: white;
+            border: 1px solid rgba(255,255,255,0.2);
+            padding: 4px 12px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 12px;
+        }
+        .output-box .copy-btn:hover {
+            background: rgba(255,255,255,0.2);
+        }
+        .status-msg {
+            padding: 10px 14px;
+            border-radius: 4px;
+            margin: 10px 0;
+            font-size: 14px;
+            display: none;
+        }
+        .status-msg.success {
+            display: block;
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        .status-msg.error {
+            display: block;
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+        .empty-state {
+            text-align: center;
+            padding: 30px;
+            color: #6c757d;
+        }
+        .empty-state .icon {
+            font-size: 48px;
+            margin-bottom: 10px;
+        }
+        .checkbox-group {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin: 8px 0;
+        }
+        .checkbox-group input {
+            width: 18px;
+            height: 18px;
+        }
+        .checkbox-group label {
+            font-weight: normal;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        .email-badge {
+            background: #e9ecef;
+            color: #495057;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 11px;
+            margin-left: 6px;
+        }
+        @media (max-width: 600px) {
+            .container {
+                padding: 16px;
+            }
+            .btn-group {
+                flex-direction: column;
+            }
+            .btn-group .btn {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔐 User Manager</h1>
+        <p class="subtitle">Generate encrypted <code>users.enc</code> file for multi-user authentication</p>
+        
+        <div class="warning">
+            <strong>⚠️ Important:</strong> The master password must match the one used to encrypt <code>payload.enc</code>. 
+            Keep this password secure! Never share it with users.
+        </div>
+
+        <!-- Master Password -->
+        <div class="form-group">
+            <label for="master-password">🔑 Master Password</label>
+            <input type="password" id="master-password" placeholder="Enter the master password (same as payload.enc)" />
+            <div class="hint">This password decrypts both <code>payload.enc</code> and <code>users.enc</code></div>
+        </div>
+
+        <!-- Add User Form -->
+        <div style="background: #f8f9fa; padding: 16px; border-radius: 8px; margin-bottom: 16px;">
+            <h3 style="margin-bottom: 12px; font-size: 16px;">➕ Add User</h3>
+            <div style="display: grid; grid-template-columns: 1fr 1fr 1fr auto; gap: 10px; align-items: end;">
+                <div class="form-group" style="margin-bottom: 0;">
+                    <label for="new-username">Username or Email</label>
+                    <input type="text" id="new-username" placeholder="e.g., teacher@school.edu" />
+                    <div class="hint">Email addresses (with @) are fully supported</div>
+                </div>
+                <div class="form-group" style="margin-bottom: 0;">
+                    <label for="new-password">Password</label>
+                    <input type="text" id="new-password" placeholder="e.g., securepass123" />
+                </div>
+                <div class="form-group" style="margin-bottom: 0;">
+                    <label for="new-role">Role</label>
+                    <select id="new-role" style="width:100%; padding:10px 12px; border:1px solid #ccc; border-radius:6px; font-size:14px;">
+                        <option value="user">User</option>
+                        <option value="admin">Admin</option>
+                    </select>
+                </div>
+                <div>
+                    <button class="btn btn-primary" onclick="addUser()" style="margin-top: 0;">Add User</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- User List -->
+        <div class="user-list">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+                <h3 style="font-size: 16px;">👥 Users (<span id="user-count">0</span>)</h3>
+                <div>
+                    <button class="btn btn-sm btn-secondary" onclick="loadExampleUsers()">Load Example</button>
+                    <button class="btn btn-sm btn-danger" onclick="clearUsers()">Clear All</button>
+                </div>
+            </div>
+            <div id="user-table-container">
+                <div class="empty-state">
+                    <div class="icon">👤</div>
+                    <p>No users added yet. Add users above or load example users.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Generate Button -->
+        <div class="btn-group">
+            <button class="btn btn-success" onclick="generateUsersEnc()" style="flex:1;">
+                🔒 Generate users.enc
+            </button>
+            <button class="btn btn-secondary" onclick="downloadUsersEnc()" id="download-btn" style="flex:1; display:none;">
+                💾 Download users.enc
+            </button>
+        </div>
+
+        <!-- Status Message -->
+        <div id="status-msg" class="status-msg"></div>
+
+        <!-- Output Section -->
+        <div id="output-section" class="output-section">
+            <h3 style="font-size: 16px; margin-bottom: 8px;">📄 Generated users.enc</h3>
+            <div class="output-box" id="output-content">
+                <button class="copy-btn" onclick="copyOutput()">📋 Copy</button>
+                <span id="output-text">Waiting for generation...</span>
+            </div>
+            <div class="checkbox-group">
+                <input type="checkbox" id="show-preview" />
+                <label for="show-preview">Show decrypted preview (for verification)</label>
+            </div>
+            <div id="preview-container" style="display:none; margin-top:10px;">
+                <div style="background: #f8f9fa; padding: 12px; border-radius: 6px; font-family: monospace; font-size: 13px; white-space: pre-wrap; max-height: 200px; overflow-y: auto;" id="preview-content"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // =============================================
+        // User Management
+        // =============================================
+        let users = [];
+
+        function addUser() {
+            const username = document.getElementById('new-username').value.trim();
+            const password = document.getElementById('new-password').value.trim();
+            const role = document.getElementById('new-role').value;
+
+            if (!username) {
+                showStatus('Please enter a username or email.', 'error');
+                return;
+            }
+            
+            // Detect if this is an email address
+            const isEmail = username.includes('@');
+            if (isEmail) {
+                const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+                if (!emailRegex.test(username)) {
+                    showStatus('Please enter a valid email address.', 'error');
+                    return;
+                }
+                showStatus(`📧 Email username: ${username}`, 'success');
+            }
+            
+            if (!password) {
+                showStatus('Please enter a password.', 'error');
+                return;
+            }
+            
+            if (users.find(u => u.username === username)) {
+                showStatus(`User "${username}" already exists.`, 'error');
+                return;
+            }
+
+            users.push({ username, password, role });
+            document.getElementById('new-username').value = '';
+            document.getElementById('new-password').value = '';
+            renderUsers();
+            showStatus(`User "${username}" added successfully!`, 'success');
+        }
+
+        function removeUser(username) {
+            if (confirm(`Remove user "${username}"?`)) {
+                users = users.filter(u => u.username !== username);
+                renderUsers();
+                showStatus(`User "${username}" removed.`, 'success');
+            }
+        }
+
+        function clearUsers() {
+            if (users.length === 0) return;
+            if (confirm('Remove all users?')) {
+                users = [];
+                renderUsers();
+                showStatus('All users cleared.', 'success');
+            }
+        }
+
+        function loadExampleUsers() {
+            users = [
+                { username: 'admin', password: 'admin123', role: 'admin' },
+                { username: 'teacher1', password: 'teacher123', role: 'admin' },
+                { username: 'teacher2@school.edu', password: 'teacher456', role: 'admin' },
+                { username: 'student1', password: 'student123', role: 'user' },
+                { username: 'student2@school.edu', password: 'student456', role: 'user' },
+                { username: 'student3', password: 'student789', role: 'user' }
+            ];
+            renderUsers();
+            showStatus('Example users loaded! Change passwords before using.', 'success');
+        }
+
+        function renderUsers() {
+            const container = document.getElementById('user-table-container');
+            const count = document.getElementById('user-count');
+            count.textContent = users.length;
+
+            if (users.length === 0) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <div class="icon">👤</div>
+                        <p>No users added yet. Add users above or load example users.</p>
+                    </div>
+                `;
+                return;
+            }
+
+            let html = `
+                <table class="user-table">
+                    <thead>
+                        <tr>
+                            <th>Username / Email</th>
+                            <th>Password</th>
+                            <th>Role</th>
+                            <th style="text-align:center;">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+            `;
+
+            users.forEach(u => {
+                const roleBadge = u.role === 'admin' ? 'role-admin' : 'role-user';
+                const roleLabel = u.role === 'admin' ? 'Admin' : 'User';
+                const emailBadge = u.username.includes('@') ? '<span class="email-badge">📧 Email</span>' : '';
+                html += `
+                    <tr>
+                        <td class="username">${escapeHtml(u.username)} ${emailBadge}</td>
+                        <td>${'•'.repeat(Math.min(u.password.length, 10))}</td>
+                        <td><span class="role-badge ${roleBadge}">${roleLabel}</span></td>
+                        <td style="text-align:center;">
+                            <button class="btn-sm btn-sm-danger" onclick="removeUser('${escapeHtml(u.username)}')">✕</button>
+                        </td>
+                    </tr>
+                `;
+            });
+
+            html += `</tbody></table>`;
+            container.innerHTML = html;
+        }
+
+        function escapeHtml(str) {
+            const div = document.createElement('div');
+            div.textContent = str;
+            return div.innerHTML;
+        }
+
+        // =============================================
+        // Generate users.enc
+        // =============================================
+        function generateUsersEnc() {
+            const masterPassword = document.getElementById('master-password').value.trim();
+            const outputSection = document.getElementById('output-section');
+            const outputText = document.getElementById('output-text');
+            const downloadBtn = document.getElementById('download-btn');
+
+            if (!masterPassword) {
+                showStatus('Please enter the master password.', 'error');
+                return;
+            }
+
+            if (users.length === 0) {
+                showStatus('Please add at least one user.', 'error');
+                return;
+            }
+
+            try {
+                const userData = { users: {} };
+                users.forEach(u => {
+                    userData.users[u.username] = {
+                        password: u.password,
+                        role: u.role,
+                        name: u.username
+                    };
+                });
+
+                const jsonStr = JSON.stringify(userData);
+                const encrypted = CryptoJS.AES.encrypt(jsonStr, masterPassword).toString();
+
+                outputText.textContent = encrypted;
+                outputSection.classList.add('show');
+                downloadBtn.style.display = 'inline-block';
+
+                window._usersEncContent = encrypted;
+                window._lastDecrypted = jsonStr;
+
+                const previewCheck = document.getElementById('show-preview');
+                if (previewCheck.checked) {
+                    showPreview(jsonStr);
+                }
+
+                showStatus(`✅ users.enc generated successfully with ${users.length} users!`, 'success');
+            } catch (e) {
+                showStatus('Error generating users.enc: ' + e.message, 'error');
+            }
+        }
+
+        function showPreview(decryptedJson) {
+            const container = document.getElementById('preview-container');
+            const content = document.getElementById('preview-content');
+            container.style.display = 'block';
+            try {
+                const parsed = JSON.parse(decryptedJson);
+                content.textContent = JSON.stringify(parsed, null, 2);
+            } catch (e) {
+                content.textContent = decryptedJson;
+            }
+        }
+
+        document.getElementById('show-preview').addEventListener('change', function() {
+            const container = document.getElementById('preview-container');
+            if (this.checked && window._lastDecrypted) {
+                showPreview(window._lastDecrypted);
+            } else {
+                container.style.display = 'none';
+            }
+        });
+
+        // =============================================
+        // Download users.enc
+        // =============================================
+        function downloadUsersEnc() {
+            if (!window._usersEncContent) {
+                showStatus('Please generate users.enc first.', 'error');
+                return;
+            }
+
+            const blob = new Blob([window._usersEncContent], { type: 'text/plain' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'users.enc';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+
+            showStatus('✅ users.enc downloaded!', 'success');
+        }
+
+        // =============================================
+        // Copy Output
+        // =============================================
+        function copyOutput() {
+            const text = document.getElementById('output-text').textContent;
+            if (!text || text === 'Waiting for generation...') {
+                showStatus('Nothing to copy. Generate users.enc first.', 'error');
+                return;
+            }
+
+            navigator.clipboard.writeText(text).then(() => {
+                showStatus('✅ Copied to clipboard!', 'success');
+            }).catch(() => {
+                const textarea = document.createElement('textarea');
+                textarea.value = text;
+                document.body.appendChild(textarea);
+                textarea.select();
+                document.execCommand('copy');
+                document.body.removeChild(textarea);
+                showStatus('✅ Copied to clipboard!', 'success');
+            });
+        }
+
+        // =============================================
+        // Status Messages
+        // =============================================
+        function showStatus(message, type = 'info') {
+            const el = document.getElementById('status-msg');
+            el.textContent = message;
+            el.className = 'status-msg ' + type;
+            el.style.display = 'block';
+
+            if (type === 'success') {
+                clearTimeout(window._statusTimeout);
+                window._statusTimeout = setTimeout(() => {
+                    el.style.display = 'none';
+                }, 5000);
+            }
+        }
+
+        // =============================================
+        // Keyboard shortcuts
+        // =============================================
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter' && e.target.id === 'new-password') {
+                addUser();
+            }
+            if (e.key === 'Enter' && e.target.id === 'new-username') {
+                document.getElementById('new-password').focus();
+            }
+            if (e.ctrlKey && e.key === 'Enter') {
+                generateUsersEnc();
+            }
+        });
+
+        // =============================================
+        // Initial render
+        // =============================================
+        renderUsers();
+        showStatus('👋 Welcome! Add users or load examples to get started. Email addresses with @ are supported.', 'info');
+    </script>
+</body>
+</html>
