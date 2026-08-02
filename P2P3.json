@@ -5585,5 +5585,1140 @@
     "total_marks": 9,
     "weighted_sum": 31,
     "overall_difficulty": 3.44
+  },
+  {
+    "filename": "2025_VJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how the tail vane works", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Prove P = ½ρAv³ for wind power", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "State power produced at 6.0 m s⁻¹", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Calculate efficiency of windmill", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Suggest one reason for loss in efficiency", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(i)1", "description": "State hub height of typical wind turbine", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(i)2", "description": "Estimate moments acting on turbine", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(i)3", "description": "Suggest why modern turbines have only 3 blades", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "Explain how increase in hub height and rotor diameter improves energy production", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(f)(i)", "description": "Calculate speed at tip of blade", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(f)(ii)", "description": "Suggest why this rate of rotation is undesirable", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(g)", "description": "Explain need for gearbox using electromagnetic induction", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 22,
+    "weighted_sum": 69,
+    "overall_difficulty": 3.14
+  },
+  {
+    "filename": "2025_TMJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine ratio of kinetic energies with and without resistive force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate efficiency of energy transfer to spring", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Suggest two reasons why efficiency is not 100%", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 16,
+    "overall_difficulty": 2.67
+  },
+  {
+    "filename": "2025_RVHS_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why kinetic energy reaches constant value", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Derive expression for kinetic energy with assumptions","level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 20,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2025_RI_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate mechanical power required for ski lift", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(ii)", "description": "Suggest reason why answer is underestimation", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show normal contact force is 730 N", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine friction acting on skier", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine acceleration of skier", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Determine friction on new slope", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Determine ski angle α from graph", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(iii)", "description": "State how skier can increase speed", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(i)", "description": "Determine centripetal force", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)(ii)", "description": "Explain why larger edge angle required for higher centripetal force", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 63,
+    "overall_difficulty": 3.15
+  },
+  {
+    "filename": "2025_EJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by angular velocity", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate minimum speed at top of loop", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate spring constant needed", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Calculate average resistive force", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 23,
+    "overall_difficulty": 2.56
+  },
+  {
+    "filename": "2025_ASRJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate elastic potential energy in spring", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate speed of ball as it leaves spring", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "State and explain effect of spring mass on speed", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 23,
+    "overall_difficulty": 3.29
+  },
+  {
+    "filename": "2024_VJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Sketch PE and KE vs distance graphs", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Sketch KE with friction and explain", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 20,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2024_RVHS_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show mass of ball is 0.029 kg using energy conservation", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Explain why speed continues to increase after hitting spring", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)", "description": "Determine maximum kinetic energy", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.56
+  },
+  {
+    "filename": "2024_RI_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate maximum distance s₀ from bottom of slope", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Sketch KE and PE vs distance graphs", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Show speed at top of slope is 10.8 m s⁻¹", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate horizontal distance after leaving slope", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25
+  },
+  {
+    "filename": "2024_HCI_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State propulsive power required", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Determine propulsive force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Calculate effective drag area CDA", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Calculate slope resistance", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)1", "description": "Determine work done against gravity", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)2", "description": "Calculate new propulsive power", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Determine magnitude of deceleration", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Show N₁ = 0.80W", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "Determine ratio of deceleration contributed by front wheel", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(iv)", "description": "Explain why cyclist flips forward", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 22,
+    "weighted_sum": 81,
+    "overall_difficulty": 3.68
+  },
+  {
+    "filename": "2024_ASRJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show spring obeys Hooke's law from graph", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Determine elastic potential energy stored", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate speed v of cart", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 14,
+    "overall_difficulty": 2.80
+  },
+  {
+    "filename": "2023_YIJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Suggest two reasons for discrepancy in workforce estimate", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "State principle of conservation of energy", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "Draw free-body diagram of limestone block", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Determine friction on limestone", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Show force needed is 2.0×10⁴ N", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(v)", "description": "Suggest how vertical posts make dragging easier", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Determine work done dragging all blocks", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Estimate number of people needed", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 41,
+    "overall_difficulty": 2.93
+  },
+  {
+    "filename": "2023_YIJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by work done", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Determine displacement of lift", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine work done by motor", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(iii)", "description": "Determine input power to motor", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2023_TMJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by a field of force", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "State similarity and difference between gravitational and electric fields", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Explain why P is closer to Moon than Earth", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Show distance from Moon to P is 3.79×10⁷ m", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(iii)", "description": "Determine minimum projection speed", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(i)", "description": "State and explain which charge is negative", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Estimate magnitude of force at x=3.0 cm", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(iii)", "description": "Sketch new graph with increased Q", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 19,
+    "weighted_sum": 57,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2023_TJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define gravitational potential energy and elastic potential energy", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate change in gravitational potential energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate change in elastic potential energy", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Show initial compression is 1.25 cm", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(i)", "description": "Explain what is meant by head-on and elastic", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(d)(ii)", "description": "Write equation relating velocities", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(iii)", "description": "Determine ratio of speeds v₁/u₁", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 40,
+    "overall_difficulty": 2.86
+  },
+  {
+    "filename": "2023_TJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define work done by a force", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate distance PQ", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Sketch work done vs x graph", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Sketch power vs x graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.38
+  },
+  {
+    "filename": "2023_RVHS_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Describe conversion of energy as mass travels up slope", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Write down gain in GPE in terms of m", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate proportion of energy lost due to friction", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 16,
+    "overall_difficulty": 2.67
+  },
+  {
+    "filename": "2023_NYJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate change in gravitational potential energy", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Determine speed at t=16 s from graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate change in kinetic energy", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)", "description": "Explain why ΔEp and ΔEk are not equal", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(e)", "description": "Determine average resistive force", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 23,
+    "overall_difficulty": 2.88
+  },
+  {
+    "filename": "2023_NJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Fill up missing energies in table", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Show unstretched length is 10 m", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Determine extension for maximum kinetic energy", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 29,
+    "overall_difficulty": 3.63
+  },
+  {
+    "filename": "2023_DHS_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate loss in gravitational potential energy", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Calculate initial kinetic energy", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Explain why weight of diving board produces no moments", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Show angle θ is 13.4°", "level": 5, "marks": 4, "weighted_score": 20},
+      {"part": "(c)(iii)", "description": "Calculate force exerted by spring", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iv)", "description": "Calculate normal contact force at pivot", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.90
+  },
+  {
+    "filename": "2023_DHS_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Suggest why manufacturer specifies nominal output power", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Suggest why report can be misleading", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Determine minimum height of tip", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)1", "description": "Give maximum power output", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)2", "description": "Give wind speed for maximum power", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)1", "description": "Calculate incident wind power", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)2", "description": "Calculate overall efficiency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Calculate power of wind after passing rotor", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iv)1", "description": "Determine cut-out speed", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(iv)2", "description": "Suggest reason for cut-out speed", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(i)", "description": "State whether generator produces AC or DC", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)(ii)", "description": "Calculate nominal current", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(i)", "description": "Suggest which part is most likely struck by lightning", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(e)(ii)", "description": "Suggest how risk of damage is minimised", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 48,
+    "overall_difficulty": 2.40
+  },
+  {
+    "filename": "2022_YIJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate speed u", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Sketch speed vs time graph", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)", "description": "State how Newton's third law applies", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)(i)", "description": "Calculate change in momentum", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(ii)", "description": "Calculate average force by ground", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(e)", "description": "Explain variation of gradient with air resistance", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 35,
+    "overall_difficulty": 2.92
+  },
+  {
+    "filename": "2022_VJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate extension of elastic cord", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Determine length of unstretched cord", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)", "description": "Sketch K, G, E vs displacement graphs", "level": 5, "marks": 4, "weighted_score": 20},
+      {"part": "(d)", "description": "Discuss whether work is done by tension", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.80
+  },
+  {
+    "filename": "2022_TJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate total resistive force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Determine initial acceleration", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Explain how acceleration varies over time", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 20,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2022_SAJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate maximum compression of spring", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)1", "description": "Show compression is 0.037 m", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)2", "description": "Determine maximum kinetic energy", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Sketch KE, GPE, EPE vs position", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 41,
+    "overall_difficulty": 4.10
+  },
+  {
+    "filename": "2022_RVHS_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State energy conversion in system", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Calculate combined kinetic energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate kinetic energy of Q", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Determine distance Q falls before coming to rest", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2022_NJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)1", "description": "State property experiencing force in gravitational field", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(i)2", "description": "State property experiencing force in electric field", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Suggest why test object must be stationary", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show magnetic flux density is 1.2×10⁻³ T", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate force per unit length", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Show resultant force on electron is 2.2×10⁻¹⁴ N", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Explain why student's claim is incorrect", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "Sketch motion of electron", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Deduce if electron continues with constant velocity", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "Draw gravitational field lines and equipotential surfaces", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(f)(i)", "description": "Show x ≈ 3.5×10⁸ m", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(f)(ii)", "description": "Deduce if spaceship performs SHM", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 22,
+    "weighted_sum": 72,
+    "overall_difficulty": 3.27
+  },
+  {
+    "filename": "2022_MI_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Derive Ep = mgh", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Draw rate of work done vs v graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 4,
+    "weighted_sum": 14,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2022_JPJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Draw work done vs d graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate gain in gravitational potential energy", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate final kinetic energy", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 23,
+    "overall_difficulty": 3.83
+  },
+  {
+    "filename": "2021_YIJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine total kinetic energy of system", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Calculate speed attained by Y", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 4,
+    "weighted_sum": 15,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2021_VJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate energy stored in spring", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Determine distance D", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "State effect of increased angle", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)", "description": "Determine new distance D' with friction", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "Explain how D' changes with bigger spring constant", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2021_VJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show energy from sun is 252 kJ", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Calculate solar power per square metre", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Suggest why value is too low", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate power per square metre generated", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate efficiency of solar cell", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Calculate power output of Sun", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate surface area of solar panels", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 29,
+    "overall_difficulty": 2.90
+  },
+  {
+    "filename": "2021_TMJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate change in kinetic energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Estimate distance fallen", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate loss in gravitational potential energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Calculate work done by resistive force", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2021_TMJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate battery capacity in SI base units", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(ii)", "description": "Suggest advantage of large battery capacity", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "State what is meant by specific energy", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "Calculate mass of batteries", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Explain why batteries positioned low down", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Complete table for 2017", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Complete graph and draw best fit", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(iii)", "description": "Estimate year limit reached", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Determine number of Li-ion cells", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(ii)", "description": "Suggest two reasons to monitor temperature", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(e)", "description": "Calculate maximum propulsion power", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 19,
+    "weighted_sum": 50,
+    "overall_difficulty": 2.63
+  },
+  {
+    "filename": "2021_TJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by work done on a body", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate total work against friction", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine final speed of system", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Deduce and explain if bodies move on Moon", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.43
+  },
+  {
+    "filename": "2021_RVHS_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State which point has greatest acceleration", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Calculate speed at B", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Calculate energy lost due to friction", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate average frictional force", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 20,
+    "overall_difficulty": 2.86
+  },
+  {
+    "filename": "2021_RI_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate volume of air passing through per second", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate mass of air per second", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Determine rate of loss of kinetic energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Determine force exerted by blades", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Explain how answers relate by P = Fv", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 29,
+    "overall_difficulty": 3.22
+  },
+  {
+    "filename": "2021_NYJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine speed at B", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate maximum elastic potential energy", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Determine work done against friction", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Determine distance from C where block stops", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.38
+  },
+  {
+    "filename": "2021_MI_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Sketch kinetic energy vs time graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Calculate diameter d of loop", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Determine contact force at top of loop", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Calculate average rate of energy loss", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate average frictional force", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.45
+  },
+  {
+    "filename": "2021_JPJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Deduce what is meant by energy density", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Determine rate of natural gas consumption", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Calculate solar intensity incident on Earth", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "State assumptions made", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Explain advantage of series connection", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)1", "description": "Explain advantage of parallel connection", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)2", "description": "Explain advantage of parallel connection", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)", "description": "Calculate ratio of solar power to total power", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(i)1", "description": "Calculate solar power produced by panel", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(i)2", "description": "Calculate electrical energy produced in 2020", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(ii)", "description": "Write argument for or against solar power", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 19,
+    "weighted_sum": 54,
+    "overall_difficulty": 2.84
+  },
+  {
+    "filename": "2021_HCI_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate maximum compression of spring", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Determine maximum kinetic energy", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Sketch KE, GPE, EPE vs position graphs", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 33,
+    "overall_difficulty": 4.13
+  },
+  {
+    "filename": "2021_EJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show kinetic energy = ½mv²", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Calculate frictional force", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Calculate kinetic energy at lowest point", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2021_DHS_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate initial kinetic energy", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Determine maximum force FMAX", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Calculate maximum deceleration", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iv)1", "description": "State and explain if block is in equilibrium before hitting spring", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iv)2", "description": "State and explain if block is in equilibrium when speed zero", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Sketch x₀ vs m graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2021_CJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine minimum height of tip", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Give maximum power output", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Give wind speed for maximum power", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)1", "description": "Calculate incident wind power", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)2", "description": "Calculate overall efficiency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Sketch input power vs wind speed graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Calculate power of wind after passing rotor", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(i)", "description": "Determine cut-out speed", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(e)(ii)", "description": "Suggest reason for cut-out speed", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(f)(i)", "description": "Suggest whether generator produces AC or DC", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(f)(ii)", "description": "Calculate nominal current", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(g)", "description": "Calculate speed of tip of blade", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 55,
+    "overall_difficulty": 2.75
+  },
+  {
+    "filename": "2021_ASRJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Discuss how energy is conserved in boiling water", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Discuss energy conservation in double slit interference", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 27,
+    "overall_difficulty": 4.50
+  },
+  {
+    "filename": "2020_VJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define work done and state SI unit", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Complete table for hot air balloon and battery", "level": 4, "marks": 6, "weighted_score": 24}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25
+  },
+  {
+    "filename": "2020_TMJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate minimum height of tip", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Calculate area swept by rotor blades", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Calculate period of revolution", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Suggest whether rated power is fair", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Calculate number of homes one turbine can serve", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)1", "description": "Give maximum power output", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)2", "description": "Give wind speed for maximum power", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)1", "description": "Calculate incident wind power", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)2", "description": "Calculate overall efficiency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Calculate power of wind after passing rotor", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iv)1", "description": "Determine cut-out speed", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(iv)2", "description": "Suggest reason for cut-out speed", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(i)", "description": "Suggest which part is most likely struck by lightning", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)(ii)", "description": "Suggest how risk of damage is minimised", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 51,
+    "overall_difficulty": 2.55
+  },
+  {
+    "filename": "2020_TMJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Sketch kinetic energy vs time graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Calculate diameter d of loop", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Determine contact force at top of loop", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate average rate of energy loss", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate average frictional force", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.40
+  },
+  {
+    "filename": "2020_SAJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show power = force × velocity", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Calculate driving force", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate total resistive force", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Calculate new driving force", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)", "description": "Show n = 3", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 23,
+    "overall_difficulty": 3.29
+  },
+  {
+    "filename": "2020_RVHS_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Derive P = Fv", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Calculate maximum speed on horizontal ground", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate maximum speed up slope", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Describe energy conversion at maximum speed up slope", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)", "description": "Determine maximum speed over hill", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 41,
+    "overall_difficulty": 3.42
+  },
+  {
+    "filename": "2020_NYJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how graph shows band does not obey Hooke's Law", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Estimate work done to stretch band", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Explain why kinetic energy is significantly smaller", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Calculate efficiency of band", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)", "description": "Suggest one reason for loss in efficiency", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(f)(i)", "description": "Calculate spring constant of new band", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(f)(ii)", "description": "Sketch graph for new elastic band", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 34,
+    "overall_difficulty": 2.83
+  },
+  {
+    "filename": "2020_MI_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show F = G from definition of work done", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Suggest how graph shows attractive and repulsive forces", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)1", "description": "Determine force at r = 2.8×10⁻¹⁰ m", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)2", "description": "Determine force at r = 5.0×10⁻¹⁰ m", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "State two features of force represented by B/r⁸", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)1", "description": "Draw total energy line on graph", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)2", "description": "Draw kinetic energy line on graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Determine values of r between which ions vibrate", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "State and explain if oscillations are SHM", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Suggest why lattice dimensions increase with heating", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 75,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2020_JPJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine total energy collected by solar cells", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Determine energy converted to electrical energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Calculate total energy consumed from battery per second", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate discharge current", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Determine number of solar cells", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(ii)", "description": "Determine energy collected by each cell", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(i)", "description": "Determine driving force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(ii)", "description": "Determine total resistive force", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(f)(i)", "description": "Plot point on graph", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(f)(ii)", "description": "Draw best-fit line", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(f)(iii)", "description": "State relationship between R and v²", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(g)", "description": "State two factors affecting solar intensity", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 54,
+    "overall_difficulty": 2.70
+  },
+  {
+    "filename": "2020_HCI_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine total distance travelled up slope", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Calculate change in kinetic energy", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate change in gravitational potential energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate work done overcoming resistive forces", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Describe how acceleration varies with time", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(ii)", "description": "State and explain changes in driving force", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.30
+  },
+  {
+    "filename": "2020_DHS_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain whether spring obeys Hooke's law", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Show elastic potential energy is 0.48 J", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Determine ratio of kinetic energies", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Determine speed vA", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Sketch speed vs time graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "State and explain if blocks oscillate with same frequency", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.55
+  },
+  {
+    "filename": "2019_VJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define power", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate power produced by thrust", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)1", "description": "Calculate work done by thrust", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)2", "description": "Calculate increase in GPE", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)3", "description": "Calculate work done against air resistance", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Calculate force due to air resistance", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2019_TMJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain work done by a force", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Derive Ep = mgh", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(i)", "description": "Calculate distance d", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Suggest why d is smaller in real life", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00  },
+  {
+    "filename": "2019_TMJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show vertical component of velocity is 4.3 m s⁻¹", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Calculate horizontal velocity", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Calculate change in kinetic energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine highest value of useful power", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Deduce what is meant by fuel energy density", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Calculate mass of fuel required", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(c)(iii)", "description": "Explain why loss in fuel mass can be neglected", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(i)", "description": "Complete table for u²ρ", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(ii)", "description": "Plot point and draw best fit", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)(iii)", "description": "Determine drag coefficient CD", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iv)", "description": "Show graph supports expression", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 66,
+    "overall_difficulty": 3.30
+  },
+  {
+    "filename": "2019_TJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate total energy collected by solar cells", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Calculate energy transformed to electrical energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Show total power supplied by battery is 1.2 kW", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Calculate number of cells", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(ii)", "description": "Calculate energy collected by each cell", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)", "description": "Determine constant speed at peak power", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(f)", "description": "Calculate discharge current", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(g)", "description": "Calculate time for battery to fully discharge", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(h)", "description": "Name two factors affecting solar intensity", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(i)", "description": "Give reasons for flat and wide design", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 63,
+    "overall_difficulty": 3.15
+  },
+  {
+    "filename": "2019_TJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Estimate total distance moved up slope", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Calculate change in kinetic energy", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate change in GPE", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Calculate useful work done", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Determine total energy to overcome friction", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Determine average frictional force", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)", "description": "Suggest why resistive force is not constant", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 25,
+    "overall_difficulty": 2.78
+  },
+  {
+    "filename": "2019_SAJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate average power required", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Show train will not go beyond open-end track", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(iii)", "description": "Determine if rider will fall off", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Sketch speed-time graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Determine angular velocity for coin to slide", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.60
+  },
+  {
+    "filename": "2019_RVHS_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine speed at B", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Show kinetic energy is ½mv² with assumption", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.57
+  },
+  {
+    "filename": "2019_NJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show power is 15200 W", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine maximum speed on horizontal", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine maximum speed up slope", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.43
+  },
+  {
+    "filename": "2019_MI_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain work done", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Derive Ep = mgh", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Calculate power needed to lift passengers", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)1", "description": "Calculate power to overcome friction", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)2", "description": "Calculate power input to motor", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 28,
+    "overall_difficulty": 2.80
+  },
+  {
+    "filename": "2019_JPJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate change in gravitational potential energy", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Calculate change in elastic potential energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Show total energy is 0.0042 J", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate angular frequency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate average force due to air resistance", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2019_CJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate minimum force to pull train up slope", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate electrical power supplied", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(iii)", "description": "Determine distance travelled between A and B", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iv)", "description": "Suggest why resistive force is not constant", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Draw free body diagrams at D and F", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Determine minimum speed at D to loop", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(c)(i)", "description": "Sketch normal contact force vs position", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Discuss why constant speed is difficult", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 69,
+    "overall_difficulty": 3.45
+  },
+  {
+    "filename": "2019_ASRJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show F = G from definition of work done", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Suggest how graph shows attractive and repulsive forces", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)1", "description": "Determine force at r = 2.8×10⁻¹⁰ m", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)2", "description": "Determine force at r = 5.0×10⁻¹⁰ m", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "State two features of force represented by B/r⁸", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)1", "description": "Draw total energy line on graph", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)2", "description": "Draw kinetic energy line on graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Determine values of r between which ions vibrate", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "State and explain if oscillations are SHM", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Suggest why lattice dimensions increase with heating", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 75,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2018_YJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain centre of gravity", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Explain friction", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)1", "description": "Deduce extension of rope", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)2", "description": "Calculate elastic potential energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Show mass is approximately 90 kg", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 17,
+    "overall_difficulty": 2.43
+  },
+  {
+    "filename": "2018_VJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain energy conversions for car stopping", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Explain energy conversions for mass on spring", "level": 2, "marks": 3, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine speed at B", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "State and explain if answer differs with curved ramp", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2018_TJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate initial kinetic energy", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Determine maximum force FMAX", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "Calculate maximum deceleration", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iv)1", "description": "State and explain if block is in equilibrium before hitting spring", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iv)2", "description": "State and explain if block is in equilibrium when speed zero", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Sketch x₀ vs m graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25
+  },
+  {
+    "filename": "2018_RVHS_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Derive kinetic energy expression", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Show work done overcoming drag is 410 kJ", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate maximum speed at half power", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 18,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2018_PJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define work done", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate distance PQ", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Sketch work done vs x graph", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Sketch power vs x graph", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 23,
+    "overall_difficulty": 3.29
+  },
+  {
+    "filename": "2018_NJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Distinguish between GPE and EPE", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "State energy changes from A to C", "level": 2, "marks": 3, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine xC", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine maximum speed", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iv)", "description": "State and explain position of maximum speed", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.60
+  },
+  {
+    "filename": "2018_MI_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Derive Ek = ½mv² from equations of motion", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Calculate energy stored in spring", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine distance D", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "State effect of increased angle", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iv)", "description": "Determine new distance D' with friction", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.11
+  },
+  {
+    "filename": "2018_JJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show extension is 6.54 m at maximum speed", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Determine maximum speed", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "Calculate maximum kinetic energy", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Calculate maximum extension", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine GPE on bridge", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Sketch G, E, K graphs", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 40,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2018_JJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State and explain AC or DC", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Determine upthrust", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Explain why rotor blades revolve", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Describe how electrical energy is generated", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)", "description": "Show k is constant", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(i)1", "description": "Plot point on graph", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(e)(i)2", "description": "Draw best fit line", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(e)(ii)", "description": "Determine gradient", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(iii)", "description": "Comment on validity of relation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(f)(i)", "description": "Calculate incident wind power", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(f)(ii)", "description": "Calculate overall efficiency", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(g)", "description": "Suggest two problems operating at sea", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 60,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2018_IJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate distance from A to B", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate percentage uncertainty in distance", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Determine distance with uncertainty", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Calculate change in kinetic energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate change in potential energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine average frictional force", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.18
+  },
+  {
+    "filename": "2018_HCI_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate loss in GPE", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Calculate elastic potential energy gained", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Explain why answers differ", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Calculate maximum speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Label points P and Q on graph", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(iii)", "description": "Sketch v-x graph with damping", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 29,
+    "overall_difficulty": 2.90
+  },
+  {
+    "filename": "2018_EJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Suggest type of energy for v²/(2g)", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Suggest type of energy for h", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "State relationship of total hydraulic head", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Show vA and vB relation", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine pressure difference", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "State how additional term affects answer", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Estimate difference with frictional losses", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "State difference between water and blood flow", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(ii)", "description": "State and explain if model predicts observation", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 15,
+    "weighted_sum": 49,
+    "overall_difficulty": 3.27
+  },
+  {
+    "filename": "2018_EJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Suggest advantage of extra displacement", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Estimate elastic potential energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine maximum possible speed", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 20,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2018_CJC_P2_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain lateral vibrations", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Calculate energy stored in Longbow", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Sketch work done vs drawing distance", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Draw line of best fit", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(ii)", "description": "Explain if relation is valid", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(iii)", "description": "Determine constant k", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iv)", "description": "Determine speed of arrow", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(e)", "description": "Calculate frequency of vibration", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(f)(i)", "description": "Sketch force-drawing distance graph for Recurved bow", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(f)(ii)", "description": "State and explain why Recurved bow is better", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(g)", "description": "Suggest advantage of Compound bow", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 19,
+    "weighted_sum": 70,
+    "overall_difficulty": 3.68
+  },
+  {
+    "filename": "2018_CJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate loss in potential energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate average power output", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Suggest how output power can be controlled", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 17,
+    "overall_difficulty": 2.83
   }
 ]
