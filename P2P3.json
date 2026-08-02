@@ -781,5 +781,37 @@
   "total_marks": 9,
   "weighted_sum": 34,
   "overall_difficulty": 3.78
-}
+},
+  {
+    "filename": "2022_JPJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Estimate time taken for S-waves to travel.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Calculate distance of epicentre from seismograph.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Explain why S-waves are not detected in some regions.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "State amplitude and frequency of ground vibrations.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)1", "description": "Derive expression for vertical velocity.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)2", "description": "Derive expression for vertical acceleration.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)1", "description": "Show PGA = 2πf × v₀ from SHM.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(iii)2", "description": "Calculate frequency and amplitude for intensity V.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)3", "description": "Explain why building amplitude can be larger than ground.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Verify if PGA is inversely proportional to distance.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 18,
+    "weighted_sum": 71,
+    "overall_difficulty": 3.94
+  },
+  {
+    "filename": "2022_ASRJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define specific heat capacity.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Show mean kinetic energy = 3/2 kT.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(ii)", "description": "Explain why internal energy equals total kinetic energy.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)", "description": "Calculate r.m.s. speed of hydrogen molecule at 25°C.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Explain why Cv is lower than Cp for ideal gas.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Explain internal energy increase during melting at constant temp.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 42,
+    "overall_difficulty": 3.50
+  }
 ]
