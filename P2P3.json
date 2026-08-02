@@ -6720,5 +6720,857 @@
     "total_marks": 6,
     "weighted_sum": 17,
     "overall_difficulty": 2.83
+  },
+    {
+    "filename": "2025_VJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine maximum height above ground", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Calculate time of flight", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Sketch vertical velocity vs time graph with bounces", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.38
+  },
+  {
+    "filename": "2025_TMJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why kinetic energy is minimum at top of trajectory", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Show u is 13 m s⁻¹", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Determine time t", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate horizontal distance", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iii)", "description": "Determine magnitude and direction of velocity just before impact", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.89
+  },
+  {
+    "filename": "2025_TJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine vertical component of velocity when hitting water", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate angle θ to horizontal", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Explain why large splash causes shorter deceleration distance", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Sketch potential energy vs time graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Sketch kinetic energy vs time graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.60
+  },
+  {
+    "filename": "2025_SAJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by parabolic motion", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate average force by spring", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate speed as ball leaves spring", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Show speed at B is 2.2 m s⁻¹", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Determine speed at maximum height", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Determine time just before hitting ground", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Determine horizontal displacement from B to ground", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 29,
+    "overall_difficulty": 2.64
+  },
+  {
+    "filename": "2025_RVHS_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate vertical component of velocity when hitting plate", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "State and explain change in horizontal velocity", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)", "description": "Determine impulse during collision", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 18,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2025_RI_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine speed of arrow from recurve bow", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Explain advantage of compound bow using graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Explain why bowstring should not be released without arrow", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Determine kinetic energy just before hitting tree", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate distance of tree from archer", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 42,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2025_RI_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine time taken to fall from 60th to 50th floor", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Explain why time is shorter for next 10 floors", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(iii)", "description": "Determine speed when reaching ground", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Sketch displacement vs time with air resistance", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2025_NYJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show y = x tanθ − 4.91(x/(u cosθ))²", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Calculate speed u", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Sketch v_y vs t with air resistance", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 23,
+    "overall_difficulty": 3.83
+  },
+  {
+    "filename": "2025_NJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show initial speed is 14.9 m s⁻¹ using energy conservation", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate angle of projection θ", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Determine time taken from launch to impact", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iv)", "description": "Determine average rate of change of momentum", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Complete displacement-time graph with air resistance", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 29,
+    "overall_difficulty": 3.22
+  },
+  {
+    "filename": "2025_JPJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate time to reach net", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Show ball passes over net", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Determine horizontal distance from net to landing point", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 21,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2025_HCI_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate vertical component of initial velocity", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Show maximum height is 8.0 m", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Calculate KE and PE at max height in terms of K", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Sketch Ep and Ek vs horizontal distance", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25
+  },
+  {
+    "filename": "2025_EJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate time to hit water surface", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Calculate angle from water surface on impact", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Explain why resultant force decreases in water", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Show upthrust is 740 N", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine acceleration of diver", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 42,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2025_ASRJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show initial vertical component is 8.5 m s⁻¹", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate time to reach maximum height", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Sketch v_y vs t until hitting wall", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "State and explain effect of increased mass", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(e)", "description": "State and explain effect of air resistance", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 28,
+    "overall_difficulty": 2.80
+  },
+  {
+    "filename": "2025_ACJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate altitude x", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine speed just before hitting target", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Sketch v_x vs t (no air resistance)", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Sketch v_x vs t with air resistance", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.43
+  },
+  {
+    "filename": "2024_VJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine acceleration g from photo data", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Explain choice of data point improves reliability", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)", "description": "Determine actual uncertainty in g and state with uncertainty", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(d)", "description": "Explain how to improve accuracy using graph", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 40,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2024_TJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show time taken is 5.2 s", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate horizontal displacement", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Determine vertical component just before impact", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iv)", "description": "Sketch v_y vs t with no air resistance", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(v)", "description": "Sketch v_y vs t with air resistance", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "State principle of conservation of momentum", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "Show mass of ball is 52 kg", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine if firing is elastic or inelastic", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Determine average force on cannon", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(v)", "description": "Explain if vertical momentum conservation is violated", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 21,
+    "weighted_sum": 73,
+    "overall_difficulty": 3.48
+  },
+  {
+    "filename": "2024_RVHS_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate time taken to fall", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Determine height of table", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Determine angle of path to horizontal at B", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iv)1", "description": "Sketch acceleration vs time", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iv)2", "description": "Sketch vertical displacement vs time", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)", "description": "State and explain effect of greater mass", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 25,
+    "overall_difficulty": 2.78
+  },
+  {
+    "filename": "2024_NJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show time to max height is 2.6 s", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Sketch v_y vs t", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Sketch v_x vs t (no air resistance)", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Sketch v_x vs t with air resistance", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)", "description": "Determine vertical displacement between two objects at 2.6 s", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2024_MI_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Describe variation in vertical velocity and acceleration", "level": 2, "marks": 3, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Calculate horizontal distance on level ground", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Calculate extra horizontal distance from cliff", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.10
+  },
+  {
+    "filename": "2024_HCI_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define acceleration", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine maximum height from launcher P", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine time of flight to max height", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)1", "description": "Show projectile from Q has been in flight for 3.4 s", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)2", "description": "Sketch v_y vs t for projectile from Q", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2024_DHS_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why trajectory is parabolic", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Calculate time of flight", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Sketch x vs t for bomb and truck", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Determine speed v of truck", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.11
+  },
+  {
+    "filename": "2024_CJC_P2_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show drag force ∝ v² from graph", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Explain why acceleration is approximately 10 m s⁻² at t=0", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)", "description": "Explain how graph shows drag force increases with velocity", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)", "description": "Calculate total mass of parachutist and parachute", "level": 4, "marks": 5, "weighted_score": 20},
+      {"part": "(e)(i)", "description": "Calculate acceleration from 19 s to 20 s", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(ii)", "description": "Explain why drag force remains constant", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(f)(i)", "description": "Suggest modification for heavy load", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(f)(ii)", "description": "Explain why parachutist bends knees and rolls", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(g)", "description": "Sketch velocity vs time with immediate parachute opening", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 70,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2024_ACJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)1", "description": "Show u is 23 m s⁻¹", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(i)2", "description": "Sketch v vs t with labels", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Sketch v vs t with air resistance", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Sketch K, G, E vs extension graphs", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 37,
+    "overall_difficulty": 4.11
+  },
+  {
+    "filename": "2023_YIJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how graph shows air resistance varies with speed", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "State time when acceleration is g", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Sketch v vs t without air resistance", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Determine ratio of energy lost during upward and downward motion", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2023_TMJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show vertical component of velocity is 2.67 m s⁻¹", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate horizontal component of velocity", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate horizontal distance with uncertainty", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(i)", "description": "Explain effect of air resistance on vertical acceleration", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Suggest why V-shaped posture increases distance", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.40
+  },
+  {
+    "filename": "2023_RVHS_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine time of flight from graph", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Determine horizontal component of velocity", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Determine angle θ", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Sketch v_y vs x if ball hits wall at max height", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 20,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2023_RI_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine angle θ to hit coconut horizontally", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Determine time taken to reach coconut", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate horizontal displacement from coconut", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "State and explain how angle and displacement change with air resistance", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.56
+  },
+  {
+    "filename": "2023_NJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine acceleration of free fall from photo", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Explain how data point choice improves reliability", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)", "description": "Determine speed 1.2 s after release", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(d)", "description": "Draw path with air resistance", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.40
+  },
+  {
+    "filename": "2023_MI_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate height difference h", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Calculate vertical component just before landing", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Sketch v_v vs t graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 17,
+    "overall_difficulty": 3.40
+  },
+  {
+    "filename": "2023_JPJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate horizontal and vertical components", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate horizontal displacement", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Calculate vertical displacement", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iv)", "description": "Calculate angle of slope θ", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Sketch path with air resistance", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)1", "description": "Give reason for shape at start", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)2", "description": "Give reason for impact angle", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.10
+  },
+  {
+    "filename": "2023_DHS_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why speed definition is incorrect", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Show R = 2u²sinθcosθ/g", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "State value of θ for maximum range", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(d)", "description": "Calculate g with uncertainty", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.30
+  },
+  {
+    "filename": "2023_ASRJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how graph shows air resistance varies with speed", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Show (g − a) = kv²/m", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Complete Table 1.2", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Deduce whether student's suggestion is correct", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.78
+  },
+  {
+    "filename": "2023_ACJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine value of g from data", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Explain how to get more accurate g using multiple heights", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)", "description": "Determine loss in GPE", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)", "description": "Express U with uncertainty", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.13
+  },
+  {
+    "filename": "2022_SAJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate vertical component of initial velocity", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Determine horizontal range", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Suggest advantage of smaller angle", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate minimum time for tank to reach landing point", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Determine time to start firing", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Draw forces on projectile moving up and down", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Draw v_y vs t with air resistance", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "Label point where vertical acceleration equals g", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(i)", "description": "State principle of conservation of momentum", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(d)(ii)", "description": "Explain if momentum conservation applies to howitzer system", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 16,
+    "weighted_sum": 49,
+    "overall_difficulty": 3.06
+  },
+  {
+    "filename": "2022_NYJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate horizontal velocity leaving table", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate velocity just before hitting floor", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "State and explain if time is same with 2v", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Describe variation of vertical velocity with air resistance", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 22,
+    "overall_difficulty": 3.14
+  },
+  {
+    "filename": "2022_NJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show time of flight is 3.21 s", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine distance D", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Comment on D with air resistance", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Sketch v_y vs t with and without air resistance", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.80
+  },
+  {
+    "filename": "2022_JPJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain how graph shows air resistance present", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Explain how to determine g from graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Calculate maximum force due to air resistance", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 28,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2022_EJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show vertical component is 535 m s⁻¹", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine time to reach ground", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Find maximum height", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Find ratio of GPE with air resistance", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Suggest if ratio is larger or smaller for traditional rocket", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Determine angular speed of Earth", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "State and explain direction for efficient launch", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Show linear speed is 2360 m s⁻¹", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(ii)", "description": "Find ratio of kinetic energies", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(iii)", "description": "Explain why interior must be vacuum", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(e)(i)", "description": "Determine time to spin up", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(ii)", "description": "Suggest if method is suitable for humans", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(f)(i)", "description": "State what is meant by gravitational potential", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(f)(ii)", "description": "Determine g at 2000 km using graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(f)(iii)", "description": "Explain weightlessness despite non-zero g", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(f)(iv)", "description": "Find work done against gravity", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 28,
+    "weighted_sum": 78,
+    "overall_difficulty": 2.79
+  },
+  {
+    "filename": "2022_DHS_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show horizontal component is 3.6 m s⁻¹", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Sketch v_y and v_x vs t graphs", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Calculate maximum height", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Determine ratio of KE to change in GPE", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)", "description": "State and explain effect of air resistance on time", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.45
+  },
+  {
+    "filename": "2022_ACJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why path is parabolic", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Show angle is 62°", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Calculate time to max height", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate force on spaceship by ions", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate final velocity", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Draw v vs t graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 42,
+    "overall_difficulty": 3.23
+  },
+  {
+    "filename": "2021_YIJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine vertical component of initial velocity", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine launch angle θ", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Sketch new path with air resistance", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 23,
+    "overall_difficulty": 3.29
+  },
+  {
+    "filename": "2021_TMJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate time taken to reach ground", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate vertical component of velocity", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Determine if package is damaged", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)", "description": "Explain how answer changes with air resistance", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.11
+  },
+  {
+    "filename": "2021_RI_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Derive v² = u² + 2as", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Determine minimum vertical velocity for basketball", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(i)", "description": "Show speed u is 8.0 m s⁻¹", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate height at line B", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2021_NJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine time of flight", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine range x", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Sketch v_y vs t graphs", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 17,
+    "overall_difficulty": 3.40
+  },
+  {
+    "filename": "2021_DHS_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by acceleration", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate initial horizontal component", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Show vertical component is 8.5 m s⁻¹", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Calculate time to max height", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Determine maximum height", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "State and explain effect of greater mass", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.60
+  },
+  {
+    "filename": "2021_CJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define acceleration", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)1", "description": "Calculate initial kinetic energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)2", "description": "Calculate maximum height H", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)3", "description": "Calculate GPE at max height", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)1", "description": "Determine KE at maximum height", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)2", "description": "Explain why KE at max height is not zero", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Determine maximum horizontal distance", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 31,
+    "overall_difficulty": 2.58
+  },
+  {
+    "filename": "2021_ASRJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine height h", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Draw forces on falling parcel", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "State and explain variation of acceleration", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "State and explain effect of larger mass on terminal velocity", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)1", "description": "Describe energy conversions before terminal speed", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iv)2", "description": "Describe energy conversions after terminal speed", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2021_ACJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate horizontal component vX", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Show vertical component is 8.5 m s⁻¹", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Sketch v_y vs t until hitting wall", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Determine maximum height", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Determine ratio of KE to GPE at max height", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iv)", "description": "Sketch v_y vs t with air resistance", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.45
+  },
+  {
+    "filename": "2020_YIJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Describe difference between displacement and distance", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Determine time to fall 30 m", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Determine magnitude and direction of resultant velocity", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)", "description": "Sketch vertical velocity vs time graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2020_TMJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why towel reaches terminal velocity", "level": 2, "marks": 3, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Estimate acceleration at t=2.0 s", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Estimate height fallen", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Calculate time to hit ground", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate horizontal distance", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 27,
+    "overall_difficulty": 2.70
+  },
+  {
+    "filename": "2020_TJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show velocity at B is 14 m s⁻¹ at 48.2° below horizontal", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "State and explain path from B to C", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Calculate time from B to C", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Complete a_y vs t graph", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)", "description": "Sketch v_y vs t from A to C", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2020_RI_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show t₀ = 2u sinθ/g", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)1", "description": "Determine velocity v of cart", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)2", "description": "Sketch EK vs t graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Suggest how to launch with air resistance", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 32,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2020_NJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Sketch path of crate", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Explain why horizontal velocity is constant", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Show maximum height is 52 m", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Calculate horizontal distance QR", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Suggest new landing point with air resistance", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 21,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2020_HCI_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show height of wall is 1.1 m", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Determine velocity at Q", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Sketch path with air resistance", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 23,
+    "overall_difficulty": 3.83
+  },
+  {
+    "filename": "2020_CJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate horizontal component vX", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Show vertical component is 8.5 m s⁻¹", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Calculate time to max height", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iv)", "description": "Sketch v_y vs t until hitting wall", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(v)", "description": "Estimate height of wall", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Sketch v_y vs t with air resistance", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2019_YIJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine time taken across gap", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate horizontal distance d", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Calculate percentage uncertainty in d", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iv)", "description": "Determine d with uncertainty", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(v)", "description": "Calculate ratio of KE at max height to KE leaving ramp", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Sketch v_y vs t from t=0 to T", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2019_SAJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define displacement", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate value of v", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Calculate vertical component vy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate angle θ", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iv)", "description": "State magnitude and direction of acceleration at C", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)", "description": "Sketch vy vs t with air resistance", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 28,
+    "overall_difficulty": 2.80
+  },
+  {
+    "filename": "2019_RVHS_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate time taken", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Suggest and explain if rock hits target", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Determine magnitude and direction of velocity", "level": 3, "marks": 4, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25
+  },
+  {
+    "filename": "2019_NJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show vertical component is 14.2 m s⁻¹", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine vertical distance fallen", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Determine horizontal distance x", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Sketch path with greater initial horizontal speed", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Sketch path with air resistance", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "State and explain which reaches bottom first", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 42,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2019_JPJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why speed definition is incorrect", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Show R = 2u²sinθcosθ/g", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Determine θ for maximum range", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(d)", "description": "Calculate g with uncertainty", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.13
+  },
+  {
+    "filename": "2019_DHS_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate time taken", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Calculate magnitude of displacement", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(i)", "description": "Sketch a vs t graph", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Sketch sv vs t graph", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)", "description": "Explain why distance differs from displacement", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(e)", "description": "State and explain effect of greater mass", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 22,
+    "overall_difficulty": 2.75
+  },
+  {
+    "filename": "2018_VJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Group quantities with corresponding units", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Explain why speed definition is incorrect", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Write expression for d", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Write expression for time of flight", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iii)", "description": "Calculate two possible angles", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 21,
+    "overall_difficulty": 2.33
+  },
+  {
+    "filename": "2018_TJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate height difference h", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Calculate vertical component just before landing", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Sketch v_v vs t graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Show resultant velocity is 23 m s⁻¹", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Explain why landing on downward slope is safer", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.44
+  },
+  {
+    "filename": "2018_PJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine length OP", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Sketch path without air resistance", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Sketch path with air resistance", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 19,
+    "overall_difficulty": 3.17
+  },
+  {
+    "filename": "2018_NYJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show time to reach sniper is 3.5 s", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Calculate speed just before impact", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Determine distance x", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Calculate minimum acceleration to escape", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 19,
+    "overall_difficulty": 3.17
+  },
+  {
+    "filename": "2018_ACJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine u and θ", "level": 4, "marks": 5, "weighted_score": 20},
+      {"part": "(b)(i)", "description": "Calculate magnitude of change in velocity", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Draw vectors and determine v at 7.0 s", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 38,
+    "overall_difficulty": 4.22
   }
 ]
