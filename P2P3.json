@@ -813,5 +813,50 @@
     "total_marks": 12,
     "weighted_sum": 42,
     "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2025_R1_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State phenomenon for wave nature of light.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "State phenomenon for particle nature of light.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Explain why hydrogen lamp produces specific wavelengths.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Show photoelectric emission occurs for blue light.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)1", "description": "Show incident power on metal surface is 2.04 W.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)2", "description": "Calculate force exerted by absorbed photons.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)1", "description": "Determine n value for red light in Balmer series.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)2", "description": "Determine n value for blue light in Balmer series.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Calculate shortest wavelength in Balmer series.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "Sketch partial energy level diagram for Balmer series.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 16,
+    "weighted_sum": 55,
+    "overall_difficulty": 3.44
+  },
+  {
+    "filename": "2024_R1_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State and explain observation for particulate nature.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate threshold wavelength for zinc plate.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate maximum speed of photoelectrons.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Explain why electron motion differs at V=0 and V=+3.0V.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iv)", "description": "Draw new I-V graph for shorter wavelength radiation.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)(i)", "description": "Explain how concentric rings evidence wave nature.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Calculate de Broglie wavelength of accelerated electrons.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(iii)", "description": "State and explain advantage of electron microscope.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 18,
+    "weighted_sum": 72,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2024_R1_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how emission line spectra evidence discrete energy levels.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain why Kα wavelength is greater than Kβ.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Explain why there is a minimum wavelength λmin for X-rays.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 24,
+    "overall_difficulty": 4.00
   }
 ]
