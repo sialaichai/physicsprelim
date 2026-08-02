@@ -858,5 +858,35 @@
     "total_marks": 6,
     "weighted_sum": 24,
     "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2024_R1_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate magnetic flux through closed window.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)1", "description": "Explain induced current using EM induction laws.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)2", "description": "Determine change in magnetic flux through window.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)3", "description": "Calculate magnitude of average induced e.m.f.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Explain circular paths of charged particles in B-field.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Derive radius relationship for alpha particle and electron.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(iii)", "description": "Draw possible path for alpha particle through B-field.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iv)1", "description": "Show radius of curvature of electron at B=0.70mT.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)2", "description": "Calculate period of electron's motion at B=0.70mT.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)3", "description": "Describe electron path for first 4.0ms with varying B.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iv)4", "description": "State possible time electron leaves field with explanation.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 23,
+    "weighted_sum": 85,
+    "overall_difficulty": 3.70
+  },
+  {
+    "filename": "2024_R1_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain Lenz's law as conservation of energy in braking system.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Draw directions of eddy currents at regions P and Q.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Explain why angular velocity of disc does not decrease linearly.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.71
   }
 ]
