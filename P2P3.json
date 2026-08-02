@@ -2510,5 +2510,2547 @@
     "weighted_sum": 60,
     "overall_difficulty": 4.00,
     "difficulty_band": "Hard"
+  },
+    {
+    "filename": "2025_VJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Describe the photoelectric effect in terms of energy.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain one way the photoelectric effect provides evidence for particulate nature.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)1", "description": "Determine threshold frequency from graph.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)2", "description": "Determine maximum kinetic energy from graph.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine minimum potential difference to reduce current to zero.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Describe an experiment showing wave nature of particles.", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.30
+  },
+  {
+    "filename": "2025_VJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain shape of continuous X-ray spectrum.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Explain shape of sharp peaks in X-ray spectrum.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate energy of Kα photon.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate wavelength of Lα photon.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Calculate minimum wavelength λmin for given voltage.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Explain use of X-ray spectra to identify elements.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 37,
+    "overall_difficulty": 3.70
+  },
+  {
+    "filename": "2025_TMJC_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State phenomena for particulate and wave nature of light.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain how discrete energy levels give rise to line emission spectrum.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Draw possible transitions on energy level diagram for given electron energy.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Show calculation for lowest wavelength of emitted photons.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Explain why photocurrent decreases as collector potential becomes negative.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Calculate maximum rate of emission of photoelectrons from graph.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Show work function energy of metal Z is 1.2e-18 J.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iv)", "description": "Calculate threshold wavelength of metal Z.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(v)", "description": "State and explain one difference between new source and gas lamp from graph.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(vi)", "description": "Explain how photoelectric effect is used in light meters.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(vii)", "description": "Explain why metal Z is unsuitable for light meters.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 71,
+    "overall_difficulty": 3.55
+  },
+  {
+    "filename": "2025_TMJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how solar absorption spectrum supports Sun model.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Compare hydrogen and helium amounts using spectra.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "State and explain if only H and He are present in Sun's outer layer.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Show highest frequency of light in hydrogen emission spectrum.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Calculate energy of photon in (d)(i).", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(e)(i)", "description": "Complete table for hydrogen spectral wavelengths from distant galaxy.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(e)(ii)", "description": "Suggest why wavelength shift is called red shift.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(e)(iii)", "description": "State implication of Andromeda galaxy spectral shift.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(f)(i)", "description": "Express one light-year in metres.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(f)(ii)", "description": "Describe qualitative relationship between galaxy distance and speed.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(f)(iii)", "description": "Plot data for Hercules Cluster on graph.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(f)(iv)", "description": "Add line of best fit on graph.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(f)(v)", "description": "Determine Hubble constant from graph.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 22,
+    "weighted_sum": 84,
+    "overall_difficulty": 3.82
+  },
+  {
+    "filename": "2025_TJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State number of spectral emission lines from transitions among given levels.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(i) part 2", "description": "Calculate energy level E4 from photon wavelength.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate work function of gold surface.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Calculate momentum of most energetic electrons.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Determine de Broglie wavelength of electrons.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Calculate minimum uncertainty in position of photoelectron.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(v)", "description": "Explain how a continuous spectrum of X-rays could be produced.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 57,
+    "overall_difficulty": 4.07
+  },
+  {
+    "filename": "2025_SAJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine longest wavelength of UV radiation emitted from mercury atom.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Draw arrows on energy level diagram for UV absorption, red and IR emission.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Explain why emitted light from phosphor has longer wavelength than absorbed UV.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain energy transformation during photoelectric emission.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Calculate maximum kinetic energy of photoelectrons.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Determine de Broglie wavelength of electron with maximum kinetic energy.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Explain why observable diffraction pattern is formed.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(iii)", "description": "Explain how range of electron energies affects diffraction pattern appearance.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 15,
+    "weighted_sum": 58,
+    "overall_difficulty": 3.87
+  },
+  {
+    "filename": "2025_RVHS_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State the spectral emission transition with the longest wavelength.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "State number of emission lines from transitions among levels.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Determine number of emission transitions for given electron energy.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "State number of visible absorption lines from Level 1.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)", "description": "Fill in boxes on X-ray graph with characteristic line notations.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Explain briefly observation of Kβ characteristic peak.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "Explain observation of two distinct continuous spectra for different voltages.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(f)", "description": "Explain characteristic peaks at same frequency regardless of voltage.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 56,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2025_RVHS_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is a photon.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Determine change in electric potential energy to reduce photocurrent to zero.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Calculate maximum speed of photoelectrons.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Determine work function energy of B.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.57
+  },
+  {
+    "filename": "2025_R1_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State name of a phenomenon that gives evidence light behaves like a wave.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "State name of a phenomenon that gives evidence light behaves like particles.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Explain why hydrogen lamp produces lights of specific wavelengths.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Show photoelectric emission will be observed for blue light.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)1", "description": "Show power of blue light incident on metal surface.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)2", "description": "Calculate force exerted by photons on metal surface (all absorbed).", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)1", "description": "Determine the value of n for red light in Balmer series.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)2", "description": "Determine the value of n for blue light in Balmer series.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Calculate shortest wavelength in Balmer series.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "Sketch partial energy level diagram for Balmer series.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 16,
+    "weighted_sum": 59,
+    "overall_difficulty": 3.69
+  },
+  {
+    "filename": "2025_NYJC_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate stopping potential required to stop electron.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Calculate wavelength of radiation responsible for emitting electron.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Suggest type of radiation having that wavelength.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Calculate de Broglie wavelength of electron.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Explain whether given electrons can be used to demonstrate electron diffraction.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(d)(i)", "description": "Complete energy level diagram for tungsten by calculating L-shell energy.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(d)(ii)1", "description": "Label peak for Lα transitions on X-ray spectrum graph.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(ii)2", "description": "Explain existence of minimum wavelength λmin.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iii)", "description": "State minimum energy of bombarding electrons to produce characteristic lines.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(iv)", "description": "Explain answer in (d)(iii).", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(e)(i)", "description": "Suggest why X-ray wavelength should not be shorter than 50 pm for safety.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(e)(ii)", "description": "Determine minimum applied potential difference for medical X-rays.", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 77,
+    "overall_difficulty": 3.85
+  },
+  {
+    "filename": "2025_NJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate energy of energy level n=2 for hydrogen.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Explain why energy of each energy level is negative.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine wavelength and colour of visible light emitted from n=3 to n=2 transition.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine the third wavelength detected.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Explain why number of photons measured is equal for wavelengths in (i) and (ii).", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Sketch number of photons against wavelength graph.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 37,
+    "overall_difficulty": 3.70
+  },
+  {
+    "filename": "2025_NJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by the term electron-volt.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Determine minimum wavelength for dental X-ray spectrum.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Suggest how continuous spectrum of X-rays are produced.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Determine Kα photon energy for tungsten atom.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)(ii)", "description": "Determine quantitatively whether Moseley's law is valid.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(c)(iii)", "description": "Explain why Kβ line has shorter wavelength than Kα.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Suggest and explain one feature of tungsten making it ideal for X-ray target.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(i)1", "description": "Show penetrating power of X-ray in human bone is 1.31 cm.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(e)(i)2", "description": "Calculate depth of bone to reduce intensity to 40.0%.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(ii)", "description": "Calculate total linear attenuation coefficient of human muscle.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 80,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2025_MI_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show de Broglie wavelength of electrons is 1.08e-10 m.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Explain why electron diffraction will be observed.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Suggest why immediate/non-emission observation does not support wave theory.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)1", "description": "Suggest why no value is given for Ek for 650 nm radiation.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)2", "description": "Determine work function energy of metal surface from data.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)1", "description": "State and explain effect on maximum kinetic energy when wavelength reduced.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)2", "description": "State and explain effect on maximum photoelectric current when wavelength reduced.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)1", "description": "Draw transition for longest wavelength on energy level diagram.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)2", "description": "Draw transition for shortest wavelength on energy level diagram.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Calculate wavelength for the transition in (c)(i)2.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "Determine energies of photons in visible spectrum from transitions.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 81,
+    "overall_difficulty": 4.05
+  },
+  {
+    "filename": "2025_JPJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why dark lines are observed despite re-emission.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Determine number of absorption spectral lines observed.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Explain how most energetic X-ray photons are produced.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine momentum of X-ray photon with highest relative intensity.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Sketch new X-ray spectrum when accelerating potential is increased.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.90
+  },
+  {
+    "filename": "2025_JPJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by the photoelectric effect.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Determine rate at which photons are incident on emitter.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Determine maximum rate at which electrons leave emitter.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Comment on and suggest explanation for difference between (b) and (c).", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "Determine maximum kinetic energy of emitted electrons from graph.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(f)(i)", "description": "Explain what is meant by work function of a metal surface.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(f)(ii)", "description": "Deduce work function of emitter material.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.25
+  },
+  {
+    "filename": "2025_HCI_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain what is meant by threshold frequency.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Show E_MAX = hc(1/λ - 1/λ0).", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Determine maximum wavelength λ0 from graph without using h.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine Planck constant h using graph data.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Draw line on graph for new metal with smaller work function.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)", "description": "Derive expression for final charge induced on isolated sphere.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 45,
+    "overall_difficulty": 4.09
+  },
+  {
+    "filename": "2025_HCI_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why rubidium atoms only absorb photons of certain frequencies.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Determine energy of state A in electron-volts.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Suggest why photon from state A to ground is difficult to observe with naked eye.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)", "description": "Determine average speed of Rb atom at 1000 K using ideal gas model.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Suggest meaning of 'lifetime' of state A and state B.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(i)", "description": "Determine magnitude of change in momentum of atom after absorbing photon.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(d)(ii)", "description": "Explain why average change in momentum is zero over many emissions.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iii)", "description": "Determine average force on atom through absorbing/emitting process.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(d)(iv)", "description": "Give reason why atoms could be cooled faster if excited to state B.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(e)", "description": "State how Fig. 8.4 shows BEC forms at critical temperature.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(f)", "description": "Calculate critical temperature Tc for BEC formation.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 22,
+    "weighted_sum": 94,
+    "overall_difficulty": 4.27
+  },
+  {
+    "filename": "2025_EJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Use gradient of graph to determine Planck constant h.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Sketch graph for metal with larger work function.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)", "description": "Determine the metal used in the experiment.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "State and explain effect of increasing intensity on rate of emission.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 32,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2025_EJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why there is a single frequency for each transition.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Draw line for transition from n=2 to n=1.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Draw line for transition from n=3 to n=2.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Determine expression for E3 in terms of fA, fB, E1 and h.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 29,
+    "overall_difficulty": 4.14
+  },
+  {
+    "filename": "2025_DHS_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State what is meant by the photoelectric effect.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Use particulate theory to explain threshold frequency.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Calculate work function energy of magnesium.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate maximum speed of emitted electrons.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.44
+  },
+  {
+    "filename": "2025_CJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why emitted electrons have a range of kinetic energies.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Determine threshold frequency f0 from graph.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine Planck constant h from graph.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Sketch graph for metal with larger work function.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)", "description": "Explain why no electrons are emitted with infrared radiation.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.78
+  },
+  {
+    "filename": "2025_ASRJC_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State two further observations from photoelectric effect for particulate nature.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)1", "description": "Sketch variation of E_MAX with 1/λ.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)2", "description": "State equation relating graph gradient to Planck constant.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(ii)3", "description": "State and explain effect on photoelectric current when wavelength reduced.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain how emission spectrum provides evidence for discrete energy levels.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Show energy level X is -1.51 eV.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Calculate wavelength of highest energy X-ray photon.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Describe and explain changes in X-ray spectrum if accelerating potential increased.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 16,
+    "weighted_sum": 56,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2025_ACJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State and explain two observations of photoelectric effect for particulate nature.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Determine Planck constant from graph.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine work function of metal surface in eV.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Sketch graph for metal with lower work function.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 32,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2024_YIJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate energy of level n=3 from given transition wavelengths.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Show number of photons incident on mirror per unit time.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine pressure exerted by light beam on mirror.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Suggest and explain whether pressure from blue light is different.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 40,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2024_VJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State and explain type of spectrum shown.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Calculate energy in eV of level n=3.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Explain why wave nature doesn't support threshold frequency.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine work function of cathode in joules.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Sketch new i-V graph for metal with lower work function.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 44,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2024_TMJC_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how photoelectric effect provides evidence for particulate nature.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Calculate stopping potential for electrons with given speed.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "State how circuit should be modified to stop all electrons.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(i)", "description": "Calculate wavelength of EM radiation that caused emission.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Suggest type of EM radiation with this wavelength.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(e)", "description": "Describe how X-ray tube setup produces continuous X-ray spectrum.", "level": 4, "marks": 5, "weighted_score": 20},
+      {"part": "(f)", "description": "State one similarity and one difference between photoelectric and X-ray setups.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(g)(i)", "description": "Determine accelerating potential of X-ray tube from graph.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(g)(ii)", "description": "Explain why Kα line intensity of tungsten is larger than barium.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 75,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2024_TJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine work function energy from graph.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Draw line for metal with greater work function.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "Explain why E_MAX does not depend on intensity.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Draw arrow for a third possible transition on energy level diagram.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate wavelength of emitted light for transition in (i).", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Calculate percentage uncertainty in momentum using Heisenberg principle.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 54,
+    "overall_difficulty": 4.15
+  },
+  {
+    "filename": "2024_SAJC_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State what is meant by a photon.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Calculate photon's de Broglie wavelength and determine colour.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Determine pressure exerted by light beam on mirror.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "State and explain effect on max KE when frequency increased.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "State and explain effect on rate of emission when frequency increased.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "State name of phenomenon demonstrated by diffraction pattern.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)(ii)", "description": "Explain conclusion about nature of electrons from pattern.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Explain why dark lines occur in absorption spectrum.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "Calculate energy of level n=3 from given transition wavelengths.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 18,
+    "weighted_sum": 61,
+    "overall_difficulty": 3.39
+  },
+  {
+    "filename": "2024_RVHS_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain using energy conservation why there is a minimum wavelength.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Explain broad continuous spectrum.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Estimate area of film for chest X-ray.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Determine total X-ray energy falling on film.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 34,
+    "overall_difficulty": 4.25
+  },
+  {
+    "filename": "2024_RVHS_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Briefly describe the concept of a photon.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Explain how line spectra provide evidence for discrete energy levels.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Determine frequency of most energetic photons emitted.", "level": 5, "marks": 4, "weighted_score": 20},
+      {"part": "(d)(i)", "description": "Explain why minimum negative potential is needed to reduce current.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Calculate work function of Caesium metal surface.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(iii)", "description": "Show estimated number of photons hitting surface per second.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 57,
+    "overall_difficulty": 4.07
+  },
+  {
+    "filename": "2024_R1_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State and explain one other observation from photoelectric effect for particulate nature.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate threshold wavelength for zinc plate.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate maximum speed of emitted photoelectrons.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Explain why electron motion differs at V=0 and V=+3.0V.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Draw new I-V graph for shorter wavelength radiation.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(c)(i)", "description": "Explain how concentric rings provide evidence for wave nature of electrons.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Calculate de Broglie wavelength of accelerated electrons.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(iii)", "description": "State and explain advantage of electron microscope.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 18,
+    "weighted_sum": 73,
+    "overall_difficulty": 4.06
+  },
+  {
+    "filename": "2024_R1_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how emission line spectra provide evidence for discrete energy levels.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain why Kα wavelength is greater than Kβ.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Explain why there is a minimum wavelength λmin for X-rays.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 24,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2024_NYJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain how images show electrons exhibit both particle-like and wave-like properties.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Calculate de Broglie wavelength of electrons.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Calculate expected value of centre-to-centre distance x.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(a)(iv)", "description": "Suggest why electrons need velocities close to single value.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Explain why scattering light/gamma rays changes electron momentum.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Explain why gamma rays allow more precise position measurement.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 57,
+    "overall_difficulty": 4.38
+  },
+  {
+    "filename": "2024_NJC_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State what is meant by threshold frequency.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Calculate threshold frequency for platinum.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Determine which metals emit electrons for given wavelength range.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iv)1", "description": "Explain why emitted electrons may have KE less than maximum.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iv)2", "description": "Determine which metal is used to collect data in graph.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(i)1", "description": "Show kinetic energy of orbiting electron is given by formula.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(i)2", "description": "Show total energy of orbiting electron is given by formula.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(ii)", "description": "Show de Broglie wavelength formula for orbiting electron.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(iii)", "description": "Show total energy can be expressed as E_n = -k/n^2 and determine k.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(iv)", "description": "Show Balmer series correspond to visible light between 350-700 nm.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 25,
+    "weighted_sum": 112,
+    "overall_difficulty": 4.48
+  },
+  {
+    "filename": "2024_NJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Suggest how LEDs emit light in visible spectrum.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Determine lowest energy of photons emitted by GaAsP:N LED.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)1", "description": "Explain why no light is emitted when voltage is less than VF.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)2", "description": "Explain why VF for blue LED is greater than red LED.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Plot point for GaAsP:N on graph.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Complete graph by drawing line of best fit.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(iii)", "description": "Determine value of n from the line.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(d)(i)", "description": "Determine VF for unknown LED emitting 520 nm.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Calculate resistance of series resistor for safe operation.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(i)", "description": "Show speed of light in silicon.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(e)(ii)", "description": "Determine critical angle for light passing from silicon to air.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(iii)", "description": "Explain why encapsulating chip in suitable material increases efficiency.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 21,
+    "weighted_sum": 82,
+    "overall_difficulty": 3.90
+  },
+  {
+    "filename": "2024_MI_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Identify features in diffraction pattern and explain evidence for wave nature.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)1", "description": "Show de Broglie wavelength formula for accelerated electron.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)2", "description": "Calculate wavelength for V=250 V.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Describe and explain how pattern changes as V is increased.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)", "description": "Show using Heisenberg principle that deflection of man is negligible.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 42,
+    "overall_difficulty": 4.20
+  },
+  {
+    "filename": "2024_MI_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain what is meant by photoelectric effect.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "State wavelength for optimum responsivity.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "State threshold wavelength and explain how determined.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iv)", "description": "Calculate maximum speed of photoelectron.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(v)", "description": "Explain why photocathode should have low work function.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate number of electrons per unit time reaching anode.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate number of incident photons per unit time.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Suggest meaning of 4.8 mA/W responsivity.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Show relationship between R and η is true for 5% η.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)(ii)", "description": "Complete table using equation.", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(iii)", "description": "Plot line η=3% on graph.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Suggest why photomultipliers are electrically insulated.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(ii)", "description": "Suggest possible application of photomultiplier.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 23,
+    "weighted_sum": 84,
+    "overall_difficulty": 3.65
+  },
+  {
+    "filename": "2024_JPJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by threshold frequency.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate energy of incident photon.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate number of photons incident per second.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate threshold wavelength of metal from graph.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "State feature showing accelerating potential is same for W and Ba spectra.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Determine accelerating potential from graph.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 37,
+    "overall_difficulty": 3.36
+  },
+  {
+    "filename": "2024_HCI_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate final speed of electron in electron gun.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Deduce corresponding de Broglie wavelength.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine expression for path difference.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)1", "description": "Describe and explain how de Broglie wavelength changes with voltage.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)2", "description": "Explain why graph shows maxima at certain voltages.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.90
+  },
+  {
+    "filename": "2024_DHS_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain origin of continuous background spectrum.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Determine minimum wavelength of X-ray photons.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine wavelengths of Kα and Kβ emissions.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(c)", "description": "Show using Heisenberg principle electron does not exist inside nucleus.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 39,
+    "overall_difficulty": 4.33
+  },
+  {
+    "filename": "2024_CJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State and explain position of O along EG to obtain part PQ.", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)", "description": "Calculate value of stopping potential V1.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Describe changes to intensity and frequency for graphs B and C.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 32,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2024_ASRJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain significance of sloping section of I-V graph.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Determine maximum speed of photoelectrons from graph.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Sketch new I-V graph when intensity is halved.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "State and explain effect on photocurrent when second lamp is switched on.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 43,
+    "overall_difficulty": 4.30
+  },
+  {
+    "filename": "2024_ACJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by a photon.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Describe appearance of visible line emission spectrum.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Explain how emission line spectra provides evidence for discrete energy levels.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Explain what is meant by ground state.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Calculate energy required to remove electron from ground state.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Show R is 1.09 x 10^7 m^-1.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(ii)", "description": "Calculate longest wavelength of photons emitted.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iii)", "description": "State region of EM spectrum for this wavelength.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(e)(i)", "description": "State evidence that electrons behave like waves.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(e)(ii)", "description": "Determine velocity of electron in allowed orbit.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(e)(iii)", "description": "Determine uncertainty in electron's velocity.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 70,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2023_YIJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Suggest why LED does not operate at full power with AC supply.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Suggest how experiment can be improved to detect threshold voltage.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(iii)", "description": "Determine resistance R needed to achieve threshold p.d.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Show threshold p.d. V is related to wavelength by equation.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Determine gradient of line in graph.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Determine value of Planck constant h.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)", "description": "Suggest reason for discrepancy in graph.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 40,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2023_YIJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by a photon.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Explain why spectrum contains several dark lines.", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(c)(i)", "description": "Show photon energy for 420 nm and 740 nm.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Show changes in energy levels giving rise to dark lines.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Calculate speed of electron with given de Broglie wavelength.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.55
+  },
+  {
+    "filename": "2023_VJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Describe electron diffraction experiment with labelled diagram.", "level": 4, "marks": 5, "weighted_score": 20},
+      {"part": "(b)", "description": "Calculate momentum of electron accelerated through 5.0 kV.", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Calculate de Broglie wavelength of electrons.", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2023_VJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by threshold frequency.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Sketch variation of E_MAX with 1/λ.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "State equation relating gradient to physical constants.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Explain why most electrons have KE less than maximum.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "State and explain effect on photocurrent when wavelength reduced.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 37,
+    "overall_difficulty": 3.70
+  },
+  {
+    "filename": "2023_TMJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Deduce maximum number of spectral lines detectable.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Calculate frequency of photon emitted in n=2 to ground transition.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "State and explain if transitions in gas X can occur.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(a)(iv)", "description": "Deduce conclusions from line emission spectrum of nucleus.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain why X-ray radiation is detected from lead container.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Determine momentum of X-ray photon with 100 keV energy.", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iii)", "description": "Calculate force on surface from X-ray photons.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "State an experiment and explain how it shows particulate nature of EM radiation.", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 75,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2023_SAJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine wavelength of unknown radiation from graph.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Explain why unknown radiation produces lower saturation current.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain why there is a maximum frequency in X-ray spectrum.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Determine maximum energy of X-ray photons emitted.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Sketch graph for increased filament current.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iv)", "description": "Sketch graph for reduced accelerating potential.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Deduce energy levels involved in producing 436 nm line.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "State and explain minimum value of V for transition.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 47,
+    "overall_difficulty": 3.92
+  },
+  {
+    "filename": "2023_SAJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Suggest why gradient forces need to be larger than scattering forces.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Estimate maximum displacement for Hooke's Law approximation.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Determine radial spring constant k from graph.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)1", "description": "Explain why oscillation is simple harmonic.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)2", "description": "Determine frequency of oscillation.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)", "description": "Sketch variation of potential energy with radial displacement.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(d)", "description": "Explain how refraction of light exerts a force on glass bead.", "level": 5, "marks": 4, "weighted_score": 20},
+      {"part": "(e)(i)", "description": "Calculate momentum of incident photon.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(ii)", "description": "Calculate magnitude of impulse in axial direction.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(f)", "description": "Suggest why maximum axial restoring force at P is higher than Q.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 88,
+    "overall_difficulty": 4.40
+  },
+  {
+    "filename": "2023_RVHS_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain significance of negative energy levels.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate energy of photon with 590 nm wavelength.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Explain presence of helium in Sun's atmosphere.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Suggest why dark line at 590 nm is still observed.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 20,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2023_RI_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate maximum kinetic energy of photoelectrons.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Determine threshold frequency of metal A.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Explain whether max KE is affected by intensity.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)", "description": "Sketch I-V characteristic for metal B with higher threshold frequency.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 32,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2023_NYJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Identify and explain features providing evidence for wave nature.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Calculate momentum of electron after acceleration.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate de Broglie wavelength.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "State and explain changes when accelerating potential increased.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "State and explain changes when electron beam current increased.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 40,
+    "overall_difficulty": 3.64
+  },
+  {
+    "filename": "2023_NJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how emission spectrum leads to understanding of discrete energy levels.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Draw electron transitions on energy level diagram.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Calculate maximum change in electron energy.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)1", "description": "Explain origin of change in momentum of hydrogen atom.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)2", "description": "Calculate change in momentum of hydrogen atom.", "level": 5, "marks": 1, "weighted_score": 5}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.90
+  },
+  {
+    "filename": "2023_MI_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State similarity and difference between absorption and emission spectra.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Complete table by calculating photon energy.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Draw additional energy level on diagram.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)", "description": "State possible kinetic energies of scattered electron.", "level": 5, "marks": 4, "weighted_score": 20},
+      {"part": "(d)(i)", "description": "Explain how characteristic X-ray photons are produced.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Determine minimum potential difference V0.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iii)", "description": "Sketch new spectrum when potential difference increased.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 58,
+    "overall_difficulty": 4.14
+  },
+  {
+    "filename": "2023_JPJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Draw de-excitation transitions on energy level diagram.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Sketch positions of emission lines on spectrum.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "State and explain number of emission lines with photon bombardment.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Explain why X-ray tube is evacuated.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Explain what is meant by a photon.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Determine maximum energy of X-ray photons emitted.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Show accelerating voltage required is 310 kV.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.60
+  },
+  {
+    "filename": "2023_HCI_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why energy levels are negative.", "level": 2, "marks": 3, "weighted_score": 6},
+      {"part": "(b)", "description": "Identify transition for shortest wavelength.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Calculate wavelength and state region of spectrum.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(i)", "description": "List possible transitions for electron bombardment.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(d)(ii)", "description": "List possible transitions for photon bombardment.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(e)", "description": "Suggest application of emission spectrum.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 45,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2023_EJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why spectrum contains dark lines.", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(a)(ii)", "description": "Draw transitions giving dark lines on energy level diagram.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Sketch graph of I vs f.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Sketch graph of I vs V.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Sketch graph of I vs P.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Calculate number of electrons emitted by tenth dynode.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Determine rate of photoelectrons from cathode.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)(iii)", "description": "Determine power of incident light.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)(iv)", "description": "Determine de Broglie wavelength of electrons.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 17,
+    "weighted_sum": 74,
+    "overall_difficulty": 4.35
+  },
+  {
+    "filename": "2023_DHS_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by a photon.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "State three pieces of evidence for particulate nature.", "level": 1, "marks": 3, "weighted_score": 3},
+      {"part": "(c)", "description": "Determine whether electrons will be emitted.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(i)", "description": "State what is meant by ground state.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(ii)", "description": "Explain difference between excitation and ionisation.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "Explain why only certain frequencies cause excitation.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(f)", "description": "Sketch line emission spectrum.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(g)(i)", "description": "State changes in Δp and Δx when atom is made smaller.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(g)(ii)", "description": "Explain how change in Δp affects kinetic energy.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(g)(iii)", "description": "Explain why there is a minimum radius for electron orbit.", "level": 5, "marks": 1, "weighted_score": 5}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 66,
+    "overall_difficulty": 3.30
+  },
+  {
+    "filename": "2023_CJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Describe how continuous spectrum is produced.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 3,
+    "weighted_sum": 12,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2023_CJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Use particulate theory to explain threshold frequency.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Calculate maximum kinetic energy for 500 nm.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate energy of photon for 500 nm.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)1", "description": "Determine work function energy.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)2", "description": "Determine maximum photon wavelength.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Suggest why max wavelength cannot be deduced directly from graph.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.55
+  },
+  {
+    "filename": "2023_CJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how line emission spectrum is explained by discrete energy levels.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Label energy values for n=2 and n=3.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate wavelength of emitted light for n=3 to n=2.", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iii)", "description": "State region of EM spectrum for transitions to ground state.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iv)", "description": "Describe one way to raise electron to higher energy level.", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.11
+  },
+  {
+    "filename": "2023_ASRJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how line spectrum provides evidence for discrete energy levels.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Estimate wavelength of emission line X.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Draw energy level for 410 nm photons.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)", "description": "Explain observation for given electron kinetic energy.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(e)", "description": "Describe situation showing wave nature of electrons.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(f)", "description": "Determine de Broglie wavelength of electrons.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 48,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2023_ACJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by a photon.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate momentum of photon.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine minimum uncertainty in momentum.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Explain how emission line spectrum provides evidence for discrete energy levels.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)", "description": "Determine energy of higher energy level.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(i)", "description": "State equation showing relationship between Vs, λ and Φ.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(e)(ii)", "description": "Determine Planck's constant from graph.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 49,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2022_YIJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by r.m.s. value of alternating voltage.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Calculate root-mean-square voltage of supply.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "State whether diodes are forward or reverse biased.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Calculate maximum p.d. across resistor P.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Sketch variation of VP with time.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2022_VJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Use quantum theory to explain observations with violet and red light.", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)", "description": "Show photons below threshold frequency cannot remove electrons.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Explain shape of Ek vs f graph.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Use graph to determine Planck constant.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 40,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2022_TMJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)1", "description": "Determine energy to remove electron from ground state.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(i)2", "description": "Explain result of 11.0 eV electron collision.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(i)3", "description": "Explain result of 11.0 eV photon passing through atom.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Describe what happens for n=4 to ground transition.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Calculate minimum wavelength for 105 kV.", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Sketch graph for higher Z metal with reduced filament current.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 42,
+    "overall_difficulty": 3.82
+  },
+  {
+    "filename": "2022_TJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Describe how line spectra can be explained by discrete energy levels.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Explain why energy of each level is negative.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iii)", "description": "Calculate energies and construct energy level diagram.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iv)", "description": "Determine highest energy level atom can reach.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(v)", "description": "Calculate shortest wavelength of emitted photons.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate accelerating potential from X-ray spectrum.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Explain sharp peaks in X-ray spectrum.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 54,
+    "overall_difficulty": 3.86
+  },
+  {
+    "filename": "2022_SAJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine number of electrons per second reaching electrode.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)1", "description": "State change in max energy when intensity increased.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)2", "description": "State and explain change in photocurrent.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Define work function energy.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "State and explain which metal has lowest threshold frequency.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Determine maximum kinetic energy for magnesium.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Calculate de Broglie wavelength of emitted electron.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 42,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2022_RVHS_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain how instantaneous emission supports particulate nature.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Suggest why emitted electrons have range of energies.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(iii)1", "description": "Determine work function from graph.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(iii)2", "description": "Determine Planck's constant from graph.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iv)", "description": "State and explain effect of increasing intensity on Emax.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Determine transition resulting in dark line at 663 nm.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(ii)", "description": "Show E is inversely proportional to n^2.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 53,
+    "overall_difficulty": 4.42
+  },
+  {
+    "filename": "2022_RI_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why threshold frequency provides evidence for particulate nature.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Use graph to determine work function Φ.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)1", "description": "Determine stopping potential from graph.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)2", "description": "Determine de Broglie wavelength of electron with max KE.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)", "description": "Draw line for metal with twice work function.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 50,
+    "overall_difficulty": 4.17
+  },
+  {
+    "filename": "2022_NYJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State what is meant by de Broglie wavelength.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Show de Broglie wavelength is 1.08e-10 m.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Explain why electron diffraction will be observed.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Draw diffraction pattern to scale.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 32,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2022_NYJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Distinguish between emission and absorption line spectra.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Use energy level diagram to explain why spectrum is a line spectrum.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Describe one way to raise electron from ground state.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "State total number of different wavelengths emitted.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iv)", "description": "Calculate wavelength and suggest type of radiation.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 29,
+    "overall_difficulty": 3.63
+  },
+  {
+    "filename": "2022_NJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by photoelectric effect.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Use particulate theory to explain threshold frequency.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Explain why there is a minimum stopping potential.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Explain why current does not continue to increase for positive V.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(iii)", "description": "Calculate frequency of EM radiation from graph.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iv)", "description": "Sketch graph when intensity doubled.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 37,
+    "overall_difficulty": 3.70
+  },
+  {
+    "filename": "2022_NJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by emission line spectrum.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Explain how line spectrum provides evidence for discrete energy levels.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Explain why transition C cannot be observed.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(i)", "description": "Explain how diffraction and interference lead to first order maxima.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(d)(ii)", "description": "Determine position x for λ2.", "level": 5, "marks": 4, "weighted_score": 20}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 61,
+    "overall_difficulty": 4.36
+  },
+  {
+    "filename": "2022_NJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by a photon.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)1", "description": "Write equation for conservation of energy.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)2", "description": "Write equation for conservation of momentum.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Suggest whether scattered photon wavelength is greater or less.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(c)", "description": "Show change in wavelength is independent of incident wavelength.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(d)", "description": "Determine value of cos θ with uncertainty.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(e)(i)", "description": "Draw best-fit line on graph.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(e)(ii)", "description": "State and explain ways to determine k from graph.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(e)(iii)", "description": "Determine constant k with unit.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(f)", "description": "Suggest whether assumption of free electrons is justified.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 86,
+    "overall_difficulty": 4.30
+  },
+  {
+    "filename": "2022_MI_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate maximum kinetic energy of ejected photoelectron.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate stopping potential.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "State and explain effect of doubling intensity.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "State Heisenberg's Uncertainty Principle.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "Show maximum y-component of momentum.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(iii)", "description": "Estimate minimum uncertainty in y-coordinate.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)", "description": "Calculate angle θ for 2nd order maxima.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(d)(i)", "description": "Calculate photon energies for emission lines.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Map partial energy level diagram.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 17,
+    "weighted_sum": 71,
+    "overall_difficulty": 4.18
+  },
+  {
+    "filename": "2022_JPJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by work function.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Determine whether electrons are emitted for 540 nm light.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Explain whether conclusion is affected by intensity.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "State ionisation energy of X.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(ii)", "description": "Determine number of different wavelengths emitted.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iii)", "description": "Draw spectral lines on diagram.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iv)", "description": "Determine wavelength of highest energy radiation.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 45,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2022_HCI_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State phenomenon of electrons ejected from metal by light.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Determine maximum kinetic energy of ejected electrons.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate maximum momentum of ejected electrons.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Calculate electron current produced.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(e)", "description": "Determine maximum work function for visible light range.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.80
+  },
+  {
+    "filename": "2022_EJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by a photon.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Determine max and min photon energies in visible spectrum.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Explain why dark lines are observed in absorption spectrum.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Draw arrows for electron promotion in absorption.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "State and explain changes to absorption spectrum when gas cooled.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)1", "description": "Determine minimum V for emission spectrum with three bright lines.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)(ii)2", "description": "Find shortest wavelength of visible light emitted.", "level": 5, "marks": 1, "weighted_score": 5}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.90
+  },
+  {
+    "filename": "2022_EJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Sketch variation of stopping potential Vs with frequency f.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate maximum p.d. across diode.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Sketch waveform across PQ.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 4,
+    "weighted_sum": 15,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2022_EJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show electron speed is 4.0e6 m/s for 45 V.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Determine de Broglie wavelength.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Explain why electrons form a line of bright spots.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Explain how spacing between spots varies with accelerating potential.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.88
+  },
+  {
+    "filename": "2022_DHS_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by energy is quantised.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Indicate wavelength in visible region on graph.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Suggest why object glows red at 1100 K.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Suggest and explain property of radiation for temperature measurement.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "State advantage and disadvantage of radiation temperature measurement.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Show relation between electron speed and orbital radius.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(d)(ii)", "description": "Calculate Bohr radius ro.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(d)(iii)", "description": "Show total energy of electron in ground state is -13.6 eV.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(e)(i)", "description": "Calculate minimum wavelength for Lyman series.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(e)(ii)", "description": "Show Eλ = 1.99e-16 J nm.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(iii)", "description": "Complete table for photon energies.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(e)(iv)", "description": "Map partial energy level diagram for Lyman series.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(e)(v)", "description": "Identify transition for 434.1 nm line.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 22,
+    "weighted_sum": 93,
+    "overall_difficulty": 4.23
+  },
+  {
+    "filename": "2022_DHS_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State experimental phenomenon for wave nature of matter.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Calculate de Broglie wavelength of electrons.", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(i)", "description": "Explain how particulate nature accounts for threshold frequency.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Calculate work function of calcium.", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.11
+  },
+  {
+    "filename": "2022_CJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why current remains constant for positive V.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Determine wavelength of UV source from graph.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Sketch graph for one-quarter intensity.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Explain which metal plate has greater work function.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 38,
+    "overall_difficulty": 4.22
+  },
+  {
+    "filename": "2022_CJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why there is a minimum wavelength λ0.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Show λ0 equals 0.024 nm.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Sketch graph for reduced accelerating potential.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 19,
+    "overall_difficulty": 3.80
+  },
+  {
+    "filename": "2022_ASRJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why lamps take time to achieve full brightness.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Calculate p.d. across 16 Ω resistor.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Determine p.d. between X and Y.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "State whether X or Y is at higher potential.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)", "description": "Show current in lamps is 0.10 A.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(e)", "description": "Calculate ratio of power dissipated by lamps to power produced.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(f)", "description": "State and explain effect of changing resistor on ratio.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 43,
+    "overall_difficulty": 3.91
+  },
+  {
+    "filename": "2022_ASRJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State one advantage of solid-state batteries.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)1", "description": "Suggest application of bulk solid-state battery.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(ii)2", "description": "Suggest application of thin film solid-state battery.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(iii)", "description": "Suggest one difference between bulk and thin film batteries.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Deduce meaning of current density from units.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Deduce meaning of energy density from units.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Calculate recommended charge-storage capacity.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Calculate recommended maximum discharge current.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iii)", "description": "Calculate duration of maximum current supply.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iv)", "description": "Calculate energy supply during this duration.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "State significance of area under charging graph.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(ii)", "description": "Estimate average charging current.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(e)", "description": "Deduce electrical efficiency of charge/discharge cycle.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(f)(i)", "description": "Suggest reason for temperature safety consideration.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(f)(ii)", "description": "Suggest reason for water safety consideration.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(g)", "description": "Draw circuit diagram to achieve required current and voltage.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 72,
+    "overall_difficulty": 3.60
+  },
+  {
+    "filename": "2022_ACJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain what is meant by a photon.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Show photon energy is 3.19 eV.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)1", "description": "Sketch Ek vs f graphs for sodium and iron.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)2", "description": "State and explain changes to gradient and intercept when intensity doubled.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "State ionisation energy of hydrogen atom.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "Explain why energy levels are negative.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Explain why dark lines occur in absorption spectrum.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 43,
+    "overall_difficulty": 3.07
+  },
+  {
+    "filename": "2021_YIJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State three pieces of evidence for particulate nature.", "level": 1, "marks": 3, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Explain what is meant by work function energy.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Calculate energy of photon at 380 nm.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine which metals emit photoelectrons.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Calculate force exerted on metal surface by photons.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.09
+  },
+  {
+    "filename": "2021_VJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State and explain type of hydrogen spectrum from point X.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(a)(ii)", "description": "State and explain type of hydrogen spectrum from point Y.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(a)(iii)", "description": "Suggest how observations provide evidence for discrete energy levels.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain why there is a continuous distribution of wavelengths.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Sketch new spectrum for half kinetic energy.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 44,
+    "overall_difficulty": 4.40
+  },
+  {
+    "filename": "2021_VJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain energy transformation during photoelectric emission.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate maximum kinetic energy of photoelectrons.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate frequency of EM radiation.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Sketch graph for doubled intensity.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Sketch graph for metal Q.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.80
+  },
+  {
+    "filename": "2021_TMJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Distinguish between emission and absorption spectra.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Explain how line emission spectrum is formed.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Sketch possible transitions on energy level diagram.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(iv)", "description": "Sketch resulting line emission spectrum.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Show max energy of X-ray photons is 1.5e-14 J.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate momentum of electrons striking target.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Calculate de Broglie wavelengths of electrons.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "State which characteristic wavelength has highest probability.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(v)", "description": "Sketch resulting X-ray spectrum when cathode power increased.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 15,
+    "weighted_sum": 59,
+    "overall_difficulty": 3.93
+  },
+  {
+    "filename": "2021_TJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Identify features in diffraction pattern and explain evidence for wave nature.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)1", "description": "Show de Broglie wavelength formula.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)2", "description": "Calculate wavelength for V=250 V.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Describe and explain how pattern changes as V is increased.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)", "description": "Show using Heisenberg principle that man's deflection is negligible.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 42,
+    "overall_difficulty": 4.20
+  },
+  {
+    "filename": "2021_SAJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why there is a continuous distribution of wavelengths.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Explain why there are narrow peaks at certain wavelengths.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "Calculate wavelength of highest energy X-ray photon.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iv)", "description": "Draw new spectrum for increased potential difference.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate uncertainty in momentum of electron.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Suggest significance of this uncertainty.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Explain how classical and quantum theories differ on light intensity.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Explain how classical and quantum theories differ on absorption.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Use graph to determine threshold frequency f0.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Sketch graph for metal with larger work function.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 18,
+    "weighted_sum": 70,
+    "overall_difficulty": 3.89
+  },
+  {
+    "filename": "2021_SAJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Sketch vector triangle for conservation of momentum.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Calculate final momentum p3 of deflected photon.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Calculate kinetic energy of deflected electron.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iv)", "description": "Determine p2 and θ using vector triangle.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 34,
+    "overall_difficulty": 4.25
+  },
+  {
+    "filename": "2021_RVHS_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State what is meant by threshold frequency.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Explain why photoelectric effect is not observed below threshold.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate threshold frequency for metal.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate energy of a single photon.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate maximum speed of emitted electrons.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iv)", "description": "Calculate de Broglie wavelength of fastest electrons.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "State what happens when line spectra are produced.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "State transition and determine wavelength of visible line.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(d)(i)", "description": "Distinguish between mechanisms for characteristic X-ray and line spectra.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Estimate maximum velocity of incoming electrons.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 76,
+    "overall_difficulty": 3.80
+  },
+  {
+    "filename": "2021_RI_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show momentum of electron is 3.0e-27 kg m/s.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Determine wavelength of UV light with same momentum.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Explain why energy levels are negative.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Determine longest wavelength of UV radiation emitted.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Draw arrows on energy level diagram for phosphor transitions.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.38
+  },
+  {
+    "filename": "2021_NYJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why there is a continuous distribution of wavelengths.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)1", "description": "Calculate energy difference for characteristic line K in keV.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)2", "description": "Suggest why other characteristic lines at longer wavelengths.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "State uncertainty in locating position of electron.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate uncertainty in velocity of electron.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Suggest why electron cannot be found inside nucleus.", "level": 5, "marks": 1, "weighted_score": 5}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 36,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2021_NJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how line spectrum provides evidence for discrete energy levels.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Explain why electrons are emitted with different KE.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)1", "description": "Deduce other wavelengths causing emission.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(ii)2", "description": "Explain whether answer is affected by intensity.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 42,
+    "overall_difficulty": 4.20
+  },
+  {
+    "filename": "2021_MI_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain meaning of diffraction.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "State condition for observable electron diffraction.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "State what is meant by de Broglie wavelength.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "Calculate de Broglie wavelength for V=120 V.", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(iii)", "description": "State and explain how diffraction pattern changes.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2021_MI_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State total number of different wavelengths emitted.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)1", "description": "Determine maximum KE of photoelectron.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)2", "description": "Determine wavelength of photon.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Explain how range of electron velocities predicts existence of neutrinos.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2021_JPJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State what is meant by a photon.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Explain first excitation energy of hydrogen.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate frequency of EM radiation for E3 to E1.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine wavelength for E2 to E1 transition.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Explain process giving rise to characteristic peaks.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 29,
+    "overall_difficulty": 3.22
+  },
+  {
+    "filename": "2021_JPJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why short emission time provides evidence for particulate nature.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Explain what is meant by work function.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iii)", "description": "Explain why emitted electrons have a range of KE.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "State which combinations give photoelectric emission.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 33,
+    "overall_difficulty": 4.13
+  },
+  {
+    "filename": "2021_HCI_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain what is meant by a photon.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Show rate of incidence of photons is 3.2e15 s^-1.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "Calculate photoelectric quantum yield.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Use graph to determine Planck constant.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Determine work function of silver.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.45
+  },
+  {
+    "filename": "2021_EJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State two observations for particulate nature.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Use graph to determine threshold frequency f0.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Use graph to determine Planck constant h.", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(c)", "description": "Sketch graph for metal with larger work function.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.40
+  },
+  {
+    "filename": "2021_EJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Use discrete energy levels to explain dark lines.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Explain continuous distribution of wavelengths.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Explain narrow peaks of increased intensity.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 36,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2021_DHS_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State what is meant by a photon.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "State what is meant by work function energy.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)1", "description": "Mark threshold frequency on graph.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)2", "description": "Draw line for metal with higher work function.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "State information provided by gradient.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Explain why kinetic energy varies up to a maximum.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iv)", "description": "Explain why graphs do not depend on intensity.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "State ionisation energy of atom.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)1", "description": "Draw transitions responsible for photons.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)2", "description": "Calculate wavelength and state region.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(i)", "description": "State what is meant by de Broglie wavelength.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(d)(ii)", "description": "Calculate speed of electron.", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)(iii)", "description": "Suggest how electrons assist with understanding crystal structure.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 67,
+    "overall_difficulty": 3.35
+  },
+  {
+    "filename": "2021_CJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State two observations not explained by wave nature.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Suggest why electrons have range of KE.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Suggest why no value for Ek for 650 nm.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Determine work function energy from data.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "State and explain effect on current when intensity reduced.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2021_ASRJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Draw third possible transition on energy level diagram.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Calculate wavelength of emitted light for the transition.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "State and explain appearance of emergent spectrum.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Explain continuous distribution of wavelengths.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Explain sharp cut-off at short wavelength.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.90
+  },
+  {
+    "filename": "2021_ACJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain how Observation 1 supports particle theory.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Explain how Observation 2 supports particle theory.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)1", "description": "Calculate energy of photon.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)2", "description": "Calculate number of photons incident per unit time.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Calculate force normal to surface.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(iii)", "description": "Explain effect of absorption on force.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 49,
+    "overall_difficulty": 4.08
+  },
+  {
+    "filename": "2020_YIJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show photon energy is 3.5e-19 J.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Calculate change in momentum per unit time.", "level": 5, "marks": 4, "weighted_score": 20},
+      {"part": "(b)(i)", "description": "Use graph to determine work function energy in eV.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Draw line for metal with greater work function.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Explain why graphs do not depend on intensity.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Calculate time for photon to travel across gold atom.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Suggest maximum uncertainty in time.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(iii)", "description": "Suggest why energy may not be equal to free-space photon.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 15,
+    "weighted_sum": 64,
+    "overall_difficulty": 4.27
+  },
+  {
+    "filename": "2020_TMJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State total number of possible emission transitions.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Show shortest wavelength is 405 nm.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "State what is meant by photoelectric effect.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "Explain how photocell detects objects.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Draw graphs for metals A and B.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "State and explain which metal should be used.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)(iii)", "description": "Explain quantitatively whether photocell still functions with reversed polarity.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 53,
+    "overall_difficulty": 4.08
+  },
+  {
+    "filename": "2020_TJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Deduce type of EM radiation from A to D transition.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Calculate recoil speed of electron after collision.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(a)(iii)", "description": "Indicate possible transitions and justify.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(a)(iv)", "description": "Determine maximum wavelength of emitted photons.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Suggest deductions from line emission spectrum of nucleus.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "State and explain spectrum from point X.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)(ii)", "description": "State and explain spectrum from point Y.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(d)(i)", "description": "Calculate shortest wavelength for 40 kV.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(ii)", "description": "Sketch X-ray spectrum for 50 kV.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 88,
+    "overall_difficulty": 4.40
+  },
+  {
+    "filename": "2020_TJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate number of photons incident in 1.00 s.", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Determine total momentum of photons.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate force exerted on surface.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Explain why force is generally lower.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.38
+  },
+  {
+    "filename": "2020_SAJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain meaning of Φ.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain meaning of Ek.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate stopping potential.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine maximum photoelectric current.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Provide reason for quantum yield less than 1.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(i)", "description": "Determine maximum energy of X-ray photons.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(ii)", "description": "Calculate accelerating potential difference V.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(iii)", "description": "Sketch graph for increased filament current.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(iv)", "description": "Calculate number of electrons bombarding target per second.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 15,
+    "weighted_sum": 52,
+    "overall_difficulty": 3.47
+  },
+  {
+    "filename": "2020_RVHS_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Briefly explain formation of continuous spectrum.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Explain formation of Kβ line.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Suggest why Kα line has higher intensity than Kβ.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 20,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2020_RVHS_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain what is meant by photoelectric effect.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "State wavelength for optimum responsivity.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Explain how threshold frequency is determined.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iv)", "description": "Calculate maximum speed of photoelectron.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(v)", "description": "Explain why photocathode should have low work function.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Calculate number of electrons per unit time reaching anode.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate number of incident photons per unit time.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Suggest meaning of 4.8 mA/W responsivity.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Show relationship between R and η is true.", "level": 5, "marks": 1, "weighted_score": 5},
+      {"part": "(c)(ii)", "description": "Complete table for η=3%.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(iii)", "description": "Plot line η=3% on graph.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Suggest why photomultipliers are shielded and insulated.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(ii)", "description": "Suggest application of photomultiplier.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 76,
+    "overall_difficulty": 3.80
+  },
+  {
+    "filename": "2020_RI_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain formation of continuous spectrum.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Determine λ0 for 50 kV.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Sketch Lα and Lβ peaks.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Determine gradient of Vs vs f graph.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine work function of potassium.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Sketch graph for tungsten.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 44,
+    "overall_difficulty": 3.67
+  },
+  {
+    "filename": "2020_NYJC_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain evidence from photoelectric effect for failure of wave theory.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Circle portion of graph for F to G.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Sketch graph for UV radiation.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Explain what is meant by work function.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(ii)", "description": "Determine maximum speed of photoelectron.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(iii)", "description": "Calculate minimum de Broglie wavelength.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(i)", "description": "Explain part played by diffraction in producing concentric circles.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(e)(ii)", "description": "Show spacing between carbon atoms is 140 pm.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(e)(iii)1", "description": "Sketch ring for first order maxima.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(e)(iii)2", "description": "Explain answer to (iii)1.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 82,
+    "overall_difficulty": 4.10
+  },
+  {
+    "filename": "2020_NJC_P3_q10.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why threshold frequency provides evidence for particulate nature.", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(i)", "description": "Calculate de Broglie wavelength of accelerated electron.", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(ii)", "description": "Suggest why such electrons assist with crystal structure understanding.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Explain how hydrogen spectrum provides evidence for discrete energy levels.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)1", "description": "Draw transition for longest wavelength in visible spectrum.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(ii)2", "description": "Determine shortest wavelength of emitted photons.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "State and explain appearance of emergent spectrum.", "level": 5, "marks": 4, "weighted_score": 20}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 84,
+    "overall_difficulty": 4.20
+  },
+  {
+    "filename": "2020_MI_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by a photon.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Calculate energy of incident photon.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "State and explain term work function.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Explain how stopping potential changes with wavelength.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)", "description": "Explain why photocurrent reaches a maximum value.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "Draw new graph for increased intensity.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.17
+  },
+  {
+    "filename": "2020_MI_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how characteristic X-ray lines and continuous spectrum are produced.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Determine maximum energy of X-ray photons.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Show accelerating voltage Va is 155 kV.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Calculate speed of electrons hitting target.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Suggest why wave properties of electrons are not observable.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.80
+  },
+  {
+    "filename": "2020_JPJC_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by work function energy.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)1", "description": "Explain significance of sloping section of graph.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)2", "description": "Calculate maximum speed of photoelectrons.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)3", "description": "Calculate number of electrons collected per second.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)4", "description": "Calculate number of photons incident per second.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)5", "description": "Sketch graph for halved intensity.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)1", "description": "Use graph to determine Planck constant.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)2", "description": "Determine work function energy in eV.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)3", "description": "Draw line for metal with lower work function.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Show number of photons incident is 7.6e14 s^-1.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Calculate magnitude of force exerted.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 74,
+    "overall_difficulty": 3.70
+  },
+  {
+    "filename": "2020_HCI_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)(i)1", "description": "Explain origins of characteristic lines.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(i)2", "description": "Explain origins of cutoff wavelength.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Determine cutoff wavelength for 75.0 kV.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Sketch new spectrum for decreased potential difference.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Deduce energy level EN in keV.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(ii)", "description": "Suggest reason for low intensity of certain transitions.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Calculate lattice spacing a.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Sketch beams for second order maxima.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(iii)", "description": "Calculate angle θ2 for second order maxima.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Calculate maximum wavelength of electrons.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Find minimum speed of electrons.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 80,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2020_EJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain whether photoelectrons are emitted.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Explain how increasing power affects answer.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Calculate rate of emission of photons.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Determine radiation pressure exerted.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(c)(ii)", "description": "Explain how answer changes if radiation is reflected.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 38,
+    "overall_difficulty": 4.22
+  },
+  {
+    "filename": "2020_DHS_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by a photon.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Draw arrow for initial direction of electron.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)1", "description": "Calculate change in energy of deflected photon.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)2", "description": "Calculate speed of electron after deflection.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(iii)", "description": "Calculate angle θ through which photon is deflected.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(c)(i)", "description": "Calculate maximum KE of photoelectrons.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate stopping potential.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Explain why kinetic energy is maximum.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(i)", "description": "Calculate remaining energy of recoiling electron.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(d)(ii)", "description": "State and explain whether photon causes transition.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 79,
+    "overall_difficulty": 3.95
+  },
+  {
+    "filename": "2020_CJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Draw possible energy transitions on helium energy diagram.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Calculate shortest wavelength of emitted radiation.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Use energy diagram to explain dark line at 471 nm.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 31,
+    "overall_difficulty": 4.43
+  },
+  {
+    "filename": "2020_CJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why photocurrent does not increase for positive V.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Determine energy of photon.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate rate of photon incidence.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Show maximum rate of photoelectron emission.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iv)", "description": "Suggest reason for difference.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Calculate work function energy.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Sketch graph for half work function.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.44
+  },
+  {
+    "filename": "2020_ASRJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how electric discharge lamp produces light.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Describe appearance of visible emission line spectrum.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Draw transition for shortest wavelength.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)1", "description": "Determine shortest wavelength.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)2", "description": "State number of lines in spectrum.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)3", "description": "Sketch line spectrum for three shortest wavelengths.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(i)", "description": "Determine work function energy of metal A.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(ii)1", "description": "Determine number of photons incident per second.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)2", "description": "State reason for low quantum yield.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(iii)1", "description": "Describe and explain change when radiation polarised.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(d)(iii)2", "description": "Describe and explain change with lower work function metal.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iv)", "description": "Suggest whether light exerts pressure on surface.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 80,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2020_ACJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)1", "description": "Show work function of zinc is 3.8 eV.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(i)2", "description": "Explain why stopping potential remains same with intensity change.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)1", "description": "Explain why photocurrent has positive values only.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)2", "description": "Explain why photocurrent has both positive and negative values.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)1", "description": "State and explain one similarity between graphs A and B.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)2", "description": "State and explain one difference between graphs A and B.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Determine potential difference for graph A.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)1", "description": "Determine two least energetic photons for tungsten Kα.", "level": 5, "marks": 1, "weighted_score": 5},
+      {"part": "(b)(iii)2", "description": "Determine two least energetic photons for molybdenum Kα.", "level": 5, "marks": 1, "weighted_score": 5},
+      {"part": "(b)(iv)", "description": "Comment on element(s) used based on calculations and graph.", "level": 5, "marks": 4, "weighted_score": 20}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 86,
+    "overall_difficulty": 4.30
+  },
+  {
+    "filename": "2019_YIJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why spectrum contains dark lines.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "State total number of wavelengths emitted.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)1", "description": "Determine maximum KE of photoelectron.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)2", "description": "Determine wavelength of photon.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)3", "description": "Calculate uncertainty of photoelectron's position.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(c)(i)", "description": "Suggest how rings provide evidence for wave nature.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "State and explain effect on radii when speed increased.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 57,
+    "overall_difficulty": 4.07
+  },
+  {
+    "filename": "2019_VJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State what is meant by photoelectric effect.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "State two observations for particulate nature.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(iii)", "description": "Describe experiment to determine maximum KE.", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)", "description": "State forms of energy of orbiting electron.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)1", "description": "State and explain spectrum from point A.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)(i)2", "description": "State and explain spectrum from point B.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)(ii)1", "description": "Calculate frequency for n=4 to n=2.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)2", "description": "Determine wavelength for n=3 to n=2.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(d)(i)", "description": "Calculate de Broglie wavelength of neutron.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(ii)", "description": "Explain why harder to demonstrate wave nature of neutrons.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 75,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2019_TMJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why there is a minimum wavelength for X-rays.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Calculate accelerating voltage.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Indicate Kα transition on diagram.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate wavelength of Kα characteristic X-ray.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Explain whether Kα is produced.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(c)(i)", "description": "Estimate order of spacing between DNA molecules.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)(ii)", "description": "Calculate momentum of electrons.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 15,
+    "weighted_sum": 62,
+    "overall_difficulty": 4.13
+  },
+  {
+    "filename": "2019_TJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain meaning of diffraction.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "State condition for observable diffraction.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "State what is meant by de Broglie wavelength.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "Calculate de Broglie wavelength for V=120 V.", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(iii)", "description": "State and explain how diffraction pattern changes.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2019_SAJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why emitted photons have specific wavelengths.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Calculate shortest characteristic wavelength.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Explain similarities and differences of X-ray spectra.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(c)", "description": "State wave-particle duality and give examples.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 43,
+    "overall_difficulty": 4.30
+  },
+  {
+    "filename": "2019_RVHS_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain what is meant by photoelectric effect.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Determine number of electrons striking anode.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Deduce rate of electrons emitted at photocathode.", "level": 5, "marks": 4, "weighted_score": 20},
+      {"part": "(a)(iv)", "description": "Calculate energy of single photon.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(v)", "description": "Calculate maximum KE of electrons from photocathode.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(vi)", "description": "Calculate maximum possible speed at first dynode.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(i)1", "description": "State spectrum from point A.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)2", "description": "State spectrum from point B.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)1", "description": "Determine wavelength for E2 to E1 transition.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(ii)2", "description": "Determine shortest wavelength emitted.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)3", "description": "State colour of shortest wavelength.", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 78,
+    "overall_difficulty": 3.90
+  },
+  {
+    "filename": "2019_NYJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why spectrum contains 2 dark lines.", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(i)", "description": "Calculate wavelength for m=4.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine minimum wavelength.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)1", "description": "Determine energy of 3 other levels.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(iii)2", "description": "Draw transitions for dark lines.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 46,
+    "overall_difficulty": 3.83
+  },
+  {
+    "filename": "2019_NJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by a photon.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Calculate energy of one photon.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Show photons emitted per second.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)", "description": "Draw transition on energy level diagram.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(e)(i)", "description": "Draw direction of electron motion.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(e)(ii)", "description": "Calculate current through photodiode.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(e)(iii)", "description": "Suggest reason for efficiency less than 100%.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.60
+  },
+  {
+    "filename": "2019_MI_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Draw diagram and explain evidence for particulate nature.", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(i)", "description": "State modification to increase energy of photoelectron.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "State modification to increase rate of production.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Describe and explain experiment for wave nature of light.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.90
+  },
+  {
+    "filename": "2019_JPJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State ionisation energy of atom X.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Determine number of different wavelengths emitted.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "Suggest number of wavelengths with photons and explain.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(i)", "description": "State feature showing same accelerating potential.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Determine accelerating potential.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 33,
+    "overall_difficulty": 4.13
+  },
+  {
+    "filename": "2019_JPJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain what is meant by work function.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain why emitted electrons have range of KE.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "Calculate wavelength of radiation.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate minimum time for emission in wave model.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Explain how no time lag provides evidence for particulate nature.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 29,
+    "overall_difficulty": 3.63
+  },
+  {
+    "filename": "2019_HCI_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate de Broglie wavelength of electrons.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "State range of energy of recoiling electrons.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)", "description": "Sketch transitions representing photons produced.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)", "description": "Calculate wavelength of most energetic photon and state region.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(e)", "description": "Suggest and explain whether work function is larger or smaller.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 39,
+    "overall_difficulty": 4.33
+  },
+  {
+    "filename": "2019_HCI_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by a photon.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)1", "description": "Write equation for conservation of energy.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)2", "description": "Write equation for conservation of momentum.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Explain why scattered photon has longer wavelength.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)", "description": "Determine value of cos θ with uncertainty.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Plot data on graph.", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)(ii)", "description": "Draw best-fit line.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(iii)", "description": "State and explain way to determine Compton wavelength.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(d)(iv)", "description": "Determine Compton wavelength.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(e)(i)", "description": "Find wavelength of scattered photon.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(e)(ii)", "description": "Suggest whether assumption of free electrons is justified.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 19,
+    "weighted_sum": 80,
+    "overall_difficulty": 4.21
+  },
+  {
+    "filename": "2019_DHS_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Estimate highest energy of X-rays emitted.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Calculate maximum velocity of electrons.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Calculate de Broglie wavelength of electrons.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Explain how Kα and Kβ lines are produced.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2019_DHS_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate rate of photons incident on emitter.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate maximum rate of electrons leaving emitter.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Suggest two reasons for difference between (a) and (b).", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Calculate maximum speed of electrons.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(e)", "description": "Sketch new graph for increased intensity.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 37,
+    "overall_difficulty": 3.70
+  },
+  {
+    "filename": "2019_CJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate maximum speed of photoelectrons.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)1", "description": "Determine uncertainty in horizontal momentum.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)2", "description": "Determine minimum uncertainty in position.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Describe how continuous spectrum is produced.", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 42,
+    "overall_difficulty": 3.82
+  },
+  {
+    "filename": "2019_ASRJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Suggest why observation does not support wave theory.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Suggest why no value for Ek at 650 nm.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Determine work function energy from data.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "State and explain effect on max KE when wavelength reduced.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "State and explain effect on current when wavelength reduced.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(i)", "description": "Explain why dark lines are still observed.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(ii)", "description": "Draw transitions for absorption spectrum.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iii)", "description": "Calculate shortest wavelength of light in beam.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 48,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2019_ACJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain what is meant by work function energy.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain what is meant by stopping potential.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Suggest reason for grinding aluminium can surface.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)1", "description": "Describe and explain effect of UV light.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)2", "description": "Describe and explain effect of beta source.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(ii)3", "description": "Describe and explain effect of red light.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(iii)", "description": "Explain how observation gives evidence for quantum behavior.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(c)(i)", "description": "Determine V for electron with same de Broglie wavelength.", "level": 5, "marks": 4, "weighted_score": 20},
+      {"part": "(c)(ii)", "description": "Describe experiment and explain results for wave nature of electrons.", "level": 4, "marks": 5, "weighted_score": 20}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 87,
+    "overall_difficulty": 4.35
+  },
+  {
+    "filename": "2019_ACJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine energy of photon.", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(ii)", "description": "State dominant form of interaction.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Show Compton shift expression.", "level": 5, "marks": 1, "weighted_score": 5},
+      {"part": "(b)(ii)", "description": "State angle for greatest Compton shift.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Sketch variation of Compton shift with θ.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iv)1", "description": "Explain why only one peak at θ=0.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iv)2", "description": "Deduce and sketch line for θ=90°.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(v)", "description": "Complete table for θ=95°.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(vi)1", "description": "Plot point for θ=95° on graph.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(vi)2", "description": "Draw line of best fit.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(vi)3", "description": "Determine Compton wavelength of electron.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(vi)4", "description": "Determine wavelength of scattered photon at θ=90°.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)(i)", "description": "Show minimum energy for pair production.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Suggest why photon energy needs to be higher.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 19,
+    "weighted_sum": 75,
+    "overall_difficulty": 3.95
+  },
+  {
+    "filename": "2018_YJC_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)(i)1", "description": "Determine minimum wavelength of X-ray photons.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(i)2", "description": "Determine wavelength for K-alpha line.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Sketch X-ray spectrum of copper.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Show using uncertainty principle electron does not exist inside nucleus.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(c)", "description": "Write nuclear equation and deduce decay type.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Determine energy released during decay.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(e)", "description": "Explain why range of beta energies leads to suggestion of another particle.", "level": 5, "marks": 4, "weighted_score": 20}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 87,
+    "overall_difficulty": 4.35
+  },
+  {
+    "filename": "2018_YJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by photoelectric effect.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Sketch new graph for longer wavelength.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)1", "description": "Use quantum theory to explain photocurrent is proportional to intensity.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)2", "description": "Explain why there is hardly any delay in emission.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)1", "description": "Determine λdB.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)2", "description": "Determine d.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)(ii)", "description": "State and explain what happens to rings when V decreased.", "level": 5, "marks": 4, "weighted_score": 20}
+    ],
+    "total_marks": 15,
+    "weighted_sum": 60,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2018_VJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain wave-particle duality as applied to electron microscope.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Estimate kinetic energy of electrons for atomic spacing.", "level": 5, "marks": 4, "weighted_score": 20},
+      {"part": "(a)(iii)", "description": "Calculate minimum uncertainty in electron's position.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iv)", "description": "Calculate energy of photon with same wavelength.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine wavelength of protons with same KE.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "State and explain whether protons would be better probe.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 46,
+    "overall_difficulty": 4.18
+  },
+  {
+    "filename": "2018_TPJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by a photon.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate change in energy of photon.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Show momentum P of deflected electron is 8.36e-25 N s.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)", "description": "Calculate angle α of deflection of electron.", "level": 5, "marks": 5, "weighted_score": 25}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 42,
+    "overall_difficulty": 4.20
+  },
+  {
+    "filename": "2018_TPJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State number of emission lines from energy levels.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Show transitions to n=1 are not in visible region.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Determine number of visible emission lines.", "level": 5, "marks": 4, "weighted_score": 20},
+      {"part": "(b)(i)", "description": "Determine energy of photon for tungsten atom.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(ii)", "description": "State type of EM radiation emitted.", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 52,
+    "overall_difficulty": 4.33
+  },
+  {
+    "filename": "2018_TJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by threshold frequency.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Explain why emitted electrons have a range of KE.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Use graph to determine threshold frequency f0.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Calculate work function energy Φ.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "State evidence from graph that wave theory cannot explain.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(iv)", "description": "State changes to graph if intensity doubled.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(v)", "description": "Sketch line for caesium with lower work function.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.55
+  },
+  {
+    "filename": "2018_SRJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why some electrons reach negative anode.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Calculate maximum speed of photoelectrons.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "Calculate work function of metal.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "State and explain feature not explained by wave theory.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Explain max KE independent of intensity and current proportional.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 40,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2018_SRJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Discuss similarity and difference between absorption and emission spectra.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Complete table by calculating photon energy.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Draw additional energy level on diagram.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)", "description": "State possible kinetic energies of scattered electron.", "level": 5, "marks": 4, "weighted_score": 20}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 35,
+    "overall_difficulty": 4.38
+  },
+  {
+    "filename": "2018_RVHS_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define work function energy.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Calculate maximum speed of photoelectron.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Calculate work function energy.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iv)", "description": "Suggest why threshold wavelength cannot be deduced directly.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Label Kα and Lβ on spectrum.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Sketch spectrum for halved tube voltage.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Calculate energy of longest wavelength in K-spectrum.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Explain formation of Kβ spectrum lines.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 42,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2018_RI_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate energies and construct energy level diagram.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Determine highest energy level atom can reach.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Indicate possible transitions on diagram.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iv)", "description": "Calculate longest and shortest wavelengths.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Describe processes producing continuous spectrum.", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(ii)", "description": "Calculate accelerating potential.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Deduce which lines correspond to Lα, Lβ, Mα.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(iv)", "description": "Explain why K spectral lines are missing.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 82,
+    "overall_difficulty": 4.10
+  },
+  {
+    "filename": "2018_PJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by work function.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate energy of incident photon.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate rate of photons incident.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine maximum KE of emitted electrons.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Explain how continuous spectrum is formed and why minimum wavelength.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Sketch new spectrum for larger accelerating voltage.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 44,
+    "overall_difficulty": 3.38
+  },
+  {
+    "filename": "2018_NYJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Complete energy level diagram for L-shell.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(a)(ii)", "description": "Determine wavelength of Lα transition.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(iii)", "description": "Label Kα and Lα peaks.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iv)", "description": "State significance of value P.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(v)", "description": "Explain why electrons need minimum energy of 69.53 keV.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)", "description": "Explain how setup can be adjusted for safety wavelength.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 56,
+    "overall_difficulty": 4.67
+  },
+  {
+    "filename": "2018_NJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Write word equation for energy change and photon energy.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain characteristic emission spectrum.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)1", "description": "Show momentum of electron in orbit.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(a)(iii)2", "description": "Determine wavelength of electron.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iv)", "description": "Explain why model violates Heisenberg uncertainty.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Derive relationship between frequency f and Z.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(ii)", "description": "Complete Fig. 7.3 for Nickel.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)1", "description": "Plot point for Nickel.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)2", "description": "Draw best-fit line.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iv)", "description": "Determine constants A and B.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(c)", "description": "Deduce impurity in cobalt.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 87,
+    "overall_difficulty": 4.35
+  },
+  {
+    "filename": "2018_MJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how most energetic X-ray photons are produced.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain how characteristic Kα photons are produced.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine momentum of Kα X-ray photon.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Sketch new spectrum for increased potential difference.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.71
+  },
+  {
+    "filename": "2018_MJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State two observations not explained by classical wave theory.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine maximum KE for 550 nm.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate threshold wavelength.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Suggest why threshold wavelength cannot be deduced directly.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iv)", "description": "State and explain effect on photocurrent.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.13
+  },
+  {
+    "filename": "2018_MI_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why emitted electrons have a range of KE.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Sketch graph for halved intensity.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Sketch graph for decreased wavelength.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)1", "description": "Determine rate of emission of photoelectrons.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)2", "description": "Determine intensity of light source.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 42,
+    "overall_difficulty": 4.20
+  },
+  {
+    "filename": "2018_JJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by photoelectric effect.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate maximum KE of photoelectrons.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine frequency of incident radiation.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Calculate intensity of radiation.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(iv)", "description": "Sketch graph for halved intensity.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(v)", "description": "Suggest reason for negative V part of graph.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.90
+  },
+  {
+    "filename": "2018_IJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain observations with UV and visible light.", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)", "description": "Calculate maximum KE of emitted electrons.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Explain why current decreases as V increases.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Determine maximum KE of emitted electrons.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 44,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2018_HCI_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State two forms of energy and whether positive or negative.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Explain why total energy is negative.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain using Heisenberg principle why path is not well-defined.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Show maximum kinetic energy of bound electron.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 34,
+    "overall_difficulty": 4.25
+  },
+  {
+    "filename": "2018_EJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by work function.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate maximum KE of electrons.", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Suggest why not all electrons have max energy.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Calculate minimum voltmeter reading.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Sketch graph of current vs p.d.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Explain why current always flows with reversed battery.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "Suggest reason for no current at threshold frequency.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.45
+  },
+  {
+    "filename": "2018_DHS_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain how continuous spectrum is formed.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Explain why minimum wavelength is same for both targets.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain why intensity of Kα is greater than Kβ.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Explain why W characteristic spectra appear at higher voltage.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)", "description": "Calculate energy of X-ray photon in eV.", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 36,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2018_CJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State what is meant by photoelectric effect.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Describe principal features for particulate nature.", "level": 1, "marks": 3, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Show intensity at 20 m is 0.013 W/m^2.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Estimate number of photons per second.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 22,
+    "overall_difficulty": 2.75
+  },
+  {
+    "filename": "2018_AJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State feature not explained by wave theory.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate number of photoelectrons reaching collector.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate maximum KE of photoelectrons.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)1", "description": "State and explain effect on max KE when intensity doubled.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)2", "description": "State and explain effect on current when intensity doubled.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Explain why no current with zinc.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Describe experiment showing wave nature of particle.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Calculate de Broglie wavelength of electron.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iii)", "description": "State and explain suitability for atomic structure study.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(iv)", "description": "Suggest advantage and disadvantage of using neutrons.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 78,
+    "overall_difficulty": 3.90
+  },
+  {
+    "filename": "2018_ACJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain how electroscope demonstrates photoelectric effect.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Explain how observation is evidence for particulate nature.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "State potential difference used.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Explain mechanism for characteristic X-rays.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Explain why characteristic X-rays are unique.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iv)", "description": "Suggest reason for filtering lower energy X-rays.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Calculate minimum uncertainty in momentum.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Calculate angle θ.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 58,
+    "overall_difficulty": 4.14
   }
 ]
