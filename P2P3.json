@@ -70896,5 +70896,1226 @@
     "total_marks": 20,
     "weighted_sum": 68,
     "overall_difficulty": 3.4
+  },
+  {
+    "filename": "2021_YIJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State phase difference for minimum ammeter reading.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Draw two paths of microwaves resulting in superposition at receiver.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Explain why minimum ammeter reading is not zero.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Describe procedure to ensure M is parallel to marked line.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Show equation nλ = √(4x²+y²) - y holds for minima.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(d)(i)", "description": "Determine maximum gradient Gmax.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Determine minimum gradient Gmin.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iii)", "description": "Determine average value of λ.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(iv)", "description": "State band of microwave used.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(v)", "description": "Determine percentage uncertainty in λ.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "Conclude whether x and y are proportional.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(f)", "description": "Explain why ammeter reading does not vary when plate is close to transmitter.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 23,
+    "weighted_sum": 88,
+    "overall_difficulty": 3.83
+  },
+  {
+    "filename": "2021_VJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain origin of loud and soft regions.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Calculate distance between adjacent loud and soft regions.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Explain why intensity of maxima varies along walk.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "State reason why speaker diameter should be smaller than wavelength.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Estimate maximum diameter of speaker for piano recording.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.80
+  },
+  {
+    "filename": "2021_TMJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Describe and explain appearance of diffraction pattern for central and first order maxima.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Calculate highest order maxima where full spectrum can be seen.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Explain the term interference.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)1", "description": "State and explain effect on wave pattern when frequency decreased.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)2", "description": "State and explain effect on wave pattern when amplitude increased.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)3", "description": "State and explain effect on wave pattern when frequencies differ.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)1", "description": "Calculate speed of wave.", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(ii)2", "description": "Determine phase difference between points 1.5 mm apart.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 75,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2021_TJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State two differences between progressive and stationary waves.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Sketch displacement vs time graph for point P on string.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Draw position of string at t=5.0 ms.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "State phase difference between particles at x=0.40 m and 0.80 m.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iii)", "description": "State and explain change in kinetic energy of particle at antinode.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Explain why centre-line is constructive interference.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(ii)1", "description": "State and explain whether signal X is from emitter A or B.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)2", "description": "Calculate phase difference between signals X and Y.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(ii)3", "description": "Determine frequency of radio waves.", "level": 5, "marks": 4, "weighted_score": 20},
+      {"part": "(d)(ii)4", "description": "Sketch resultant signal detected by AGV.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 79,
+    "overall_difficulty": 3.95
+  },
+  {
+    "filename": "2021_SAJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show width w of central patch is 0.0810 m.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Explain why some bright parts become dark with double slit.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Determine separation x of bright fringes.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Explain why there is no light where bright fringe is expected.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 23,
+    "overall_difficulty": 3.83
+  },
+  {
+    "filename": "2021_SAJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate wavelength of sound waves.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Suggest whether maximum or minimum at X with phase change.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate number of lines per metre on grating.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "State effect of rotating grating on spot positions.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Suggest reason why distances XP and PY are not equal.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 29,
+    "overall_difficulty": 3.63
+  },
+  {
+    "filename": "2021_RVHS_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine distance y from central line to zero intensity point.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Calculate next higher frequency for maximum intensity at B.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "Find new intensity at A with unequal speaker voltages.", "level": 5, "marks": 4, "weighted_score": 20},
+      {"part": "(b)(i)", "description": "Explain what is meant by diffraction.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)1", "description": "Estimate normal distance of eyepiece from grating.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)2", "description": "Determine angular separation of red and blue for second order.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)3", "description": "Determine highest observable order for blue light.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)4", "description": "Suggest advantage and disadvantage of using higher order.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 81,
+    "overall_difficulty": 4.05
+  },
+  {
+    "filename": "2021_RVHS_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show microwaves have frequency of 10 GHz from nodal positions.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "State and explain what is observed when metal plate is moved.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 20,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2021_RI_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Sketch displacement vs distance graph for stationary sound wave.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Sketch displacement at one-quarter period later.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(iii)", "description": "Indicate position of displacement antinode and node.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Explain formation of stationary wave in pipe.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine wavelength of sound from three maxima.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Calculate speed of sound wave.", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.80
+  },
+  {
+    "filename": "2021_NYJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Describe how diffraction takes place at grating.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Determine number of lines per metre on grating.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Describe and explain changes when wavelength changes.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Describe and explain changes when grating orientation changes.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)", "description": "Suggest how perpendicular gratings form pattern.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "Suggest whether O position changes when grating rotated 45°.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.80
+  },
+  {
+    "filename": "2021_NJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)1", "description": "Explain what is meant by coherent waves.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(i)2", "description": "Describe how apparatus can ensure coherence.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "State one condition for observable interference pattern.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Describe one way to see illuminated pattern more clearly.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)", "description": "Show wavelength is 8.4 cm.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Determine path difference at point X.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(ii)", "description": "State phase difference at point X.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(e)", "description": "Draw line joining points where path difference is 2λ.", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 27,
+    "overall_difficulty": 2.70
+  },
+  {
+    "filename": "2021_MI_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine wavelength of waves from displacement-time graph.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Determine phase difference between two waves.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(iii)", "description": "Determine ratio of intensities.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iv)", "description": "Determine resultant displacement at t=0.45 s.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "State what is meant by coherent.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "Determine path difference at P.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Determine distance a between slits.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "State and explain change to fringe separation with higher frequency.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(v)", "description": "Compare appearance of fringes when intensity increased.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Explain pattern observed on CRO.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)1", "description": "Show angular displacement of table is 0.356 rad.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(ii)2", "description": "Determine wavelength of light.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "Sketch CRO display for double slit.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 73,
+    "overall_difficulty": 3.65
+  },
+  {
+    "filename": "2021_JPJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how minimum intensity is formed.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Show BR is 13.2 m.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine wavelength of sound.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine speed of sound.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Determine intensity at Q in terms of I.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.80
+  },
+  {
+    "filename": "2021_HCI_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State the principle of superposition.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine phase difference between waves from transmitters.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine ratio of maximum to minimum intensity.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(c)", "description": "Determine number of maxima along line between A and Q.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Comment on student's thought about stationary wave along AB.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 41,
+    "overall_difficulty": 3.73
+  },
+  {
+    "filename": "2021_EJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Deduce phase difference between two waves from graph.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(ii)1", "description": "Determine maximum displacement of resultant at instant shown.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(ii)2", "description": "Determine maximum displacement at t + T/8.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(ii)3", "description": "Determine maximum displacement at t + 3T/8.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "State and explain whether maximum/minimum detected along S1S2.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "State and explain whether maximum/minimum detected along PQ.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "State and explain whether maximum/minimum detected along S2R.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 40,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2021_DHS_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by principle of superposition.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate wavelength of sound.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine whether man hears maximum or minimum.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "State two changes to increase number of intensity fluctuations.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.13
+  },
+  {
+    "filename": "2021_DHS_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Sketch standing wave with 4 antinodes.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Draw wave 90° out of phase.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Sketch diffraction of plane wave through gap smaller than wavelength.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.43
+  },
+  {
+    "filename": "2021_CJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State and explain conditions for visible pattern from double slit.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Explain condition for bright fringe at P.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Determine fringe separation x from pattern.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate wavelength of yellow light.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate angle of diffraction in second order spectrum.", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.55
+  },
+  {
+    "filename": "2021_ASRJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain how stationary wave is formed from incident sound wave.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Sketch amplitude vs height graph for stationary wave.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)1", "description": "State direction of oscillations at height 0.30 m.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iii)2", "description": "State phase difference between particles at 0.10 m and 0.20 m.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iv)", "description": "Determine frequency when stationary wave is next formed.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Describe diffraction of light at grating.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Determine smallest possible line spacing d.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "State and explain whether third-order maximum for blue light.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 43,
+    "overall_difficulty": 3.58
+  },
+  {
+    "filename": "2021_ACJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State the Principle of Superposition.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine separation of bright fringes.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Suggest changes to fringes when dark film placed in front of S1.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Determine maximum distance to resolve slits.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(iv)", "description": "Explain if slits still resolvable when pupil diameter increases.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Determine width of centre bright fringe.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Sketch intensity vs distance graph for single slit.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "Determine amplitude at new position in terms of A0.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 16,
+    "weighted_sum": 56,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2020_YIJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State meaning of coherence.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "State meaning of monochromatic.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Explain how interference fringes are formed.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Calculate wavelength from fringe separation.", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iii)", "description": "State experimental advantage of determining fringe width.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)", "description": "Explain why mirror system produces fringe pattern.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.18
+  },
+  {
+    "filename": "2020_TMJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine time when x1 and x2 have same displacement.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Show amplitude of resultant waveform is A√2.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(a)(iii)", "description": "Sketch resultant waveform.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate lowest frequency for standing wave in cavity.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "State two more frequencies between 10-13 GHz.", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.80
+  },
+  {
+    "filename": "2020_TJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain how maximum signal occurs at receiver.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Explain why signal decreases to minimum.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "Explain why minimum signal is not zero.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iv)", "description": "Calculate distance d between positions A and B.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Explain how stationary wave is formed.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Sketch amplitude vs height graph.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)1", "description": "State direction of oscillations at height 0.15 m.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)2", "description": "State phase difference between particles at 0.10 m and 0.40 m.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iv)", "description": "Describe movement of air particles and pressure at node.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(v)", "description": "Determine value of K from fundamental frequency.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 75,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2020_SAJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State what is meant by interference.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "State two conditions for well-defined interference pattern.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(iii)", "description": "Explain why maximum intensity is received.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Calculate minimum distance for second path.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Calculate frequency of radio waves.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Suggest reason why resonance is used.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 29,
+    "overall_difficulty": 2.90
+  },
+  {
+    "filename": "2020_RVHS_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain what is meant by diffraction.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Explain what is meant by coherent.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine angle between second order maxima.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine maximum order observable.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "State and explain change with blue light.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 23,
+    "overall_difficulty": 3.29
+  },
+  {
+    "filename": "2020_RVHS_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by stationary waves.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Explain how stationary wave is formed in pipe.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine frequency of sound.", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iii)", "description": "Calculate time interval between louder sounds.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Suggest why actual time interval differs.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.30
+  },
+  {
+    "filename": "2020_RI_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State what is meant by wavelength and frequency.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Deduce relation between wavelength, frequency and speed.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "State two conditions for well-defined interference pattern.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(ii)1", "description": "Explain why missing peaks are observed.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)2", "description": "Calculate width b of each slit.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)3", "description": "Determine distance of missing peak from centre.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "State and explain changes when slit widths increased.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 35,
+    "overall_difficulty": 2.92
+  },
+  {
+    "filename": "2020_NYJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Use graph to determine frequency of wave A.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Sketch wave B lagging by π/2 rad.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Explain why wave A and B are coherent.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)", "description": "Determine intensity of wave R in terms of I.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(e)", "description": "Determine intensity of plane-polarised wave R.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(f)(i)", "description": "Determine wavelength of wave R from graph.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(f)(ii)1", "description": "State effect on fringes with blue laser.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(f)(ii)2", "description": "State effect on fringes when slit width increased.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(f)(iii)1", "description": "Determine value of a from graphs.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(f)(iii)2", "description": "Determine width of each slit.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 79,
+    "overall_difficulty": 3.95
+  },
+  {
+    "filename": "2020_NJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show R = ((n2-n1)/(n2+n1))^2.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(a)(ii)1", "description": "Explain why R+T=1.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)2", "description": "Deduce expression for transmittance T.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(iii)1", "description": "Show 92% of light transmitted for CR-39 lens.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)2", "description": "Determine percentage decrease for polycarbonate.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain why reflection is minimised with quarter wavelength coating.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(ii)", "description": "Sketch reflected waves from air-coating and coating-lens interfaces.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Complete table for optimum refractive index.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Verify nc is proportional to square root of n.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)(iii)", "description": "Determine optimum refractive index for polycarbonate.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(i)", "description": "Suggest why multiple layers are used.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Estimate thickness of AR coatings.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 22,
+    "weighted_sum": 91,
+    "overall_difficulty": 4.14
+  },
+  {
+    "filename": "2020_JPJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State conditions for formation of stationary wave.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate distance between nodes.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate rate at which nodes are detected.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Determine minimum height of reflecting ion layer.", "level": 5, "marks": 4, "weighted_score": 20}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.60
+  },
+  {
+    "filename": "2020_HCI_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show satellite velocity is 3850 m/s.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Determine wavelength of electromagnetic waves.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "State region of electromagnetic spectrum.", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 22,
+    "overall_difficulty": 3.67
+  },
+  {
+    "filename": "2020_EJC_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain what is meant by diffraction.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Explain what is meant by principle of superposition.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Determine angle θ for first minimum.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Sketch intensity vs angular position for single slit.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Sketch intensity vs angular position for double slit.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iv)1", "description": "Describe and explain change when slit separation reduced.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iv)2", "description": "Describe and explain change with perpendicular polarisers.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)", "description": "Determine number of bright spots on screen.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "State what is meant by specific latent heat of fusion.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(d)(ii)", "description": "State what is meant by specific heat capacity.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(e)", "description": "Calculate final temperature of water.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(f)", "description": "State and explain whether value is overestimate or underestimate.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(g)", "description": "Complete table for ΔU, Q, W for processes.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 68,
+    "overall_difficulty": 3.40
+  },
+  {
+    "filename": "2020_EJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State the principle of superposition.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Explain what is meant when two sources are coherent.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Explain how heaps of powder are formed.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Determine speed of sound in pipe.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Sketch stationary wave formed on string.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Calculate speed of wave in string.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iii)", "description": "Determine next lowest frequency.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(i)", "description": "Use kinetic model to explain volume increase at constant pressure.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Sketch pressure vs volume graph.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iii)", "description": "Determine change in internal energy.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(iv)", "description": "Show average kinetic energy is (3/2)kT.", "level": 5, "marks": 1, "weighted_score": 5},
+      {"part": "(d)(v)", "description": "Calculate root-mean-square speed of krypton atom.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 71,
+    "overall_difficulty": 3.55
+  },
+  {
+    "filename": "2020_DHS_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain how stationary waves are formed in tube.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Calculate one value of L for stationary waves.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "State number of antinodes in stationary wave.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine phase difference between P and Q.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Sketch position of string at t1+10ms and t1+25ms.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 29,
+    "overall_difficulty": 3.63
+  },
+  {
+    "filename": "2020_CJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate diffraction angle θmin.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine width of central bright fringe in terms of L.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Sketch intensity vs diffraction angle graph.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "State two physical quantities determining resolving power.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Explain quantitatively which telescope has higher resolving power.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.27
+  },
+  {
+    "filename": "2020_CJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State the principle of superposition.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Explain why P is at minimum intensity.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Calculate distance y.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(iii)1", "description": "Describe and explain changes at P when source shifted.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)2", "description": "Describe and explain changes when mirror replaced by black cardboard.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 41,
+    "overall_difficulty": 3.73
+  },
+  {
+    "filename": "2020_ASRJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain what is meant by diffraction.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Sketch appearance of water waves passing through gaps.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Explain why student can hear but not see band.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate power intercepted by student's ear.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "State assumption used.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Show wavelength is 0.12 m.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Determine number of maxima between A and B.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "Determine intensity at B in terms of I.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(c)(iv)", "description": "State difference detected when speakers closer.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(i)", "description": "State and explain whether microphone detects maximum or minimum.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(ii)", "description": "Determine value of d.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 21,
+    "weighted_sum": 74,
+    "overall_difficulty": 3.52
+  },
+  {
+    "filename": "2019_YIJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate wavelength from displacement-time graph.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Determine phase difference between two waves.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(iii)", "description": "Calculate ratio of intensities.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iv)", "description": "Determine resultant displacement at t=0.45s.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "State what is meant by coherent.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "Calculate path difference at P.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Determine distance a between slits.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "State and explain change to fringe separation with higher frequency.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(v)", "description": "Compare appearance of fringes when intensity increased.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Calculate angular speed of rotation.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Explain appearance of CRO trace.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "Calculate wavelength using peak D.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(iv)", "description": "Sketch CRO display for double slit.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 72,
+    "overall_difficulty": 3.60
+  },
+  {
+    "filename": "2019_VJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain what is meant by diffraction of light.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain using equations how maximum order is deduced.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Determine gradient of graph.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Calculate slit separation d.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Explain how line changes for 1st order maximum.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2019_TMJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate distance of sources from telescope.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "State and explain values n can take.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Calculate depth of well.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Sketch wave formed in well at 30.0 Hz.", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.80
+  },
+  {
+    "filename": "2019_TJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain meaning of interference.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Calculate length of detector aerial.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)1", "description": "Explain why amplitude changes when detector moved in direction OP.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)2", "description": "Calculate distance between adjacent max and min.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Explain why amplitude changes when detector moved in direction OQ.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)1", "description": "Explain why amplitude decreases to minimum when A moved.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(iii)2", "description": "Calculate distance A is moved.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "State and explain effect on intensity when amplitudes doubled.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "State and explain effect on intensity when sources anti-phase.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iii)", "description": "State and explain effect when detector rotated 90°.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 74,
+    "overall_difficulty": 3.70
+  },
+  {
+    "filename": "2019_SAJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain principle of superposition.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)1", "description": "Explain meaning of coherent.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)2", "description": "Explain why light from single source must be split.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(iii)", "description": "Calculate wavelength of monochromatic light.", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(iv)", "description": "Explain why mirror system produces fringe pattern.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain why heaps and depressions are formed.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Calculate frequency of sound.", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iii)1", "description": "Describe motion of air particles at P.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)2", "description": "Describe motion of air particles at S.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Determine intensity of emergent beam.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Determine fractional reduction in amplitude.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 60,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2019_RVHS_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State and explain effect of aperture width on diffraction.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "State condition for rays to be assumed parallel.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Derive expression for path difference in terms of p and θ.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(iii)", "description": "Derive expression relating p, θ and constructive interference.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)(i)", "description": "Calculate angular speed of rotation.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Explain appearance of trace.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "Show θ for peak D is 0.36 rad and find θ for E.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(iv)", "description": "Calculate wavelength of light.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(v)", "description": "Explain why peak E is preferred over D.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(vi)", "description": "Sketch CRO display for double slit.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(vii)", "description": "Explain appearance of trace.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 81,
+    "overall_difficulty": 4.05
+  },
+  {
+    "filename": "2019_RVHS_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how stationary waves are formed.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Determine velocity of wave in string.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine phase difference between two points.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 20,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2019_NYJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by diffraction.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Determine slit width b from diffraction pattern.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Suggest why b cannot be less than wavelength.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Explain why interference pattern is observed.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Calculate fringe separation.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)1", "description": "State changes to fringe pattern when slit width reduced.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(iii)2", "description": "Suggest why intensity is reduced.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(i)", "description": "State path difference in terms of t.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(ii)", "description": "Determine thickness t' for fifth order dark fringe.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iii)", "description": "Explain why violet colour is observed.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iv)", "description": "Suggest why thickness cannot be smaller than quarter wavelength.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 74,
+    "overall_difficulty": 3.70
+  },
+  {
+    "filename": "2019_NYJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State two conditions for formation of stationary waves.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Describe experiment to demonstrate stationary waves in air column.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Deduce experimental value for speed of microwaves.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 22,
+    "overall_difficulty": 3.14
+  },
+  {
+    "filename": "2019_NJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by coherent sources.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Explain why intensity fluctuates when S1 moved.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Calculate frequency of microwaves.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Explain intensity at P with polariser.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Show amplitude from S1 is approximately 8.5 units.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Sketch displacement vs time graph for S1.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 45,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2019_JPJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine wavelength of sound waves.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Explain why stationary wave can be set up.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate angle between first orders.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine number of nylon threads per millimetre.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2019_HCI_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State the principle of superposition.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Sketch progressive wave Q to produce stationary wave.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Explain formation of alternating maxima and minima.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Explain why minima intensity increases with x.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "Calculate frequency of waves.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(i)", "description": "Explain how it can be deduced waves are coherent.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(ii)", "description": "Determine phase angle at point P.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iii)", "description": "Calculate separation a between slits.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iv)", "description": "Calculate width b of each slit.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 77,
+    "overall_difficulty": 3.85
+  },
+  {
+    "filename": "2019_DHS_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how stationary waves are formed.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate frequency of sound wave.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine time-base setting of CRO.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Sketch new CRO trace when intensity halved.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Calculate vertical distance between levels.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Calculate time taken for liquid to move.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "State condition for maximum intensity.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(ii)", "description": "Determine number of maxima detected.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(e)(i)", "description": "Determine width w of central patch.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(ii)1", "description": "Explain why some bright parts become dark.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(e)(ii)2", "description": "Determine separation x of bright fringes.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(ii)3", "description": "Explain why there is no light at some places.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 77,
+    "overall_difficulty": 3.85
+  },
+  {
+    "filename": "2019_CJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why regions of high intensity are produced.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Explain how detected intensity varies with detector movement.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Explain why regions move when frequency decreased.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 32,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2019_ASRJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Draw four wavefronts after passing through object.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Describe change when object made shorter.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Show y is 4.5 mm.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)1", "description": "Explain why interference pattern is formed.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)2", "description": "Show there are five bright fringes in region.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(ii)3", "description": "Sketch intensity vs distance graph.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 50,
+    "overall_difficulty": 3.85
+  },
+  {
+    "filename": "2019_ACJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine maximum distance to resolve sources.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)1", "description": "Determine intensity due to A only.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)2", "description": "Determine intensity due to B only.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine ratio of amplitudes.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Determine phase difference at P.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Determine resultant intensity at P.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)", "description": "State and explain what is detected if sources not coherent.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 55,
+    "overall_difficulty": 3.93
+  },
+  {
+    "filename": "2018_YJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine speed of sound from echo experiment.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Determine wavelength of sound.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate speed of sound.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)1", "description": "Label point M where path difference is 2λ.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)2", "description": "Explain why M is a maxima.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iv)", "description": "Explain why no succession of maxima at 300 Hz.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Calculate angle from OX for 500 nm.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate maximum angular separation.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "Calculate maximum linear separation.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iv)", "description": "State and explain how intensity changes when source moved.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 72,
+    "overall_difficulty": 3.60
+  },
+  {
+    "filename": "2018_VJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate frequency of sound.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "State resultant wave amplitude.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "State amplitude with reduced power.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Calculate new resultant amplitude.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iv)", "description": "Calculate new intensity in terms of I.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.38
+  },
+  {
+    "filename": "2018_VJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate range of wavelengths for bat.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine displacement of wave P at L, M, N.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Draw waveform for wave P.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Calculate speed of insect.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "State wave property being demonstrated.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(i)", "description": "Show graph indicates exponential relationship.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(ii)1", "description": "State SI unit of α.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(d)(ii)2", "description": "Show α is about 0.7.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(iii)", "description": "Sketch graph for α=1.4.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 16,
+    "weighted_sum": 56,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2018_TPJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain what is meant by diffraction.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Draw wavefronts for wide and narrow slit.", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(iii)", "description": "Suggest why narrowing slits produces interference patterns.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "State what is meant by coherent sources.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)1", "description": "Explain what lines L1-L6 represent.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)2", "description": "State relationship between path difference and wavelength.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)3", "description": "Draw line for minimum amplitude.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)4", "description": "State effect of increasing source separation on spacing.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Calculate wavelength of monochromatic light.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate width of central fringe.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Sketch intensity graph with slit width halved.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 64,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2018_TJC_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State the Principle of Superposition.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine total number of bright spots visible.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)1", "description": "State whether λ is greater or smaller than 644 nm.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)2", "description": "State in which order there is greatest separation.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Explain how interference pattern is formed.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)1", "description": "Calculate width of central fringe.", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(ii)2", "description": "Sketch intensity vs distance graph.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)3", "description": "Deduce maximum intensity in terms of I.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)(iii)", "description": "State and explain whether patterns are resolved.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 75,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2018_TJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State one difference between stationary and progressive wave.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "State why EM waves can be polarised but sound cannot.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Explain observations of signal falling from maximum to zero.", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(ii)", "description": "Explain observations when transmitter rotated.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 37,
+    "overall_difficulty": 4.11
+  },
+  {
+    "filename": "2018_SRJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate path difference at Y.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Calculate distance D.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Sketch new intensity graph when slit width reduced.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Calculate slit separation d.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Sketch line for first order maxima.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 37,
+    "overall_difficulty": 3.70
+  },
+  {
+    "filename": "2018_SRJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Suggest two devices where droplet size is important.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Outline direct method for measuring droplet diameter.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Give two reasons why direct methods are difficult.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Calculate x for 10 µm droplet.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(ii)", "description": "Calculate x for 200 µm droplet.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(e)", "description": "State whether small x corresponds to large or small droplets.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(f)", "description": "Suggest how ring radius can be increased.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(g)(i)", "description": "Sketch graph for wide range of diameters.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(g)(ii)", "description": "Sketch graph for very small droplets.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(h)", "description": "Describe distribution of droplets.", "level": 5, "marks": 6, "weighted_score": 30}
+    ],
+    "total_marks": 19,
+    "weighted_sum": 78,
+    "overall_difficulty": 4.11
+  },
+  {
+    "filename": "2018_SRJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Label nodes and antinodes on string.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Draw stationary wave at t+5.0 ms.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Explain how stationary waves are formed.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)1", "description": "Determine frequency of sound.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)2", "description": "Calculate speed of sound.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2018_RVHS_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Sketch stationary wave and mark antinodes.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Show wavelength is 15.6 cm.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Calculate speed of sound.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iv)", "description": "State fundamental frequency.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(v)", "description": "State and explain change when tube blocked.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "State phase difference between A and B.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Deduce speed of microwaves.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Determine frequency of high intensity signals.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(iv)", "description": "Calculate ratio of amplitudes.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(v)", "description": "Sketch intensity variation with hardboard.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 79,
+    "overall_difficulty": 3.95
+  },
+  {
+    "filename": "2018_RI_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State principle of superposition.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Use Huygen's principle to explain interference pattern.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Sketch intensity vs sinθ graph.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Determine if images can be resolved.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Determine number of maxima in central fringe.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(c)(ii)", "description": "Calculate distance D.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 49,
+    "overall_difficulty": 3.77
+  },
+  {
+    "filename": "2018_PJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State principle of superposition.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine resultant displacement at t=4.0 ms.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Calculate resultant intensity in terms of I.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Determine speed of sound.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(c)(ii)", "description": "Describe variation of sound intensity when speakers anti-phase.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.67
+  },
+  {
+    "filename": "2018_NYJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine width of slit from graph.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)1", "description": "State effect when slit width reduced.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)2", "description": "State effect with violet light.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "State condition for just resolved.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Sketch graph for point source Q.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Calculate minimum width b.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Determine path difference at R.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Show waves are emitted in antiphase.", "level": 5, "marks": 4, "weighted_score": 20},
+      {"part": "(c)(iii)", "description": "Sketch displacement-time graph for B only.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(iv)", "description": "Determine ratio of intensities.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 84,
+    "overall_difficulty": 4.20
+  },
+  {
+    "filename": "2018_NYJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by polarised light.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Explain why perpendicular polarised sources do not produce fringes.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Calculate wavelength of light source.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Describe appearance of fringes when polariser rotated 45°.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 19,
+    "overall_difficulty": 3.17
+  },
+  {
+    "filename": "2018_NJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Describe how alpha scattering provides evidence for small nucleus.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Describe how alpha scattering provides evidence for charged nucleus.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)1", "description": "Determine Q from graph.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)2", "description": "Comment on value obtained.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine mass of Polonium nucleus.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(iii)", "description": "Identify most probable energy.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iv)", "description": "Suggest whether Bismuth-210 has excess neutrons or protons.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(v)", "description": "Explain problem with continuous spectrum.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(vi)", "description": "Suggest what was proposed to resolve problem.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Explain why data points do not lie on smooth curve.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Suggest two reasons why count-rate not equal to activity.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)1", "description": "Calculate time for count rate to fall.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(iii)2", "description": "Calculate count rate at distance 3y.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 85,
+    "overall_difficulty": 4.25
+  },
+  {
+    "filename": "2018_MJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State two differences between stationary and progressive waves.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Calculate number of lines per metre on grating.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "State effect of rotating grating on spot positions.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Suggest reason why XP and PY are not equal.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Explain why only certain frequencies form stationary waves.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Calculate wavelength for third lowest frequency.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iii)", "description": "Explain significance of product of frequency and wavelength.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 37,
+    "overall_difficulty": 3.36
+  },
+  {
+    "filename": "2018_MI_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine depth of well from resonances.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "State and explain disadvantage of method.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)1", "description": "State and explain whether signal X is from emitter A or B.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)2", "description": "State phase difference between signals.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)3", "description": "Determine frequency f.", "level": 5, "marks": 4, "weighted_score": 20}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 52,
+    "overall_difficulty": 4.33
+  },
+  {
+    "filename": "2018_JJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show frequency is 0.104 Hz.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Determine phase difference of two buoys.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Explain meaning of diffraction.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "Determine number of lines per metre on grating B.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Deduce qualitatively about slit separations.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Suggest one way pattern would differ.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.40
+  },
+  {
+    "filename": "2018_IJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State whether pairs of points are in phase or antiphase.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Describe how to check experimentally.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Describe difference in amplitude between progressive and stationary waves.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Explain how stationary wave arises from progressive waves.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.71
+  },
+  {
+    "filename": "2018_IJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State the principle of superposition.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Deduce what about signals from P and Q.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Explain why amplitude is zero throughout journey.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Determine distance ship moved.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(iv)", "description": "Calculate how many dips in intensity.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.90
+  },
+  {
+    "filename": "2018_HCI_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State the principle of superposition.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Explain observations of alternating intensity.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Explain whether intensity is maximum or minimum.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Describe how intensity varies as detector moves towards source.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.45
+  },
+  {
+    "filename": "2018_EJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain what is meant by alternating current.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain how vibrations are created.", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(a)(iii)1", "description": "Calculate speed of wave in wire.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)2", "description": "Explain what is meant by speed calculated.", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(a)(iv)", "description": "Suggest if v ∝ √T is valid.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(i)", "description": "State what is meant by diffraction.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "Calculate number of lines per unit length.", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(iii)", "description": "Suggest why non-central fringes are brighter.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 76,
+    "overall_difficulty": 3.80
+  },
+  {
+    "filename": "2018_EJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State principle of superposition.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Suggest features for anti-noise.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Sketch anti-noise waveform.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Suggest if active noise control better for higher or lower frequencies.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.57
+  },
+  {
+    "filename": "2018_DHS_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate number of lines per metre on grating.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "State two differences between first and second order spectra.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "State effect of rotating grating on spots.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Suggest reason why XP and PY are not equal.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2018_CJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how stationary wave is formed.", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)", "description": "Calculate wavelength of stationary wave.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Determine speed of wave.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Sketch stationary wave at 30 Hz.", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.44
+  },
+  {
+    "filename": "2018_CJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate wavelength of laser light.", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Suggest advantage of using second-order light.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 17,
+    "overall_difficulty": 3.40
+  },
+  {
+    "filename": "2018_CJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Describe one condition for observable interference.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)1", "description": "State and explain if waves are coherent.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)2", "description": "Explain why minimum intensity is detected.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Show path difference is 0.625d.", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Determine frequency of wave in terms of d.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 32,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2018_AJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State principle of superposition.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Explain why single slit is used.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "State and explain nature of interference at Y.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Calculate wavelength of light.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)1", "description": "Suggest changes when light source moved.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)2", "description": "Suggest changes when single slit shifted.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 44,
+    "overall_difficulty": 3.38
+  },
+  {
+    "filename": "2018_ACJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by phase difference.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Suggest why slit S0 is needed.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Draw rays from S0 to point C.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "State path difference at C.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iv)1", "description": "State and explain new amplitude with polariser.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)2", "description": "Describe changes with blue filter.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Explain formation of stationary wave.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)1", "description": "State and explain distance from open end.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(c)(ii)2", "description": "State and explain if stationary wave can be formed.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Describe how to determine wavelength of laser light.", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 79,
+    "overall_difficulty": 3.95
   }
 ]
+
