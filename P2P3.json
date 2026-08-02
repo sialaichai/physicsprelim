@@ -9628,5 +9628,1847 @@
     "total_marks": 11,
     "weighted_sum": 43,
     "overall_difficulty": 3.91
-  }
-]
+  },
+  {
+  "questions": [
+    {
+      "filename": "2025_VJC_P2_q5",
+      "parts": [
+        {"part": "(a)(i)", "description": "Draw arrows for electric field pattern outside sphere", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(a)(ii)", "description": "Draw equipotential surfaces of -1400V, -1000V, -600V with labels", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)", "description": "Sketch V vs r graph on given axes", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)(i)", "description": "Describe motion and path of electron as it leaves surface", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)(ii)", "description": "Determine speed of electron at r=0.30m from centre", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 6,
+      "weighted_sum": 20,
+      "overall_difficulty": 3.33
+    },
+    {
+      "filename": "2025_TMJC_P3_q7",
+      "parts": [
+        {"part": "(a)", "description": "Complete graph for x=0-5cm and 40-50cm", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)", "description": "Describe resultant electric force variation on electron from surface A to B", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)", "description": "State and explain which sphere has smaller magnitude of charge", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(d)", "description": "Estimate magnitude of charge of sphere B", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(e)", "description": "Determine whether electron is able to reach surface of sphere B", "level": 5, "marks": 3, "weighted_score": 15}
+      ],
+      "total_marks": 10,
+      "weighted_sum": 42,
+      "overall_difficulty": 4.20
+    },
+    {
+      "filename": "2025_TJC_P3_q7",
+      "parts": [
+        {"part": "(a)", "description": "State what is meant by a field of force", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(a)(ii)", "description": "Define electric field strength", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(a)(iii)", "description": "Suggest why test particle must be stationary when defining E", "level": 2, "marks": 1, "weighted_score": 2},
+        {"part": "(a)(i)", "description": "State relation between electric field strength E and potential V", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)(1)", "description": "State and explain direction of electric field at P where x=25.0cm", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(2)", "description": "Determine force on electron at P where x=35.0cm", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(3)", "description": "Explain why potential is constant for x=0 to 9.0cm", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(i)", "description": "Show whether student's Vx = constant expression is correct", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(ii)", "description": "Suggest explanation for conclusion", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(d)(i)", "description": "Calculate minimum speed of electron as it crosses line joining centres", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(d)(ii)", "description": "Describe path of electron for minimum speed", "level": 3, "marks": 1, "weighted_score": 3}
+      ],
+      "total_marks": 17,
+      "weighted_sum": 52,
+      "overall_difficulty": 3.06
+    },
+    {
+      "filename": "2025_SAJC_P2_q7",
+      "parts": [
+        {"part": "(a)(i)", "description": "State another fundamental constant determined by Millikan's experiment", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(a)(ii)", "description": "Explain why space housing oil droplets should not be a vacuum", "level": 2, "marks": 1, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "Compute missing W and Q values in table", "level": 3, "marks": 3, "weighted_score": 9},
+        {"part": "(b)(ii)", "description": "Explain why reasonable to neglect upthrust", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(iii)", "description": "Determine elementary charge e from experiment data", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(i)", "description": "Suggest instrument to measure terminal velocity more easily", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(c)(ii)", "description": "Suggest why oil droplets reach terminal velocity quickly", "level": 2, "marks": 1, "weighted_score": 2},
+        {"part": "(c)(iii)", "description": "Calculate radius of oil droplet for last row", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(d)(i)", "description": "Determine lg(W/N) for T=8.0s using graph", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(d)(ii)", "description": "Plot point and draw line of best fit", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(d)(iii)", "description": "Determine constant b in equation W=aT^b", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(d)(iv)", "description": "Deduce how weight W depends on terminal speed v", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 20,
+      "weighted_sum": 63,
+      "overall_difficulty": 3.15
+    },
+    {
+      "filename": "2025_RVHS_P2_q5",
+      "parts": [
+        {"part": "(a)", "description": "Explain why point P must lie along straight line AB", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)", "description": "Determine position of point P from A", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(c)", "description": "Sketch equipotential line of potential = 0V", "level": 3, "marks": 1, "weighted_score": 3}
+      ],
+      "total_marks": 6,
+      "weighted_sum": 23,
+      "overall_difficulty": 3.83
+    },
+    {
+      "filename": "2025_R1_P3_q6",
+      "parts": [
+        {"part": "(a)", "description": "Define electric potential at a point", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "Sketch V vs x graph from plate A to B", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(ii)", "description": "Determine electric field strength between plates", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(iii)", "description": "Determine speed of xenon ion exiting grid system", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(c)", "description": "Suggest why ion beam needs to be neutralised", "level": 2, "marks": 1, "weighted_score": 2}
+      ],
+      "total_marks": 10,
+      "weighted_sum": 28,
+      "overall_difficulty": 2.80
+    },
+    {
+      "filename": "2025_NYJC_P3_q7",
+      "parts": [
+        {"part": "(a)", "description": "Define electric field strength at a point", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "Mark direction of electric field along CX", "level": 2, "marks": 1, "weighted_score": 2},
+        {"part": "(b)(ii)", "description": "Determine force F on electron at midpoint", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(i)", "description": "Estimate potential difference between C and X", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(ii)", "description": "Suggest whether p.d. is over-estimate or under-estimate", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 9,
+      "weighted_sum": 26,
+      "overall_difficulty": 2.89
+    },
+    {
+      "filename": "2025_NJC_P3_q4",
+      "parts": [
+        {"part": "(a)", "description": "Define electric field strength at a point", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "Explain why resultant E cannot be zero at P where V=0", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(ii)(1)", "description": "Show distance from Y centre = 2x", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(b)(ii)(2)", "description": "Determine expression for resultant E at P", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(iii)", "description": "Sketch E vs distance graph along dashed line", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(iv)", "description": "Calculate ratio of speeds (electron/argon ion)", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)", "description": "Suggest qualitatively how air affects the ratio", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 13,
+      "weighted_sum": 44,
+      "overall_difficulty": 3.38
+    },
+    {
+      "filename": "2025_MI_P3_q4",
+      "parts": [
+        {"part": "(a)", "description": "Define potential at a point in electric field", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "State potential difference between A and B", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(ii)", "description": "Determine work done to bring charge from B to E via C,D", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(iii)", "description": "Explain whether work done is by field or external agent", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(i)", "description": "State relation between E and V", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(c)(ii)", "description": "Draw arrow at D showing E direction", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)(iii)", "description": "Describe motion of positive charge along dotted line", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 11,
+      "weighted_sum": 29,
+      "overall_difficulty": 2.64
+    },
+    {
+      "filename": "2025_HCI_P2_q5",
+      "parts": [
+        {"part": "(a)(i)", "description": "State and explain direction of electric field at P where x=25.0cm", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(a)(ii)", "description": "Determine magnitude of E on electron at P where x=25.0cm", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(a)(iii)", "description": "Explain why potential is constant for x=0 to 9.0cm", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)", "description": "Describe subsequent motion of positively-charged ion released at x=25.0cm", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 10,
+      "weighted_sum": 40,
+      "overall_difficulty": 4.00
+    },
+    {
+      "filename": "2025_DHS_P2_q4",
+      "parts": [
+        {"part": "(a)", "description": "Determine magnitude of electric force on each sphere", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)", "description": "Determine mass m of each sphere", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(i)", "description": "Define electric potential at a point", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(c)(ii)", "description": "Sketch variation of net E with distance x between spheres", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(iii)", "description": "Explain how p.d. can be determined using graph", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(d)", "description": "Describe effect on sphere positions when one charge is reduced", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 12,
+      "weighted_sum": 37,
+      "overall_difficulty": 3.08
+    },
+    {
+      "filename": "2025_ACJC_P3_q2",
+      "parts": [
+        {"part": "(a)", "description": "State Coulomb's law", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)", "description": "State relationship between E and V", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(c)", "description": "Explain why V and E cannot both be zero at P", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(d)(i)", "description": "Draw field lines between sphere and two metal plates", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(d)(ii)", "description": "Explain why potentials at K and L are equal", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(d)(iii)", "description": "Determine electric potential at K", "level": 3, "marks": 1, "weighted_score": 3}
+      ],
+      "total_marks": 10,
+      "weighted_sum": 26,
+      "overall_difficulty": 2.60
+    },
+    {
+      "filename": "2024_YIJC_P3_q4",
+      "parts": [
+        {"part": "(a)", "description": "State Coulomb's law", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "Show charge on sphere Y is +63nC", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(ii)", "description": "Determine net potential at midpoint", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(i)", "description": "Show acceleration of electron is 2.4x10^15 m/s^2", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(ii)", "description": "Determine speed with which electron leaves plates", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(c)(iii)", "description": "State and explain difference in path for proton", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 13,
+      "weighted_sum": 42,
+      "overall_difficulty": 3.23
+    },
+    {
+      "filename": "2024_VJC_P3_q4",
+      "parts": [
+        {"part": "(a)", "description": "Define electric field strength at a point", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)(i)", "description": "Calculate force on alpha particle due to electric field", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(ii)", "description": "Determine time alpha particle spends inside field", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(iii)", "description": "Calculate vertical deflection of alpha particle", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)(iv)", "description": "Sketch path of alpha particles between and beyond plates", "level": 3, "marks": 1, "weighted_score": 3}
+      ],
+      "total_marks": 8,
+      "weighted_sum": 25,
+      "overall_difficulty": 3.13
+    },
+    {
+      "filename": "2024_TMJC_P3_q4",
+      "parts": [
+        {"part": "(a)", "description": "State and explain signs of charge of conductors A and B", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)", "description": "Explain which conductor has larger magnitude of charge", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(c)", "description": "Determine work done by external force moving charge from P to R", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(d)", "description": "Sketch E vs x graph between P and R", "level": 3, "marks": 2, "weighted_score": 6}
+      ],
+      "total_marks": 9,
+      "weighted_sum": 32,
+      "overall_difficulty": 3.56
+    },
+    {
+      "filename": "2024_TMJC_P2_q3",
+      "parts": [
+        {"part": "(a)", "description": "Determine magnitude and direction of electric force on sphere", "level": 3, "marks": 3, "weighted_score": 9},
+        {"part": "(b)", "description": "Determine spring constant", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 6,
+      "weighted_sum": 21,
+      "overall_difficulty": 3.50
+    },
+    {
+      "filename": "2024_TJC_P3_q4",
+      "parts": [
+        {"part": "(a)", "description": "State Coulomb's law between 2 point charges", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "Calculate charge +Q", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)(ii)", "description": "Sketch E vs d graph from A to B", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(iii)", "description": "State quantity represented by area under graph", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(iv)(1)", "description": "Describe acceleration of charge from A to B", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(iv)(2)", "description": "State type of motion along AB", "level": 3, "marks": 1, "weighted_score": 3}
+      ],
+      "total_marks": 11,
+      "weighted_sum": 34,
+      "overall_difficulty": 3.09
+    },
+    {
+      "filename": "2024_TJC_P2_q5",
+      "parts": [
+        {"part": "(a)(i)", "description": "Show time taken by electron to travel plate length", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(a)(ii)", "description": "Calculate vertical deflection x of electron", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)(i)", "description": "Explain why electron follows helical path", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(ii)", "description": "Show time taken for each loop", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(iii)", "description": "Determine distance d between adjacent loops", "level": 3, "marks": 1, "weighted_score": 3}
+      ],
+      "total_marks": 9,
+      "weighted_sum": 34,
+      "overall_difficulty": 3.78
+    },
+    {
+      "filename": "2024_SAJC_P3_q7",
+      "parts": [
+        {"part": "(a)", "description": "Deduce force proportional to gradient of Ep curve", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(i)", "description": "State and explain whether charges have same or opposite sign", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(ii)", "description": "State effect on graph shape of doubling charge on P", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)", "description": "Determine separation where Ep = -5.1eV", "level": 3, "marks": 2, "weighted_score": 6}
+      ],
+      "total_marks": 8,
+      "weighted_sum": 30,
+      "overall_difficulty": 3.75
+    },
+    {
+      "filename": "2024_RVHS_P2_q5",
+      "parts": [
+        {"part": "(a)(i)", "description": "Draw arrows showing force direction on each charge", "level": 2, "marks": 1, "weighted_score": 2},
+        {"part": "(a)(ii)", "description": "Calculate magnitude of force on each charge", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(a)(iii)", "description": "Determine magnitude of couple acting on particle", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(a)(iv)", "description": "Suggest subsequent motion of particle in electric field", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(i)", "description": "State relationship between electric force and Ep", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(ii)", "description": "State whether charges have same or opposite polarity", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(iii)", "description": "Determine electric force on particle H at given distance", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 13,
+      "weighted_sum": 47,
+      "overall_difficulty": 3.62
+    },
+    {
+      "filename": "2024_R1_P3_q4",
+      "parts": [
+        {"part": "(a)(i)", "description": "Explain whether E=0 between two charged particles", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(a)(ii)", "description": "Explain whether V=0 between two charged particles", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(b)(i)", "description": "Determine potential V", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)(ii)", "description": "Determine magnitude of acceleration a", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(iii)", "description": "Determine distance d", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 9,
+      "weighted_sum": 36,
+      "overall_difficulty": 4.00
+    },
+    {
+      "filename": "2024_NYJC_P2_q6",
+      "parts": [
+        {"part": "(a)", "description": "Define acceleration", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)", "description": "State what is meant by a field of force", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(c)(i)", "description": "Sketch electric field lines within plates", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)(ii)(1)", "description": "Show vertical component of velocity is 1.5x10^7 m/s", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(ii)(2)", "description": "Calculate time for electron to travel horizontal distance", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)(ii)(3)", "description": "Calculate acceleration of electron", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(iii)", "description": "Determine potential P of plate A", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 11,
+      "weighted_sum": 32,
+      "overall_difficulty": 2.91
+    },
+    {
+      "filename": "2024_NJC_P3_q6",
+      "parts": [
+        {"part": "(a)", "description": "Calculate charge +Q", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)", "description": "Sketch E vs d graph from A to B", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)", "description": "Explain why charge oscillates about fixed point", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 6,
+      "weighted_sum": 20,
+      "overall_difficulty": 3.33
+    },
+    {
+      "filename": "2024_MI_P3_q3",
+      "parts": [
+        {"part": "(a)", "description": "Define electric potential", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "Draw and label forces acting on charge at C", "level": 2, "marks": 1, "weighted_score": 2},
+        {"part": "(b)(ii)", "description": "Determine resultant force on charge at C", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)(iii)", "description": "Determine electric potential at centre O", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)(iv)", "description": "Determine work done bringing charge from 100m to O", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 11,
+      "weighted_sum": 36,
+      "overall_difficulty": 3.27
+    },
+    {
+      "filename": "2024_JPJC_P3_q3",
+      "parts": [
+        {"part": "(a)", "description": "State and explain polarity of sphere B", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)", "description": "Determine ratio of charges", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(i)", "description": "State relation between E and V", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(c)(ii)", "description": "Estimate work done by external force", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 8,
+      "weighted_sum": 29,
+      "overall_difficulty": 3.63
+    },
+    {
+      "filename": "2024_JPJC_P2_q7",
+      "parts": [
+        {"part": "(a)", "description": "Determine electric field strength between plates", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)", "description": "Determine acceleration of electron", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)", "description": "Show vertical velocity component as emerges", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(d)", "description": "Determine angle θ", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(e)(i)", "description": "Calculate radius R of helical path", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(e)(ii)", "description": "Calculate time for one revolution", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 10,
+      "weighted_sum": 34,
+      "overall_difficulty": 3.40
+    },
+    {
+      "filename": "2024_EJC_P3_q7",
+      "parts": [
+        {"part": "(a)", "description": "Define electric potential", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "Sketch electric field line joining A and B", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(ii)", "description": "Calculate speed of electron at B", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)(iii)", "description": "Determine electric force on electron at C", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 10,
+      "weighted_sum": 32,
+      "overall_difficulty": 3.20
+    },
+    {
+      "filename": "2024_CJC_P3_q9",
+      "parts": [
+        {"part": "(a)", "description": "Determine kinetic energy of proton", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)", "description": "Draw E vs r graph", "level": 3, "marks": 3, "weighted_score": 9},
+        {"part": "(c)(i)", "description": "Explain why gravitational potential is negative", "level": 2, "marks": 2, "weighted_score": 4},
+        {"part": "(c)(ii)", "description": "Determine mass of planet", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(iii)", "description": "Calculate centripetal acceleration of moon", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(iv)", "description": "Explain field strength relation to centripetal acceleration", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(c)(v)", "description": "Calculate total energy of moon", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(d)", "description": "State similarity and difference in V variations", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 20,
+      "weighted_sum": 71,
+      "overall_difficulty": 3.55
+    },
+    {
+      "filename": "2024_CJC_P3_q8",
+      "parts": [
+        {"part": "(a)(i)", "description": "Calculate accelerating potential difference", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(a)(ii)", "description": "Suggest reason for range of speeds", "level": 2, "marks": 1, "weighted_score": 2},
+        {"part": "(b)", "description": "Describe and explain path of electrons in E field only", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(i)", "description": "State direction of magnetic field", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(c)(ii)", "description": "Calculate magnetic flux density", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(d)(i)", "description": "Calculate magnetic flux density at centre of solenoid", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(d)(ii)", "description": "Sketch magnetic field pattern", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(d)(iii)", "description": "Explain why path is circular", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(d)(iv)", "description": "Suggest how magnetic field separates particles by mass", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 17,
+      "weighted_sum": 61,
+      "overall_difficulty": 3.59
+    },
+    {
+      "filename": "2024_CJC_P2_q4",
+      "parts": [
+        {"part": "(a)", "description": "Draw V variation along RS", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)", "description": "Draw E variation along RS", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 5,
+      "weighted_sum": 20,
+      "overall_difficulty": 4.00
+    },
+    {
+      "filename": "2024_ASRJC_P2_q5",
+      "parts": [
+        {"part": "(a)(i)", "description": "Explain whether charges have same or opposite signs", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(a)(ii)", "description": "Determine ratio of charges", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)(i)", "description": "Determine E magnitude and direction", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(ii)", "description": "Determine acceleration of electron", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(iii)", "description": "Determine change in potential energy", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 11,
+      "weighted_sum": 40,
+      "overall_difficulty": 3.64
+    },
+    {
+      "filename": "2024_ACJC_P3_q5",
+      "parts": [
+        {"part": "(a)", "description": "Determine electric force on particle X", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(i)", "description": "Draw diagram showing forces", "level": 2, "marks": 1, "weighted_score": 2},
+        {"part": "(b)(ii)", "description": "Explain why weight affects motion", "level": 2, "marks": 1, "weighted_score": 2},
+        {"part": "(c)", "description": "Determine speed just before hitting Q", "level": 4, "marks": 4, "weighted_score": 16},
+        {"part": "(d)", "description": "Explain why path is parabolic", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(e)", "description": "Calculate change in electric potential energy", "level": 3, "marks": 2, "weighted_score": 6}
+      ],
+      "total_marks": 12,
+      "weighted_sum": 40,
+      "overall_difficulty": 3.33
+    },
+    {
+      "filename": "2023_YIJC_P3_q4",
+      "parts": [
+        {"part": "(a)(i)", "description": "State value of x at which potential is zero", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(a)(ii)", "description": "Determine charge at B", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)", "description": "Determine projection speed of electron", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(c)", "description": "State and explain x at which force is maximum", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 10,
+      "weighted_sum": 39,
+      "overall_difficulty": 3.90
+    },
+    {
+      "filename": "2023_VJC_P3_q5",
+      "parts": [
+        {"part": "(a)(i)", "description": "Show tension in string is 2.57x10^-2 N", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(a)(ii)", "description": "Draw and label forces on balloon B", "level": 2, "marks": 2, "weighted_score": 4},
+        {"part": "(a)(iii)", "description": "Calculate magnitude of charge q on each balloon", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 6,
+      "weighted_sum": 20,
+      "overall_difficulty": 3.33
+    },
+    {
+      "filename": "2023_TJC_P3_q1",
+      "parts": [
+        {"part": "(a)", "description": "Explain point charge consideration for spherical conductor", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(i)", "description": "Draw labelled arrows for forces on smoke particle", "level": 2, "marks": 1, "weighted_score": 2},
+        {"part": "(b)(ii)(1)", "description": "Determine magnitude of F", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)(ii)(2)", "description": "Determine angle of F to horizontal", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)(i)", "description": "Sketch s vs t graph", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(ii)", "description": "Determine time T", "level": 3, "marks": 2, "weighted_score": 6}
+      ],
+      "total_marks": 11,
+      "weighted_sum": 37,
+      "overall_difficulty": 3.36
+    },
+    {
+      "filename": "2023_SAJC_P3_q3",
+      "parts": [
+        {"part": "(a)", "description": "State Coulomb's Law", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)", "description": "Estimate speed of proton at x=3.3cm", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(c)(i)", "description": "Determine potential of other metal plate", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(ii)", "description": "Sketch trajectory when upper plate moved further", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(d)", "description": "Determine potential of new combined drop", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 11,
+      "weighted_sum": 35,
+      "overall_difficulty": 3.18
+    },
+    {
+      "filename": "2023_RVHS_P2_q6",
+      "parts": [
+        {"part": "(a)", "description": "Define electric field strength", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "Calculate number of electrons on oil drop", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)(ii)", "description": "Determine initial magnitude and direction of acceleration", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 8,
+      "weighted_sum": 26,
+      "overall_difficulty": 3.25
+    },
+    {
+      "filename": "2023_RI_P3_q4",
+      "parts": [
+        {"part": "(a)", "description": "Define electric potential at a point", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "Determine VR at surface of sphere", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(ii)", "description": "Draw V vs x graph", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(iii)", "description": "Determine E at point P", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(iv)", "description": "State and explain practical E magnitude", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 9,
+      "weighted_sum": 27,
+      "overall_difficulty": 3.00
+    },
+    {
+      "filename": "2023_NYJC_P2_q4",
+      "parts": [
+        {"part": "(a)", "description": "Explain what is meant by a field of force", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)", "description": "State similarity and difference between E and G fields", "level": 2, "marks": 2, "weighted_score": 4},
+        {"part": "(c)", "description": "Determine E expression at P", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(d)(i)", "description": "Explain why E magnitude is sum of magnitudes", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(d)(ii)", "description": "Explain why E ≠ 2E in practice", "level": 4, "marks": 1, "weighted_score": 4}
+      ],
+      "total_marks": 7,
+      "weighted_sum": 17,
+      "overall_difficulty": 2.43
+    },
+    {
+      "filename": "2023_NJC_P3_q2",
+      "parts": [
+        {"part": "(a)", "description": "Explain why initial displacement is necessary", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)", "description": "Show charge on sphere when touching M is 50πϵ₀", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)", "description": "Calculate electrostatic force on sphere", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(d)", "description": "Determine time taken to move from M to M'", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(e)", "description": "State and explain how time changes without battery", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 9,
+      "weighted_sum": 35,
+      "overall_difficulty": 3.89
+    },
+    {
+      "filename": "2023_MI_P3_q4",
+      "parts": [
+        {"part": "(a)", "description": "State evidence from graph that spheres are conductors", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)", "description": "State and explain polarity of charges", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)", "description": "Determine ratio of charges", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(d)", "description": "Sketch electric field lines", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(e)", "description": "Estimate change in energy of proton", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 11,
+      "weighted_sum": 42,
+      "overall_difficulty": 3.82
+    },
+    {
+      "filename": "2023_JPJC_P2_q3",
+      "parts": [
+        {"part": "(a)(i)", "description": "State relation between E and V", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(a)(ii)", "description": "Suggest why electric field is uniform", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(a)(iii)", "description": "Determine E between plates", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)", "description": "Draw electric field lines between plates", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(i)", "description": "Calculate charge of particle", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(ii)", "description": "Suggest particle with this charge", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)(iii)", "description": "Calculate speed at B", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 11,
+      "weighted_sum": 35,
+      "overall_difficulty": 3.18
+    },
+    {
+      "filename": "2023_HCI_P2_q4",
+      "parts": [
+        {"part": "(a)", "description": "Define electric potential at a point", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "Suggest why proton and nucleus behave as point charges", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(iii)(1)", "description": "Explain how E can be obtained from V curve", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(iii)(2)", "description": "Determine electric force on proton", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 8,
+      "weighted_sum": 24,
+      "overall_difficulty": 3.00
+    },
+    {
+      "filename": "2023_EJC_P2_q4",
+      "parts": [
+        {"part": "(a)", "description": "Define electric field strength", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "Determine electric force on electron at A", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(ii)", "description": "Calculate final speed of electron at C", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(c)", "description": "Estimate change in electric potential energy", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 10,
+      "weighted_sum": 34,
+      "overall_difficulty": 3.40
+    },
+    {
+      "filename": "2023_DHS_P2_q5",
+      "parts": [
+        {"part": "(a)", "description": "Define electric field strength", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)", "description": "Draw electric field lines between parallel plates", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(i)", "description": "State W expression in terms of V and Q", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(c)(ii)", "description": "State W expression in terms of F and d", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(d)", "description": "Deduce relationship between E and potential gradient", "level": 3, "marks": 2, "weighted_score": 6}
+      ],
+      "total_marks": 7,
+      "weighted_sum": 15,
+      "overall_difficulty": 2.14
+    },
+    {
+      "filename": "2023_CJC_P2_q2",
+      "parts": [
+        {"part": "(a)", "description": "Describe motion in gravitational field", "level": 2, "marks": 1, "weighted_score": 2},
+        {"part": "(b)", "description": "Describe motion in electric field", "level": 2, "marks": 1, "weighted_score": 2},
+        {"part": "(c)", "description": "Describe and explain initial motion", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(d)(i)", "description": "Determine electric force", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(d)(ii)", "description": "Sketch path", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(e)", "description": "Explain opposite signs of U", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 9,
+      "weighted_sum": 27,
+      "overall_difficulty": 3.00
+    },
+    {
+      "filename": "2023_ASRJC_P2_q5",
+      "parts": [
+        {"part": "(a)", "description": "State relationship", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "Draw arrow for field direction", "level": 2, "marks": 1, "weighted_score": 2},
+        {"part": "(b)(ii)", "description": "Determine E magnitude", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(iii)", "description": "Explain speed independence", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(iv)", "description": "Calculate speed", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 9,
+      "weighted_sum": 27,
+      "overall_difficulty": 3.00
+    },
+    {
+      "filename": "2023_ACJC_P3_q2",
+      "parts": [
+        {"part": "(a)", "description": "Define electric field strength", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "Determine E at surface", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(ii)", "description": "Sketch E vs distance graph", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(i)", "description": "Draw electric field lines", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(ii)", "description": "Explain perpendicular equipotential", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 10,
+      "weighted_sum": 28,
+      "overall_difficulty": 2.80
+    },
+    {
+      "filename": "2022_YIJC_P3_q3",
+      "parts": [
+        {"part": "(a)", "description": "Explain p.d. AC = 24V", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)", "description": "State and explain variation", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(i)", "description": "Show p.d. AB = 9.6V", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(ii)", "description": "Calculate resistance X", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(c)(iii)", "description": "Calculate power", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(d)", "description": "State and explain power change", "level": 4, "marks": 1, "weighted_score": 4}
+      ],
+      "total_marks": 10,
+      "weighted_sum": 38,
+      "overall_difficulty": 3.80
+    },
+    {
+      "filename": "2022_VJC_P3_q3",
+      "parts": [
+        {"part": "(a)", "description": "State electric field strength", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "State and explain signs", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(ii)", "description": "Explain non-inverse-square", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(b)(iii)", "description": "Determine acceleration", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)(iv)", "description": "Determine ratio of charges", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 11,
+      "weighted_sum": 38,
+      "overall_difficulty": 3.45
+    },
+    {
+      "filename": "2022_TMJC_P3_q4",
+      "parts": [
+        {"part": "(a)", "description": "State direction of electric field", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)", "description": "Calculate deceleration", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)", "description": "Calculate electric field strength", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(d)", "description": "Sketch momentum vs time graph", "level": 3, "marks": 3, "weighted_score": 9},
+        {"part": "(e)(i)", "description": "Describe one difference", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(e)(ii)", "description": "Sketch momentum graph", "level": 3, "marks": 1, "weighted_score": 3}
+      ],
+      "total_marks": 10,
+      "weighted_sum": 31,
+      "overall_difficulty": 3.10
+    },
+    {
+      "filename": "2022_TJC_P3_q3",
+      "parts": [
+        {"part": "(a)", "description": "Calculate potential of plate A", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(i)", "description": "Determine potential at P", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(ii)", "description": "Draw equipotential line", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)", "description": "State and explain stopping position", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(d)(i)", "description": "Determine strike position", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(d)(ii)", "description": "Describe alpha particle path", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 14,
+      "weighted_sum": 54,
+      "overall_difficulty": 3.86
+    },
+    {
+      "filename": "2022_SAJC_P3_q9",
+      "parts": [
+        {"part": "(a)(i)", "description": "Define electric field strength", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(a)(ii)(1)", "description": "State higher potential", "level": 2, "marks": 1, "weighted_score": 2},
+        {"part": "(a)(ii)(2)", "description": "Determine work done", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(a)(ii)(3)", "description": "Determine force", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(a)(ii)(4)", "description": "Determine potential difference", "level": 3, "marks": 3, "weighted_score": 9},
+        {"part": "(a)(iii)", "description": "Sketch KE vs x graph", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(a)(iv)", "description": "Describe electron motion", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(i)", "description": "State condition for magnetic force", "level": 2, "marks": 2, "weighted_score": 4},
+        {"part": "(b)(ii)", "description": "Suggest spiral reason", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(iii)(1)", "description": "Deduce charges", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(iii)(2)", "description": "Deduce initial speeds", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 20,
+      "weighted_sum": 61,
+      "overall_difficulty": 3.05
+    },
+    {
+      "filename": "2022_RVHS_P3_q9",
+      "parts": [
+        {"part": "(a)(i)", "description": "Define electric field strength", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(a)(ii)", "description": "Describe speed change", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(a)(iii)", "description": "Calculate change in KE", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(a)(iv)", "description": "Estimate electric field strength", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(a)(v)", "description": "Show direction of E", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(a)(vi)", "description": "Determine electric force", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(i)", "description": "Show angular speed formula", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(b)(ii)", "description": "Draw forces on SOHO", "level": 2, "marks": 1, "weighted_score": 2},
+        {"part": "(b)(iii)", "description": "Explain same angular speed", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(iv)", "description": "Explain orbital period statement", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(c)(i)", "description": "Determine orbital speed", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(ii)", "description": "Determine minimum projection speed", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(iii)", "description": "Explain escape direction", "level": 4, "marks": 1, "weighted_score": 4}
+      ],
+      "total_marks": 20,
+      "weighted_sum": 68,
+      "overall_difficulty": 3.40
+    },
+    {
+      "filename": "2022_RI_P3_q3",
+      "parts": [
+        {"part": "(a)(i)", "description": "Sketch V vs x graph", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(a)(ii)", "description": "Sketch E vs x graph", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(i)", "description": "State resultant force on electron", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(ii)(1)", "description": "Draw forces FA and FB", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(ii)(2)", "description": "Derive resultant force expression", "level": 5, "marks": 2, "weighted_score": 10},
+        {"part": "(b)(ii)(3)", "description": "Describe subsequent motion", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 10,
+      "weighted_sum": 36,
+      "overall_difficulty": 3.60
+    },
+    {
+      "filename": "2022_RI_P2_q8",
+      "parts": [
+        {"part": "(a)(i)(1)", "description": "Determine distance d", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(a)(i)(2)", "description": "Determine mass", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(a)(ii)(1)", "description": "Show electrostatic force", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(a)(ii)(2)", "description": "Calculate acceleration", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(a)(iii)", "description": "Suggest need for guard droplets", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(i)", "description": "Draw electric field lines", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(ii)", "description": "Determine E", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(iii)(1)", "description": "Describe B direction", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(b)(iii)(2)", "description": "Calculate B and comment", "level": 5, "marks": 2, "weighted_score": 10},
+        {"part": "(c)(i)", "description": "Determine thermal energy", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(ii)", "description": "Determine maximum mass", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(iii)", "description": "Determine thickness x", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(iv)", "description": "Suggest reason for smaller thickness", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(d)", "description": "State advantage and disadvantage", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 22,
+      "weighted_sum": 78,
+      "overall_difficulty": 3.55
+    },
+    {
+      "filename": "2022_NYJC_P2_q5",
+      "parts": [
+        {"part": "(a)", "description": "Define electric potential", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)", "description": "Describe E variation", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)", "description": "Calculate speed", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(d)", "description": "Explain why not along RS", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(e)", "description": "Sketch possible path", "level": 3, "marks": 1, "weighted_score": 3}
+      ],
+      "total_marks": 9,
+      "weighted_sum": 29,
+      "overall_difficulty": 3.22
+    },
+    {
+      "filename": "2022_MI_P2_q3",
+      "parts": [
+        {"part": "(a)(i)", "description": "Define electric field strength", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(a)(ii)", "description": "State relation between E and V", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(a)(iii)", "description": "Explain direction of E", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(b)", "description": "Determine charge of A", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(c)", "description": "Calculate speed of electron", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 9,
+      "weighted_sum": 30,
+      "overall_difficulty": 3.33
+    },
+    {
+      "filename": "2022_JPJC_P3_q6",
+      "parts": [
+        {"part": "(a)", "description": "Draw electric field lines", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)", "description": "Sketch V vs x graph", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)", "description": "Determine electric force", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(d)", "description": "Determine speed", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 7,
+      "weighted_sum": 23,
+      "overall_difficulty": 3.29
+    },
+    {
+      "filename": "2022_HCI_P3_q9",
+      "parts": [
+        {"part": "(a)", "description": "State Coulomb's law", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)(i)", "description": "Show speed formula", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(ii)", "description": "Show total energy formula", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(iii)", "description": "Show radius", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)", "description": "State similarity and difference", "level": 2, "marks": 2, "weighted_score": 4},
+        {"part": "(d)(i)(1)", "description": "Calculate de Broglie wavelength (Moon)", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(d)(i)(2)", "description": "Calculate de Broglie wavelength (electron)", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(d)(ii)", "description": "Explain wave vs particle", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(e)(i)", "description": "Determine force", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(e)(ii)", "description": "Explain ignoring electrical force", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(e)(iii)", "description": "Show horizontal acceleration", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(e)(iv)", "description": "Determine time", "level": 3, "marks": 2, "weighted_score": 6}
+      ],
+      "total_marks": 20,
+      "weighted_sum": 66,
+      "overall_difficulty": 3.30
+    },
+    {
+      "filename": "2022_EJC_P3_q6",
+      "parts": [
+        {"part": "(a)(i)", "description": "Determine speed", "level": 4, "marks": 4, "weighted_score": 16},
+        {"part": "(a)(ii)", "description": "Calculate potential", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)", "description": "Indicate strike position", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)", "description": "Suggest velocity selector modification", "level": 5, "marks": 3, "weighted_score": 15}
+      ],
+      "total_marks": 10,
+      "weighted_sum": 42,
+      "overall_difficulty": 4.20
+    },
+    {
+      "filename": "2022_EJC_P2_q3",
+      "parts": [
+        {"part": "(a)(i)", "description": "Show ratio", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(a)(ii)", "description": "Sketch E graph", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(i)", "description": "Determine E magnitude", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(ii)", "description": "Determine total potential", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(iii)", "description": "Determine work done", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 8,
+      "weighted_sum": 28,
+      "overall_difficulty": 3.50
+    },
+    {
+      "filename": "2022_DHS_P3_q9",
+      "parts": [
+        {"part": "(a)", "description": "State similarity and difference", "level": 2, "marks": 2, "weighted_score": 4},
+        {"part": "(b)", "description": "Explain ignoring gravitational field", "level": 4, "marks": 4, "weighted_score": 16},
+        {"part": "(c)(i)", "description": "Determine distance", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(ii)", "description": "State and explain E=0", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(iii)", "description": "Draw resultant force direction", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(d)", "description": "State relationship", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(e)(i)", "description": "Explain negative φ", "level": 2, "marks": 3, "weighted_score": 6},
+        {"part": "(e)(ii)", "description": "Describe other features", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(e)(iii)", "description": "Sketch g vs x graph", "level": 3, "marks": 3, "weighted_score": 9}
+      ],
+      "total_marks": 20,
+      "weighted_sum": 63,
+      "overall_difficulty": 3.15
+    },
+    {
+      "filename": "2022_CJC_P3_q8",
+      "parts": [
+        {"part": "(a)", "description": "Explain electric field", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)", "description": "Draw charge distribution and field", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)", "description": "Draw charge distribution and field", "level": 3, "marks": 3, "weighted_score": 9},
+        {"part": "(d)(i)", "description": "Determine E magnitude", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(d)(ii)(1)", "description": "Describe and explain motion", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(d)(ii)(2)", "description": "Determine speed", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(e)(i)", "description": "Calculate E", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(e)(ii)", "description": "Calculate initial speed", "level": 4, "marks": 4, "weighted_score": 16},
+        {"part": "(e)(iii)", "description": "Explain lesser deflection", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 20,
+      "weighted_sum": 72,
+      "overall_difficulty": 3.60
+    },
+    {
+      "filename": "2022_ASRJC_P3_q2",
+      "parts": [
+        {"part": "(a)", "description": "Show upthrust", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)", "description": "Determine volume", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)", "description": "State force magnitude", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(d)", "description": "Sketch e vs s graph", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 9,
+      "weighted_sum": 30,
+      "overall_difficulty": 3.33
+    },
+    {
+      "filename": "2022_ACJC_P3_q2",
+      "parts": [
+        {"part": "(a)", "description": "Define electric potential", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)", "description": "Complete V and E at 0.200m", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(i)(1)", "description": "Sketch V graph (VA)", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(i)(2)", "description": "Sketch E graph (EA)", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(ii)(1)", "description": "Sketch V graph (VR)", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)(ii)(2)", "description": "Sketch E graph (ER)", "level": 3, "marks": 1, "weighted_score": 3}
+      ],
+      "total_marks": 10,
+      "weighted_sum": 26,
+      "overall_difficulty": 2.60
+    },
+    {
+      "filename": "2021_YIJC_P3_q7",
+      "parts": [
+        {"part": "(a)(i)", "description": "State W expression (V and Q)", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(a)(ii)", "description": "State W expression (F and d)", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)", "description": "Show E = potential gradient", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(i)", "description": "Calculate additional force", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)(ii)", "description": "Explain force origin", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(iii)(1)", "description": "Draw B direction", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)(iii)(2)", "description": "Calculate current", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(iii)(3)", "description": "Determine new reading", "level": 3, "marks": 1, "weighted_score": 3}
+      ],
+      "total_marks": 11,
+      "weighted_sum": 33,
+      "overall_difficulty": 3.00
+    },
+    {
+      "filename": "2021_VJC_P3_q5",
+      "parts": [
+        {"part": "(a)", "description": "Draw electric field arrows", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(i)", "description": "Show electrons clear plates", "level": 4, "marks": 4, "weighted_score": 16},
+        {"part": "(b)(ii)", "description": "Sketch path and state assumption", "level": 3, "marks": 3, "weighted_score": 9},
+        {"part": "(c)", "description": "Explain proton comparison", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 10,
+      "weighted_sum": 36,
+      "overall_difficulty": 3.60
+    },
+    {
+      "filename": "2021_TMJC_P3_q3",
+      "parts": [
+        {"part": "(a)", "description": "Define electric field strength", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)", "description": "Calculate mass", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(c)(i)", "description": "State and explain path change", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(c)(ii)", "description": "Calculate electric force", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(iii)", "description": "Determine acceleration", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 12,
+      "weighted_sum": 43,
+      "overall_difficulty": 3.58
+    },
+    {
+      "filename": "2021_TJC_P3_q3",
+      "parts": [
+        {"part": "(a)", "description": "Define electric potential", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)(i)", "description": "State and explain potentials", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(ii)", "description": "Derive V expression", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(c)(i)", "description": "Write F expression", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(ii)", "description": "Derive T expression", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(iii)", "description": "State position changes", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 12,
+      "weighted_sum": 45,
+      "overall_difficulty": 3.75
+    },
+    {
+      "filename": "2021_SAJC_P3_q4",
+      "parts": [
+        {"part": "(a)", "description": "Define electric potential", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "Determine charge of B", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(ii)", "description": "Calculate speed", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(i)", "description": "State electric field", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(c)(ii)", "description": "State similarity and difference", "level": 2, "marks": 2, "weighted_score": 4},
+        {"part": "(d)(i)", "description": "Determine charge Q", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(d)(ii)", "description": "Determine E at distance", "level": 3, "marks": 1, "weighted_score": 3}
+      ],
+      "total_marks": 11,
+      "weighted_sum": 29,
+      "overall_difficulty": 2.64
+    },
+    {
+      "filename": "2021_RVHS_P3_q4",
+      "parts": [
+        {"part": "(a)", "description": "Define electric potential", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "Calculate Q", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(ii)", "description": "Calculate net potential", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(iii)", "description": "Calculate E at M", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(i)", "description": "Sketch E field", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)(ii)", "description": "Calculate E at T", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(iii)", "description": "State sign and draw force", "level": 3, "marks": 1, "weighted_score": 3}
+      ],
+      "total_marks": 11,
+      "weighted_sum": 33,
+      "overall_difficulty": 3.00
+    },
+    {
+      "filename": "2021_RI_P2_q5",
+      "parts": [
+        {"part": "(a)(i)", "description": "Calculate electric force", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(a)(ii)", "description": "Calculate F magnitude", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(a)(iii)", "description": "State and explain effect", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)", "description": "Explain energy not equal", "level": 4, "marks": 1, "weighted_score": 4}
+      ],
+      "total_marks": 8,
+      "weighted_sum": 30,
+      "overall_difficulty": 3.75
+    },
+    {
+      "filename": "2021_NYJC_P2_q5",
+      "parts": [
+        {"part": "(a)", "description": "Explain constant potential", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)", "description": "Determine acceleration", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(c)", "description": "Describe and explain speed variation", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(d)", "description": "Calculate speed", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 10,
+      "weighted_sum": 40,
+      "overall_difficulty": 4.00
+    },
+    {
+      "filename": "2021_NJC_P2_q8",
+      "parts": [
+        {"part": "(a)(i)", "description": "Show Q expression", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(a)(ii)", "description": "State higher potential plate", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(a)(iii)", "description": "Explain neglect upthrust", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)", "description": "Complete table", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)", "description": "Estimate radius", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(d)(i)", "description": "Determine lg(W/N)", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(d)(ii)", "description": "Plot point and draw line", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(d)(iii)", "description": "Determine constant b", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(d)(iv)", "description": "Deduce relationship", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(e)", "description": "Suggest quantisation meaning", "level": 2, "marks": 1, "weighted_score": 2},
+        {"part": "(f)", "description": "Find largest basic charge", "level": 5, "marks": 3, "weighted_score": 15}
+      ],
+      "total_marks": 20,
+      "weighted_sum": 72,
+      "overall_difficulty": 3.60
+    },
+    {
+      "filename": "2021_NJC_P2_q5",
+      "parts": [
+        {"part": "(a)", "description": "State Coulomb's law", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)(i)", "description": "Explain same/opposite sign", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(ii)(1)", "description": "Determine acceleration", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)(ii)(2)", "description": "Estimate speed", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 9,
+      "weighted_sum": 33,
+      "overall_difficulty": 3.67
+    },
+    {
+      "filename": "2021_MI_P3_q4",
+      "parts": [
+        {"part": "(a)", "description": "Define electric potential", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)(i)", "description": "Sketch V vs r graph", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(ii)", "description": "Draw electric field lines", "level": 3, "marks": 3, "weighted_score": 9},
+        {"part": "(b)(iii)", "description": "Determine potential energy", "level": 3, "marks": 2, "weighted_score": 6}
+      ],
+      "total_marks": 8,
+      "weighted_sum": 22,
+      "overall_difficulty": 2.75
+    },
+    {
+      "filename": "2021_MI_P3_q1",
+      "parts": [
+        {"part": "(a)", "description": "Define electric field strength", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)(i)", "description": "Determine potential", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(ii)(1)", "description": "Determine acceleration", "level": 3, "marks": 3, "weighted_score": 9},
+        {"part": "(b)(ii)(2)", "description": "Calculate time", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(ii)(3)", "description": "Determine hit/emerge", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 11,
+      "weighted_sum": 34,
+      "overall_difficulty": 3.09
+    },
+    {
+      "filename": "2021_JPJC_P3_q4",
+      "parts": [
+        {"part": "(a)", "description": "Determine potential", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(i)", "description": "Show acceleration", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(ii)", "description": "Determine time", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)", "description": "Determine hit/emerge", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 8,
+      "weighted_sum": 27,
+      "overall_difficulty": 3.38
+    },
+    {
+      "filename": "2021_HCI_P3_q4",
+      "parts": [
+        {"part": "(a)", "description": "Calculate potential difference", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)(i)", "description": "Explain time unaffected", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(ii)", "description": "Show speed", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 8,
+      "weighted_sum": 32,
+      "overall_difficulty": 4.00
+    },
+    {
+      "filename": "2021_HCI_P2_q4",
+      "parts": [
+        {"part": "(a)(i)", "description": "Define electric field strength", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(a)(ii)", "description": "Deduce work done", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(a)(iii)", "description": "Deduce V expression", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(a)(iv)", "description": "Draw equipotential line", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(a)(v)", "description": "State higher potential", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(i)", "description": "Calculate speed", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(ii)", "description": "Calculate minimum wavelength", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 9,
+      "weighted_sum": 27,
+      "overall_difficulty": 3.00
+    },
+    {
+      "filename": "2021_EJC_P2_q6",
+      "parts": [
+        {"part": "(a)(i)", "description": "Draw force direction", "level": 2, "marks": 1, "weighted_score": 2},
+        {"part": "(a)(ii)", "description": "Describe and explain acceleration", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(a)(iii)", "description": "Compare initial forces", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(i)", "description": "Calculate speed", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)(ii)", "description": "State and explain x value", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 10,
+      "weighted_sum": 34,
+      "overall_difficulty": 3.40
+    },
+    {
+      "filename": "2021_DHS_P3_q6",
+      "parts": [
+        {"part": "(a)", "description": "Define electric field strength", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)(i)", "description": "State direction", "level": 2, "marks": 1, "weighted_score": 2},
+        {"part": "(b)(ii)", "description": "Calculate deceleration", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(iii)", "description": "Calculate E", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)", "description": "Sketch v vs t graph", "level": 3, "marks": 1, "weighted_score": 3}
+      ],
+      "total_marks": 7,
+      "weighted_sum": 18,
+      "overall_difficulty": 2.57
+    },
+    {
+      "filename": "2021_CJC_P2_q5",
+      "parts": [
+        {"part": "(a)", "description": "Define electric potential", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "Suggest radius limit", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(b)(ii)", "description": "Show point charge behaviour", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(c)", "description": "Determine minimum EK", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 8,
+      "weighted_sum": 26,
+      "overall_difficulty": 3.25
+    },
+    {
+      "filename": "2021_ACJC_P3_q3",
+      "parts": [
+        {"part": "(a)(i)", "description": "Define electric field strength", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(a)(ii)", "description": "State relationship", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)(i)", "description": "State x at max V", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(ii)", "description": "Determine charge of B", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)(iii)", "description": "Describe subsequent motion", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 9,
+      "weighted_sum": 29,
+      "overall_difficulty": 3.22
+    },
+    {
+      "filename": "2020_YIJC_P2_q5",
+      "parts": [
+        {"part": "(a)(i)", "description": "State electric field", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(a)(ii)", "description": "Complete field pattern", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(a)(iii)(1)", "description": "State W expression (V and Q)", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(a)(iii)(2)", "description": "State W expression (F and d)", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(a)(iv)", "description": "Show E = potential gradient", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)", "description": "Determine neutral point", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 10,
+      "weighted_sum": 29,
+      "overall_difficulty": 2.90
+    },
+    {
+      "filename": "2020_TJC_P3_q3",
+      "parts": [
+        {"part": "(a)", "description": "Explain ignoring gravitational field", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)(i)", "description": "State and explain signs", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(ii)", "description": "Estimate x at minimum V", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(b)(iii)", "description": "Determine charge on A", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(iv)", "description": "Determine minimum EK", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(v)", "description": "Sketch E vs x graph", "level": 3, "marks": 2, "weighted_score": 6}
+      ],
+      "total_marks": 12,
+      "weighted_sum": 46,
+      "overall_difficulty": 3.83
+    },
+    {
+      "filename": "2020_SAJC_P2_q4",
+      "parts": [
+        {"part": "(a)(i)", "description": "Define electric field strength", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(a)(ii)", "description": "State relation", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(a)(iii)", "description": "Explain direction", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(b)", "description": "Determine charge of A", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(c)", "description": "Calculate speed", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 10,
+      "weighted_sum": 31,
+      "overall_difficulty": 3.10
+    },
+    {
+      "filename": "2020_RVHS_P3_q6",
+      "parts": [
+        {"part": "(a)", "description": "Sketch V graph for D only", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)", "description": "State and explain signs", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)", "description": "Explain maximum", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(d)", "description": "Determine ratio", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 8,
+      "weighted_sum": 31,
+      "overall_difficulty": 3.88
+    },
+    {
+      "filename": "2020_RI_P3_q3",
+      "parts": [
+        {"part": "(a)(i)", "description": "State force direction (Moon)", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(a)(ii)", "description": "State force direction (electron)", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(a)(iii)", "description": "State force direction (electron in B)", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)(i)", "description": "Show charge of S", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(ii)", "description": "Determine maximum distance", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(iii)(1)", "description": "Sketch F vs r graph", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(iii)(2)", "description": "Explain maximum distance change", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 10,
+      "weighted_sum": 28,
+      "overall_difficulty": 2.80
+    },
+    {
+      "filename": "2020_NYJC_P2_q4",
+      "parts": [
+        {"part": "(a)", "description": "Define electric field strength", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)(i)", "description": "Comment on magnitude and polarity", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(ii)", "description": "Determine acceleration", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(i)", "description": "State relationship", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(c)(ii)", "description": "Determine maximum speed", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 9,
+      "weighted_sum": 30,
+      "overall_difficulty": 3.33
+    },
+    {
+      "filename": "2020_NJC_P2_q4",
+      "parts": [
+        {"part": "(a)", "description": "Define potential", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)(i)", "description": "State V difference", "level": 2, "marks": 1, "weighted_score": 2},
+        {"part": "(b)(ii)", "description": "Determine work done", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(iii)", "description": "Explain work done", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(i)", "description": "State relation", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(c)(ii)", "description": "Draw arrow at D", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)(iii)", "description": "Describe motion", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 10,
+      "weighted_sum": 27,
+      "overall_difficulty": 2.70
+    },
+    {
+      "filename": "2020_MI_P2_q3",
+      "parts": [
+        {"part": "(a)", "description": "Define electric potential", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)", "description": "Sketch electric field lines", "level": 3, "marks": 3, "weighted_score": 9},
+        {"part": "(c)(i)", "description": "Calculate V at A", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(ii)", "description": "Calculate minimum v", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 9,
+      "weighted_sum": 30,
+      "overall_difficulty": 3.33
+    },
+    {
+      "filename": "2020_JPJC_P2_q5",
+      "parts": [
+        {"part": "(a)", "description": "State evidence for conductors", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(b)(i)", "description": "State and explain polarity", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(ii)", "description": "Determine ratio", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(i)", "description": "State relation", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(c)(ii)", "description": "Estimate work done", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 8,
+      "weighted_sum": 29,
+      "overall_difficulty": 3.63
+    },
+    {
+      "filename": "2020_HCI_P3_q5",
+      "parts": [
+        {"part": "(a)(i)", "description": "Calculate V and state higher", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(a)(ii)", "description": "Calculate work done", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(i)", "description": "Calculate number of electrons", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(ii)", "description": "Determine speed", "level": 3, "marks": 2, "weighted_score": 6}
+      ],
+      "total_marks": 9,
+      "weighted_sum": 30,
+      "overall_difficulty": 3.33
+    },
+    {
+      "filename": "2020_EJC_P2_q5",
+      "parts": [
+        {"part": "(a)", "description": "Define electric field strength", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)(i)", "description": "Show velocity", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(ii)(1)", "description": "Calculate acceleration", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(ii)(2)", "description": "Calculate time", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(ii)(3)", "description": "Calculate vertical speed", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(ii)(4)", "description": "Calculate angle θ", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(iii)", "description": "Describe proton path", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 12,
+      "weighted_sum": 36,
+      "overall_difficulty": 3.00
+    },
+    {
+      "filename": "2020_CJC_P3_q8",
+      "parts": [
+        {"part": "(a)(i)", "description": "Define E at P1", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(a)(ii)", "description": "Define V at P1", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)(i)", "description": "Calculate work done", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)(ii)", "description": "Explain work done more/less", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(iii)", "description": "Describe V variation", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(i)", "description": "Show E magnitude", "level": 4, "marks": 4, "weighted_score": 16},
+        {"part": "(c)(ii)(1)", "description": "Calculate force", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(c)(ii)(2)", "description": "Calculate acceleration", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(d)", "description": "Suggest subsequent motion", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 20,
+      "weighted_sum": 72,
+      "overall_difficulty": 3.60
+    },
+    {
+      "filename": "2020_ASRJC_P3_q4",
+      "parts": [
+        {"part": "(a)", "description": "Define electric potential", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "State feature related to E", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(b)(ii)", "description": "Sketch E vs x graph", "level": 3, "marks": 3, "weighted_score": 9},
+        {"part": "(b)(iii)", "description": "Calculate x at V=0", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(iv)", "description": "Sketch V change", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(i)(1)", "description": "Calculate work X to Y", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)(i)(2)", "description": "Calculate work X to Z", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)(ii)", "description": "Calculate potential at Y", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 15,
+      "weighted_sum": 49,
+      "overall_difficulty": 3.27
+    },
+    {
+      "filename": "2020_ACJC_P3_q3",
+      "parts": [
+        {"part": "(a)", "description": "Define electric potential", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "Sketch V vs x graph", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(ii)", "description": "Sketch E vs x graph", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(i)", "description": "Show constant current", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(ii)", "description": "Explain rate relationship", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(iii)", "description": "Show expression", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(c)(iv)", "description": "Determine time", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)(v)", "description": "Determine fully deflated", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 12,
+      "weighted_sum": 45,
+      "overall_difficulty": 3.75
+    },
+    {
+      "filename": "2020_ACJC_P2_q4",
+      "parts": [
+        {"part": "(a)", "description": "Determine time", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)", "description": "Show acceleration", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)", "description": "Find vertical displacement", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(d)", "description": "Calculate speed", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(e)", "description": "Determine radius", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(f)", "description": "Sketch path", "level": 3, "marks": 2, "weighted_score": 6}
+      ],
+      "total_marks": 12,
+      "weighted_sum": 43,
+      "overall_difficulty": 3.58
+    },
+    {
+      "filename": "2019_YIJC_P3_q7",
+      "parts": [
+        {"part": "(a)(i)", "description": "Write F expression", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(a)(ii)", "description": "Write F expression", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)", "description": "Calculate ω", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(i)", "description": "Show ratio expression", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(ii)", "description": "Calculate R1 and R2", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(d)", "description": "Suggest reasons for graph shape", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(e)", "description": "Explain potential variation", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(f)(i)", "description": "Determine potential energy", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(f)(ii)", "description": "Suggest high energy reason", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(g)", "description": "Determine separation s", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 20,
+      "weighted_sum": 70,
+      "overall_difficulty": 3.50
+    },
+    {
+      "filename": "2019_TJC_P3_q3",
+      "parts": [
+        {"part": "(a)(i)", "description": "Describe and explain motion", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(a)(ii)", "description": "Calculate acceleration", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(a)(iii)", "description": "Calculate angle", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)(i)", "description": "Describe and explain motion", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(ii)", "description": "Calculate resultant force", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 12,
+      "weighted_sum": 44,
+      "overall_difficulty": 3.67
+    },
+    {
+      "filename": "2019_SAJC_P3_q8",
+      "parts": [
+        {"part": "(a)", "description": "State two differences", "level": 2, "marks": 2, "weighted_score": 4},
+        {"part": "(b)(i)", "description": "State B direction", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)(ii)", "description": "Determine B", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(iii)", "description": "Explain circular path", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(iv)", "description": "Show alpha particle", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(v)", "description": "Determine exit/collision", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(c)(i)", "description": "Draw field lines", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(ii)", "description": "Determine position", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(iii)", "description": "Sketch V variation", "level": 3, "marks": 2, "weighted_score": 6}
+      ],
+      "total_marks": 20,
+      "weighted_sum": 72,
+      "overall_difficulty": 3.60
+    },
+    {
+      "filename": "2019_RVHS_P3_q4",
+      "parts": [
+        {"part": "(a)", "description": "Define electric field strength", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "State E direction", "level": 2, "marks": 1, "weighted_score": 2},
+        {"part": "(b)(ii)", "description": "Calculate force", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(iii)", "description": "Determine separation", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(c)", "description": "State and explain effect", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 10,
+      "weighted_sum": 30,
+      "overall_difficulty": 3.00
+    },
+    {
+      "filename": "2019_NYJC_P2_q5",
+      "parts": [
+        {"part": "(a)", "description": "Explain electric field strength", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "Calculate E", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(ii)", "description": "Calculate force", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)(i)", "description": "Draw forces on ion", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(ii)", "description": "State resultant force", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)(iii)", "description": "Describe effect", "level": 4, "marks": 1, "weighted_score": 4}
+      ],
+      "total_marks": 9,
+      "weighted_sum": 24,
+      "overall_difficulty": 2.67
+    },
+    {
+      "filename": "2019_NJC_P3_q9",
+      "parts": [
+        {"part": "(a)", "description": "State principle of moments", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "Explain Y must be negative", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(ii)", "description": "Calculate electric force", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)(iii)", "description": "Sketch contact force", "level": 2, "marks": 1, "weighted_score": 2},
+        {"part": "(c)", "description": "Sketch electric field", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(d)(i)", "description": "Describe potential energy change", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(d)(ii)", "description": "Determine potential energy", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(d)(iii)", "description": "Explain gradient relation", "level": 5, "marks": 4, "weighted_score": 20}
+      ],
+      "total_marks": 20,
+      "weighted_sum": 74,
+      "overall_difficulty": 3.70
+    },
+    {
+      "filename": "2019_MI_P2_q4",
+      "parts": [
+        {"part": "(a)", "description": "Define E and state SI unit", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "Draw field lines", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(ii)", "description": "Calculate E", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(iii)", "description": "Calculate work done", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(iv)", "description": "State gain in KE", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)", "description": "Estimate electric current", "level": 5, "marks": 4, "weighted_score": 20}
+      ],
+      "total_marks": 10,
+      "weighted_sum": 34,
+      "overall_difficulty": 3.40
+    },
+    {
+      "filename": "2019_JPJC_P3_q5",
+      "parts": [
+        {"part": "(a)", "description": "Define electric field strength", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)(i)", "description": "Draw E at O", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(ii)", "description": "Show E expression", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(c)", "description": "Describe motion", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(d)", "description": "Determine minimum KE", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 10,
+      "weighted_sum": 36,
+      "overall_difficulty": 3.60
+    },
+    {
+      "filename": "2019_HCI_P2_q4",
+      "parts": [
+        {"part": "(a)(i)", "description": "Define electric potential", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(a)(ii)", "description": "Write relationship", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)", "description": "State reasons for signs", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(i)", "description": "Draw arrow at P", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)(ii)", "description": "Estimate E magnitude", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(d)", "description": "Calculate work", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(e)", "description": "Sketch E variation", "level": 3, "marks": 3, "weighted_score": 9}
+      ],
+      "total_marks": 12,
+      "weighted_sum": 33,
+      "overall_difficulty": 2.75
+    },
+    {
+      "filename": "2019_EJC_P3_q4",
+      "parts": [
+        {"part": "(a)", "description": "Determine charge at B", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)", "description": "State and explain x", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)", "description": "Sketch V variation", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 8,
+      "weighted_sum": 32,
+      "overall_difficulty": 4.00
+    },
+    {
+      "filename": "2019_DHS_P2_q5",
+      "parts": [
+        {"part": "(a)", "description": "Explain coming to rest", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(i)", "description": "Determine separation", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(ii)", "description": "Determine force", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)", "description": "State assumptions", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(d)", "description": "Sketch EPE and KE", "level": 3, "marks": 2, "weighted_score": 6}
+      ],
+      "total_marks": 9,
+      "weighted_sum": 33,
+      "overall_difficulty": 3.67
+    },
+    {
+      "filename": "2019_CJC_P3_q9",
+      "parts": [
+        {"part": "(a)", "description": "Define electric potential", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "Obtain V expression", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(ii)", "description": "Sketch V variations", "level": 3, "marks": 3, "weighted_score": 9},
+        {"part": "(b)(iii)(1)", "description": "Draw free body diagram", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(iii)(2)", "description": "Derive force expression", "level": 5, "marks": 1, "weighted_score": 5},
+        {"part": "(b)(iii)(3)", "description": "Determine period", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(b)(iii)(4)", "description": "Sketch energy graphs", "level": 3, "marks": 3, "weighted_score": 9},
+        {"part": "(c)(i)", "description": "Determine speed", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(ii)", "description": "Draw field lines", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)(iii)(1)", "description": "Sketch trajectory", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)(iii)(2)", "description": "Show no hit", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 20,
+      "weighted_sum": 61,
+      "overall_difficulty": 3.05
+    },
+    {
+      "filename": "2019_CJC_P3_q4",
+      "parts": [
+        {"part": "(a)(i)", "description": "Calculate repulsive force", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(a)(ii)", "description": "Calculate charge", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(i)", "description": "Show horizontal force", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(ii)", "description": "Calculate tension", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(c)", "description": "Discuss magnetic effect", "level": 5, "marks": 3, "weighted_score": 15},
+        {"part": "(d)", "description": "Describe path", "level": 4, "marks": 1, "weighted_score": 4}
+      ],
+      "total_marks": 14,
+      "weighted_sum": 59,
+      "overall_difficulty": 4.21
+    },
+    {
+      "filename": "2019_ASRJC_P3_q5",
+      "parts": [
+        {"part": "(a)", "description": "State evidence for conductors", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(b)(i)", "description": "State and explain polarity", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(ii)", "description": "Determine ratio", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)(iii)", "description": "Sketch field lines", "level": 3, "marks": 2, "weighted_score": 6}
+      ],
+      "total_marks": 8,
+      "weighted_sum": 30,
+      "overall_difficulty": 3.75
+    },
+    {
+      "filename": "2019_ACJC_P3_q3",
+      "parts": [
+        {"part": "(a)", "description": "State similarity and difference", "level": 2, "marks": 2, "weighted_score": 4},
+        {"part": "(b)(i)", "description": "Calculate charges", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(ii)", "description": "Calculate dmin", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)(iii)", "description": "Sketch V graph", "level": 3, "marks": 2, "weighted_score": 6}
+      ],
+      "total_marks": 9,
+      "weighted_sum": 28,
+      "overall_difficulty": 3.11
+    },
+    {
+      "filename": "2018_YJC_P3_q5",
+      "parts": [
+        {"part": "(a)(i)", "description": "Indicate EA direction", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(a)(ii)", "description": "Indicate EB direction", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(a)(iii)", "description": "Indicate ER direction", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)", "description": "Determine E magnitude", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 5,
+      "weighted_sum": 17,
+      "overall_difficulty": 3.40
+    },
+    {
+      "filename": "2018_VJC_P3_q5",
+      "parts": [
+        {"part": "(a)", "description": "Show acceleration", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)", "description": "Determine L", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(c)(i)", "description": "Sketch electron path", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)(ii)", "description": "Sketch proton path", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)(iii)", "description": "Explain differences", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 9,
+      "weighted_sum": 32,
+      "overall_difficulty": 3.56
+    },
+    {
+      "filename": "2018_TPJC_P3_q4",
+      "parts": [
+        {"part": "(a)", "description": "State electric field", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)(i)", "description": "Calculate WAB", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(ii)", "description": "Calculate WAD", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)", "description": "Calculate potential at B", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(d)(i)", "description": "Sketch plate positions", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(d)(ii)", "description": "Draw equipotential lines", "level": 3, "marks": 2, "weighted_score": 6}
+      ],
+      "total_marks": 9,
+      "weighted_sum": 27,
+      "overall_difficulty": 3.00
+    },
+    {
+      "filename": "2018_TJC_P3_q5",
+      "parts": [
+        {"part": "(a)", "description": "State feature showing decrease", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)", "description": "Estimate E at surface", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)", "description": "Determine speed", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(d)", "description": "Sketch field lines", "level": 3, "marks": 3, "weighted_score": 9}
+      ],
+      "total_marks": 9,
+      "weighted_sum": 31,
+      "overall_difficulty": 3.44
+    },
+    {
+      "filename": "2018_SRJC_P3_q4",
+      "parts": [
+        {"part": "(a)", "description": "Define electric potential", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)", "description": "State radius", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(ii)", "description": "State and explain signs", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(iii)", "description": "Determine EK", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 8,
+      "weighted_sum": 25,
+      "overall_difficulty": 3.13
+    },
+    {
+      "filename": "2018_RVHS_P2_q6",
+      "parts": [
+        {"part": "(a)", "description": "Calculate speed", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)", "description": "Show time", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)", "description": "Determine maximum deflection", "level": 5, "marks": 4, "weighted_score": 20},
+        {"part": "(d)", "description": "Describe and explain difference", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 9,
+      "weighted_sum": 37,
+      "overall_difficulty": 4.11
+    },
+    {
+      "filename": "2018_RI_P2_q4",
+      "parts": [
+        {"part": "(a)", "description": "State relation", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)(i)", "description": "State x value", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(ii)", "description": "Calculate V", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(iii)", "description": "Sketch V graph", "level": 3, "marks": 3, "weighted_score": 9},
+        {"part": "(b)(iv)(1)", "description": "State and explain reach", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(iv)(2)", "description": "Describe entire motion", "level": 5, "marks": 3, "weighted_score": 15}
+      ],
+      "total_marks": 11,
+      "weighted_sum": 39,
+      "overall_difficulty": 3.55
+    },
+    {
+      "filename": "2018_PJC_P3_q8",
+      "parts": [
+        {"part": "(a)", "description": "Define electric field strength", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)(i)", "description": "Sketch V graph", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(ii)", "description": "Sketch E graph", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(i)", "description": "Describe path", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)(ii)", "description": "Determine speed", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 8,
+      "weighted_sum": 24,
+      "overall_difficulty": 3.00
+    },
+    {
+      "filename": "2018_NYJC_P3_q1",
+      "parts": [
+        {"part": "(a)", "description": "Express F in SI base units", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)(i)", "description": "Calculate charge", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(ii)", "description": "Express Q with uncertainty", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 7,
+      "weighted_sum": 27,
+      "overall_difficulty": 3.86
+    },
+    {
+      "filename": "2018_NJC_P2_q6",
+      "parts": [
+        {"part": "(a)(i)", "description": "Calculate force", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(a)(ii)", "description": "Describe and explain motion", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)(i)", "description": "Mark zero E and V points", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(ii)", "description": "Draw equipotential lines", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)", "description": "Explain relationship", "level": 4, "marks": 4, "weighted_score": 16}
+      ],
+      "total_marks": 11,
+      "weighted_sum": 40,
+      "overall_difficulty": 3.64
+    },
+    {
+      "filename": "2018_MJC_P3_q6",
+      "parts": [
+        {"part": "(a)", "description": "Draw field lines", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)", "description": "Explain relationship", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(i)", "description": "Show inverse proportionality", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(ii)", "description": "Calculate radius", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(iii)", "description": "Determine charge", "level": 3, "marks": 2, "weighted_score": 6}
+      ],
+      "total_marks": 10,
+      "weighted_sum": 34,
+      "overall_difficulty": 3.40
+    },
+    {
+      "filename": "2018_MI_P2_q5",
+      "parts": [
+        {"part": "(a)", "description": "Define electric potential", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)(i)", "description": "Sketch V graph", "level": 3, "marks": 3, "weighted_score": 9},
+        {"part": "(b)(ii)(1)", "description": "Determine potential energy", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(ii)(2)", "description": "Determine minimum speed", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 8,
+      "weighted_sum": 24,
+      "overall_difficulty": 3.00
+    },
+    {
+      "filename": "2018_JJC_P3_q5",
+      "parts": [
+        {"part": "(a)", "description": "Define electric field strength", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)(i)", "description": "Calculate time", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(ii)", "description": "Calculate vertical velocity", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(iii)", "description": "Calculate acceleration", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(iv)", "description": "Calculate V", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(v)", "description": "Suggest effect", "level": 4, "marks": 1, "weighted_score": 4}
+      ],
+      "total_marks": 8,
+      "weighted_sum": 25,
+      "overall_difficulty": 3.13
+    },
+    {
+      "filename": "2018_IJC_P2_q5",
+      "parts": [
+        {"part": "(a)", "description": "Determine number of electrons", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)", "description": "Sketch E curves", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(i)", "description": "Determine work done", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(c)(ii)", "description": "Determine E magnitude and direction", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 9,
+      "weighted_sum": 32,
+      "overall_difficulty": 3.56
+    },
+    {
+      "filename": "2018_HCI_P2_q4",
+      "parts": [
+        {"part": "(a)", "description": "State electric field", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)(i)", "description": "Draw field line", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(ii)", "description": "Explain stronger field", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(b)(iii)", "description": "Calculate potential energy", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(iv)", "description": "Identify final location", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(v)", "description": "Determine electric force", "level": 4, "marks": 3, "weighted_score": 12}
+      ],
+      "total_marks": 11,
+      "weighted_sum": 37,
+      "overall_difficulty": 3.36
+    },
+    {
+      "filename": "2018_EJC_P3_q3",
+      "parts": [
+        {"part": "(a)", "description": "Define electric potential", "level": 1, "marks": 1, "weighted_score": 1},
+        {"part": "(b)(i)", "description": "Sketch V variation", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(ii)", "description": "Describe force determination", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(i)", "description": "State force magnitude", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(c)(ii)", "description": "Sketch field lines", "level": 3, "marks": 3, "weighted_score": 9},
+        {"part": "(c)(iii)", "description": "Determine work done", "level": 5, "marks": 3, "weighted_score": 15}
+      ],
+      "total_marks": 12,
+      "weighted_sum": 40,
+      "overall_difficulty": 3.33
+    },
+    {
+      "filename": "2018_DHS_P2_q5",
+      "parts": [
+        {"part": "(a)(i)", "description": "Define E and field", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(a)(ii)", "description": "Determine E with unit", "level": 3, "marks": 3, "weighted_score": 9},
+        {"part": "(b)", "description": "Draw field pattern", "level": 3, "marks": 3, "weighted_score": 9}
+      ],
+      "total_marks": 8,
+      "weighted_sum": 20,
+      "overall_difficulty": 2.50
+    },
+    {
+      "filename": "2018_AJC_P3_q7",
+      "parts": [
+        {"part": "(a)", "description": "Define electric field strength", "level": 1, "marks": 2, "weighted_score": 2},
+        {"part": "(b)(i)(1)", "description": "State and explain charge sign", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(b)(i)(2)", "description": "Explain point charge appearance", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(b)(ii)", "description": "Draw force direction", "level": 3, "marks": 1, "weighted_score": 3},
+        {"part": "(b)(iii)(1)", "description": "Calculate V", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)(iii)(2)", "description": "State sign and explain", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(b)(iv)", "description": "Determine ratio", "level": 4, "marks": 2, "weighted_score": 8},
+        {"part": "(b)(v)", "description": "Explain gravitational field", "level": 4, "marks": 1, "weighted_score": 4},
+        {"part": "(c)(i)", "description": "State and explain polarity", "level": 4, "marks": 3, "weighted_score": 12},
+        {"part": "(c)(ii)", "description": "Calculate B", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)(iii)", "description": "Describe balance reading", "level": 4, "marks": 2, "weighted_score": 8}
+      ],
+      "total_marks": 20,
+      "weighted_sum": 69,
+      "overall_difficulty": 3.45
+    },
+    {
+      "filename": "2018_ACJC_P2_q4",
+      "parts": [
+        {"part": "(a)", "description": "Sketch V graphs", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(b)", "description": "Sketch E graph", "level": 3, "marks": 2, "weighted_score": 6},
+        {"part": "(c)", "description": "Determine distance", "level": 5, "marks": 3, "weighted_score": 15}
+      ],
+      "total_marks": 7,
+      "weighted_sum": 27,
+      "overall_difficulty": 3.86
+    }
+  ]
+}
