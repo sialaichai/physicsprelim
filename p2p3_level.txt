@@ -1,0 +1,19 @@
+A. Classify each part of every question based on Bloom's taxonomy:
+Level	Score	Description
+1	1	Knowledge recall (define SHM, state formula)
+2	2	Comprehension (explain concept in own words)
+3	3	Application (single formula substitution)
+4	4	Analysis (multi-step, graph interpretation)
+5	5	Synthesis (cross-topic, derivation, evaluation)
+
+B. For each question, compute:Overall Difficulty = (Sum of part scores × part marks) / (Total marks)
+
+C. Map the difficulty for each question
+Overall Score Range	Difficulty Band	Label
+1.00 – 1.99	Easy	Recall/Comprehension
+2.00 – 2.99	Medium-Low	Basic Application
+3.00 – 3.99	Medium	Multi-step Application
+4.00 – 4.99	Hard	Analysis
+5.00	Very Hard	Synthesis/Evaluation
+
+D. Generate the full JSON report of each question, for all the questions in the pdf file. The JSON should contain the parts with Part, Description, Level, Marks, Weighted Score for all the parts of the questions, and a summary of the Total marks, the weighted sum and the Overall Difficulty for the whole question.
