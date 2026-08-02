@@ -1823,5 +1823,2068 @@
     "total_marks": 8,
     "weighted_sum": 27,
     "overall_difficulty": 3.38
+  },
+    {
+    "filename": "2025_VJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why free fall makes astronauts feel weightless", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Calculate gravitational field strength at ISS height", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "State value of centripetal acceleration of ISS", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Show period of ISS is 92 minutes", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Suggest advantage of low Earth orbit", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)", "description": "Calculate average power delivered to batteries during one orbit", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2025_TMJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define gravitational field strength", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Explain why g and a have same magnitude and direction for satellite", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Use Fig 3.1 to show inverse square law", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Determine speed of satellite using Fig 3.1", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(iii)", "description": "Sketch graph for planet Y with smaller mass", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 35,
+    "overall_difficulty": 2.92
+  },
+  {
+    "filename": "2025_TJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show 1 AU = 1.50 × 10¹¹ m", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Suggest why planetary gravitational influence is small compared to Sun", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Determine minimum speed to escape Sun's field near Jupiter", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Explain how Fig 7.3 shows Voyager 2 could not escape", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Calculate gain in momentum from Fig 7.3", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(v)", "description": "Explain using momentum conservation how Voyager gains momentum", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Calculate percentage decrease in activity over one year", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(ii)", "description": "Estimate power available in 2036", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Explain why receiving area was increased", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)", "description": "Calculate angular diameter of Earth from Voyager 1", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 22,
+    "weighted_sum": 66,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2025_SAJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show angular velocity of star Y is also ω", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Deduce expression for total energy E in terms of G, M and D", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(c)", "description": "Explain physical significance of negative total energy", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)", "description": "Explain whether two identical electric charges could orbit", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.60
+  },
+  {
+    "filename": "2025_SAJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show mass of planet is 8.8 × 10²⁵ kg", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(ii)", "description": "Determine additional energy to move satellite to infinity", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Explain direction of initial thrust to move to closer orbit", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 29,
+    "overall_difficulty": 3.63
+  },
+  {
+    "filename": "2025_RI_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Draw circles representing orbits of star and planet", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain why centripetal forces are equal in magnitude", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(iii)", "description": "Show rS/rP = 0.12", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Determine angular velocity of star S", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine radius rS", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Determine separation between stars", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iv)", "description": "Determine mass M", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Sketch apparent speed vs time graph", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 44,
+    "overall_difficulty": 3.14
+  },
+  {
+    "filename": "2025_NYJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why gravitational potential is negative", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Explain why west-to-east launch direction is preferred", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Show geostationary satellite is 3.59×10⁷ m above surface", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iii)", "description": "Find total energy of 1000 kg satellite in geostationary orbit", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Explain impact of atmospheric drag on trajectory", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 31,
+    "overall_difficulty": 2.82
+  },
+  {
+    "filename": "2025_NJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define gravitational potential at a point", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show mass of Earth is 6.0 × 10²⁴ kg", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)1", "description": "Calculate speed of meteorite at distance 2R above surface", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)2", "description": "Calculate acceleration of meteorite", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Suggest how speed changes due to Moon's presence", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 34,
+    "overall_difficulty": 2.83
+  },
+  {
+    "filename": "2025_NJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how gravitational forces on stars are equal", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Show r₁/r₂ = 2", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Determine value of r₁", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Determine orbital period T", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2025_MI_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by a gravitational field", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Determine angular velocity of Earth's rotation", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate radius of satellite's orbit", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iii)1", "description": "Calculate change in potential energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)2", "description": "Calculate change in kinetic energy", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2025_JPJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define gravitational potential at a point", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Explain why gravitational potential is always negative", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Calculate mass of planet from graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine radius R of satellite orbit", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iv)", "description": "Determine additional energy to move satellite to infinity", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2025_HCI_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show escape velocity v = √(8/3 Gπρ r²)", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Calculate escape velocity of argon gas molecules", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Determine absolute temperature of atmosphere", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)", "description": "Suggest reason whether argon molecules would escape at 100 K lower", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.56
+  },
+  {
+    "filename": "2025_HCI_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define gravitational potential at a point", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine gravitational potential at neutral point", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine minimum kinetic energy to send rock from Moon to Earth", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Explain why stars experience same centripetal force", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Determine distance R", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2025_EJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define gravitational potential at a point", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain why gravitational potential is negative", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Show v = √(-2φ)", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Calculate gravitational potential at surface of Moon", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Determine minimum escape speed from Moon", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(e)", "description": "Calculate r.m.s. speed of hydrogen at 400 K", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(f)", "description": "Suggest why Moon has no hydrogen atmosphere", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(g)(i)", "description": "Determine speed of comet at point Y", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(g)(ii)", "description": "Suggest how path changes for comet losing mass", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(g)(iii)", "description": "Sketch possible path for comet with greater speed", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 23,
+    "weighted_sum": 76,
+    "overall_difficulty": 3.30
+  },
+  {
+    "filename": "2025_DHS_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define gravitational field strength at a point", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Show g = GM/r² from Newton's law", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Explain why g near Earth's surface is approximately constant", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 23,
+    "overall_difficulty": 2.88
+  },
+  {
+    "filename": "2025_DHS_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine percentage uncertainty in asteroid diameter", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Show T² = 4π²r³/(GM)", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "State and explain change in orbital radius after impact", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Define Rayleigh's Criterion", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Determine distance for just resolvable", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Suggest what is meant by power-to-mass ratio", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(ii)", "description": "Determine power output delivered by ROSA", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(i)", "description": "Suggest and explain why Xenon is preferable", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(ii)", "description": "Sketch electric field lines between plates", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(e)(iii)", "description": "Determine potential difference for maximum exhaust speed", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(iv)", "description": "Determine number of Xenon ions per second", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 21,
+    "weighted_sum": 64,
+    "overall_difficulty": 3.05
+  },
+  {
+    "filename": "2025_CJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show Ek = GMm/(6R)", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Determine total energy of satellite", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Sketch kinetic energy vs distance graph", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)", "description": "Determine minimum escape speed from surface", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.60
+  },
+  {
+    "filename": "2025_ASRJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show Ek = GMm/(2R)", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(ii)", "description": "Show total energy = -GMm/(2R)", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Suggest why satellites burn up in atmosphere", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "State one advantage of geostationary satellite", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)(ii)", "description": "State one disadvantage of geostationary satellite", "level": 1, "marks": 1, "weighted_score": 1}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 25,
+    "overall_difficulty": 2.78
+  },
+  {
+    "filename": "2025_ACJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by a geostationary orbit", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate angular velocity of particle about Saturn", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Deduce whether particle is in stationary orbit", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Show r³ω² = GM", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Show mass of Saturn is 5.7×10²⁶ kg", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Define gravitational potential", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Draw equipotential lines around Saturn", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(iii)", "description": "Determine minimum additional velocity to escape", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(i)", "description": "Determine distance from Titan where resultant g is zero", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(ii)", "description": "Sketch g vs distance graph", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 22,
+    "weighted_sum": 65,
+    "overall_difficulty": 2.95
+  },
+  {
+    "filename": "2024_YIJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate kinetic energy of satellite", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(ii)", "description": "Calculate centripetal force required", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "State what is meant by gravitational potential", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Explain why gravitational force is attractive using graph", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Calculate escape velocity using graph", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 27,
+    "overall_difficulty": 2.45
+  },
+  {
+    "filename": "2024_VJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine angular velocity of geostationary satellite", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate radius of geostationary orbit", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(iii)", "description": "State one application of geostationary satellites", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(iv)", "description": "State one advantage and one disadvantage", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "State relationship between φ and g", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Compare field strength at surfaces", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Compare kinetic energy at surfaces", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Explain significance of maximum point", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(v)", "description": "Determine ratio M₁/M₂", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(vi)", "description": "Sketch g vs x graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 60,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2024_TMJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show radius of gas cloud is 1.1×10¹⁷ m", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Calculate maximum average temperature", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Explain how higher density affects maximum temperature", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Explain why high temperatures required for fusion", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(e)", "description": "Determine energy released in third step of fusion chain", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(f)", "description": "Calculate maximum frequency of gamma photon", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(g)", "description": "Explain why fusion does not progress past iron", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(h)", "description": "Show v = √(GM/r)", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(i)", "description": "Show V ∝ r for uniform density sphere", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(j)", "description": "Suggest mass distribution in Messier 33", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 23,
+    "weighted_sum": 72,
+    "overall_difficulty": 3.13
+  },
+  {
+    "filename": "2024_TJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Draw and label forces on boy", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Explain difference in scale readings", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Determine height of satellite", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Explain whether satellite is geostationary", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2024_TJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why gravitational potential is negative", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)1", "description": "Sketch g vs distance graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)2", "description": "Sketch φ vs distance graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Show g = 3.7 N kg⁻¹", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine change in GPE", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate speed at point P", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.17
+  },
+  {
+    "filename": "2024_SAJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show speed at Mars surface is 5.0×10³ m s⁻¹", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Calculate temperature for He-4 at r.m.s. speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Suggest whether He-4 is found on Mars", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 20,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2024_RVHS_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine resultant g at midpoint", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Sketch φ vs displacement graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "Sketch g vs displacement graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Show rC/rD = 1/2", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Show FG = GMC²/(18rC²)", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Determine mass of star C", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 44,
+    "overall_difficulty": 3.67
+  },
+  {
+    "filename": "2024_RI_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define gravitational potential", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain why gravitational potential is negative", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Calculate change in GPE", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)1", "description": "Show v = √(GM/r)", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)2", "description": "Determine ratio of kinetic energies", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.60
+  },
+  {
+    "filename": "2024_NYJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Complete analogy table", "level": 1, "marks": 3, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Show force is 4.40×10²³ N", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Explain why planets orbit about centre of mass", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Show radius ratio = 1.73", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Determine orbital period in days", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(c)(i)", "description": "State g at P due to Earth", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Calculate g at P due to Areth", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(iii)", "description": "Determine gravitational force on man", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iv)", "description": "Suggest reason for greater scale reading", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 22,
+    "weighted_sum": 64,
+    "overall_difficulty": 2.91
+  },
+  {
+    "filename": "2024_NYJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show distance travelled is 4.7×10⁶ m", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Calculate time of contact with ground station", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Suggest reason why loss of altitude increases decay rate", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Explain why 10 cm debris is dangerous", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(e)", "description": "Suggest advantage of polar and geostationary orbits", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(f)", "description": "Determine width of reception area", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(g)", "description": "Determine maximum contact time at South Pole", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(h)(i)", "description": "Suggest effect on signal strength in higher orbit", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(h)(ii)", "description": "Suggest effect on contact time in higher orbit", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 59,
+    "overall_difficulty": 2.95
+  },
+  {
+    "filename": "2024_NJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define gravitational potential", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show ΔEP = GMm(1/r₁ - 1/r₂)", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Explain why student's claim is incorrect", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Determine speed of rock as it hits satellite", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.40
+  },
+  {
+    "filename": "2024_NJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define gravitational field strength", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Estimate and label point X where g = 0", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Determine g at A and B", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 12,
+    "overall_difficulty": 2.40
+  },
+  {
+    "filename": "2024_MI_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define gravitational field strength", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "State how graph shows g decreases with distance", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)", "description": "Calculate velocity at point Y", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Calculate period in geostationary orbit", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)(ii)", "description": "Calculate kinetic energy", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 24,
+    "overall_difficulty": 2.67
+  },
+  {
+    "filename": "2024_JPJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why g is approximately constant near surface", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "State expression for Y in terms of M and R", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Complete Fig 2.2 for outside planet", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Calculate distance for rock to lose half KE", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.40
+  },
+  {
+    "filename": "2024_HCI_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Newton's law of gravitation", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show resultant force is 2.55×10²¹ N", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Calculate period of orbit", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Explain why gravitational potential is always negative", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(iv)", "description": "Calculate gravitational potential energy", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2024_EJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain gravitational field strength", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Show Ek = -EP/2", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Determine total energy of satellite", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(ii)1", "description": "State and explain effect on Ek when orbit reduced", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)2", "description": "State and explain effect on total energy when orbit reduced", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(iii)", "description": "Determine g at 4.0×10⁸ m using graph", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 31,
+    "overall_difficulty": 2.38
+  },
+  {
+    "filename": "2024_DHS_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State similarity and difference between gravitational and electric fields", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Complete table to identify field types", "level": 2, "marks": 3, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Define gravitational potential", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Explain how graph shows g decreases with distance", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(iii)", "description": "Calculate velocity of satellite at point Y", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)(i)", "description": "Explain why gravitational potential is negative, electric can be positive/negative", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Suggest why gravitational effects are ignored in alpha scattering", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)(iii)", "description": "Calculate electric potential due to gold nucleus", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)(iv)", "description": "Sketch electric field lines between alpha particle and gold nucleus", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 21,
+    "weighted_sum": 48,
+    "overall_difficulty": 2.29
+  },
+  {
+    "filename": "2024_DHS_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by a gravitational field", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine density of lead", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine corresponding value of θ", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iii)", "description": "Show r = 17.6 cm", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Determine θ₁ and uncertainty", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(v)", "description": "Show G = 2π²Lr²θ₁/(MT²)", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Show θ₂ = 0.372°", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Determine G and SI base unit", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(c)(iii)", "description": "Explain why overnight timing gives more accurate T", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iv)", "description": "Suggest reason for slightly lower G value", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 24,
+    "weighted_sum": 77,
+    "overall_difficulty": 3.21
+  },
+  {
+    "filename": "2024_CJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show g = 44.5 N kg⁻¹ at 3.0×10⁹ m", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Sketch g vs x graph", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "State what area under graph represents", "level": 1, "marks": 1, "weighted_score": 1}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 19,
+    "overall_difficulty": 3.17
+  },
+  {
+    "filename": "2024_ACJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Newton's Law of Gravitation", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show Ek = GMm/(2r)", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Show ET = -GMm/(2r)", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Determine radius of orbit", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Determine work done to double orbit radius", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "State and explain effect of resistive force on speed", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 40,
+    "overall_difficulty": 3.08
+  },
+  {
+    "filename": "2023_VJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show 1 AU = 1.50×10¹¹ m", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Suggest why planetary gravitational influence is small", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "State one advantage of gravity assists", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Determine minimum speed to escape Sun near Jupiter", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iv)", "description": "Explain how Fig 7.3 shows Voyager 2 could not escape", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(v)", "description": "Calculate gain in momentum from Fig 7.3", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Calculate percentage decrease in activity over one year", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(ii)", "description": "Estimate power available in 2036", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 18,
+    "weighted_sum": 54,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2023_VJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Newton's Law of Gravitation", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Show v = √(GM/r)", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)1", "description": "Determine ratio vA/vB", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)2", "description": "Determine ratio TA/TB", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 23,
+    "overall_difficulty": 2.56
+  },
+  {
+    "filename": "2023_TJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State relationship between φ and g", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Deduce whether g at surface A is greater or less than at B", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Explain significance of maximum point M", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Sketch g vs x graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Explain why centripetal forces have same magnitude", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Explain why stars rotate with same angular speed", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(iii)", "description": "Determine distance d", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 15,
+    "weighted_sum": 42,
+    "overall_difficulty": 2.80
+  },
+  {
+    "filename": "2023_TJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State one advantage and one disadvantage of geostationary orbit", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Show angular velocity is 7.3×10⁻⁵ rad s⁻¹", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate radius of geostationary orbit", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 14,
+    "overall_difficulty": 2.33
+  },
+  {
+    "filename": "2023_SAJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define gravitational potential energy", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show ΔU = GMm/(6R)", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine mass M of planet", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "State two assumptions made", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Explain why satellite must be above equator", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Deduce distance r in terms of M", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 38,
+    "overall_difficulty": 2.92
+  },
+  {
+    "filename": "2023_RVHS_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by field of force and define g", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Show T² = 4π²r³/(GM)", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Estimate orbital radius of Ganymede from graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Comment on accuracy of media report", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(i)", "description": "Determine change in GPE from orbit B to A", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(ii)", "description": "Show φ is inversely proportional to radial distance", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 35,
+    "overall_difficulty": 2.69
+  },
+  {
+    "filename": "2023_RI_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Write equation relating centripetal and gravitational forces and determine k", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Determine angular velocity of satellite", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Show ET = -GMm/(2r)", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine minimum energy to graveyard orbit", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Mark where Moon has largest speed and explain", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 37,
+    "overall_difficulty": 3.70
+  },
+  {
+    "filename": "2023_NYJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Suggest why all φ values are negative", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Explain how graph determines resultant force", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)1", "description": "Determine minimum speed hitting Pluto", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)2", "description": "Compare speed from Pluto to Charon", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "State Newton's Law of Gravitation", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "Explain why stars do not collide", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Derive expression for period T", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Draw gravitational forces on diagram", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)1", "description": "Show F = 2GMms/(s²+L²)^(3/2)", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)(ii)2", "description": "State and explain if motion is SHM", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 67,
+    "overall_difficulty": 3.35
+  },
+  {
+    "filename": "2023_NJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate escape velocity midway between Earth and Moon", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Explain qualitatively how escape velocity changes near Moon", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 24,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2023_MI_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why rocket experiences no gravitational force at P", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Suggest two reasons return rocket needs less fuel", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)", "description": "Calculate mass of Moon", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Define gravitational potential", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(d)(ii)", "description": "Calculate kinetic energy at P", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 25,
+    "overall_difficulty": 2.78
+  },
+  {
+    "filename": "2023_JPJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine period T", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine work done to move satellite", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain why geostationary satellite must orbit in equatorial plane", "level": 2, "marks": 3, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Explain why geostationary satellites used for telecommunication", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 22,
+    "overall_difficulty": 2.75
+  },
+  {
+    "filename": "2023_HCI_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define gravitational potential", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "State and explain effect on GPE", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Show v = √(GM/R)", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Show speed in new orbit is 7620 m s⁻¹", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iv)1", "description": "Calculate change in kinetic energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)2", "description": "Calculate change in total energy", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 23,
+    "overall_difficulty": 2.88
+  },
+  {
+    "filename": "2023_HCI_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Newton's Law of Gravitation", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Explain why satellite must be above equator", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)1", "description": "Show altitude is 3.6×10⁷ m", "level": 3, "marks": 4, "weighted_score": 12},
+      {"part": "(b)(ii)2", "description": "Calculate linear speed", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 23,
+    "overall_difficulty": 2.56
+  },
+  {
+    "filename": "2023_EJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define gravitational potential", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine g at 2R above surface", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)1", "description": "Identify point for momentarily at rest", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)2", "description": "Identify point for falling towards Earth", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)3", "description": "Identify point for escaping to infinity", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)4", "description": "Identify point for circular orbit", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Sketch g vs distance graph", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Find minimum energy from Earth to Moon", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 71,
+    "overall_difficulty": 3.55
+  },
+  {
+    "filename": "2023_DHS_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define gravitational field strength", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Calculate radius of orbit", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(i)", "description": "Show linear speed in new orbit is 6.6×10³ m s⁻¹", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(ii)", "description": "Determine change in potential energy", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2023_CJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why stars must be directly opposite", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Show rB/rA = 4", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Calculate angular velocity", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Determine mass of each star", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.13
+  },
+  {
+    "filename": "2023_ASRJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define gravitational potential", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Suggest why gravitational potential is approximately constant near surface", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Sketch φ vs d graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Calculate change in speed from 4r to 3r", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.13
+  },
+  {
+    "filename": "2023_ACJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by GPE between two point masses", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Explain what is meant by geostationary orbit", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "Explain why Moon is not in geostationary orbit", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Calculate angular velocity of Moon", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Determine mass of Earth", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(v)1", "description": "Show kinetic energy of Moon", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(v)2", "description": "Derive total energy expression", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(v)3", "description": "Explain why total energy must be less than zero", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(vi)1", "description": "State and explain effect on total energy", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(vi)2", "description": "Explain how energy is conserved", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(vi)3", "description": "Suggest why day on Earth becomes longer", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(vii)", "description": "Comment on student's statement", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 60,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2022_YIJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Distinguish between longitudinal and transverse waves", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Deduce new amplitude when power halved", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine new distance for same loudness", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Explain whether waves are coherent", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Explain why sound at P is non-zero intensity", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "State intensity at P", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iv)", "description": "Determine wavelength from Fig 7.2", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "State path difference", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(ii)1", "description": "Determine angle θ", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)2", "description": "Determine distance d", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iii)", "description": "Explain why Young's formula cannot be used", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "Suggest why polarisation is not the contributing factor", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 62,
+    "overall_difficulty": 3.10
+  },
+  {
+    "filename": "2022_VJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Newton's law of gravitation", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate g at 350 km and state direction", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Calculate time for one orbit", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Define gravitational potential", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)(ii)", "description": "Explain why gravitational potential is negative", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(iii)", "description": "Explain why gradients near Earth and Moon have opposite signs", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(iv)", "description": "Determine minimum speed from Moon to Earth", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(i)", "description": "Calculate escape velocity", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)(ii)", "description": "Explain whether planet has atmosphere", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 59,
+    "overall_difficulty": 2.95
+  },
+  {
+    "filename": "2022_TMJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define gravitational potential", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Show φ at Q is −3.86×10⁶ J kg⁻¹", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Estimate g at point P", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate speed in circular orbit at P", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Estimate minimum KE to reach Moon", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 28,
+    "overall_difficulty": 2.80
+  },
+  {
+    "filename": "2022_TJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate distance of centre of mass from star", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Calculate period of orbit", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "Explain periodic dip in brightness", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show change in GPE is about 1.6×10¹⁰ J", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Determine mass of Earth", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Explain why polar orbit useful for weather and geostationary for telecom", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 41,
+    "overall_difficulty": 3.42
+  },
+  {
+    "filename": "2022_SAJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Suggest process in Sun providing energy", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Describe two origins of energy source", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "State useful energy change", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "Suggest two mechanisms for thermal energy waste", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Calculate rate of GPE loss", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate output power", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iii)", "description": "Calculate current supplied", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Calculate capacity factor", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)(ii)", "description": "Suggest why capacity factor cannot be 1.00", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(e)(i)1", "description": "Calculate Moon's tidal force FM", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(i)2", "description": "Calculate FM/FS and comment", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(e)(ii)", "description": "State in terms of tidal forces how spring tides are formed", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 22,
+    "weighted_sum": 58,
+    "overall_difficulty": 2.64
+  },
+  {
+    "filename": "2022_SAJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State two conditions for geostationary orbit", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Suggest one advantage of geostationary satellite", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Sketch φ vs d graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Calculate change in GPE from 4r to 3r", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Explain whether speed increases/decreases", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 21,
+    "overall_difficulty": 2.33
+  },
+  {
+    "filename": "2022_RI_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why gravitational potential is always negative vs electric", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)1", "description": "Calculate orbital speed of moon", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)2", "description": "Calculate total energy of moon", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)1", "description": "Show rock will not escape planet", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)2", "description": "Determine maximum distance from surface", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.60
+  },
+  {
+    "filename": "2022_NYJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine mass M of star from graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine minimum escape speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Determine whether hydrogen escapes", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iv)", "description": "Suggest why gas at equator more likely to escape", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Show Ek = GMm/(2r)", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Sketch U, K, T vs r graphs", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 43,
+    "overall_difficulty": 3.58
+  },
+  {
+    "filename": "2022_NJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Draw variation of EK, EP and ET vs r", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Show v² = 2GM/R", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Show v² = 2Rg", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Estimate temperature for helium escape", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Explain what is absolute zero", "level": 1, "marks": 1, "weighted_score": 1}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.40
+  },
+  {
+    "filename": "2022_MI_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate gravitational force on fragment", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Estimate KE gained from 4.0×10⁸ to 2.0×10⁸ m", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Show orbital radius is 4.23×10⁴ km", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine minimum energy from surface", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "State and explain effect of energy loss on radius and speed", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.80
+  },
+  {
+    "filename": "2022_JPJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define gravitational potential", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)1", "description": "Sketch EP vs h graph", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)2", "description": "Sketch EK vs h graph", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Determine h for 12-hour orbit", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "State and explain sign of work for larger h", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.89
+  },
+  {
+    "filename": "2022_HCI_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define gravitational potential", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain why gravitational potential is negative", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Describe variation of gravitational force along AC", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Sketch KE vs x graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 22,
+    "overall_difficulty": 2.75
+  },
+  {
+    "filename": "2022_HCI_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show T² = 4π²R³/(GMJ)", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Complete table with orbital period for Amalthea", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine expression for orbital speed", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Explain whether moon can stay in orbit with mass loss", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Estimate radius of geostationary orbit from graph", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Suggest possible use for geostationary satellite", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2022_EJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State what is meant by gravitational field strength", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "State Newton's law and show g = GM/R²", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Calculate average density of star", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "State and explain density variation", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Find minimum escape speed", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.60
+  },
+  {
+    "filename": "2022_CJC_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show T² = 4π²r³/(GM)", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(ii)1", "description": "Calculate radius for 28-hour orbit", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)2", "description": "Show Ek = GMm/(2r)", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)3", "description": "Determine kinetic energy", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)4", "description": "Calculate loss in kinetic energy", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Explain why centripetal forces are equal", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Calculate period of orbit", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Show M₁/M₂ = R₂/R₁", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iv)", "description": "Calculate R₁", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(v)", "description": "Suggest why orbit is not circular", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 63,
+    "overall_difficulty": 3.15
+  },
+  {
+    "filename": "2022_ASRJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why charge acts as point mass outside sphere", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)1", "description": "Determine charge of B from graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)2", "description": "Determine change in electric potential", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate speed of alpha particle", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "State x where E is least", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iv)", "description": "Determine magnitude of E", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.30
+  },
+  {
+    "filename": "2022_ACJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show g = (4/3)GπρR³/r²", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Sketch g vs r graph for inside and outside Earth", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Derive expression for T in terms of G and ρ", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Determine time taken from Singapore to Quito", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.78
+  },
+  {
+    "filename": "2021_YIJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why centripetal forces have same magnitude", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Calculate angular speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine distance d", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Determine mass MB", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.10
+  },
+  {
+    "filename": "2021_VJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why gravitational potential is negative", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Draw tangent and identify physical quantity", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Calculate gradient and state magnitude with unit", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Estimate velocity at surface from graph", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)", "description": "Suggest mechanism to reduce impact damage", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.60
+  },
+  {
+    "filename": "2021_TJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State advantage of using aluminium", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate centripetal acceleration of SOHO", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Show T² = 4π²r³/(GM)", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Explain how SOHO has same period as Earth", "level": 5, "marks": 5, "weighted_score": 25},
+      {"part": "(c)(i)", "description": "Complete table for T=3000 K", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Plot point and draw best fit", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(iii)", "description": "Determine constant k", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Estimate temperature of corona", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(e)(i)", "description": "Calculate shortest time for CME", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(ii)", "description": "Explain why CMEs cause blackouts", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 21,
+    "weighted_sum": 72,
+    "overall_difficulty": 3.43
+  },
+  {
+    "filename": "2021_TJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate kinetic energy at low Earth orbit", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Draw equipotential line", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "State what gradient of graph represents", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)(ii)", "description": "Explain which points represent total energy for escape", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 21,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2021_SAJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Draw cross where net force is zero", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Calculate mass M of Mars", "level": 3, "marks": 4, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Explain overall shape of graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine ratio mass Earth/Mass Mars", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Estimate minimum energy to return to Earth", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 40,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2021_RVHS_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain what is meant by escape speed", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Show escape speed from Mars is ~5 km s⁻¹", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(iii)", "description": "Suggest why rocket can escape with lower speed", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Complete table for Earth's potential and signs", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate total GPE of rocket", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Derive T² ∝ r³", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Estimate orbital period of Mars", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 15,
+    "weighted_sum": 40,
+    "overall_difficulty": 2.67
+  },
+  {
+    "filename": "2021_RI_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why gravitational potential is negative", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Determine gravitational acceleration at P", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate increase in KE", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)1", "description": "Indicate arrow A for calculated KE", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)2", "description": "Indicate arrow B for actual KE", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 23,
+    "overall_difficulty": 2.88
+  },
+  {
+    "filename": "2021_RI_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine period of orbit of Osiris", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Show MS = (4π²yd)/(GT²) and MP = (4π²xd)/(GT²)", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(ii)", "description": "Show MS + MP = (4π²d³)/(GT²)", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)", "description": "Calculate distance between star and planet", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Show orbital speed is 1.47×10⁵ m s⁻¹", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(e)", "description": "Determine mass of Osiris", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(f)", "description": "Suggest two limitations of transit method", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(g)", "description": "Show 1 light-year is 9.5×10¹⁵ m", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(h)(i)", "description": "Explain Rayleigh criterion", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(h)(ii)", "description": "Calculate maximum angle θ", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(h)(iii)", "description": "Determine if JWST can resolve", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 63,
+    "overall_difficulty": 3.15
+  },
+  {
+    "filename": "2021_NYJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define gravitational potential", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Explain whether KE at star A is less/equal/larger", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "State and explain x where g = 0", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Determine ratio of average densities", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 32,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2021_NYJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show g at 0.30R height is 0.59g", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Determine angular speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate time for one orbit", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Explain why satellite does not fall", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 22,
+    "overall_difficulty": 2.75
+  },
+  {
+    "filename": "2021_NJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why centripetal forces are equal", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Determine radius of orbit of Musica", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Determine mass of Musica", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2021_JPJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define gravitational potential", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Explain why gravitational potential is negative", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Sketch φ vs d graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Show speed is 4.0×10³ m s⁻¹", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)1", "description": "Calculate change in GPE", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)2", "description": "Determine whether total energy increases/decreases", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2021_HCI_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State two circumstances for geostationary satellite", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "State one advantage and one disadvantage", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Explain why stars must be diametrically opposite", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Calculate mass m of each star", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Calculate gravitational potential at Saturn's surface", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(ii)", "description": "State physical meaning of answer", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(i)", "description": "Explain whether probe gains or loses GPE", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Calculate distance between E and Titan", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(e)(i)", "description": "Write inequality for rock to reach Saturn", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(e)(ii)", "description": "Write expression for KE when arrives at Saturn", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 61,
+    "overall_difficulty": 3.05
+  },
+  {
+    "filename": "2021_HCI_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show g on Mars is 3.8 m s⁻²", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate orbital period of Mars", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Estimate distance between Earth and Mars", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Calculate temperature difference in Kelvin", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)", "description": "Explain how parachute generates retardation force", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(i)", "description": "Show thrust per retrorocket is 1000 N", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(ii)", "description": "Calculate speed of propellant ejection", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(iii)", "description": "Calculate initial acceleration when ropes cut", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(f)(i)", "description": "Calculate efficiency of radioisotope system", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(f)(ii)", "description": "Calculate energy released per alpha decay", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(f)(iii)", "description": "Suggest another reason for Pu-238 choice", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(g)", "description": "State one advantage and one disadvantage for helicopter", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 21,
+    "weighted_sum": 69,
+    "overall_difficulty": 3.29
+  },
+  {
+    "filename": "2021_DHS_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by angular velocity", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate angular velocity", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Show ratio of masses", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine mass of S1", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(c)(i)", "description": "Define gravitational potential", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Sketch φ vs d graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2021_CJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State two conditions for geostationary satellite", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Explain why satellite does not move in direction of force", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)", "description": "Calculate change in GPE", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)", "description": "Suggest why falling satellite is safety hazard", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 23,
+    "overall_difficulty": 2.56
+  },
+  {
+    "filename": "2021_ASRJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State similarity and difference between electric and gravitational field lines", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Define gravitational potential", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Explain why gravitational potential is negative", "level": 2, "marks": 3, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Calculate increase in potential energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Sketch force vs distance graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "State what area under graph represents", "level": 1, "marks": 1, "weighted_score": 1}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 25,
+    "overall_difficulty": 2.08
+  },
+  {
+    "filename": "2021_ACJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why object at constant speed in circular path experiences force towards centre", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Show separation is 1.73R", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Draw and label forces on star A", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(iii)1", "description": "Determine GPE of trinary system", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)2", "description": "Determine resultant force on each star", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)3", "description": "Determine kinetic energy of system", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "State and explain subsequent motion", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)1", "description": "Discuss advantage if orbital period equals T", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)2", "description": "Discuss advantage if orbital period smaller than T", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)3", "description": "Discuss advantage if rotating about own axis", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Sketch subsequent path of component", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iii)", "description": "Determine minimum escape velocity", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 70,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2020_YIJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define gravitational field strength", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Show mass of Earth is 6.02×10²⁴ kg", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)1", "description": "Draw arrow for centripetal force", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)2", "description": "Determine centripetal force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Draw and label forces on boy", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Explain why scale reading higher at North Pole", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 27,
+    "overall_difficulty": 2.70
+  },
+  {
+    "filename": "2020_YIJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Newton's second law of motion", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Calculate rate of change of mass", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Show mo/m = e^(Δvr/V)", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Complete Table 7.1", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Draw second graph", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(iv)", "description": "Calculate difference in fuel mass", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(i)", "description": "State relationship for GPE", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(ii)", "description": "Explain gravitational potential energy", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(d)(iii)", "description": "Determine height h", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 62,
+    "overall_difficulty": 3.10
+  },
+  {
+    "filename": "2020_TMJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define gravitational potential", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain why gravitational potential is negative", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Show rφ = constant", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate gravitational potential at closest approach", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Show total energy is greater than zero", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Explain whether Oumuamua orbits the Sun", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Explain electric field strength", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)(ii)", "description": "State relationship between E and V", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)(iii)", "description": "State and explain suitable landing site", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Draw arrow for electric field at Q", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(ii)", "description": "Estimate magnitude of E at Q", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(iii)", "description": "State direction of electric force", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(iv)", "description": "Calculate work done by electric field", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 51,
+    "overall_difficulty": 2.55
+  },
+  {
+    "filename": "2020_TJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define gravitational potential", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Sketch φ vs distance graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Sketch g vs distance graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Show g = 3.7 N kg⁻¹", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Calculate change in GPE", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Calculate speed at point P", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2020_SAJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Derive relationship between G and g", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)1", "description": "Determine radius of Earth from graph", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)2", "description": "Calculate gravitational force on satellite", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate speed of satellite", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(i)", "description": "Define gravitational potential", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)(ii)", "description": "Estimate φ at 10000 km", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)(i)", "description": "Draw gravitational field lines", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)(ii)", "description": "Add equipotential line", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(iii)", "description": "Explain apparent inconsistency", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 15,
+    "weighted_sum": 41,
+    "overall_difficulty": 2.73
+  },
+  {
+    "filename": "2020_RVHS_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Write expression for gravitational force", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Explain why M is bigger than m", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "Write expressions for centripetal acceleration", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iv)", "description": "Show T = √(4π²(R+r)³/(G(M+m)))", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Calculate minimum speed to escape", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.67
+  },
+  {
+    "filename": "2020_RI_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why gravitational potential is negative", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "What is meant by statement", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iii)", "description": "Calculate distance to R", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iv)", "description": "Calculate work done from R to Q", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine ratio x₂/x₁", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Explain why stars have same angular velocity", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.60
+  },
+  {
+    "filename": "2020_NYJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show distance x is 1.07×10⁹ m", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine distance from Jupiter to S", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "Sketch g vs r graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Show φ = -1.22×10⁸ J kg⁻¹", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Calculate escape velocity", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.60
+  },
+  {
+    "filename": "2020_NJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why gravitational potential is negative", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Explain why probe cannot reach infinity", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Calculate distance at which probe stops", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Explain why distance is further if launched eastward from equator", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.56
+  },
+  {
+    "filename": "2020_MI_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate minimum speed to height R above surface", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)1", "description": "State total energy at infinity", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)2", "description": "Sketch KE vs distance graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Determine height of geostationary orbit", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Calculate velocity of satellite", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate total energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "State what happens with friction", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 40,
+    "overall_difficulty": 3.08
+  },
+  {
+    "filename": "2020_JPJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State Newton's law of gravitation", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain why astronaut feels weightless", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(iii)", "description": "Derive total energy expression", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "State what is meant by geostationary", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "State direction of orbit", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(iii)", "description": "Explain why satellite must be above equator", "level": 2, "marks": 3, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Calculate speed in orbit", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(v)", "description": "Calculate change in GPE", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(vi)", "description": "Determine minimum speed from surface", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 53,
+    "overall_difficulty": 2.65
+  },
+  {
+    "filename": "2020_HCI_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State how magnitude of U varies", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Explain why U is negative", "level": 2, "marks": 3, "weighted_score": 6},
+      {"part": "(b)(i)1", "description": "Sketch total energy graph", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)2", "description": "Sketch kinetic energy graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Explain how acceleration changes", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Calculate angular displacement of Earth", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Calculate distance away from P", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Derive expression for v0", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Derive expression for T", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(i)", "description": "Compare speed at Q", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(ii)", "description": "Predict how speed changes from Q to X", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 65,
+    "overall_difficulty": 3.25
+  },
+  {
+    "filename": "2020_EJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define gravitational field strength", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Show T² = 4π²r³/(GM)", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine mass of Jupiter", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Find ratio for point X", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Sketch g vs distance graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Indicate approximate position of X", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(e)", "description": "Suggest why titanium vault needed", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 25,
+    "overall_difficulty": 2.78
+  },
+  {
+    "filename": "2020_EJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why planet must experience force towards centre", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Derive equation confirming Kepler's third law", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Determine mass of Sun", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Describe how to determine mass of Earth", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 19,
+    "overall_difficulty": 2.71
+  },
+  {
+    "filename": "2020_DHS_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Derive expression for v", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(ii)", "description": "Determine V0", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Explain whether stone could enter circular orbit", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Determine electric field strength", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.45
+  },
+  {
+    "filename": "2020_CJC_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Distinguish between g and acceleration of free fall", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Explain difference in weight at poles and equator", "level": 4, "marks": 5, "weighted_score": 20},
+      {"part": "(c)", "description": "Calculate mass of Earth", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Calculate radius of geostationary orbit", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(e)(i)", "description": "Calculate distance where resultant g = 0", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(e)(ii)", "description": "Sketch φ vs distance graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(iii)", "description": "Calculate minimum launch speed to Moon", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 71,
+    "overall_difficulty": 3.55
+  },
+  {
+    "filename": "2020_ASRJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define gravitational potential", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Calculate φ at O", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Determine minimum speed at O to escape", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iv)", "description": "Sketch φ vs distance graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain why stars do not move closer", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Calculate period", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 41,
+    "overall_difficulty": 3.42
+  },
+  {
+    "filename": "2019_VJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Sketch φ vs distance graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain neutral point and indicate on graph", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Determine φ at neutral point", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Explain whether satellite is left or right of neutral point", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Write equation for circular motion", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.40
+  },
+  {
+    "filename": "2019_TMJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain gravitational field", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Define gravitational potential", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)(i)", "description": "Show Δφ = GM/(3R)", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Determine distance from A to B with assumption", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(c)(iii)", "description": "Calculate speed of orbiting rocket", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Define electric field strength", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(e)", "description": "State similarity and difference between field lines", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(f)(i)", "description": "Calculate charge +Q", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(f)(ii)", "description": "Sketch E vs d graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(f)(iii)", "description": "Describe acceleration from A to B", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 56,
+    "overall_difficulty": 2.80
+  },
+  {
+    "filename": "2019_TMJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate angular displacement", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Calculate angular velocity of Moon", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate time t₁ when bodies align again", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Determine expression for k", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "State and explain effect on angular velocity", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.80
+  },
+  {
+    "filename": "2019_TJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why φ is negative", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Draw equipotential line", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Calculate work done from A to B", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Explain why work done along equipotential is zero", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Suggest why mgh cannot be used", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Calculate kinetic energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "State advantage and explain if geostationary", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 32,
+    "overall_difficulty": 2.91
+  },
+  {
+    "filename": "2019_SAJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Newton's Law of Gravitation", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Explain why it is incorrect to term g as gravity", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)", "description": "Determine g at 0.12×10⁶ m height", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)", "description": "Explain why astronaut is weightless", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(e)", "description": "Explain why apparent weight smaller at equator", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.60
+  },
+  {
+    "filename": "2019_RVHS_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show time for one orbit is 3.15×10⁷ s", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Calculate angular velocity", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Calculate gravitational force on Sun", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Draw arrow for force on Sun", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Calculate mass of Sun", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Calculate orbital speed of Earth", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Deduce total energy of Earth", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)", "description": "Sketch path if Sun disappears", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 15,
+    "weighted_sum": 43,
+    "overall_difficulty": 2.87
+  },
+  {
+    "filename": "2019_NYJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Deduce expression for g", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "State Newton's law of gravitation", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)", "description": "Calculate force region S exerts on mass", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Calculate difference in force with oil", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)", "description": "Suggest necessary condition for gravity meter", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 20,
+    "overall_difficulty": 2.86
+  },
+  {
+    "filename": "2019_NJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain inverse square law from Kepler's third law", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Show T² = 4π²r³/(GM)", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Complete Table 7.1", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Plot graph", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iii)", "description": "Determine gradient", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Discuss whether data supports relation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Estimate orbital radius of Ganymede", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Comment on accuracy of media report", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)", "description": "Suggest whether graph can be used for other planets", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 66,
+    "overall_difficulty": 3.30
+  },
+  {
+    "filename": "2019_MI_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate g at Moon's surface", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Calculate distance where combined g = 0", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Calculate angular speed of Moon", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Calculate mass of Earth", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Determine gravitational force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iv)", "description": "Suggest why force has negligible effect on Earth", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 34,
+    "overall_difficulty": 2.83
+  },
+  {
+    "filename": "2019_HCI_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Newton's law of gravitation", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show Ep = -2Ek", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Sketch Ep, Ek, ET vs r", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Calculate orbital speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Explain why geostationary not possible", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(i)", "description": "State energy conversion during orbital decay", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Determine percentage change in TE", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(iii)", "description": "Show frictional force is 0.023 N", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(e)(i)", "description": "Draw arrows for change in velocity and booster force", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(e)(ii)", "description": "Determine fuel for 24 hours", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 63,
+    "overall_difficulty": 3.15
+  },
+  {
+    "filename": "2019_DHS_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define gravitational potential energy", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Draw arrow for gravitational force", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Explain why satellite does not move in direction of force", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Show v = √(GM/R)", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Determine speed in new orbit", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Calculate change in KE", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(ii)", "description": "Calculate change in GPE", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 24,
+    "overall_difficulty": 2.40
+  },
+  {
+    "filename": "2019_CJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Newton's law of gravitation", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Determine distance D", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(c)", "description": "Determine speed at centre of mass", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2019_ASRJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show ΔEP = mgh near surface", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Determine distance from A to B", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(c)", "description": "Suggest similarity and difference in gravitational fields", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.56
+  },
+  {
+    "filename": "2019_ACJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State one advantage and one disadvantage of geostationary", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show ω = 7.3×10⁻⁵ rad s⁻¹", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Show r = 4.2×10⁷ m", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Determine kinetic energy in orbit", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(ii)", "description": "Determine minimum total energy from surface", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(iii)", "description": "Give reason why energy required is more", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 34,
+    "overall_difficulty": 2.83
+  },
+  {
+    "filename": "2018_YJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define gravitational potential", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)1", "description": "Explain why spacing is not the same", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)2", "description": "Explain why values are negative", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Calculate arrival speed", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iii)", "description": "Determine height of atmosphere", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 25,
+    "overall_difficulty": 2.50
+  },
+  {
+    "filename": "2018_YJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Draw and label forces on man E", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Explain why scale readings differ", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Deduce ac", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 22,
+    "overall_difficulty": 3.14
+  },
+  {
+    "filename": "2018_TPJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define gravitational potential and explain negative values", "level": 2, "marks": 3, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "State how g can be deduced from graph", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Determine distance where g = 0", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Sketch g vs x graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Determine minimum speed from Earth", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.27
+  },
+  {
+    "filename": "2018_TJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain escape speed", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Deduce ves = √(2gR)", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Calculate escape speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Determine surface temperature", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "Suggest why helium can escape below calculated temperature", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.44
+  },
+  {
+    "filename": "2018_SRJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define gravitational field strength", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Derive equation for g", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Calculate g at Moon's surface", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Calculate distance where g = 0", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)1", "description": "Calculate angular speed of Moon", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)2", "description": "Calculate mass of Earth", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)3", "description": "Determine gravitational force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)4", "description": "Determine change in GPE", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Explain why GPE negative vs EPE", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(ii)1", "description": "Calculate change in GPE", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)2", "description": "Calculate speed of projection", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 59,
+    "overall_difficulty": 2.95
+  },
+  {
+    "filename": "2018_RVHS_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define gravitational potential", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Explain why gravitational potential is negative", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Explain why gradients have opposite signs", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Determine ratio vA/vB", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Show TA/TB = 4.5×10⁻⁴", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iii)", "description": "Determine TB", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2018_RI_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define gravitational field strength", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "State whether g is scalar or vector", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(iii)", "description": "State Newton's law and write expression for g", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Calculate ratio of field strengths", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Explain if Sun's g can be neglected", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Determine T² = KR³", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(ii)", "description": "Show period ratio 1:2:4", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 31,
+    "overall_difficulty": 2.58
+  },
+  {
+    "filename": "2018_PJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why rocket experiences no force at P", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Suggest two reasons for less fuel from Moon", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)", "description": "Calculate mass of Moon", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Calculate kinetic energy at P", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.89
+  },
+  {
+    "filename": "2018_NYJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain gravitational field strength and potential gradient", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Draw arrow for field direction", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Calculate ratio of field strengths", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Determine speed leaving tube", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 29,
+    "overall_difficulty": 2.90
+  },
+  {
+    "filename": "2018_NYJC_P2_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate time for geostationary orbit", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Explain why satellite must be above equator", "level": 2, "marks": 3, "weighted_score": 6},
+      {"part": "(c)", "description": "Show radius is 4.2×10⁴ km", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)", "description": "Estimate angle θ", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(e)", "description": "Show angle 17° is correct", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(f)(i)", "description": "Calculate path difference", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(f)(ii)", "description": "Determine angle and direction", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(g)", "description": "Suggest how navigation aid works", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(h)", "description": "Suggest why discs cannot be too close or far apart", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 19,
+    "weighted_sum": 64,
+    "overall_difficulty": 3.37
+  },
+  {
+    "filename": "2018_NJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate final temperature of water", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Determine temperature after compression", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Explain temperature change using first law", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Complete table with symbols", "level": 2, "marks": 3, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2018_MJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)1", "description": "State gravitational force formula", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(i)2", "description": "State centripetal force formula", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Calculate angular speed", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Show M₁/M₂ = R₂/R₁", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iv)", "description": "Determine R₁ and R₂", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(v)", "description": "Determine M₂", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Show acceleration is 7.0×10¹⁴ m s⁻²", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate final velocity and θ", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(iii)", "description": "Draw path for proton and explain", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "State difference in paths and explain", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Compare final speeds", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 21,
+    "weighted_sum": 77,
+    "overall_difficulty": 3.67
+  },
+  {
+    "filename": "2018_MI_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain whether r is measured from Earth or Moon", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)1", "description": "Explain neutral point", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)2", "description": "Determine φ at neutral point", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)3", "description": "Determine speed hitting Earth", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Show distance is 384000 km", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate linear speed of Moon", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)1", "description": "Comment on student A's explanation", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)2", "description": "Comment on student B's explanation", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 33,
+    "overall_difficulty": 2.75
+  },
+  {
+    "filename": "2018_MI_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show T² = 4π²r³/(GM)", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Complete Table 7.1", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Plot points for Rhea and Titan", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Draw line of best fit", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(i)", "description": "Determine gradient", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(ii)", "description": "Discuss whether data supports relation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "Determine period of Dione", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(f)(i)", "description": "Determine mass of Saturn", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(f)(ii)", "description": "Discuss disadvantage of using only Titan", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(f)(iii)", "description": "Comment on accuracy of report", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 67,
+    "overall_difficulty": 3.35
+  },
+  {
+    "filename": "2018_JJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine mass of Earth from graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Calculate speed at R above surface", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Suggest two changes due to Moon", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 23,
+    "overall_difficulty": 3.29
+  },
+  {
+    "filename": "2018_IJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Newton's law of gravitation", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Show T² = 4π²x³/(GM)", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(i)", "description": "Show gradient is 1.7×10¹⁴ m³ s⁻²", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Determine mass of Neptune", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Sketch graph for Uranus", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 28,
+    "overall_difficulty": 2.80
+  },
+  {
+    "filename": "2018_HCI_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Newton's law of gravitation", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate centripetal acceleration at equator", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate g at equator and explain difference from poles", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(c)(i)", "description": "Show period of ISS is 1.5 hours", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Comment on apparent discrepancy", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "Comment on astronaut's deduction", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)(i)1", "description": "Calculate de Broglie wavelength of Moon", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(i)2", "description": "Calculate de Broglie wavelength of electron", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(ii)", "description": "Explain why Moon can be treated as particle", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 63,
+    "overall_difficulty": 3.15
+  },
+  {
+    "filename": "2018_EJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain apparent weightlessness", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Determine p and q from graph", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Determine δT", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Discuss if experiment can detect mass loss", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2018_DHS_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine gravitational force on satellite", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate speed of satellite", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Define gravitational potential", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)(ii)", "description": "Estimate φ at 10000 km", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 19,
+    "overall_difficulty": 2.71
+  },
+  {
+    "filename": "2018_CJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define gravitational potential", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Calculate φ at O", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Determine minimum speed to escape", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(i)", "description": "Sketch φ vs distance graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Describe variation of GPE from O to M", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2018_AJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show mass of Earth is 6.0×10²⁴ kg", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Determine radius of geostationary orbit", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Calculate increase in GPE", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Explain why KE increases due to resistive forces", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2018_ACJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why φ graph is always negative", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Show gravitational force is about 270 N", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Calculate kinetic energy", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)", "description": "Determine minimum energy from surface", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(e)", "description": "Suggest reason why actual energy differs", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.00
   }
+]
 ]
