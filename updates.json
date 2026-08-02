@@ -1374,5 +1374,6 @@
 {"filename":"2021_MI_P3_q5.pdf","year":"2021","jc":"MI","paper":"P3","question":"q5","mainTopic":"17 Electromagnetic Forces","otherTopics":["14 Electric Fields"]},
 {"filename":"2021_MI_P3_q6.pdf","year":"2021","jc":"MI","paper":"P3","question":"q6","mainTopic":"19 Quantum Physics","otherTopics":[]},
 {"filename":"2021_MI_P3_q7.pdf","year":"2021","jc":"MI","paper":"P3","question":"q7","mainTopic":"20 Nuclear Physics","otherTopics":["19 Quantum Physics"]},
-{"filename":"2021_MI_P3_q8.pdf","year":"2021","jc":"MI","paper":"P3","question":"q8","mainTopic":"11 Superposition","otherTopics":["10 Wave Motion"]}
+{"filename":"2021_MI_P3_q8.pdf","year":"2021","jc":"MI","paper":"P3","question":"q8","mainTopic":"11 Superposition","otherTopics":["10 Wave Motion"]},
+{"filename":"2018_NJC_P3_q8.pdf","year":"2018","jc":"NJC","paper":"P3","question":"q8","mainTopic":"20 Nuclear Physics","otherTopics":["19 Quantum Physics"]}
 ]
