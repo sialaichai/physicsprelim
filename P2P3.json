@@ -4726,5 +4726,864 @@
     "total_marks": 9,
     "weighted_sum": 31,
     "overall_difficulty": 3.44
+  },
+    {
+    "filename": "2025_TMJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by an elastic collision", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Calculate speed of object A after collision", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Show common speed v₀ is 0.48 m s⁻¹", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Sketch v-t graphs for A and B", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.89
+  },
+  {
+    "filename": "2025_TJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State relation between force and momentum", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Determine change in momentum of ball", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Show average force is 35 N", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate average force on support A", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Determine net energy lost by ball", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Explain effect of cushion on force", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2025_RI_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State principle of conservation of momentum", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Show skater A moves left at 8.2 m s⁻¹", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(c)(i)", "description": "Determine maximum force from wall", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Explain how walls can be made safer", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 28,
+    "overall_difficulty": 2.80
+  },
+  {
+    "filename": "2025_NYJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State principle of conservation of momentum", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show speed of block and bullet is 1.3 m s⁻¹", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine speed of bullet before impact", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "State and explain height for rubber bullet", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 22,
+    "overall_difficulty": 2.75
+  },
+  {
+    "filename": "2025_NJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State condition under which momentum is conserved", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate force on truck B", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Explain relationship between gradients using Newton's laws", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Explain why total momentum is conserved using impulse", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Calculate change in KE and state type of collision", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2025_MI_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define linear momentum", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "State whether momentum is vector or scalar", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate momentum of durian", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine impulse and change in KE", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Explain how conservation of momentum applies", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 25,
+    "overall_difficulty": 2.78
+  },
+  {
+    "filename": "2025_EJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate speed of pendulum bob after collision", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate maximum angle of swing", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Explain why momentum of bob is not conserved", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 19,
+    "overall_difficulty": 2.71
+  },
+  {
+    "filename": "2025_DHS_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Newton's second law of motion", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate change in momentum", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate magnitude of average force", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)1", "description": "State how Newton's third law applies", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)2", "description": "State how conservation of momentum applies", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 16,
+    "overall_difficulty": 2.29
+  },
+  {
+    "filename": "2025_CJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate impulse during collision", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate average acceleration and direction", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Explain why collision is inelastic", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)", "description": "Calculate percentage change in KE", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 25,
+    "overall_difficulty": 2.78
+  },
+  {
+    "filename": "2025_ACJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine change in momentum of ball", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate magnitude of force exerted by ball", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Calculate force on support A", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 23,
+    "overall_difficulty": 3.29
+  },
+  {
+    "filename": "2024_YIJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine mass M of Y", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "State what is meant by elastic collision", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(iii)", "description": "Determine if collision is elastic", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iv)", "description": "State and explain if both balls can be stationary", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Shade area representing max EPE", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Calculate maximum force FMAX", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Sketch curve for stiffer spring", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Show increase in weight is 7.6×10⁵ N", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate maximum acceleration", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Explain why angled descent is faster", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iv)", "description": "Explain how dive plane helps achieve angle", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 62,
+    "overall_difficulty": 3.10
+  },
+  {
+    "filename": "2024_VJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Discuss whether Student A is correct", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain whether momentum is conserved", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Determine if collision is elastic", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 23,
+    "overall_difficulty": 3.29
+  },
+  {
+    "filename": "2024_SAJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State principle of conservation of momentum", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate angle θ", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Calculate speed v", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate mass m", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.11
+  },
+  {
+    "filename": "2024_RVHS_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State principle of conservation of momentum", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "State what is meant by elastic collision", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)", "description": "Calculate momentum of Q after collision", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Determine mass and velocity of Q", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)", "description": "Determine average force exerted by P on Q", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 21,
+    "overall_difficulty": 2.33
+  },
+  {
+    "filename": "2024_RI_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain whether both balls can be stationary", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Show vB is 4.0 m s⁻¹", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate average force on A", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)", "description": "Complete p-t graphs", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2024_NYJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define impulse", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "State principle of conservation of momentum", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Sketch force-time graph for Y on X", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "State and explain if both objects can be at rest", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Calculate velocity of Y after collision", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 21,
+    "overall_difficulty": 2.63
+  },
+  {
+    "filename": "2024_HCI_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why momentum is conserved", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)1", "description": "State total momentum in x-direction", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)2", "description": "State total momentum in y-direction", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine momentum pe of electron", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 22,
+    "overall_difficulty": 3.14
+  },
+  {
+    "filename": "2024_EJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State principle of conservation of momentum", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "State relation between force and momentum", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Explain subsequent motion of isotope", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Calculate ratio of kinetic energies", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iii)", "description": "Explain whether collision is elastic", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 21,
+    "overall_difficulty": 2.63
+  },
+  {
+    "filename": "2024_CJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why spheres cannot be at rest simultaneously", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Calculate average force between spheres", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Determine velocity of A after collision", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)", "description": "Deduce whether collision is elastic", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 29,
+    "overall_difficulty": 3.22
+  },
+  {
+    "filename": "2024_ASRJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State principle of conservation of momentum", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine angle θ", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine initial speed v", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "State and explain if collision is elastic", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2024_ACJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define linear momentum", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "State principle of conservation of momentum", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Determine speeds of spheres", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(ii)", "description": "Determine distance from initial position", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2023_YIJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State principle of conservation of momentum", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine angle θ", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Determine impulse on X", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Explain why angles must be same", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iv)", "description": "State and explain if collision is elastic", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2023_TMJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State type of collision", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "State and explain if momentum is conserved", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Determine magnitude of initial momentum", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine average acceleration", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Sketch force-time graph with bumper", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 29,
+    "overall_difficulty": 3.22
+  },
+  {
+    "filename": "2023_RVHS_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is impulse on wall", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Calculate change in momentum", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Find Fmax from graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Complete velocity-time graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2023_RI_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define linear momentum", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Show 3u² = 2vA² + vB²", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)1", "description": "Determine vB", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)2", "description": "Calculate change in momentum of B", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine average force exerted by B on A", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 37,
+    "overall_difficulty": 3.36
+  },
+  {
+    "filename": "2023_MI_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State condition for momentum conservation", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Draw p-t graph for B", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iii)", "description": "Explain how momentum conservation used", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Explain whether collision is elastic", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Show force on A is 7.2u", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Explain how graphs are consistent with Newton's third law", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.25
+  },
+  {
+    "filename": "2023_HCI_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine new reading on weighing scale", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Show speed of block is 2.3 m s⁻¹", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate average force F", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine initial speed of ball", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Deduce whether collision is elastic", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.18
+  },
+  {
+    "filename": "2023_EJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate speed of X at bottom of slope", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Calculate final speed of Y", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Calculate distance d up rough slope", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.86
+  },
+  {
+    "filename": "2023_DHS_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State principle of conservation of momentum", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Explain why nuclei cannot stop simultaneously", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Determine final velocities", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)", "description": "Calculate magnitude of average force", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.11
+  },
+  {
+    "filename": "2023_ASRJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain if both blocks can be at rest simultaneously", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate speed of B after collision", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "State and explain direction of B", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)", "description": "State and explain if collision is elastic", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.43
+  },
+  {
+    "filename": "2023_ACJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why A cannot move in opposite direction", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Determine speed of 2.5 kg crate after collision", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Determine average force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Determine speed at bottom of slope", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(ii)", "description": "Suggest reason against smooth slope", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 44,
+    "overall_difficulty": 3.38
+  },
+  {
+    "filename": "2022_TMJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State and explain which vehicle experiences larger impact force", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Explain why both cannot be at rest simultaneously", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Calculate velocity of entangled vehicles", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "State and explain which dummy experiences larger change", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "Calculate fraction of KE lost by car", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.40
+  },
+  {
+    "filename": "2022_RVHS_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate velocity of A after collision", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine percentage of KE lost", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Determine velocities for elastic collision", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.44
+  },
+  {
+    "filename": "2022_RI_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Draw p-t graph for B", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain how momentum conservation used", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Explain whether collision is elastic", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Explain how graphs show Newton's third law", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2022_NJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why change in momentum is equal and opposite", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Explain if both blocks can be at rest simultaneously", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Determine speed v", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Deduce if collision is elastic", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2022_EJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State principle of conservation of momentum", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Explain why momentum not applicable", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Determine speed just before hitting ground", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Calculate speed of rubber ball", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 14,
+    "overall_difficulty": 2.80
+  },
+  {
+    "filename": "2022_DHS_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate energy stored in spring", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Explain why momenta are equal and opposite", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)1", "description": "Write momentum equation", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)2", "description": "Write energy equation", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)1", "description": "Show EK = p²/(2m)", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)2", "description": "Deduce which trolley has larger KE", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2022_CJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State principle of conservation of momentum", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show impulse is proportional to final velocity of carbon", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Show fraction of KE retained is 0.72", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Explain why heavier nuclei are ineffective", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Explain why hydrogen nuclei are unsuitable", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.45
+  },
+  {
+    "filename": "2022_ASRJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Newton's second law of motion", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Explain why acceleration is less than g", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Show a = (mX−mY)/(mX+mY) g", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Calculate time taken to reach ground", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 22,
+    "overall_difficulty": 2.75
+  },
+  {
+    "filename": "2022_ASRJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Use Newton's laws to deduce conservation of momentum", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain why gradients have opposite sign", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "State condition for momentum conservation", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(iii)", "description": "Show momentum is conserved", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iv)", "description": "Calculate force on P", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(v)", "description": "Calculate impulse on Q", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(vi)", "description": "Deduce type of collision", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.18
+  },
+  {
+    "filename": "2021_YIJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State principle of conservation of momentum", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine velocity v", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Deduce if collision is elastic", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Explain using Newton's third law", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 22,
+    "overall_difficulty": 2.75
+  },
+  {
+    "filename": "2021_RVHS_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State principle of conservation of momentum", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Calculate velocity of M1 after collision", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Calculate maximum height of M1", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Sketch velocity-time graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 25,
+    "overall_difficulty": 2.78
+  },
+  {
+    "filename": "2021_RI_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State principle of conservation of momentum", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Show vB expression", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Determine speed of tennis ball", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "State one other assumption", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Deduce maximum speed for smaller ball", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2021_NYJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why atoms cannot stop simultaneously", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Calculate common speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "State and explain which curve is for Y", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Mark closest approach point", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Determine final speeds", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.60
+  },
+  {
+    "filename": "2021_HCI_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State principle of conservation of momentum", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Read momentum of B when A at rest", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Explain significance of answer", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)", "description": "Explain whether collision is elastic", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)", "description": "Calculate average force on A", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)", "description": "Explain when spring is most compressed", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2021_DHS_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State principle of conservation of momentum", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show KE ratio = 1.5", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine kinetic energy of A", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Sketch momentum-time graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2021_CJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Draw free-body diagram", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Calculate acceleration down ramp", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate average force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate speed of wooden block", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Explain motion with equal mass elastic collision", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2021_ACJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State principle of conservation of momentum", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show velocity of B is 2.6 m s⁻¹", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Determine velocity of A after collision", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Sketch p-t graphs", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iv)", "description": "Indicate closest approach time", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(v)", "description": "Discuss why collision is elastic despite KE change", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 41,
+    "overall_difficulty": 3.15
+  },
+  {
+    "filename": "2020_TMJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Derive conservation of momentum from Newton's laws", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Calculate time taken to contact", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate final speed of blocks", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine maximum force", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.60
+  },
+  {
+    "filename": "2020_TJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine spring constant k", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Determine final velocity of B", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(i)", "description": "Sketch force-time graph for B", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Explain how graph shows momentum conservation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "State whether new compression is more or less", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.30
+  },
+  {
+    "filename": "2020_RI_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Describe subsequent motion (head-on)", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Describe subsequent motion (elastic)", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Determine velocities after collision", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(c)", "description": "Explain why momentum conservation cannot apply", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2020_HCI_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine common velocity at max compression", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Determine maximum compression", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Determine velocities after separation", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 23,
+    "overall_difficulty": 3.29
+  },
+  {
+    "filename": "2020_EJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain if particles can be instantaneously at rest", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Show common speed is 0.143v", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Explain how interaction can be elastic", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Label graph for tritium nucleus", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Sketch centre of mass velocity graph", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)", "description": "Determine final speeds", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.67
+  },
+  {
+    "filename": "2020_CJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine speed of B after collision", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Sketch force-time graph for B", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Explain how graph shows momentum conservation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "State whether new compression is greater/less/equal", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.38
+  },
+  {
+    "filename": "2019_YIJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State principle of conservation of momentum", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Calculate common speed in terms of v", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Explain why nuclei cannot stop simultaneously", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Determine final speeds", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2019_TMJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by elastic collision", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Calculate velocities after collision", "level": 3, "marks": 4, "weighted_score": 12},
+      {"part": "(c)", "description": "Show common velocity v₀", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)", "description": "State energy change up to this instant", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(e)", "description": "Calculate separation at this instant", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2019_TJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Deduce conservation of momentum from Newton's laws", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Write momentum expression", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Explain how expression obtained", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Determine velocity v", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Discuss whether interaction is elastic", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.90
+  },
+  {
+    "filename": "2019_RVHS_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain linear momentum", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate velocity of capsule", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Determine total energy released", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 19,
+    "overall_difficulty": 2.71
+  },
+  {
+    "filename": "2019_NJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show change in momentum is 5.76 N s", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Calculate speed of S after collision", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Deduce if collision is elastic", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 21,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2019_ACJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State principle of conservation of momentum", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)1", "description": "Show mu = MV − mv using Newton's laws", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)2", "description": "Determine fraction of KE retained by neutron", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)3", "description": "Calculate number of collisions needed", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)4", "description": "Explain why heavy elements are unsuitable", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Explain whether collision with uranium is elastic", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Describe energy changes", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Show speed of block and bullet is 0.84 m s⁻¹", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iii)", "description": "Calculate speed of bullet", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iv)", "description": "Determine average frictional force", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 62,
+    "overall_difficulty": 3.10
+  },
+  {
+    "filename": "2018_VJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why student's argument is wrong", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Draw labelled force diagram", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Describe motion at max compression", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Calculate final velocity at max compression", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate maximum compression", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.11
+  },
+  {
+    "filename": "2018_SRJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define impulse", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Determine average force on car", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine magnitude of impulse", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate time taken to stop", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "State and explain effect of doubled mass", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2018_PJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine change in momentum of ball", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate magnitude of force exerted by ball", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Calculate force on support A", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Calculate force on support B", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.38
+  },
+  {
+    "filename": "2018_NJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Describe resulting motion and explain", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Determine ratio for 1:2 mass ratio", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine ratio for 2:1 mass ratio", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Determine ratio of vertical displacements", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "State and explain difference with springs", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 37,
+    "overall_difficulty": 3.70
+  },
+  {
+    "filename": "2018_NJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why total momentum is conserved using Newton's laws", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Explain what is meant by inelastic collision", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "Calculate mass of bumper", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine acceleration at t=1.0 s", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iv)", "description": "Calculate retarding force", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.10
+  },
+  {
+    "filename": "2018_MJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain whether momentum is conserved", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Calculate percentage loss in KE", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate maximum compression", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 14,
+    "overall_difficulty": 2.80
+  },
+  {
+    "filename": "2018_JJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine velocity vB", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Sketch momentum-time graphs", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)", "description": "Determine average force on A", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "State and explain car design feature", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25
+  },
+  {
+    "filename": "2018_HCI_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State principle of conservation of momentum", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Determine tensions in strings", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Express v2 in terms of v1", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Determine energy introduced", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Show total energy is conserved", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.44
   }
 ]
