@@ -5052,5 +5052,48 @@
     "total_marks": 14,
     "weighted_sum": 58,
     "overall_difficulty": 4.14
+  },
+  [
+  {
+    "filename": "2022_CJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why central fringe is coloured at edges and white at centre.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain Rayleigh criterion for resolution.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Calculate wavelength for minimum angular resolution.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Explain whether telescope can resolve Apophis.", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.57
+  },
+  {
+    "filename": "2022_ASRJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show resistance of wire is 3.0 Ω.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate average drift speed of electrons.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Determine e.m.f. E of cell from potentiometer circuit.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "State and explain whether length SP changes with thinner wire.", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 37,
+    "overall_difficulty": 4.11
+  },
+  {
+    "filename": "2022_ACJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State conditions for formation of stationary waves.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)1", "description": "Determine effective length of guitar string.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)2", "description": "Determine maximum velocity of vibrating string.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)1", "description": "Determine mean intensity of sound at microphone.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)2", "description": "State two reasons why stationary wave may not be formed.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Determine wavelength of blue light from diffraction pattern.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)1", "description": "Explain Rayleigh criterion.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)2", "description": "Determine minimum angular resolution of human eye.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)3", "description": "Determine if observer can distinguish adjacent pixels.", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(ii)4", "description": "State and explain change to minimum distance in dimmer lighting.", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 68,
+    "overall_difficulty": 3.40
   }
 ]
