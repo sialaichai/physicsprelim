@@ -11469,6 +11469,1948 @@
       "total_marks": 7,
       "weighted_sum": 27,
       "overall_difficulty": 3.86
-    }
-  ]
-}
+    },
+      {
+    "filename": "2025_VJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State direction of induced current", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Explain why external torque is required", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Write expression for flux linkage", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Show expression for induced emf", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Calculate average power dissipated", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 29,
+    "overall_difficulty": 3.22,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2025_VJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine rms voltage from graph", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Calculate peak current in resistor", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate mean power dissipated", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Suggest why thermal energy is generated in core", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 17,
+    "overall_difficulty": 2.83,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2025_TMJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Sketch flux variation with distance", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Sketch induced emf variation", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Sketch external force variation", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "State Faraday's law", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "State factors affecting max induced emf", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Explain why induced emf is sinusoidal", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Determine magnetic flux density", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "State and explain change in reading", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(iii)", "description": "State additional motion observed", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(i)", "description": "Suggest why iron core is laminated", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(ii)", "description": "Calculate peak output pd", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(iii)", "description": "Calculate rms current", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 23,
+    "weighted_sum": 73,
+    "overall_difficulty": 3.17,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2025_TJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(i)", "description": "Show magnetic flux density at given time", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(ii)", "description": "Calculate induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(iii)", "description": "State and explain direction of current", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.43,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2025_SAJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(i)", "description": "State Faraday's and Lenz's Law", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(ii)", "description": "Explain how electrical energy is generated", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(iii)-1", "description": "Calculate peak emf in terms of B0", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(iii)-2", "description": "Calculate peak magnetic flux density", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(iv)", "description": "Explain why card works with either face", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Explain rms value of alternating current", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "State advantage of AC over DC", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Determine transformer turns ratio", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iii)", "description": "Determine rms primary current", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iv)-1", "description": "Determine rms secondary current", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(iv)-2", "description": "Calculate efficiency of transformer", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 21,
+    "weighted_sum": 66,
+    "overall_difficulty": 3.14,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2025_R1_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why primary current must be AC", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Determine rms supply voltage", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Calculate maximum pd across diode", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "State and explain pd across R at max diode pd", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "Draw waveform on CRO", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.75,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2025_NYJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how vibration generates alternating emf", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Explain effect of larger amplitude on induced emf", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Estimate number of turns needed", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 29,
+    "overall_difficulty": 3.63,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2025_NJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain how graph shows uniform acceleration", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Explain why external work is needed", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Calculate period", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate mean power", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Draw power variation graph", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 41,
+    "overall_difficulty": 3.73,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2025_MI_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define magnetic flux linkage", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Calculate maximum induced emf", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(i)", "description": "State name of phenomenon", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)(ii)", "description": "Deduce which sheet is represented by dashed line", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2025_JPJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate emf induced across rotor blade", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(ii)", "description": "State which end is at higher potential", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Calculate mean power dissipated", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Explain how mean power compares", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.55,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2025_HCI_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain variation of emf using Faraday's law", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)-1", "description": "Calculate maximum induced emf", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)-2", "description": "Calculate frequency", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "State coil position for maximum emf", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iv)", "description": "Calculate magnetic flux density", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Explain rms value by reference to heating effect", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Determine frequency", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Determine power dissipation", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Show power variation with time", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 16,
+    "weighted_sum": 51,
+    "overall_difficulty": 3.19,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2025_EJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define magnetic flux linkage", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Calculate emf induced between axle and rim", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Determine current direction using Lenz's law", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Explain why ring completes fewer oscillations", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(ii)", "description": "Explain why cut ring completes more oscillations", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 15,
+    "weighted_sum": 54,
+    "overall_difficulty": 3.60,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2025_DHS_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Sketch flux linkage variation with position", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Explain shape of line", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "Calculate maximum flux linkage", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iv)", "description": "Sketch induced emf variation", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Describe and explain change in spring distance", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 54,
+    "overall_difficulty": 3.86,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2025_CJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Faraday's law", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine values of A and B", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Sketch V2 variation with time", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Explain shape of graph using laws", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.20,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2025_ASRJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate rms output voltage", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Calculate rms input current", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "State equation of output voltage", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "State peak power dissipated", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "State mean power dissipated", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Explain why thermal energy is generated in core", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "State feature to reduce power loss", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 22,
+    "overall_difficulty": 2.75,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2025_ACJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Faraday's law", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Explain why flux linkage is constant", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Show period is 200 ms", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Show maximum flux linkage", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(iii)", "description": "Determine maximum induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iv)", "description": "Sketch induced emf variation", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 15,
+    "weighted_sum": 50,
+    "overall_difficulty": 3.33,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_VJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Lenz's law", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Determine X and Y values", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Sketch V2 variation", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Explain shape of graph", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.40,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_TMJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define magnetic flux", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Define magnetic flux linkage", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate maximum induced emf", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Sketch induced emf variation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Explain why more work is needed", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.10,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_TJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine magnetic flux density from graph", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Show magnetic flux linkage", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Calculate change in flux linkage", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate average induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "State and explain variation of speed", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Explain why work must be done", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 37,
+    "overall_difficulty": 3.36,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_SAJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain velocity selection", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Explain why emf is generated", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "State two factors affecting max emf", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Explain why emf is sinusoidal", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Calculate induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Sketch emf variation", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(i)", "description": "Calculate rate of thermal energy generation", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(d)(ii)", "description": "State which end is at higher potential", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 70,
+    "overall_difficulty": 3.50,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_RVHS_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain regenerative braking using Faraday's law", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Explain why efficiency decreases at lower speeds", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iv)", "description": "Derive expression for flux linkage", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(v)", "description": "Calculate maximum induced emf", "level": 3, "marks": 4, "weighted_score": 12},
+      {"part": "(a)(vi)", "description": "Sketch graph with halved speed", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "State one more advantage", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)", "description": "Suggest why heavier vehicles recover more energy", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 16,
+    "weighted_sum": 58,
+    "overall_difficulty": 3.63,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_R1_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate magnetic flux through window", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)-1", "description": "Explain why current is induced", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)-2", "description": "Determine change in magnetic flux", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)-3", "description": "Calculate average induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Explain circular paths", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Show radius relation", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(iii)", "description": "Draw path for alpha particle", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iv)-1", "description": "Show radius of curvature", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)-2", "description": "Calculate period", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)-3", "description": "Describe path", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iv)-4", "description": "State possible time when electron leaves", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 28,
+    "weighted_sum": 106,
+    "overall_difficulty": 3.79,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_R1_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how braking shows Lenz's law as energy conservation", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)", "description": "Draw eddy current directions", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Explain why angular velocity decreases non-linearly", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 40,
+    "overall_difficulty": 4.00,
+    "difficulty_band": "Hard"
+  },
+  {
+    "filename": "2024_R1_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Suggest why beam pipe needs vacuum", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "State and explain if LHC can study neutron-neutron collisions", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Show proton speed", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(ii)", "description": "Show number of protons per bunch", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(d)(i)", "description": "Indicate directions of B and currents", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(ii)-1", "description": "Determine current required", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)-2", "description": "Determine number of cables", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(ii)-3", "description": "Suggest reason for collars with calculation", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(e)(i)", "description": "Estimate average repulsive force", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(ii)", "description": "Determine number of rounds before falling", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(e)(iii)", "description": "Suggest another reason for quadrupole magnets", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(f)", "description": "Suggest advantage and disadvantage of linear accelerator", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 29,
+    "weighted_sum": 111,
+    "overall_difficulty": 3.83,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_NYJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate magnetic flux", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Calculate magnetic flux linkage", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Explain why current is present", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "State and explain value(s) of theta", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(i)", "description": "Draw graph for 30 ms period", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(ii)", "description": "Determine ratio of mean powers", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 41,
+    "overall_difficulty": 3.73,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_NJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show magnetic flux cut", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Show induced current", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Show acceleration formula", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(a)(iv)", "description": "Determine maximum speed", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(v)-1", "description": "Calculate velocity", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(v)-2", "description": "Calculate acceleration", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Determine induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "State higher potential end", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Determine resultant magnetic flux density", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Sketch curves", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 25,
+    "weighted_sum": 92,
+    "overall_difficulty": 3.68,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_NJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate maximum output voltage", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate average power supplied", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Determine new average power", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)", "description": "Explain whether voltage is AC or DC", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(e)", "description": "Explain why DC converter is needed", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 23,
+    "overall_difficulty": 3.29,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_MI_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine frequency of oscillation", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "State Faraday's law", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(iii)", "description": "Explain why amplitude decreases", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "State frequency of oscillation", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Explain observed amplitude", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.11,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_JPJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine mean power dissipated", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Determine number of turns", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Determine frequency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Explain effect of doubling frequency", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 29,
+    "overall_difficulty": 3.22,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_JPJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State meaning of magnetic flux linkage", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Show maximum magnetic flux", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Determine maximum voltmeter reading", "level": 3, "marks": 4, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Draw variations with time", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 41,
+    "overall_difficulty": 3.42,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_HCI_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show emf expression", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(i)", "description": "Explain why train slows down", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Sketch new velocity variation", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 44,
+    "overall_difficulty": 4.00,
+    "difficulty_band": "Hard"
+  },
+  {
+    "filename": "2024_EJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why iron core is laminated", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Explain phase relationship", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Calculate peak voltage", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 22,
+    "overall_difficulty": 3.14,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_EJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Describe and explain LED observation", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)", "description": "Sketch current variation", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 32,
+    "overall_difficulty": 4.00,
+    "difficulty_band": "Hard"
+  },
+  {
+    "filename": "2024_DHS_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why core is made of soft iron", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain why core is laminated", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Use Faraday's law to explain operation", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Sketch magnetic flux variation", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Sketch induced emf variation", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(iii)-1", "description": "Explain effect of primary turns", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)-2", "description": "Explain effect of secondary turns", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 15,
+    "weighted_sum": 56,
+    "overall_difficulty": 3.73,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_CJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate magnetic flux linkage", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Show induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Sketch emf variation", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.50,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_ASRJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine average induced emf", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Explain origin of thermal energy", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 21,
+    "overall_difficulty": 3.50,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2023_YIJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate number of turns", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Calculate rms current", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate maximum power", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 18,
+    "overall_difficulty": 3.00,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2023_TMJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate frequency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine rms voltage", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Explain why ring floats", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iv)", "description": "State and explain observation", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Estimate maximum induced emf", "level": 3, "marks": 4, "weighted_score": 12}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 48,
+    "overall_difficulty": 3.43,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2023_TJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Distinguish between flux density and flux", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Write expression for magnetic flux", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Calculate magnetic flux", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Explain why induced emf exists", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(iii)", "description": "State sides where emf is induced", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iv)-1", "description": "Explain max and zero emf positions", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(iv)-2", "description": "Explain sinusoidal shape", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iv)-3", "description": "Calculate maximum emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iv)-4", "description": "Calculate rms current", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(vi)", "description": "State how graph differs at slower speed", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 67,
+    "overall_difficulty": 3.35,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2023_TJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why coils wound on iron core", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Suggest why thermal energy generated", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Insert diode symbol", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Calculate turns ratio", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate mean power dissipated", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 22,
+    "overall_difficulty": 2.44,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2023_SAJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State purpose of iron ring", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain why circuit breaker triggers", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Suggest way to increase sensitivity", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Determine average induced voltage", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "State and explain potential", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Determine time base setting", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Determine rms voltage", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 41,
+    "overall_difficulty": 3.42,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2023_RVHS_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State laws of electromagnetic induction", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate magnetic flux linkage", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Calculate mean induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Show emf variation", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 29,
+    "overall_difficulty": 2.90,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2023_RI_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate maximum flux linkage", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Determine maximum induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "State and explain direction of induced current", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)", "description": "Sketch emf variation", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.60,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2023_NYJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define magnetic flux", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Explain how emf is induced", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Determine maximum induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Draw corresponding emf", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.44,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2023_NJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Faraday's law", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate time for 1 degree rotation", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate flux cut by one turn", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Calculate emf generated by one turn", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Calculate emf by all turns", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Calculate rms output", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "State direction of induced current", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "State Lenz's law", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(d)(ii)-1", "description": "Explain effect on spinning disc", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(d)(ii)-2", "description": "Suggest why input and output have same frequency", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 65,
+    "overall_difficulty": 3.25,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2023_NJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate rms output voltage", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Explain why AC flows in load", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 21,
+    "overall_difficulty": 3.50,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2023_MI_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State Faraday's law", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Suggest how inductive charging works", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Suggest advantage and disadvantage", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Calculate frequency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate rms voltage", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Explain rms by reference to heating effect", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Calculate induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "State which end is higher potential", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(iii)", "description": "Calculate initial current", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iv)", "description": "State direction of initial force", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(v)", "description": "Determine initial acceleration", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 61,
+    "overall_difficulty": 3.05,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2023_JPJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Faraday's law", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate magnetic flux linkage", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Calculate mean induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Sketch emf variation", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iv)", "description": "State effect of iron core", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.27,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2023_HCI_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine rms secondary voltage", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine peak primary current", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Determine new power in terms of P", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 23,
+    "overall_difficulty": 3.29,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2023_EJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate maximum induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Deduce which sheet is dashed line", "level": 5, "marks": 4, "weighted_score": 20}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 26,
+    "overall_difficulty": 4.33,
+    "difficulty_band": "Hard"
+  },
+  {
+    "filename": "2023_CJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Faraday's law", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Determine maximum induced emf", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Sketch V2 variation", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(d)(i)", "description": "Explain why ring moves up", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(d)(ii)", "description": "Suggest effect of reversing terminals", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 47,
+    "overall_difficulty": 3.36,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2023_ASRJC_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define magnetic flux linkage", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Calculate maximum induced emf", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(i)", "description": "State name of phenomenon", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)(ii)", "description": "Deduce which sheet is dashed line", "level": 5, "marks": 4, "weighted_score": 20},
+      {"part": "(d)(i)", "description": "Sketch voltage variations", "level": 4, "marks": 5, "weighted_score": 20},
+      {"part": "(d)(ii)", "description": "Determine average power", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(iii)", "description": "Define rms current", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(d)(iv)", "description": "Determine rms current", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 65,
+    "overall_difficulty": 3.25,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2023_ACJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain magnetic flux linkage", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Explain how sinusoidal current is generated", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Show maximum induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Sketch emf variation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Determine rms voltage", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Determine rms current", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.27,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_YIJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State first law of thermodynamics", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Show initial and final pressures are equal", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate work done", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine change in internal energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Explain why change in KE equals internal energy change", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.10,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_VJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State Faraday's law", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Explain why signal is generated", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Suggest why nylon strings cannot be used", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Show frequency of string", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate maximum induced emf", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.00,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_TMJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define magnetic flux", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "State relation between fluxes", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iii)", "description": "Explain why induced emf is produced", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iv)", "description": "Determine induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Explain effect of gap in core", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Sketch voltage-time graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.30,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_TJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define magnetic flux density", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain how train slows down", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Show braking force expression", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(i)", "description": "Estimate distance PQ", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Discuss effect of increasing magnetic region", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 44,
+    "overall_difficulty": 3.38,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_SAJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Faraday's law", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate magnetic flux linkage", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate mean induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Show emf variation", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 22,
+    "overall_difficulty": 3.14,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_SAJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Suggest advantage of AC", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Suggest advantage of high voltages", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Explain why iron core is laminated", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Explain ideal transformer", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)", "description": "Calculate peak voltage", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 15,
+    "overall_difficulty": 2.14,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2022_RI_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Draw flux variation with time", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Explain why work must be done", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Determine maximum induced emf", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.75,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_NYJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define magnetic flux", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "State which end is higher potential", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Explain subsequent motion", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(iii)", "description": "Sketch acceleration variation", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.33,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_NJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why emf is induced", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Determine direction of induced current", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Show average induced emf", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 23,
+    "overall_difficulty": 3.83,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_MI_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain rms value", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine maximum voltage", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate rms current", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Sketch power graph", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_JPJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain rms value", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Calculate number of turns", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Calculate minimum resistance", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Sketch power variation", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_EJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why emf is generated", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Show emf expression", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Show resistance relation", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Suggest advantage of method", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Determine B", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.75,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_DHS_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State Lenz's law", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Use Lenz's law to state direction", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Mark direction of induced current", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Calculate average induced emf", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.13,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_DHS_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State function of iron core", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain why core is laminated", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Calculate maximum output voltage", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate rms current", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Sketch power variation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Deduce mean power", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_CJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)-1", "description": "Explain why induced emf exists", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(i)-2", "description": "Explain reversal of induced emf", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Sketch emf variation", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Show induced emf expression", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)-1", "description": "Calculate maximum induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)-2", "description": "Calculate rms emf", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.67,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_ASRJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Draw magnetic field pattern", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Calculate magnetic flux density", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine mass per unit length", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "State difference in forces", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(i)", "description": "State direction of magnetic field", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(ii)", "description": "Determine ratio of momenta", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(e)(i)", "description": "State Faraday's law", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(e)(ii)", "description": "Explain why emf is induced", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(iii)", "description": "State instant of max emf", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(e)(iv)", "description": "Explain choice", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(e)(v)", "description": "State and explain current direction", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 71,
+    "overall_difficulty": 3.55,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_ACJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State magnetic flux density at centre", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Determine permeability", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "State Faraday's law", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "Estimate position of max emf", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Explain why position gives max emf", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "State direction of induced current", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(v)-1", "description": "Determine change in B", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(v)-2", "description": "Determine average induced emf", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(i)", "description": "Explain rms value", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)-1", "description": "Sketch input power variation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)-2", "description": "Determine rms output voltage", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Draw half-wave rectifier circuit", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(iv)", "description": "Determine rms output voltage after rectification", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 65,
+    "overall_difficulty": 3.25,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_YIJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Faraday's law", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate induced emf", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Describe direction using Lenz's law", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Explain need for external forces", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_TMJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Faraday's law", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Determine average induced emf", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "State feature allowing max emf", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Sketch emf variation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Explain effect on oscillations", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.20,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_TJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Faraday's law", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Explain shape of waveform", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine revolutions per minute", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iii)", "description": "Determine max rate of change of flux linkage", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iv)", "description": "Describe changes with doubled speed", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.30,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_SAJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)-1", "description": "Identify faces with polarity", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(a)(i)-2", "description": "Explain answers", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Explain why pd reaches max", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "Calculate maximum pd", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "State name of phenomenon", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "Deduce which sheet is dashed line", "level": 5, "marks": 4, "weighted_score": 20},
+      {"part": "(c)(i)", "description": "Show rms emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate max voltage", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iii)-1", "description": "Suggest why no current at times", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)-2", "description": "Estimate charge flow", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 22,
+    "weighted_sum": 81,
+    "overall_difficulty": 3.68,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_RVHS_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Sketch power input variation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Calculate rms output voltage", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 17,
+    "overall_difficulty": 3.40,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_NYJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Sketch emf variation", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)", "description": "Explain flux linkage variation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Mark time t1", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)", "description": "Calculate max magnetic flux", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 21,
+    "overall_difficulty": 3.50,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_NJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Faraday's law", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Explain ideal transformer", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Calculate number of turns", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iii)", "description": "Calculate efficiency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Suggest way to reduce power loss", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 23,
+    "overall_difficulty": 2.30,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2021_JPJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show magnetic flux linkage", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate mean induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Sketch emf variation", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)", "description": "State effect of iron core", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.50,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_HCI_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why current is momentarily detected", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Explain current direction", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Calculate magnetic flux density", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(i)", "description": "Calculate average induced current", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)(ii)", "description": "State assumption", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(e)", "description": "Explain why no current flows", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.45,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_EJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Show emf variation", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)", "description": "Explain why force acts on disc", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.80,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_EJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate peak secondary voltage", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate rms voltage across X", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Calculate rms primary current", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Show power variation", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_DHS_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State why iron core is used", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain why emf not induced with DC", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate number of turns", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "State time of max flux", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Calculate resistance", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Sketch power variation", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 37,
+    "overall_difficulty": 3.36,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_CJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why emf not induced with DC", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate number of turns", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "State time of max flux", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Calculate resistance", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Sketch power variation", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.50,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_CJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Faraday's law", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Show flux linkage", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate mean induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Sketch emf variation", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.00,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2020_VJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain operation of transformer with diagram", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(i)", "description": "Determine frequency", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine peak power", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Determine mean power", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iv)", "description": "Determine rms voltage", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(v)", "description": "Determine rms current", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.44,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2020_VJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate maximum induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Sketch emf variation", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Show maximum emf expression", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Determine maximum induced current", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Explain effect of two turns", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Explain how pot heats up", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 15,
+    "weighted_sum": 56,
+    "overall_difficulty": 3.73,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2020_TMJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State Faraday's law", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Suggest how inductive charging works", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Suggest advantage and disadvantage", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Calculate frequency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate rms voltage", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Explain rms by heating effect", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Calculate induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "State higher potential end", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(iii)", "description": "Calculate initial current", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iv)", "description": "Calculate acceleration and direction", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(v)", "description": "Sketch speed variation", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 61,
+    "overall_difficulty": 3.05,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2020_TJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State laws of electromagnetic induction", "level": 1, "marks": 3, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Determine angular frequency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate maximum induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate maximum current", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Suggest reason for difference", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(v)", "description": "Sketch emf graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 32,
+    "overall_difficulty": 2.67,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2020_TJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Suggest advantage of high voltages", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Suggest advantage of AC", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Explain why iron core is laminated", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Explain phase relationship", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Calculate peak voltage", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 22,
+    "overall_difficulty": 2.75,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2020_RVHS_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "List pipes from fastest to slowest", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Explain time difference", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 4,
+    "weighted_sum": 15,
+    "overall_difficulty": 3.75,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2020_RVHS_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State Faraday's law", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Estimate max flux linkage", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine magnetic flux density", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate angular frequency", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Sketch variation with angular frequency", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(i)", "description": "Calculate rms current", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(ii)", "description": "Determine mean power output", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 29,
+    "overall_difficulty": 2.90,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2020_RI_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Describe LED observation when switch opens", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Describe LED observation when R decreases", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Sketch IY variation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Sketch IX variation", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 40,
+    "overall_difficulty": 4.00,
+    "difficulty_band": "Hard"
+  },
+  {
+    "filename": "2020_NYJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State direction of induced current", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Calculate max flux linkage", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Sketch flux linkage variation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Sketch induced emf variation", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.88,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2020_NYJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine turns ratio", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Draw current direction", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Sketch voltage variation", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Sketch power variation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Determine rms primary current", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.38,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2020_NJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why current increases gradually", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Explain why emf not induced at max current", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Calculate number of turns", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "State time of max flux", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 29,
+    "overall_difficulty": 3.63,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2020_NJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define magnetic flux", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate flux linkage", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Calculate average induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate charge flow", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 22,
+    "overall_difficulty": 2.75,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2020_MI_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define magnetic flux and state units", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Calculate rate of area increase", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Explain why emf is generated", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Calculate induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)", "description": "Describe direction of induced current", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(f)", "description": "Explain change in emf magnitude", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.17,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2020_JPJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine mean power", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Determine number of turns", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Determine frequency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Explain effect of doubling frequency", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 29,
+    "overall_difficulty": 3.22,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2020_JPJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define magnetic flux", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Determine magnetic flux", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)-1", "description": "Indicate current direction", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)-2", "description": "Calculate average induced current", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Explain why loop comes to rest", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2020_HCI_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why transformers don't work with DC", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Determine power delivered", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine resistance of supply cables", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Determine voltage across secondary", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.67,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2020_HCI_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Faraday's law", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate angular frequency", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Sketch flux linkage variation", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Sketch current variation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Determine new maximum emf", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.10,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2020_EJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State two laws of electromagnetic induction", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Explain how stylus obtains energy", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Calculate B0 value", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Suggest whether Earth's field disrupts operation", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(iii)", "description": "Find average power", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.89,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2020_DHS_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State Faraday's law and explain why emf induced", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Explain why eddy currents are induced", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Use energy principles to explain why disc stops", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 28,
+    "overall_difficulty": 4.00,
+    "difficulty_band": "Hard"
+  },
+  {
+    "filename": "2020_CJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate flux linkage", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Calculate maximum induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate rms emf", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Explain why flux linkage changes sinusoidally", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 16,
+    "overall_difficulty": 3.20,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2019_YIJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine power lost during transmission", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate money lost per day", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "State two assumptions", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 16,
+    "overall_difficulty": 2.67,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2019_YIJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Faraday's law", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate voltmeter reading", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Complete table", "level": 3, "marks": 4, "weighted_score": 12}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 19,
+    "overall_difficulty": 2.71,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2019_VJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain how emf is formed", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Calculate emf across QR", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Calculate emf across PQ", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Indicate direction of magnetic field", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Indicate polarity of electromagnet", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Indicate current direction", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "State how larger magnet affects emf", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.33,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2019_TJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Faraday's law", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Explain how electrical energy is generated", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Show peak emf expression", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Calculate peak B0", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Explain why card works with either face", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.40,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2019_RVHS_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why emf is induced", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Explain why emf is alternating", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Determine equation representing emf", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(ii)", "description": "Mark points of zero displacement", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Deduce direction of motion", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Derive current equation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Calculate max magnetic field strength", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iii)", "description": "State direction of current and magnetic field", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)", "description": "Explain why wire stops moving", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 15,
+    "weighted_sum": 58,
+    "overall_difficulty": 3.87,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2019_NYJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Indicate direction of induced current", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Explain why emf is generated", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "State effect of increased speed", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "State effect of changed rotation", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Explain why voltmeter gives no reading", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.75,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2019_NYJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate peak voltage and state assumption", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Explain power relation", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)", "description": "Show battery voltage rating", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)", "description": "Sketch VB variation", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(e)", "description": "Sketch VD variation", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.57,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2019_MI_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate flux linkage", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Calculate change in flux linkage", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate average induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Indicate current direction", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)", "description": "Explain why coil slows and stops", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.38,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2019_JPJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why induced emf is constant", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Calculate charge flow", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Calculate primary current", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Explain why pd increases then becomes zero", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.44,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2019_HCI_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show time for 1 degree rotation", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Determine change in flux linkage", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Determine induced emf", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)", "description": "State direction of induced current", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "Sketch flux linkage and current", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.75,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2019_DHS_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why core is made of iron", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain why core is laminated", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Use Faraday's law to explain operation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Calculate number of turns", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "State time of max flux", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 18,
+    "overall_difficulty": 3.00,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2019_CJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define magnetic flux", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Calculate maximum induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate rms voltage", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Suggest what happens with wrong circuit", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2019_ASRJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why current increases gradually", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Define magnetic flux", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "Show magnetic flux", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iii)", "description": "Calculate average induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Describe induced emf qualitatively", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.27,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2019_ACJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show B expression", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain why voltage is recorded", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine peak induced emf", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iii)", "description": "Sketch waveform with diode", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.67,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2018_VJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Lenz's law and explain demonstration", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(i)", "description": "Explain why emf is induced", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Draw emf-time graph", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Calculate speed", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iv)", "description": "Explain how graph differs", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 47,
+    "overall_difficulty": 3.92,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2018_TJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why there is reading", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "State and explain potential", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Show voltmeter variation", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 32,
+    "overall_difficulty": 4.00,
+    "difficulty_band": "Hard"
+  },
+  {
+    "filename": "2018_SRJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how pd is developed", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Calculate max magnetic field strength", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate peak current", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Sketch secondary current variation", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iv)", "description": "Explain change without iron core", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.60,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2018_RVHS_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Faraday's law", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Explain sinusoidal emf", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Calculate flux linkage", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iii)", "description": "Write flux linkage expression", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iv)", "description": "Show maximum emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(v)", "description": "Sketch emf variation", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Sketch three-phase outputs", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Explain ideal transformer", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(ii)", "description": "Determine rms secondary current", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(iii)", "description": "Suggest why voltage is stepped up", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 63,
+    "overall_difficulty": 3.15,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2018_RI_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Faraday's law", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Explain why ammeter deflects in opposite directions", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)-1", "description": "State time of max emf", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)-2", "description": "Determine max induced current", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)-3", "description": "Calculate mean power", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Sketch current variation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Sketch power variation", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 43,
+    "overall_difficulty": 3.31,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2018_PJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define magnetic flux", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Describe behaviour of suspended magnet", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(c)", "description": "State and explain changes with switch open", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.57,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2018_PJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain rms voltage", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Determine turns ratio", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine power lost", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine money lost", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 19,
+    "overall_difficulty": 2.71,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2018_NYJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Lenz's law", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Indicate induced current directions", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Sketch current variation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "State and explain change in speed", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 23,
+    "overall_difficulty": 3.29,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2018_NYJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine turns ratio", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Explain why voltage is stepped up", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Explain why AC used", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Determine rms current", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Calculate peak voltage", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)", "description": "Sketch power variation", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 23,
+    "overall_difficulty": 2.88,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2018_MJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define magnetic flux", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Show flux linkage", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate mean induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Sketch emf variation", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iv)", "description": "Explain effect of iron core", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.30,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2018_MI_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define magnetic flux", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Calculate magnetic flux", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Explain sinusoidal emf", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Show emf equation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Determine maximum emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Sketch emf variation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Calculate number of turns", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(ii)", "description": "Determine primary current", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Advantage of AC", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)(ii)", "description": "Advantage of high voltages", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 61,
+    "overall_difficulty": 3.05,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2018_JJC_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define magnetic flux density", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Indicate direction of magnetic force", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate magnetic force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate torque", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "State laws of electromagnetic induction", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(d)(i)", "description": "Calculate flux linkage", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(ii)-1", "description": "Calculate max induced emf", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)(ii)-2", "description": "Calculate power in heater", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)(ii)-3", "description": "Calculate power with diode", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 54,
+    "overall_difficulty": 2.70,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2018_IJC_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define magnetic flux", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "State laws of electromagnetic induction", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate flux linkage", "level": 3, "marks": 6, "weighted_score": 18},
+      {"part": "(b)(ii)", "description": "Calculate average speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Describe speed variation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Calculate maximum voltage", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "State voltage-flux relationship", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(iii)", "description": "Draw flux variation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iv)", "description": "Calculate max current", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(v)", "description": "Explain rms and rms current", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(vi)", "description": "Calculate rms current", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(vii)", "description": "Calculate average power", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 23,
+    "weighted_sum": 64,
+    "overall_difficulty": 2.78,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2018_HCI_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State and define unit for magnetic flux", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Explain how train slows down", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Show emf expression", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Deduce acceleration expression", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Estimate distance PQ", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(ii)", "description": "Comment on effect of increasing magnetic region", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "Sketch velocity variation", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(iv)", "description": "Suggest and explain modification", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 73,
+    "overall_difficulty": 3.65,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2018_EJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Faraday's law", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Explain how emf is generated", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Calculate rate of change of flux", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Suggest 2 changes to increase sensitivity", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 21,
+    "overall_difficulty": 3.00,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2018_CJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why induced emf exists", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Explain why emf varies sinusoidally", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Sketch emf variation and explain", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Explain how graph changes", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 40,
+    "overall_difficulty": 4.00,
+    "difficulty_band": "Hard"
+  },
+  {
+    "filename": "2018_AJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show flux linkage", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Determine average induced emf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "State and explain speed variation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Explain origin of thermal energy", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.55,
+    "difficulty_band": "Medium"
+  }
+]
