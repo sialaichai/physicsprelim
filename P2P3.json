@@ -7572,5 +7572,2061 @@
     "total_marks": 9,
     "weighted_sum": 38,
     "overall_difficulty": 4.22
+  },
+    {
+    "filename": "2025_VJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate average drift velocity of electrons", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Distinguish between e.m.f. and p.d. using energy considerations", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Calculate current flowing from Q to Y at null deflection", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)1", "description": "Show resistance across X and P is 4.6 Ω", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)2", "description": "Calculate balance length XP", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "State and explain change in XP if internal resistance of cell A is not negligible", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2025_TMJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine resistance of thermistor at 20°C", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Show terminal potential difference is 4.9 V", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Determine current through thermistor", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Determine potential difference across thermistor", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(e)", "description": "Determine length AC for zero galvanometer reading", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.13
+  },
+  {
+    "filename": "2025_TJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show potential difference across AB is 2.4 V", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Determine e.m.f. E of cell Q", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "State and explain direction of current across cell Q", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Show resistance of coiled wire is 1.3 Ω", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "State and explain which section has greater drift velocity", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.55
+  },
+  {
+    "filename": "2025_SAJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(b)(i)", "description": "Calculate resistivity of resistance wire", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "State effect of closing switch on current and voltmeter reading", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Draw new position of slider for 3.1 V reading", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Determine charge q of charge carrier", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Explain why data cannot be correct", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)", "description": "Explain variation of ammeter reading using effect of lamp", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.30
+  },
+  {
+    "filename": "2025_RVHS_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State what is meant by e.m.f. of a cell", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Show potential difference between X and Y is 2.7 V", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Determine current reading on ammeter", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "State and explain changes in balance length", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Explain changes in ammeter reading", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2025_RVHS_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by resistivity", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show resistance of soil is 3.6 kΩ", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Find resistivity of soil", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Suggest procedure to improve significant figures", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Calculate average power dissipated in device", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Draw P vs t graph for a.c. supply", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "Calculate primary r.m.s. current", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iv)", "description": "State advantage of a.c. transmission", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 43,
+    "overall_difficulty": 3.07
+  },
+  {
+    "filename": "2025_RI_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by e.m.f.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Calculate resistance of potentiometer wire", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Calculate current I on ammeter", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate e.m.f. E", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Explain why internal resistance need not be considered", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)(ii)", "description": "Explain how balance length changes with uniform wire", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 28,
+    "overall_difficulty": 2.55
+  },
+  {
+    "filename": "2025_NYJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Distinguish between e.m.f. and p.d. using energy transfers", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Sketch R vs θ graph for thermistor", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)1", "description": "Show e.m.f. of source is 11 V", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)2", "description": "Determine time taken for charge to pass", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)3", "description": "Determine ratio of power dissipated in thermistor", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Calculate length of wire between M and Q", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)1", "description": "State and explain effect of warming thermistor", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)2", "description": "State and explain effect of larger cross-sectional area", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Determine resistance of nichrome wire", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(ii)", "description": "Calculate length of nichrome wire", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(iii)", "description": "State and explain effect of reduced voltage on time", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 21,
+    "weighted_sum": 66,
+    "overall_difficulty": 3.14
+  },
+  {
+    "filename": "2025_NJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State resistance of LDR at 500 lux", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate value of fixed resistor R", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Explain change in p.d. across LDR with light intensity", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Calculate resistance of LED at 3.0 V", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(i)", "description": "Draw I-V characteristic of LDR", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(ii)", "description": "Draw I-V characteristic of component X", "level": 5, "marks": 1, "weighted_score": 5},
+      {"part": "(d)(iii)", "description": "Determine current from battery", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.60
+  },
+  {
+    "filename": "2025_JPJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine terminal potential difference across LP", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "List bulbs in order of increasing brightness", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine potential difference across AB", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine balance length AC", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Explain effect of replacing bulb X with lower resistance", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.44
+  },
+  {
+    "filename": "2025_EJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show resistance of wire PQ is 1.4 Ω", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine reading on voltmeter", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Explain why wires are attracted to one another", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)1", "description": "Determine instantaneous force per unit length", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(ii)2", "description": "Sketch attractive force vs time with diode", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)3", "description": "Determine mean power dissipated across wire A", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 55,
+    "overall_difficulty": 3.93
+  },
+  {
+    "filename": "2025_DHS_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State how graph can be obtained using circuit", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Comment on statement about Ohm's law", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Comment on statement about electrons", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Deduce e.m.f. E of battery", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Determine internal resistance r", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Deduce p.d. V at maximum power", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(ii)", "description": "Calculate maximum power delivered", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(iii)", "description": "Sketch P vs V graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(i)", "description": "Determine efficiency at maximum power", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(e)(ii)", "description": "Determine R for maximum efficiency", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(e)(iii)", "description": "Explain whether high efficiency or high power transfer is more desirable", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(f)(i)", "description": "Determine e.m.f. E' of unknown cell", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(f)(ii)", "description": "Draw additional component to determine internal resistance", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(f)(iii)", "description": "Calculate maximum duration to power device", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 23,
+    "weighted_sum": 73,
+    "overall_difficulty": 3.17
+  },
+  {
+    "filename": "2025_CJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate potential difference across wire PQ", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate percentage of total power transferred to wire", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Describe and explain variation in terminal p.d.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Suggest why temperature reaches steady maximum", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2025_ACJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define resistance of a circuit component", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Show V = (A/(A+B))E", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(i)", "description": "State and explain change in voltmeter reading with temperature", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Calculate voltmeter reading at 20°C", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "State and explain effect of internal resistance", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.18
+  },
+  {
+    "filename": "2024_YIJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Describe qualitatively resistance of diode from 0 to 0.25 V", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Describe variation in resistance from 0.75 to 1.0 V", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate resistivity of wire", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine voltmeter reading with switch open", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)1", "description": "State effect on current with switch closed", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)2", "description": "State effect on voltmeter reading", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Determine charge q of charge carrier", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Explain why data cannot be correct", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 28,
+    "overall_difficulty": 2.80
+  },
+  {
+    "filename": "2024_YIJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate current in resistance wire", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Determine resistance of variable resistor", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Determine potential difference between W and Z", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "State and explain effect on total power", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.57
+  },
+  {
+    "filename": "2024_VJC_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show resistance of X is 1.3 Ω", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)1", "description": "Distinguish between e.m.f. and p.d.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)2", "description": "Sketch I-V characteristic for wire X", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(ii)3", "description": "Explain how graph determines resistance", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)4", "description": "Calculate fraction of power dissipated through X", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain how voltmeter reading changes", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Explain purpose of resistor S", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(iii)1", "description": "Calculate current delivered by cell", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)2", "description": "Calculate current through bulb", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)3", "description": "Explain why rheostat is not practical as switch", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 66,
+    "overall_difficulty": 3.30
+  },
+  {
+    "filename": "2024_TMJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate internal resistance r", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate total charge Q", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate total energy generated", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Calculate rate of heat generated in resistor", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)", "description": "Calculate resistance of new resistor", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2024_TJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Describe variation of resistance of LED", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Show p.d. across 50Ω resistor is 0.50 V", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate e.m.f. E", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Estimate number of photons emitted per second", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Explain behaviour of LED switching on and off", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.40
+  },
+  {
+    "filename": "2024_SAJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine current when R = 2T", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Describe change in effective resistance with temperature", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "Determine p.d. across T at 30°C", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Identify faulty lamp and nature of fault", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(ii)", "description": "State resistance of non-faulty lamp", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Complete table after replacing faulty lamp", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 44,
+    "overall_difficulty": 3.67
+  },
+  {
+    "filename": "2024_SAJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate ratio of energy conversion rates", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Suggest which wire is more suitable", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iii)1", "description": "Calculate resistance of single thin wire", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)2", "description": "Suggest why cable uses several thin wires", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Sketch I-V characteristic for filament lamp", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Explain shape of I-V graph in terms of particles", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Discuss whether resistance can be deduced from gradient", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 42,
+    "overall_difficulty": 3.23
+  },
+  {
+    "filename": "2024_RVHS_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine resistance of resistor R", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Determine drift velocity", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine resistivity of copper wire", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Explain why resistance increases with current", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.56
+  },
+  {
+    "filename": "2024_RI_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine current reading on A1", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine current reading on A2", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain why p.d. across Q increases", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Explain why current on A2 decreases", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2024_NYJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain e.m.f. of 2.0 V", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Calculate current in 1.0Ω resistor and wire XY", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Calculate balance length XP", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Describe and explain change with 1kΩ resistor", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Describe and explain change with LDRs", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2024_NJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine ratio of currents I₁:I₂:I₃", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)1", "description": "Show total charge is 96 C", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)2", "description": "Show energy dissipated is approximately 115 J", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine current in circuit", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Suggest e.m.f. and resistance values", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2024_MI_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State values of R_R and R_Th at 105°C", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Calculate p.d. across XY at 105°C", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Deduce temperature when p.d. is 6.0 V", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Derive expression for p.d. across appliance", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(ii)", "description": "Calculate current through appliance", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Calculate unknown e.m.f. ε", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 37,
+    "overall_difficulty": 3.36
+  },
+  {
+    "filename": "2024_JPJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show I is proportional to V", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine resistance of X", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)1", "description": "Calculate current in wire AB", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)2", "description": "Calculate current in resistor X", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Calculate potential difference between C and D", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iv)", "description": "State and explain change with internal resistance", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2024_HCI_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Describe resistance of diode from 0 to 0.25 V", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Describe variation in resistance from 0.75 to 1.0 V", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate length XZ", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)1", "description": "State and explain change in length XZ", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)2", "description": "State and explain change in total power", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2024_EJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show current through LDR is 3.8 mA", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine power dissipated in LDR", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "State and explain effect on terminal p.d.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 21,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2024_DHS_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show R is 6.0 Ω", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate current in A1", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate current in A2", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Determine electric potential at Z", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Determine resistance of S", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 49,
+    "overall_difficulty": 4.08
+  },
+  {
+    "filename": "2024_CJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate resistance at 6.0 V", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Explain how graph shows resistance increases", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iii)", "description": "Calculate terminal p.d. across B", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "State and explain advantage of circuit (a)", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2024_ASRJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate p.d. across wire BD", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate distance l", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Suggest modification to reduce l", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "State and explain effect of greater internal resistance", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2023_VJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate resistance of resistor A", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Calculate internal resistance of cell", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain how p.d. across A changes with temperature", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "State resistor for buzzer connection", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 21,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2023_TMJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine potential at point A", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate resistance of X", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Calculate Vout at room temperature", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "State and explain fan connection", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.60
+  },
+  {
+    "filename": "2023_TJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by resistance", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Find resistance of LDR at 50.0 W m⁻²", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Explain advantage of logarithmic scale", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Deduce if R = k/I is supported", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Calculate resistance of X", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Suggest application and explain", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "Explain why impractical below 1.0 W m⁻²", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iv)", "description": "Suggest modification for falling light intensity", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 46,
+    "overall_difficulty": 3.29
+  },
+  {
+    "filename": "2023_SAJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate R1 and R2", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "State R3 for maximum power transfer", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Sketch I-V characteristics of ideal diode", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 14,
+    "overall_difficulty": 2.80
+  },
+  {
+    "filename": "2023_SAJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State physical significance of gradient and y-intercept", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Calculate resistance of cable", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "State and explain why resistance of metals increases with temperature", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 18,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2023_RVHS_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show R = 0.25 Ω", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Determine R to maintain zero current", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Suggest two advantages of circuit", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 32,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2023_RVHS_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show R is 0.18 Ω", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Determine maximum output voltage", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Sketch output power vs time", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Calculate mean power generated", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Explain if mean power changes", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.80
+  },
+  {
+    "filename": "2023_RI_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine charge Q", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Calculate p.d. across 12Ω resistor", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Determine resistance of R", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)", "description": "State and explain change in ammeter reading", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.71
+  },
+  {
+    "filename": "2023_RI_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by resistance", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine internal resistance r", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Show S = 3.5 Ω", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Explain why current cannot fall below 0.30 A", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)", "description": "Calculate power dissipated in variable resistor", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(i)", "description": "Draw graph of p.d. across S", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(e)(ii)", "description": "State I when p.d. across S equals p.d. across variable resistor", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2023_NYJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate thermal energy dissipated in battery", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate terminal p.d.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Determine resistance RY", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "State and explain effect on total power", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25
+  },
+  {
+    "filename": "2023_NJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate resistance of voltmeter", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate current through voltmeter", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine fraction of length XY", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Explain why lamp is dim", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.86
+  },
+  {
+    "filename": "2023_NJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine resistance R", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Calculate total power generated by G", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate power loss in total resistance", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Determine efficiency of circuit", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(e)", "description": "Explain if R affects efficiency", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 37,
+    "overall_difficulty": 3.36
+  },
+  {
+    "filename": "2023_MI_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Express current I in terms of R, r and E", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Show fraction of power dissipated externally", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Suggest reason for resistor network", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine distance from Y for null deflection", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine new distance with 4.7Ω resistor", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.78
+  },
+  {
+    "filename": "2023_JPJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate potential at P with light", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Explain how LDR triggers alarm", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Determine distance from Y for null deflection", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine new distance with 1.5Ω resistor", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 37,
+    "overall_difficulty": 4.11
+  },
+  {
+    "filename": "2023_HCI_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Describe features of thermistor characteristic", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)1", "description": "Determine current through filament bulb and thermistor", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)2", "description": "Determine e.m.f. of battery", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Draw line for fixed resistor on graph", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Determine current through bulb", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Determine p.d. across fixed resistor", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25
+  },
+  {
+    "filename": "2023_HCI_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Distinguish between e.m.f. and p.d.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Explain why p.d. is proportional to distance", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Show p.d. across CK is 5.4 V", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Determine E and r", "level": 5, "marks": 4, "weighted_score": 20}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.40
+  },
+  {
+    "filename": "2023_EJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine resistance of diode at 6.0 mA", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Determine resistance of R3", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Determine current in R1", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Determine total power dissipated", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)", "description": "Determine length x for zero current", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.56
+  },
+  {
+    "filename": "2023_DHS_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how graph shows resistance increases", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Determine minimum resistance", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Determine resistivity at 4.0 V", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)", "description": "Determine e.m.f. of cell", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2023_ASRJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain shape of graph for filament lamp", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Deduce total current from battery", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Compare power dissipated by lamps", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Calculate length XJ for zero current", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2023_ASRJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State and explain why resistance of metals increases with temperature", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "State how cells are connected to increase voltage", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "State how cells are connected to increase current", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)", "description": "Suggest why engineers do not use active cooling alone", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)", "description": "Suggest how passive cooling may be enhanced", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(e)(i)", "description": "State open circuit voltage at both temperatures", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(e)(ii)", "description": "Describe variation of current with temperature", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(iii)", "description": "Draw line of best fit", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(e)(iv)", "description": "Determine μ and TR", "level": 5, "marks": 4, "weighted_score": 20},
+      {"part": "(e)(v)", "description": "Determine lower temperature", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(e)(vi)", "description": "Indicate area representing output power", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(e)(vii)", "description": "Estimate maximum power output", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(f)(i)", "description": "Suggest reason for efficiency increase", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(f)(ii)", "description": "Suggest how angle affects power output", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 60,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2022_YIJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain significance of vacuum pump", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Suggest why room is darkened", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(iii)", "description": "State observation and implication", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(iv)", "description": "Sketch paths of alpha particles", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Show energy equivalence of 1.0 u is 934 MeV", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "State what is meant by binding energy", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Determine binding energy per nucleon of zirconium", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Explain spontaneous decay", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)(ii)", "description": "Describe how randomness is manifested", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(iii)", "description": "Fill table with radiation types", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(c)(iv)", "description": "Explain range of energies", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 43,
+    "overall_difficulty": 2.15
+  },
+  {
+    "filename": "2022_VJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate resistance of filament", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate power supplied", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Suggest why filament becomes thinner", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iv)1", "description": "Explain effect on resistance", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(iv)2", "description": "Explain effect on power output", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(v)", "description": "Sketch I-V characteristics", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)1", "description": "Determine e.m.f. of battery", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)2", "description": "State energy supplied per coulomb", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)3", "description": "Explain if energy is generated", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Deduce internal resistance", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Explain how efficiency changes with R", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 63,
+    "overall_difficulty": 3.15
+  },
+  {
+    "filename": "2022_TJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine resistance of LED at 2.25 V", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Shade area for increase in power dissipation", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Draw I-V for 160Ω resistor", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Determine current in LED1", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Explain why LED1 becomes dimmer", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Draw circuit for same brightness", "level": 5, "marks": 1, "weighted_score": 5}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.56
+  },
+  {
+    "filename": "2022_RVHS_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine voltmeter reading", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Sketch voltmeter reading vs R1", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate percentage change with finite voltmeter resistance", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Suggest why internal resistance can be ignored", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.88
+  },
+  {
+    "filename": "2022_RI_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate resistance of bulb", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Calculate resistivity of tungsten", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Explain difference in resistivity", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Determine charge through bulb Y", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Compare drift velocities", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Sketch P vs t graph with diode", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 48,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2022_NYJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate charge passing through cell", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Calculate total energy transferred", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Calculate energy transferred in resistor", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iv)", "description": "Calculate resistance of R", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Explain why internal resistance is negligible", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Determine if p.d. range is achievable", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.18
+  },
+  {
+    "filename": "2022_NJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show effective resistance between A and M is R", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Determine potential at A", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "Deduce potential at D", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)", "description": "Determine effective resistance between M and N", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 36,
+    "overall_difficulty": 4.50
+  },
+  {
+    "filename": "2022_MI_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define resistance", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Calculate resistance of copper wire", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Determine drift velocity", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Show p.d. across PQ is 8.7 V", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(ii)", "description": "Calculate balance length PJ", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(iii)", "description": "Suggest modification to improve accuracy", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.45
+  },
+  {
+    "filename": "2022_JPJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate voltmeter reading at 30.0°C", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Draw circuit diagram with LDR and lamp", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Determine resistance R", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine internal resistance r", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 29,
+    "overall_difficulty": 4.14
+  },
+  {
+    "filename": "2022_HCI_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine e.m.f. of accumulator", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Determine E and terminal p.d.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Determine p.d. between A and C", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Determine p.d. across R2", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iii)", "description": "Determine internal resistance r", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2022_HCI_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine power delivered by battery", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine e.m.f. E", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Determine resistance of fixed resistor", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 33,
+    "overall_difficulty": 4.13
+  },
+  {
+    "filename": "2022_EJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine total resistance between A and B", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine voltmeter reading", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine total resistance for 4.0 V reading", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine temperature of thermistor", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Suggest two disadvantages", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.60
+  },
+  {
+    "filename": "2022_DHS_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show R = 4.0 Ω", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Determine e.m.f. E", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "State and explain change in total power", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 22,
+    "overall_difficulty": 3.67
+  },
+  {
+    "filename": "2022_CJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show resistance of X remains constant", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Explain why circuit is inappropriate", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Draw appropriate circuit diagram", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)", "description": "Calculate difference in power", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)", "description": "Calculate terminal p.d. with internal resistance", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.11
+  },
+  {
+    "filename": "2022_ASRJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why Kα intensity is greater than Kβ", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain why characteristic peaks for tungsten require higher potential", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Calculate energy of X-ray photon in eV", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 16,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2022_ACJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why only circuit (b) works as light meter", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Calculate resistance of LDR", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Explain LED switching behaviour", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(ii)", "description": "Suggest refinement for permanent switching", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Draw graph with ideal cell", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Estimate internal resistance", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 42,
+    "overall_difficulty": 3.82
+  },
+  {
+    "filename": "2021_YIJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine ratio of drift speeds", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine resistance of damaged length", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Explain why damaged part has higher voltage per unit length", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Write relationship between currents", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Explain why ammeter reading changes", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Determine length BJ for zero current", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.45
+  },
+  {
+    "filename": "2021_VJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine E and r using data", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)", "description": "Determine effective resistance at x=100 cm", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Calculate Rv and R", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(d)", "description": "Determine e.m.f. Ec", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 45,
+    "overall_difficulty": 4.50
+  },
+  {
+    "filename": "2021_VJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate percentage uncertainty of resistance", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Calculate resistivity with uncertainty", "level": 5, "marks": 5, "weighted_score": 25},
+      {"part": "(c)", "description": "Express unit in base units", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 36,
+    "overall_difficulty": 4.50
+  },
+  {
+    "filename": "2021_TMJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why resistance increases with temperature", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "State operating temperature", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Calculate resistance at rating", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate length of wire", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Suggest advantage of coiled coil", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(v)", "description": "Calculate efficiency", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2021_TJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Distinguish between e.m.f. and p.d.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Show VXY expression", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Explain effect of variable resistor on LY", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Calculate ratio LY:LZ", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)(iii)", "description": "State and explain change with internal resistance", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.80
+  },
+  {
+    "filename": "2021_SAJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain whether resistance increases or decreases", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Determine internal resistance r", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Calculate ratio", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Explain why resistance differs in series vs parallel", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Calculate R", "level": 5, "marks": 4, "weighted_score": 20}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 51,
+    "overall_difficulty": 3.92
+  },
+  {
+    "filename": "2021_RVHS_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Distinguish between e.m.f. and p.d.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)1", "description": "Calculate resistance of coil", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)2", "description": "Calculate power dissipation", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Fill table for lowest and highest power", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2021_NYJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine ratio of resistances", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine ratio of drift speeds", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Show current is 0.60 A", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate energy dissipated in cell", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "State and explain change in power", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iv)", "description": "Determine p.d. across Z", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2021_NJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine current in thermistor", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "State how currents change", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine min and max Vout", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Explain limitation with small resistor", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.56
+  },
+  {
+    "filename": "2021_MI_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Suggest one possible use", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Deduce meaning of current density and energy density", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Calculate charge-storage capacity", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Calculate maximum discharge current", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iii)", "description": "Determine time for maximum current", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iv)", "description": "Calculate energy supplied", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Describe variation of charging current", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(ii)", "description": "State what area under graph represents", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(iii)", "description": "Estimate average charging current", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(iv)", "description": "Calculate energy used in charging", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)", "description": "Deduce electrical efficiency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(f)", "description": "Suggest reasons for safety considerations", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(g)", "description": "Draw circuit diagram for battery", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 57,
+    "overall_difficulty": 2.85
+  },
+  {
+    "filename": "2021_MI_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "List bulbs in order of increasing brightness", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Calculate effective resistance", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Calculate p.d. across AB", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Show p.d. across CD is 4.0 V", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine balance length CE", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Explain effect of replacing bulb X", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.40
+  },
+  {
+    "filename": "2021_HCI_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by p.d.", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "State min and max resistance of Y", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Deduce voltage across X and Y", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Determine resistance of R", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 18,
+    "overall_difficulty": 2.57
+  },
+  {
+    "filename": "2021_EJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "What is meant by e.m.f. of a cell", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Describe and explain resistance variation", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Determine current through X", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)1", "description": "State resistance of X", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)2", "description": "State resistance of R", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2021_DHS_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show R_AB/R_BC = 0.15", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Show terminal p.d. is 2.30 V", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine internal resistance r", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate efficiency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Suggest if answer is overestimate or underestimate", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.40
+  },
+  {
+    "filename": "2021_CJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine resistance of wire", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine length AP for zero current", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine internal resistance of cell C", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(iii)", "description": "State and explain change with increased internal resistance", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 37,
+    "overall_difficulty": 4.11
+  },
+  {
+    "filename": "2021_ASRJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate total resistance", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "State and explain difference in min p.d.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Show e.m.f. is 0.50 V", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Determine internal resistance r", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 45,
+    "overall_difficulty": 4.09
+  },
+  {
+    "filename": "2021_ACJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Complete table for Capacitor Y", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Plot point and draw best fit", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(iii)", "description": "Determine C at d=0.15 mm", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iv)", "description": "Determine dielectric constant", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Explain why current decreases to zero", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Deduce expression for current", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Suggest why voltage decreases exponentially", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "State advantage of capacitor", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(i)", "description": "Determine maximum charge", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(ii)", "description": "Determine time to reach 8.0 V", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iii)", "description": "Determine frequency output", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(iv)1", "description": "Explain how to increase frequency", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iv)2", "description": "Determine possible resistance values", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 61,
+    "overall_difficulty": 3.05
+  },
+  {
+    "filename": "2021_ACJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine value of x", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Show resistance of AC is 13.5 Ω", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "State and explain change with internal resistance", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Determine mean power dissipated", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Sketch CRO trace", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.78
+  },
+  {
+    "filename": "2020_YIJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine current in battery", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Calculate resistance of R", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Determine ratio of lengths", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(d)", "description": "State and explain effect on resistance of P", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 37,
+    "overall_difficulty": 4.11
+  },
+  {
+    "filename": "2020_YIJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why V is less than E", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "State equation relating E, I, r and V", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)(i)", "description": "Explain how e.m.f. is deduced", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Calculate internal resistance r", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Calculate resistance R", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(ii)", "description": "Calculate number of conduction electrons", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iii)", "description": "Determine time taken for energy reduction", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2020_YIJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate resistivity with uncertainty", "level": 5, "marks": 4, "weighted_score": 20}
+    ],
+    "total_marks": 4,
+    "weighted_sum": 20,
+    "overall_difficulty": 5.00
+  },
+  {
+    "filename": "2020_TMJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine resistance of R", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Draw I-V characteristic of ohmic resistor", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Explain relationship between drift velocity and p.d.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Calculate electrical energy supplied", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iv)", "description": "Determine potential of Q with respect to P", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2020_TJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine voltmeter reading at D", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate current through voltmeter", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate distance from C", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Calculate resistance of filament lamp", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Explain why lamp does not light", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Design circuit with LED and LDR", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.90
+  },
+  {
+    "filename": "2020_TJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate effective resistance", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Calculate absolute uncertainty", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Calculate absolute uncertainty from meter readings", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 26,
+    "overall_difficulty": 4.33
+  },
+  {
+    "filename": "2020_SAJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define resistance", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Sketch I-V characteristics", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Calculate resistance of copper wire", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Determine drift velocity", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Show p.d. across PQ is 8.7 V", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(ii)", "description": "Calculate balance length PJ", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(iii)", "description": "Suggest modification to improve accuracy", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(i)", "description": "Determine E and r from graph", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(e)(ii)", "description": "State and explain power variation with temperature", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 74,
+    "overall_difficulty": 3.70
+  },
+  {
+    "filename": "2020_RVHS_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State and explain I-V characteristic", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Determine resistance of connecting wire", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "Sketch I-V for connecting wire", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show e.m.f. is 1.00 V", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Determine internal resistance", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 49,
+    "overall_difficulty": 4.08
+  },
+  {
+    "filename": "2020_RI_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Distinguish between e.m.f. and p.d.", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine e.m.f. E1", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine internal resistance r1", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)1", "description": "Calculate e.m.f. E2", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)2", "description": "Calculate internal resistance r2", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)(ii)", "description": "State and explain if XJ' is smaller or larger", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.90
+  },
+  {
+    "filename": "2020_NYJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show p.d. across AB is 2.4 V", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine e.m.f. E", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "State and explain direction of current", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Determine resistance of coiled wire", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(ii)", "description": "State and explain drift velocity comparison", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 40,
+    "overall_difficulty": 3.64
+  },
+  {
+    "filename": "2020_NJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate actual uncertainty in ρ", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(i)", "description": "Explain why terminal p.d. is less than e.m.f.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Determine ratio of powers", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "State and explain effect on total power", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Suggest why graph stops at 15.4 V", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Explain why resistance is not reciprocal of gradient", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 45,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2020_NJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate current passing through each bulb", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Calculate p.d. across each bulb", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Calculate resistance of each bulb", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "State possible location of break", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "State possible location of break", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "State possible location of break", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Calculate p.d. across remaining bulbs", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Calculate fractional increase in power", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.89
+  },
+  {
+    "filename": "2020_MI_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain internal resistance", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Explain difference in voltmeter readings", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Calculate internal resistance of single cell", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Determine new ammeter reading", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Calculate p.d. across potentiometer wire", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Determine unknown e.m.f. E", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(iii)", "description": "State and explain change in balance length", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.55
+  },
+  {
+    "filename": "2020_JPJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Distinguish between e.m.f. and p.d.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Complete circuit with thermistor", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Show voltmeter reading is 5.7 V", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "State and explain disadvantage", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 20,
+    "overall_difficulty": 2.86
+  },
+  {
+    "filename": "2020_JPJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate total resistance", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate current from battery", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Show voltmeter reading is 3.9 V", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate power supplied to 200Ω resistor", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.38
+  },
+  {
+    "filename": "2020_HCI_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State p.d. across XY", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Determine current in potentiometer wire", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Calculate e.m.f. E", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)", "description": "Show p.d. per unit length", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(e)(i)", "description": "Calculate R", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(e)(ii)", "description": "State and explain change in balance length", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 46,
+    "overall_difficulty": 3.54
+  },
+  {
+    "filename": "2020_EJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)1", "description": "Define potential difference", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(i)2", "description": "Define resistance", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "State and explain if resistor is ohmic", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iii)1", "description": "Express V in terms of I", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)2", "description": "State E and r", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iv)1", "description": "Calculate R", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iv)2", "description": "Calculate power dissipated", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Sketch and explain I-V graph", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Calculate current", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Determine resistance", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iii)", "description": "Find length of filament", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Calculate reading of V3", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "State readings with break at P", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 22,
+    "weighted_sum": 70,
+    "overall_difficulty": 3.18
+  },
+  {
+    "filename": "2020_DHS_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate XP for zero current", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Calculate XP with series resistor", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(c)", "description": "Calculate XP with parallel resistor", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 38,
+    "overall_difficulty": 4.75
+  },
+  {
+    "filename": "2020_DHS_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "What is meant by resistance", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Calculate resistance of bulb", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate diameter of wire", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Explain how filaments have same resistance", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(i)", "description": "State filament for higher temperature", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(ii)", "description": "State filament for longer life", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(e)", "description": "Complete missing values", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(f)", "description": "Determine operating temperatures", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(g)(i)", "description": "Determine which bulb has higher running cost", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(g)(ii)", "description": "Calculate ratio of light energy costs", "level": 5, "marks": 4, "weighted_score": 20},
+      {"part": "(g)(iii)", "description": "Suggest other types of lightbulbs", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(g)(iv)", "description": "State key advantage", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 22,
+    "weighted_sum": 90,
+    "overall_difficulty": 4.09
+  },
+  {
+    "filename": "2020_DHS_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate total resistance between A and B", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate voltmeter reading", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Calculate total resistance for 4.0 V", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine temperature", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Suggest two disadvantages", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.60
+  },
+  {
+    "filename": "2020_CJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define p.d.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "State expression for p.d. across variable resistor", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "State and explain alarm connection", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "State and explain purpose of variable resistor", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "State potential gradient", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Calculate e.m.f. and internal resistance", "level": 5, "marks": 5, "weighted_score": 25}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 48,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2020_ASRJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Draw circuit diagram for diode I-V", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Sketch I-V characteristics", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iii)", "description": "State how resistance is determined", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Circle conducting diodes", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Calculate Vmax", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)1", "description": "Sketch CRO trace", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)2", "description": "Calculate resistance R", "level": 5, "marks": 2, "weighted_score": 10}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2020_ACJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)1", "description": "Show current through LDR is 3.8 mA", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(i)2", "description": "Determine power dissipated", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Discuss if LDR is damaged", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "Draw and explain light bulb placement", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Draw labelled circuit diagram", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)1", "description": "Determine e.m.f. E", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)2", "description": "Determine resistance R", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)3", "description": "Determine internal resistance r", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Complete table", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(c)(ii)", "description": "Discuss brightness with short circuit", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 74,
+    "overall_difficulty": 3.70
+  },
+  {
+    "filename": "2019_YIJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine current in battery", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate resistance of R", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Draw I-V for resistor R", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)", "description": "Determine ratio of lengths", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(d)", "description": "State and explain effect on resistance", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.90
+  },
+  {
+    "filename": "2019_VJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate potential at P with light", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate potential at P in dark", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Explain how LDR triggers alarm", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Determine distance from X for null deflection", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine new distance with 1.50Ω resistor", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 40,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2019_TMJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Describe variation of resistance", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Determine resistance at I=0.4 mA", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Sketch I-V for filament lamp", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Calculate resistance of lamp", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate resistance at 2.0 V", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Explain how values provide evidence", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2019_TJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate voltage range between S and X", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate voltage range between S and Z", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Calculate voltmeter reading", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Determine internal resistance", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)1", "description": "State and explain effect on loudness", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)2", "description": "State and explain effect on brightness", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 37,
+    "overall_difficulty": 3.70
+  },
+  {
+    "filename": "2019_SAJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine current when R = 2T", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Describe change in effective resistance", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(iii)", "description": "Determine p.d. across T at 30°C", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine resistance of wire XY", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine balance length XJ", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Explain change in balance point with temperature", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.40
+  },
+  {
+    "filename": "2019_NYJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)1", "description": "Give expression for series resistance", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(i)2", "description": "Plot graph for series", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)1", "description": "Give expression for parallel resistance", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)2", "description": "Plot graph for parallel", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Calculate total resistance of network", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "State total resistance of n×n network", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Explain practical advantage", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 23,
+    "overall_difficulty": 2.56
+  },
+  {
+    "filename": "2019_NJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate thickness t", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine drift velocity", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "State another electrical component needed", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "Draw circuit diagram", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Explain how circuit provides varying p.d.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Distinguish between e.m.f. and p.d.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Explain comparison of p.d.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "Determine length L", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)(iv)", "description": "Explain how L changes with internal resistance", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 76,
+    "overall_difficulty": 3.80
+  },
+  {
+    "filename": "2019_MI_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate resistance of wire", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "State and explain effect of stretching", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Express p.d. per unit length", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(ii)1", "description": "Calculate internal resistance r", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(ii)2", "description": "Suggest why R cannot be higher", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 45,
+    "overall_difficulty": 4.50
+  },
+  {
+    "filename": "2019_MI_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Suggest qualitative relationship", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain why graph supports hypothesis", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Plot point", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Draw line of best fit", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Determine n", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Find resistance at 0.73 mm", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)", "description": "Determine ρ with unit", "level": 5, "marks": 4, "weighted_score": 20},
+      {"part": "(e)(i)", "description": "Determine thinnest permissible wire", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(e)(ii)", "description": "Suggest reason for thinnest wire", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(e)(iii)", "description": "State and explain advantage of thicker wire", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(iv)", "description": "Calculate p.d. across each wire", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 22,
+    "weighted_sum": 85,
+    "overall_difficulty": 3.86
+  },
+  {
+    "filename": "2019_JPJC_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define the volt", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Distinguish between e.m.f. and p.d.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Calculate current through XB", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Calculate p.d. across AX", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(iii)", "description": "Determine e.m.f. E", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "State advantage and disadvantage", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(i)", "description": "Explain why balance point exists", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(ii)", "description": "Explain why circuit is not suitable", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(f)(i)", "description": "State p.d. across AB", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(f)(ii)", "description": "Determine e.m.f. of thermocouple", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 72,
+    "overall_difficulty": 3.60
+  },
+  {
+    "filename": "2019_HCI_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Describe and explain variation in terminal p.d.", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Calculate terminal p.d.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine temperature t", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Determine p.d. across fixed resistor", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.60
+  },
+  {
+    "filename": "2019_EJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine internal resistance r", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)1", "description": "Draw best fit line", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)2", "description": "Read Po and Io", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Explain whether results support theorem", "level": 5, "marks": 4, "weighted_score": 20},
+      {"part": "(a)(iv)1", "description": "Show efficiency is about 50%", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iv)2", "description": "Explain why arrangement is not efficient", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Show rE = (Np/Ns)² rL", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(ii)", "description": "Calculate turns ratio", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Suggest why it is called heat sink", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Suggest what good thermal contact means", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(iii)", "description": "Identify main means of heat transfer", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 75,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2019_DHS_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)1", "description": "Determine current in series circuit", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(i)2", "description": "Determine current in parallel circuit", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(ii)1", "description": "Calculate total resistance in series", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)2", "description": "Calculate total resistance in parallel", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Calculate ratio of powers", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate current in cell X", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate distance l", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Explain why e.m.f. is less than terminal p.d.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 45,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2019_CJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine current IPQ", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)1", "description": "Obtain expression for VPJ", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)2", "description": "Obtain expression for VPQ", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Determine defective length x", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)", "description": "State and explain if balance length changes", "level": 5, "marks": 4, "weighted_score": 20}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 41,
+    "overall_difficulty": 4.56
+  },
+  {
+    "filename": "2019_CJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define e.m.f. and explain difference from terminal p.d.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "State significance of vertical intercept", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "State significance of horizontal intercept", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)", "description": "Explain why circuit is inappropriate", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(d)", "description": "Draw appropriate circuit diagram", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2019_ASRJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate length of filament", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "State how resistance is determined from graph", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Explain why resistance decreases", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)1", "description": "Calculate effective resistance", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)2", "description": "Calculate p.d. across XY", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Explain why lamp becomes brighter", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 41,
+    "overall_difficulty": 3.42
+  },
+  {
+    "filename": "2018_YJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State values of RR and RTh at 105°C", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Calculate p.d. across XY", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Deduce temperature at 6.0 V", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Derive expression for p.d.", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(ii)", "description": "Calculate current through appliance", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Calculate unknown e.m.f.", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.40
+  },
+  {
+    "filename": "2018_VJC_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define the ohm", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Sketch I-V for tungsten lamp", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(iii)", "description": "State how resistance is obtained", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iv)", "description": "Draw circuit diagram", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Find current I", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Show fraction of power", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Suggest reason for resistor network", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Calculate potential at P with light", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate potential at P in dark", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iii)", "description": "Explain how LDR triggers alarm", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Determine distance from X for null deflection", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Determine new distance with 1.50Ω resistor", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 69,
+    "overall_difficulty": 3.45
+  },
+  {
+    "filename": "2018_TPJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine ammeter reading at A", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Determine ammeter reading at B", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Plot data points", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Draw line of best fit and determine reading", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Calculate p.d.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Explain why answer is not half of e.m.f.", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2018_SRJC_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Distinguish between e.m.f. and p.d.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Sketch R vs θ graph", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)1", "description": "Show E is 11 V", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)2", "description": "Determine time", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)3", "description": "Show fraction of power", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Calculate length MQ", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)1", "description": "State and explain effect of warming", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)2", "description": "State and explain effect of bigger area", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Show EB = 1.3 V", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)1", "description": "Determine r", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(d)(ii)2", "description": "Deduce effect on balance length", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 73,
+    "overall_difficulty": 3.65
+  },
+  {
+    "filename": "2018_RVHS_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate effective resistance", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "State and explain relative brightness", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate p.d. across AB", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate length AD for zero current", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Explain effect of replacing resistor", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 29,
+    "overall_difficulty": 3.63
+  },
+  {
+    "filename": "2018_RVHS_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Distinguish between e.m.f. and p.d.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "State p.d. across internal resistance", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Explain why internal resistance reduces output power", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Show R = 1199r", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Determine R and r", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.38
+  },
+  {
+    "filename": "2018_RVHS_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show resistivity expression", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Calculate resistivity with uncertainty", "level": 5, "marks": 4, "weighted_score": 20}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 23,
+    "overall_difficulty": 4.60
+  },
+  {
+    "filename": "2018_PJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine resistance of variable resistor", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Sketch R vs V graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Discuss how resistance changes with temperature", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 20,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2018_PJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show p.d. across AB is 2.4 V", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Determine E", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "State and explain direction of current", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 23,
+    "overall_difficulty": 3.29
+  },
+  {
+    "filename": "2018_NYJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show V = R₂/(R₁+R₂)E", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Describe and explain voltmeter reading change", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Determine resistance of wire", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Determine balance length b", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25
+  },
+  {
+    "filename": "2018_NJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Draw electric and magnetic forces", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Describe path of slower particles", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Determine distance on photographic plate", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "State modifications for beta particles", "level": 5, "marks": 4, "weighted_score": 20}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 40,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2018_NJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Identify faulty lamp and fault nature", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(a)(ii)", "description": "Suggest why ohm-meter is preferable", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iii)", "description": "Determine resistance of functioning lamp", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Explain why p.d. is proportional to distance", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Calculate length MQ", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Explain effect of warming thermistor", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2018_NJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine e.m.f.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Determine resistance of variable resistor", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(a)(iii)", "description": "Explain if circuit is appropriate", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "State with reason if it is maximum velocity", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 43,
+    "overall_difficulty": 4.30
+  },
+  {
+    "filename": "2018_MJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain e.m.f. of 12.0 V", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "State effect of closing S1", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iii)", "description": "Calculate current supplied", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iv)", "description": "Calculate terminal p.d.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(v)", "description": "State and explain effect on brightness", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate balance length", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Explain why balance point near Y is desirable", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "State and explain effect of higher resistivity", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 15,
+    "weighted_sum": 50,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2018_MI_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State and explain if resistance is inversely proportional", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)", "description": "Calculate resistance R", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Determine light intensity", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)", "description": "Estimate resistivity", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 23,
+    "overall_difficulty": 3.29
+  },
+  {
+    "filename": "2018_JJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine resistance of copper pipe", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Show equivalent resistance is 7.6 Ω", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Determine current in 18Ω resistor", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Determine power dissipated", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25
+  },
+  {
+    "filename": "2018_JJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show internal resistance is 0.80 Ω", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate p.d. across Y", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate power lost in cell", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Determine maximum current", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25
+  },
+  {
+    "filename": "2018_IJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show resistance is about 8.0 Ω", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Determine drift velocity", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Show p.d. is 8.7 V", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Calculate balance length", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(iii)", "description": "Suggest modification to improve accuracy", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Indicate current direction", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.60
+  },
+  {
+    "filename": "2018_IJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why internal resistance is not negligible", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Show E and r", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Complete circuit with resistor", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 23,
+    "overall_difficulty": 3.83
+  },
+  {
+    "filename": "2018_HCI_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine RT at 22.5°C", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Determine resistance of R", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine resistance of wire XY", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine balance length XJ", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Explain change in balance point with temperature", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Explain change in balance point with smaller resistor", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.45
+  },
+  {
+    "filename": "2018_EJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how to determine internal resistance", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(i)", "description": "Show resistance is 4.0 Ω", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Explain whether balance length can be found", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 36,
+    "overall_difficulty": 4.50
+  },
+  {
+    "filename": "2018_DHS_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Distinguish between e.m.f. and p.d.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Derive expression for R", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(ii)", "description": "Derive expression for R", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(b)(iii)", "description": "Suggest ideal values", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Determine resistance of AB", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)1", "description": "Calculate length AC", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)2", "description": "State and explain change with both switches open", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)1", "description": "Calculate power dissipated across AB", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)2", "description": "Calculate mean drift velocity", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(i)", "description": "Determine resistance at 3.4 V", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(ii)", "description": "Describe resistance variation", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 73,
+    "overall_difficulty": 3.65
+  },
+  {
+    "filename": "2018_CJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define e.m.f.", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Show V = E - Ir", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Deduce E and r", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Determine potentials at J and N", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Sketch potential vs position graph", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iv)", "description": "Suggest why jockey must be shifted", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Explain electric field", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)(ii)1", "description": "Draw charge distribution and field", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)2", "description": "Draw charge distribution and field", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 67,
+    "overall_difficulty": 3.35
+  },
+  {
+    "filename": "2018_AJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why resistance increases", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Draw ohmic line on graph", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iii)", "description": "Determine change in resistance", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Explain why lamp does not operate at rated power", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Calculate resistance of LDR", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 43,
+    "overall_difficulty": 3.91
   }
 ]
