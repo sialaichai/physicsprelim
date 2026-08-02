@@ -1,0 +1,1827 @@
+[
+  {
+    "filename": "2025_VJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Express angular displacement θ in terms of ω and t", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Write expression for displacement x in terms of ω, t and r", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Prove shadow moves in SHM with explanation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate acceleration when shadow is instantaneously at rest", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine velocity as shadow passes through O", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Sketch v-x graph for shadow", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.38
+  },
+  {
+    "filename": "2025_TMJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define simple harmonic motion", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Show mass of sphere is 0.30 kg", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Calculate length L of pendulum", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate phase difference between motions", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(i)", "description": "Explain why max negative displacement not equal to max positive", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Determine decrease in energy for first half oscillation", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2025_TJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why cube undergoes resonance", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Calculate length l from resonance condition", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Describe effect of increasing wave crest distance on amplitude", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Describe effect of pouring water into cube on amplitude", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Explain why calculated l is larger than actual measurement", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2025_SAJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show acceleration a = -(k/m)x at lowest point", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Explain how expression shows SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)", "description": "Calculate position when speed is 25% of maximum speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Explain resonance phenomenon from Fig 4.3", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)(ii)", "description": "Calculate maximum acceleration of mass", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 29,
+    "overall_difficulty": 2.90
+  },
+  {
+    "filename": "2025_RVHS_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define simple harmonic motion", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Calculate gain in potential energy when raised 1.0 mm", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Sketch total energy graph on Fig 2.1", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Sketch kinetic energy graph on Fig 2.1", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Write down amplitude of oscillation", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(e)", "description": "Sketch v-x graph with air resistance for 2 cycles", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.18
+  },
+  {
+    "filename": "2025_RI_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State and explain motion of yoke", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)1", "description": "Calculate maximum speed v0 of yoke", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)2", "description": "Calculate maximum acceleration a0 of yoke", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Sketch F-t graph for yoke", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.11
+  },
+  {
+    "filename": "2025_NYJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State extension of springs at amplitude position", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Show total energy is 6.7×10⁻³ J", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Sketch total energy vs displacement graph", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Sketch kinetic energy vs displacement graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Sketch potential energy vs displacement graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "State and explain change to maximum speed with heavier ball", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 43,
+    "overall_difficulty": 3.91
+  },
+  {
+    "filename": "2025_NJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show M = ρhA using pressure", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Show a = -(ρAg/M)x", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Explain whether tube performs SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(iv)1", "description": "Calculate frequency of oscillation", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(iv)2", "description": "Calculate total energy of oscillation", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Explain why amplitude decreases with distance", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Show dipper and water at 2.0 cm oscillate in phase", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Sketch displacement-distance graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Sketch displacement-time graph at 3.0 cm", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 21,
+    "weighted_sum": 69,
+    "overall_difficulty": 3.29
+  },
+  {
+    "filename": "2025_MI_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by SHM", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate angular frequency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate distance moved in first 1.0 s", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "State one systematic and one random error", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)", "description": "Explain how sound can knock out drone", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 25,
+    "overall_difficulty": 2.78
+  },
+  {
+    "filename": "2025_JPJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define simple harmonic motion", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)1", "description": "Deduce ball is oscillating from a-x graph", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)2", "description": "Deduce oscillations are not SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)1", "description": "Explain what is meant by longitudinal wave", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)2", "description": "Explain what is meant by speed of wave", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)1", "description": "Determine period T of vibrations", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)2", "description": "Determine time interval t₂−t₁", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)3", "description": "Determine maximum speed v_max", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)4", "description": "Determine maximum vibrational kinetic energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Comment on v_max compared to speed of sound", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "State origin of energy of wave", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "State origin of restoring force", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 19,
+    "weighted_sum": 45,
+    "overall_difficulty": 2.37
+  },
+  {
+    "filename": "2025_HCI_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State conditions for equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate force constant k of spring", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Determine mass m of bob", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate elastic potential energy stored", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Define simple harmonic motion", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(c)(ii)1", "description": "Show speed of bob is 0.21 m s⁻¹", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)2", "description": "Compare tension T with weight W qualitatively", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)3", "description": "Calculate tension at bottom of swing", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Sketch v-x graph for 1 period with damping", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(ii)1", "description": "Sketch potential energy vs time graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)2", "description": "Sketch kinetic energy vs time graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 24,
+    "weighted_sum": 75,
+    "overall_difficulty": 3.13
+  },
+  {
+    "filename": "2025_HCI_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine period of oscillation", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Show amplitude is approximately 15 cm", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "Sketch v-t graph for 2 cycles with labels", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Deduce change to frequency on Mars", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Deduce change to frequency with parallel springs", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2025_EJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State and explain direction of resultant force after release", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Show a = -(Aρg/M)x", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Explain why tube undergoes SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)(i)", "description": "Determine angular frequency ω", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(ii)", "description": "Determine density ρ of liquid", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)(iii)1", "description": "Show total energy = ½Mω²x₀²", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iii)2", "description": "Determine total energy at amplitude 0.20 m", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(iv)", "description": "Determine energy lost after 6 oscillations", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(v)", "description": "Sketch light damping on Fig 6.2", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 18,
+    "weighted_sum": 58,
+    "overall_difficulty": 3.22
+  },
+  {
+    "filename": "2025_DHS_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define simple harmonic motion", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Deduce amplitude from v-x graph", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Deduce angular frequency ω", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Determine displacement when mass just loses contact", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Mark point C on v-x graph", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.11
+  },
+  {
+    "filename": "2025_CJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define simple harmonic motion", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine force constant k from graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Show maximum acceleration is 14.7 m s⁻²", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Determine period of oscillation", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Sketch x, v, a vs t graphs for 2 cycles", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(d)(i)", "description": "Compare extension with parallel springs", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(ii)", "description": "Compare period with parallel springs", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 17,
+    "weighted_sum": 53,
+    "overall_difficulty": 3.12
+  },
+  {
+    "filename": "2025_ACJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State expression relating forces at equilibrium", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Show a = -(k/m)x with working", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Determine frequency from KE-time graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Determine mass given k = 28 N m⁻¹", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Calculate maximum velocity", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iv)", "description": "Calculate amplitude", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)", "description": "Sketch x-t graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 41,
+    "overall_difficulty": 3.42
+  },
+  {
+    "filename": "2024_YIJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State how Fig 3.2 shows SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Determine k from a-x graph", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Suggest effect of increasing length on amplitude", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 21,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2024_VJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Derive expression relating H to A, ρ, M and m", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Show a = -(ρAg/(M+m))y", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Show period is 0.50 s", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Explain why amplitude decreases over time", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(e)(i)", "description": "Sketch y-t graph for steady oscillation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(ii)", "description": "Suggest how to increase amplitude without changing waves", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 48,
+    "overall_difficulty": 3.69
+  },
+  {
+    "filename": "2024_TMJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by SHM", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Explain how Fig 4.1 shows resonance", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)", "description": "State one situation where resonance is useful", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(d)", "description": "Calculate maximum speed at 10.0 Hz", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)", "description": "Sketch displacement-time graph for 2 periods", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 25,
+    "overall_difficulty": 2.50
+  },
+  {
+    "filename": "2024_TJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show a = -(k/m)x using Newton's second law", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Calculate position when speed is 25% of max speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Explain resonance phenomenon from graph", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Calculate maximum acceleration from graph", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.13
+  },
+  {
+    "filename": "2024_SAJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine amplitude from Fig 4.2", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Calculate vertical speed at d = 16.2 cm", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "State another depth with same speed", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)", "description": "Sketch damped oscillation graph", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25
+  },
+  {
+    "filename": "2024_RVHS_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate frequency of water waves", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Calculate mass of block", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)1", "description": "Describe effect of larger amplitude waves", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iii)2", "description": "Describe effect of increased wave crest distance", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iii)3", "description": "Describe effect of more viscous liquid", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Explain what is meant by polarised light", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Determine intensity after third filter", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 20,
+    "overall_difficulty": 2.22
+  },
+  {
+    "filename": "2024_RI_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why a = -(k/m)x leads to SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Determine maximum speed from L-t graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Sketch v-t graph from t=0 to 1.4 s", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Determine L when KE = PE", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Compare period with two springs", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.45
+  },
+  {
+    "filename": "2024_NYJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show a = -(Aρg/M)y", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Determine frequency f₀ from Fig 4.2", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate mass of tube and contents", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iii)", "description": "State and explain changes to graph with more lead shots", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2024_NJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Draw and label forces on test-tube", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Derive expression for mass in terms of ρ, A and L", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Show resultant force F = -ρAgx", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Show ω = √(g/L)", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Calculate total energy of oscillation", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Sketch KE vs t graph for 2 cycles", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 50,
+    "overall_difficulty": 3.57
+  },
+  {
+    "filename": "2024_JPJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by SHM", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Write expression for displacement x(t)", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine speed at 0.8 mm from leftmost position", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Determine amplitude A from v(t) expression", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Calculate maximum kinetic energy of toothpaste", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(ii)", "description": "Sketch KE vs t graph for 2 periods", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(iii)", "description": "Determine time between max velocity and max acceleration", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)1", "description": "Explain what is meant by forced oscillation", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(e)2", "description": "State name of effect at 35 Hz", "level": 1, "marks": 1, "weighted_score": 1}
+    ],
+    "total_marks": 18,
+    "weighted_sum": 53,
+    "overall_difficulty": 2.94
+  },
+  {
+    "filename": "2024_HCI_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define simple harmonic motion", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Show period is 0.50 s", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Estimate time when energy decreased by 75%", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Explain why amplitude is small at 1.0 Hz", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2024_EJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain what is meant by free oscillation", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Explain what is meant by natural frequency", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Sketch EP vs t graph", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Sketch v vs y graph", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)1", "description": "State change to period when string breaks", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)2", "description": "State and explain change to amplitude", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 37,
+    "overall_difficulty": 3.36
+  },
+  {
+    "filename": "2024_DHS_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why expression leads to SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Calculate frequency of oscillation", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 13,
+    "overall_difficulty": 2.60
+  },
+  {
+    "filename": "2024_CJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show a = -(k/m)x with working", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Show T = 2π√(m/k)", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Determine k with uncertainty", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(d)", "description": "Calculate total energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)", "description": "Sketch KE vs t graph", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 54,
+    "overall_difficulty": 3.86
+  },
+  {
+    "filename": "2024_ASRJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain what is meant by damping", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Suggest whether damping is light, critical or heavy", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Determine frequency from Fig 4.2", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Show initial energy is approximately 3.2 mJ", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "State and explain whether amplitude will be 0.7 cm", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "State example of useful damping", "level": 1, "marks": 1, "weighted_score": 1}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.60
+  },
+  {
+    "filename": "2024_ACJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why tube is able to float", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Show a = -(ρAg/M)x with working", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Explain why expression suggests SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)", "description": "Calculate frequency of oscillation", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(e)(i)", "description": "Sketch v-x graph for tube", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(ii)", "description": "Draw v-x graph with viscosity", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 41,
+    "overall_difficulty": 3.15
+  },
+  {
+    "filename": "2023_YIJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define simple harmonic motion", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show angular speed is 75 rad s⁻¹", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate maximum speed of needle", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate maximum contact force on peg", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Draw peg positions on Fig 3.2", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 28,
+    "overall_difficulty": 2.80
+  },
+  {
+    "filename": "2023_VJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(b)(i)", "description": "State what is meant by free oscillations", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "State what is meant by damped oscillations", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(iii)", "description": "State what is meant by forced oscillations", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)(i)", "description": "Explain resonance peak at 35 Hz", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Determine maximum kinetic energy at 35 Hz", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Sketch amplitude-frequency with rubber mount", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(i)", "description": "Explain what is meant by critical damping", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(d)(ii)", "description": "Sketch critically damped displacement-time graph", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 22,
+    "overall_difficulty": 2.20
+  },
+  {
+    "filename": "2023_TMJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine kinetic energy at equilibrium", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine amplitude from v-t graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "State type of oscillation and suggest cause", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Plot point for f=2.0 Hz on Fig 3.7", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Draw curve of best fit", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iii)", "description": "Estimate resonant frequency", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 25,
+    "overall_difficulty": 2.78
+  },
+  {
+    "filename": "2023_SAJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Draw forces on test-tube", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Show a = -(ρAg/(M+m))y", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Show period is 0.50 s", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iv)", "description": "Calculate maximum kinetic energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(v)", "description": "Sketch KE vs t graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(vi)", "description": "Explain why amplitude decreases over time", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(vii)1", "description": "Sketch amplitude vs driving frequency graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(vii)2", "description": "Suggest how to increase amplitude", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Sketch intensity vs angle for polariser", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Explain why light emerges with third polariser", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Calculate intensity after third polariser", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 24,
+    "weighted_sum": 82,
+    "overall_difficulty": 3.42
+  },
+  {
+    "filename": "2023_RVHS_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate frequency from spring-mass system", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate speed using energy considerations", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(i)", "description": "Sketch displacement-time curve W", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Sketch displacement-time curve X with cardboard", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.80
+  },
+  {
+    "filename": "2023_RI_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Write expression for force F", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Show block oscillates with SHM", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "Show T = 2π√(m/k)", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)1", "description": "Determine maximum compression of spring", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)2", "description": "Determine time to reach maximum compression", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Sketch a-t graph", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Determine maximum amplitude for block B to remain stationary", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)1", "description": "Explain why amplitude becomes very large", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)2", "description": "Sketch amplitude vs frequency graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)3", "description": "Sketch graph with greater damping", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 21,
+    "weighted_sum": 79,
+    "overall_difficulty": 3.76
+  },
+  {
+    "filename": "2023_NYJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why mass oscillates with SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Determine frequency from KE-x graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Draw PE vs x graph", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "State how Fig 3.4 shows damped oscillations", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Suggest why sphere frequency must be close to 0.15 Hz", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2023_NJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate loss in gravitational potential energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate elastic potential energy gained", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Explain why answers are different", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)", "description": "Show angular frequency is 8.09 rad s⁻¹", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Sketch KE and total PE vs extension", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.17
+  },
+  {
+    "filename": "2023_MI_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State names of two forces acting on block", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "State and explain direction of resultant force", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Explain why oscillations are SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Show ω = √(Agρ/m)", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Explain unequal maximum displacements", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Determine frequency from Fig 3.3", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(iii)", "description": "Determine decrease in energy", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 43,
+    "overall_difficulty": 3.07
+  },
+  {
+    "filename": "2023_JPJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by SHM", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine amplitude from maximum speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate maximum tension in spring", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(i)", "description": "Sketch v-x graph with values", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Sketch v-x graph for larger mass", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 37,
+    "overall_difficulty": 3.08
+  },
+  {
+    "filename": "2023_HCI_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Indicate axis intercepts on v-x graph", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Mark starting position A on v-x graph", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Determine total energy ET", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Mark position B where EP = KE", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Determine displacement d at B", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Calculate phase difference between A and B", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.11
+  },
+  {
+    "filename": "2023_EJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by SHM", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Explain how equation shows SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Show period T = 1.1 s", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine time interval τ to point Q", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Sketch v-x graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(v)", "description": "Calculate total energy", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(vi)", "description": "Sketch TE, KE, PE vs x", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(vii)", "description": "Determine time when balls are in phase again", "level": 5, "marks": 4, "weighted_score": 20}
+    ],
+    "total_marks": 19,
+    "weighted_sum": 63,
+    "overall_difficulty": 3.32
+  },
+  {
+    "filename": "2023_DHS_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by SHM", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Complete table of displacement, velocity, acceleration directions", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(i)", "description": "State phase difference between displacement and velocity", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "State phase difference between displacement and acceleration", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(i)a", "description": "Determine amplitude from graph", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(i)b", "description": "Determine frequency from graph", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(ii)a", "description": "Calculate maximum force on mass", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(ii)b", "description": "Sketch F vs t graph", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 28,
+    "overall_difficulty": 2.55
+  },
+  {
+    "filename": "2023_CJC_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by SHM", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Suggest whether damping is light, critical or heavy", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)1", "description": "Determine maximum speed and time", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)2", "description": "Sketch v-x graph for first complete period", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)1", "description": "Show ET = ½mω²x₀²", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)2", "description": "Calculate angular frequency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)3", "description": "Calculate loss of energy after 8 oscillations", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)4", "description": "Suggest whether amplitude will be 0.7 cm", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Determine amplitude from Fig 9.4", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 64,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2023_ASRJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State defining equation for SHM", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Show angular frequency is 1.6 rad s⁻¹", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine total energy E", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Sketch KE vs h graph", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.13
+  },
+  {
+    "filename": "2023_ACJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine extension x from force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine maximum kinetic energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine period of oscillation", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Sketch KE vs t graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Sketch KE vs x graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(v)", "description": "Sketch KE vs x with rough surface", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 42,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2022_YIJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine amplitude", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Determine frequency", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Calculate speed at 2.3 cm below maximum height", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Determine maximum resultant force", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 18,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2022_VJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why ball undergoes SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Determine time interval between passing P and returning", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Sketch damped x-t graph for first two periods", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 21,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2022_TMJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why oscillation is SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Show frequency is 210 Hz", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate maximum resultant force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate maximum tension in spring", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Calculate maximum kinetic energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(v)", "description": "Sketch KE, EPE, GPE vs x", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(c)(i)", "description": "State frequency for loudest sound", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Explain why oscillations stop when switch opened", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(iii)", "description": "Explain effect of adding mass on resonant frequency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iv)", "description": "Suggest why loudspeakers have several speakers", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 63,
+    "overall_difficulty": 3.15
+  },
+  {
+    "filename": "2022_TJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define simple harmonic motion", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Determine total energy from graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Sketch gravitational potential energy graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Show mass m is 0.250 kg", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "Find period T", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2022_SAJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain how expression shows SHM", "level": 2, "marks": 3, "weighted_score": 6},
+      {"part": "(a)(ii)1", "description": "Calculate frequency from PE-time graph", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)2", "description": "Calculate mass from graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)3", "description": "Calculate amplitude", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)4", "description": "Mark point Z when mid-way", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Sketch v-t graph for 2 periods", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2022_RVHS_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine A, ω and B from circular motion", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Determine maximum velocity and acceleration", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Sketch KE vs t graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Explain amplitude variation at resonance with damping", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.78
+  },
+  {
+    "filename": "2022_RI_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show decrease in GPE is twice increase in EPE", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Account for difference in energies", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine EPE at lowest point", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Draw GPE, EPE, KE, TE vs position", "level": 5, "marks": 5, "weighted_score": 25}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 43,
+    "overall_difficulty": 4.30
+  },
+  {
+    "filename": "2022_NYJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State time when ball has maximum speed", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "State time when springs have max EPE", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iii)", "description": "Calculate angular frequency", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iv)", "description": "Calculate maximum acceleration", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate loss in total energy during first 24 s", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.13
+  },
+  {
+    "filename": "2022_MI_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate angular frequency", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Sketch v-x graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "Write equation for displacement", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iv)", "description": "Sketch damped x-t graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate period of oscillation", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate maximum speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine total energy", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 40,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2022_JPJC_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define simple harmonic motion", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "State acceleration when sand loses contact", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)1", "description": "Calculate frequency from a-x graph", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)2", "description": "Calculate kinetic energy of sand particle", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)3", "description": "Calculate time when sand loses contact", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Sketch a-t graph for quarter period", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Describe restoring force for pendulum and floating block", "level": 2, "marks": 4, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "State phenomenon and condition", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 57,
+    "overall_difficulty": 2.85
+  },
+  {
+    "filename": "2022_HCI_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why a = -(k/m)y shows SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Determine angular frequency", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate amplitude from max speed", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Sketch v-y graph with points A and B", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iv)", "description": "Sketch KE and EPE vs displacement", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2022_EJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by SHM", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Find speed when wall is 0.50 m above ground", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Find duration character can pass under", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 13,
+    "overall_difficulty": 2.60
+  },
+  {
+    "filename": "2022_DHS_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine initial amplitude from graph", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Determine angular frequency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Determine maximum speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Describe deductions from Fig 3.2 about motion", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Sketch v-L graph for first complete oscillation", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2022_CJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why resultant force increases as L decreases", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Calculate force constant of spring", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Shade area representing net work done", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)", "description": "Describe energy changes from L=8.0 to 6.0 cm", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2022_ACJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show a = -(k/m)x", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Explain why expression shows SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(iii)", "description": "Determine natural frequency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iv)", "description": "Sketch amplitude-frequency graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Determine natural frequency with half spring", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Sketch damped x-t graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 40,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2021_YIJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State two forces acting on tube after release", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "State and explain direction of resultant force", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Explain why tube undergoes SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Show angular frequency is 2.9 rad s⁻¹", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Determine density ρ", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Determine speed at equilibrium position", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 24,
+    "overall_difficulty": 2.40
+  },
+  {
+    "filename": "2021_YIJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Express mass with uncertainty from T and k", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 3,
+    "weighted_sum": 12,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2021_VJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate maximum speed using energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine period", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Sketch KE and EPE vs t graphs", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 20,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2021_TMJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by amplitude", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Determine spring constant", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate work done by student", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "State total energy", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iv)", "description": "Calculate speed at 2.0 cm below equilibrium", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 25,
+    "overall_difficulty": 2.78
+  },
+  {
+    "filename": "2021_TJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why box starts to oscillate", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Show maximum acceleration is 1.96 m s⁻²", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Calculate period of oscillation", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Sketch x-t graph for at least 2 cycles", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 37,
+    "overall_difficulty": 3.70
+  },
+  {
+    "filename": "2021_SAJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define simple harmonic motion", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Determine spring constant k", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)1", "description": "Show oscillation frequency is 1.5 Hz", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)2", "description": "Determine displacement when PE = KE", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)3", "description": "Describe motion from 0.2 Hz to 3.0 Hz", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2021_RVHS_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine amplitude from v-x graph", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Determine frequency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Sketch v-x graph with air resistance", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Determine new maximum speed at resonance", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Sketch v-x graph at resonance", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2021_RI_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define simple harmonic motion", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Write expression for total mass M", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Derive expression for restoring force F", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Show liquid oscillates with SHM", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iv)", "description": "Show ω = √(2g/L)", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Calculate angular frequency", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Determine period T", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iii)", "description": "Determine maximum kinetic energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Explain what is meant by damping", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(d)(ii)", "description": "Sketch damped x-t graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iii)", "description": "Sketch KE vs t graph for damping", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "State application and explain importance of damping", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 64,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2021_NYJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State features indicating SHM from Fig 4.2", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Determine maximum speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Explain why time intervals are equal", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Explain why K = Z × M is valid", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Indicate positions A and B on Fig 4.3", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2021_NJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by SHM", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine maximum resultant force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine maximum kinetic energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Suggest advantages of critical damping", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 22,
+    "overall_difficulty": 2.75
+  },
+  {
+    "filename": "2021_MI_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by SHM", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)1", "description": "Determine angular frequency from graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)2", "description": "Show max KE is 6.4 mJ", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)1", "description": "Explain damping using Faraday's law", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(ii)2", "description": "Calculate loss in energy", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iii)", "description": "Calculate mean temperature rise of cup", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 41,
+    "overall_difficulty": 3.15
+  },
+  {
+    "filename": "2021_JPJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by SHM", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show a = -(2k/m)x", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Determine frequency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine amplitude", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)1", "description": "Determine total energy ET", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)2", "description": "Determine displacement when PE = KE", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(v)", "description": "Sketch ET, KE, PE vs x graphs", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(vi)1", "description": "State effect of larger mass", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(vi)2", "description": "State effect of rough surface", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 62,
+    "overall_difficulty": 3.10
+  },
+  {
+    "filename": "2021_HCI_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define simple harmonic motion", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show period is 0.48 s from ticker tape", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine amplitude", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Calculate maximum velocity", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Calculate maximum resultant force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Sketch v-x graph for half-cycle", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 25,
+    "overall_difficulty": 2.78
+  },
+  {
+    "filename": "2021_EJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain how a = -(g/R)x suggests SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Show ω = 2.9 rad s⁻¹ from graph", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Determine R", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iv)", "description": "Calculate speed at x = 1.5 cm", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(v)", "description": "Calculate total energy", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(vi)", "description": "Determine KE in terms of t", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(vii)", "description": "Sketch damped x-KE graph", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)1", "description": "Calculate frequency of water waves", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)2", "description": "Calculate mass of block", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)1", "description": "Describe effect of larger amplitude waves", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)2", "description": "Describe effect of increased wave crest distance", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)3", "description": "Describe effect of absorbed water", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 57,
+    "overall_difficulty": 2.85
+  },
+  {
+    "filename": "2021_DHS_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State amplitude from v-x graph", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Calculate period T", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Label point P on graph", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 15,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2021_DHS_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State two SI base quantities", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine T with uncertainty", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(ii)1", "description": "Derive expression for total energy in terms of T", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)2", "description": "Calculate total energy", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 29,
+    "overall_difficulty": 3.22
+  },
+  {
+    "filename": "2021_CJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine initial displacement from graph", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Determine period from graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Determine maximum kinetic energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Sketch new v-x curve with half amplitude", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Suggest and explain vertical vs horizontal setup", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.44
+  },
+  {
+    "filename": "2021_ASRJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine acceleration when h is maximum", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Describe restoring force", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)", "description": "Draw light damping on Fig 3.2", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.13
+  },
+  {
+    "filename": "2021_ACJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Use Fig 4.1 to deduce SHM", "level": 2, "marks": 3, "weighted_score": 6},
+      {"part": "(a)(ii)1", "description": "Determine amplitude", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)2", "description": "Determine frequency", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Sketch PE and KE vs x", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iv)", "description": "Determine x when KE = ½ PE", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Suggest why some buildings swayed more", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 43,
+    "overall_difficulty": 3.31
+  },
+  {
+    "filename": "2020_YIJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define simple harmonic motion", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine frequency from graph", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine density of liquid", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iii)", "description": "Determine percentage energy loss", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iv)", "description": "Explain why amplitude decreases more in viscous liquid", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.09
+  },
+  {
+    "filename": "2020_VJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Distinguish between frequency and angular frequency", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate resultant force at highest point", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate angular frequency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Complete energy table", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.89
+  },
+  {
+    "filename": "2020_TMJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why motion is SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Determine period of oscillation", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Describe lightly damped motion", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)", "description": "Sketch KE and PE vs t graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "Explain resonance phenomenon", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.60
+  },
+  {
+    "filename": "2020_TJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why block is undergoing SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)1", "description": "Calculate frequency from KE-time graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)2", "description": "Calculate mass of block", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)3", "description": "Calculate amplitude", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Sketch x-t graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2020_SAJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Write equation defining SHM", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate angular frequency", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Write equation for displacement", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Sketch v-x graph", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iv)", "description": "Sketch damped x-t graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Calculate period", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Calculate maximum speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Determine total energy", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iv)1", "description": "Calculate velocity at 2.00 cm", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iv)2", "description": "Calculate potential energy at 2.00 cm", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 15,
+    "weighted_sum": 46,
+    "overall_difficulty": 3.07
+  },
+  {
+    "filename": "2020_RVHS_P3_q11.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Write expression for restoring force", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Show a = 2gx/L", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "Explain why liquid undergoes SHM", "level": 2, "marks": 3, "weighted_score": 6},
+      {"part": "(a)(iv)", "description": "Determine period T", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Sketch damped x-t graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine maximum kinetic energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Sketch KE and PE vs x", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Determine f₀", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Explain peak in amplitude", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(iii)", "description": "Sketch amplitude-frequency with higher viscosity", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 64,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2020_RI_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why gradient forces must be larger", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Estimate max displacement for Hooke's Law", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine spring constant k", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)1", "description": "Explain why oscillation is SHM", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)2", "description": "Determine frequency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Sketch U-z graph with points P and Q", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(d)(i)", "description": "Explain force using photon momentum", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(d)(ii)1", "description": "Calculate momentum of incident photon", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(ii)2", "description": "Calculate impulse in radial direction", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)3", "description": "Calculate impulse in axial direction", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "Suggest two reasons why heating is undesirable", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 24,
+    "weighted_sum": 93,
+    "overall_difficulty": 3.88
+  },
+  {
+    "filename": "2020_NYJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why motion on inclined planes is not SHM", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show ball undergoes SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Determine time interval τ", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Sketch damped x-t graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 20,
+    "overall_difficulty": 2.86
+  },
+  {
+    "filename": "2020_NJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(i)", "description": "State name of phenomenon", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(ii)", "description": "Explain why phenomenon is hazardous", "level": 2, "marks": 3, "weighted_score": 6},
+      {"part": "(iii)", "description": "Sketch amplitude-frequency before damping", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 15,
+    "overall_difficulty": 2.50
+  },
+  {
+    "filename": "2020_MI_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by SHM", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show ball undergoes SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Suggest one other assumption", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Determine time interval τ", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iv)1", "description": "Show amplitude is 4.89×10⁻³ m", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iv)2", "description": "Calculate maximum potential energy", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.36
+  },
+  {
+    "filename": "2020_JPJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how graph shows SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Calculate frequency from a-x graph", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Determine maximum speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Calculate total energy", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 25,
+    "overall_difficulty": 2.78
+  },
+  {
+    "filename": "2020_HCI_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why expression shows SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Determine shortest time interval τ", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(i)", "description": "Sketch v-x graph M (no friction)", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Sketch v-x graph Q with resistive forces", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.13
+  },
+  {
+    "filename": "2020_DHS_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate angular frequency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine maximum kinetic energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Complete energy table", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.43
+  },
+  {
+    "filename": "2020_CJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State features showing SHM from a-x graph", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Sketch v-x graph with intercepts", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "State natural frequency", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Explain how graph shows damping", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Sketch amplitude-frequency with greater damping", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.30
+  },
+  {
+    "filename": "2020_ACJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain relationship T = mg + μhg", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)", "description": "Show a = -(μg/m)z", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Calculate period of oscillation", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)(i)", "description": "Describe variation of A with t", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(ii)", "description": "Sketch A-t with smaller base area", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(iii)", "description": "Suggest why damping is greater than predicted", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(i)", "description": "Sketch x-t graph with negligible string mass", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(e)(ii)", "description": "Explain variation with t", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 45,
+    "overall_difficulty": 3.46
+  },
+  {
+    "filename": "2020_ACJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State absolute uncertainty of m₁ + m₂", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Determine percentage uncertainty of T", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Explain advantage of 20 oscillations with calculations", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "State percentage error from half-period mistake", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Explain whether averaging reduces error", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2019_YIJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine angular frequency from graph", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Determine maximum acceleration", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Show mass is 2.0 kg", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Sketch KE vs t graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "Sketch a vs x graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2019_VJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define simple harmonic motion", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Define angular frequency and state relationship", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Derive formula for period", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Determine period T from semi-circular saucer", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(i)", "description": "State what is meant by ideal gas", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Show how ideal gas equation reduces to Boyle's Law", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "Draw forces F₁ and F₂ on disc", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(iv)", "description": "Show F₁(d−x) = F₂(d+x) = PAd", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(v)", "description": "Show ma = -2PAdx/(d²−x²)", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)(vi)", "description": "Derive expression for period T", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)(vii)", "description": "Calculate T", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 59,
+    "overall_difficulty": 2.95
+  },
+  {
+    "filename": "2019_TMJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by damped oscillation", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate maximum acceleration", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Sketch damped x-t graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "State phenomenon and condition", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)", "description": "State type of damping and importance", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 23,
+    "overall_difficulty": 2.56
+  },
+  {
+    "filename": "2019_TJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show a = -(k/m)x using Newton's second law", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Explain how expression shows SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)", "description": "Calculate position when speed is 25% of maximum", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Explain resonance phenomenon", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)(ii)", "description": "Calculate maximum acceleration", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 29,
+    "overall_difficulty": 2.90
+  },
+  {
+    "filename": "2019_SAJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine frequency of vibration", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine maximum speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Draw amplitude-frequency graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Draw graph with half density mass", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Draw graph with spherical mass", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)", "description": "Explain how frequency can be maintained with doubled mass", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.60
+  },
+  {
+    "filename": "2019_SAJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine maximum speed from graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Sketch v-x graph for at least 2 cycles", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Explain equilibrium position", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)(ii)", "description": "Complete table for damping analysis", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Plot graph and determine c and A₀", "level": 5, "marks": 5, "weighted_score": 25},
+      {"part": "(e)", "description": "Suggest why data after t=0 is excluded", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(f)(i)", "description": "Determine period T", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(f)(ii)", "description": "Determine extension at equilibrium", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(f)(iii)", "description": "Calculate loss in total energy", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(g)", "description": "Explain why thicker cord for larger mass", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 77,
+    "overall_difficulty": 3.85
+  },
+  {
+    "filename": "2019_RVHS_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by SHM", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)1", "description": "State times when displacement is zero", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)2", "description": "State times when acceleration is maximum", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine frequency", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "State phase difference between displacement and velocity", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Distinguish between free and forced oscillations", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Sketch amplitude-frequency graph", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(iii)", "description": "State frequency at maximum amplitude", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 22,
+    "overall_difficulty": 2.20
+  },
+  {
+    "filename": "2019_NYJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show natural frequency is 4.6 Hz", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Determine maximum resultant force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "State what is meant by forced oscillation", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)(ii)", "description": "Sketch amplitude-frequency graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 21,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2019_NJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define simple harmonic motion", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Show frequency is approximately 8.0 Hz", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(i)1", "description": "State name of phenomenon", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)2", "description": "State frequency f₀", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Explain why maximum amplitude occurs", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Suggest modification to flatten peak", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2019_NJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why amplitude decreases", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(i)", "description": "Determine mean power dissipated", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Sketch P-t graph with values", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 37,
+    "overall_difficulty": 3.70
+  },
+  {
+    "filename": "2019_HCI_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show force constant k = 37.9 N m⁻¹", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Calculate acceleration at bottom", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate frequency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Sketch v-x graph with values", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Sketch KE vs t graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(v)", "description": "Sketch v-x with light damping", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.55
+  },
+  {
+    "filename": "2019_EJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain what is meant by free oscillations", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Explain what is meant by damped oscillations", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(iii)", "description": "Explain what is meant by forced oscillations", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Explain resonance peak at 35 Hz", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Determine total energy at 35 Hz", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Sketch amplitude-frequency with rubber mount", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Explain critical damping", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)(ii)", "description": "Sketch critically damped graph", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 22,
+    "overall_difficulty": 2.20
+  },
+  {
+    "filename": "2019_DHS_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State two reasons oscillations are not SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Show frequency is 2.0 Hz", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate maximum speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "State and explain change to maximum speed", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "State and explain change to amplitude", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2019_CJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show a = -92x with working", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(a)(ii)", "description": "Calculate frequency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Explain why magnet B oscillates with increasing amplitude", "level": 5, "marks": 5, "weighted_score": 25}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 47,
+    "overall_difficulty": 4.27
+  },
+  {
+    "filename": "2019_ASRJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate maximum acceleration", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Calculate displacement when KE = ½ TE", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Sketch amplitude-frequency on smoother surface", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25
+  },
+  {
+    "filename": "2019_ACJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show a = -(k/M)x", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Explain if M is oscillating in SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)", "description": "Determine natural frequency f₀", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "State frequency at 5.0 Hz", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(ii)", "description": "Sketch amplitude-frequency with air resistance", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iii)", "description": "Sketch new graph with increased force", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.30
+  },
+  {
+    "filename": "2018_YJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate angular velocity", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate acceleration and state direction", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)1", "description": "Calculate period of oscillation", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)2", "description": "Derive expression for acceleration", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine acceleration at t=0.20 s", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Sketch a-t graph for at least 2 cycles", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iv)", "description": "Derive expression for second rod's displacement", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 15,
+    "weighted_sum": 52,
+    "overall_difficulty": 3.47
+  },
+  {
+    "filename": "2018_VJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why motion undergoes damping", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Sketch damped x-t graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain forced oscillations and resonance", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)1", "description": "Calculate frequency of water waves", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)2", "description": "Calculate mass of block", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)3", "description": "Describe effect of absorbed water", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.11
+  },
+  {
+    "filename": "2018_TPJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by SHM", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine frequency", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine maximum acceleration", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine maximum force by spring", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Sketch damped x-t graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "State energy transformations", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 27,
+    "overall_difficulty": 2.70
+  },
+  {
+    "filename": "2018_TJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show maximum displacement is 3.5×10⁻⁴ m", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Draw s-t graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "State time at maximum potential energy", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)", "description": "Explain why sand loses contact", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.71
+  },
+  {
+    "filename": "2018_SRJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Use two features to explain SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)1", "description": "Calculate angular frequency", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)2", "description": "Calculate maximum speed", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Sketch KE vs t graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iv)", "description": "Calculate shortest time between two points", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)1", "description": "Calculate angular frequency at resonance", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)2", "description": "Calculate total energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Sketch amplitude-frequency with rubber mounting", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 47,
+    "overall_difficulty": 3.36
+  },
+  {
+    "filename": "2018_RVHS_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why motion is SHM with FBD", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Show period is 1.4 s", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine speed v when Q loses contact", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine amplitude after Q loses contact", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Determine distance when spring is fully stretched", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)", "description": "Explain effect on frequency and amplitude with R", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 48,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2018_RI_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Derive expression relating H to A, ρ, M and m", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Write expression for net force", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Show a = -(ρAg/(M+m))y", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)", "description": "Show period is 0.50 s", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)", "description": "Explain why amplitude decreases", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(e)(i)", "description": "Sketch y-t graph for steady oscillation", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(e)(ii)", "description": "Suggest how to increase amplitude", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 40,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2018_PJC_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Distinguish between velocity and angular velocity", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Indicate forces acting on sphere", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Show linear speed is 0.254 m s⁻¹", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine force F on pivot", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Sketch v-t graph with labels", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "State what is meant by resonance", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(c)(ii)1", "description": "Write expression for displacement", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)2", "description": "Calculate acceleration at 0.080 m", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)3", "description": "Calculate maximum kinetic energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)4", "description": "Sketch KE vs t graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 56,
+    "overall_difficulty": 2.80
+  },
+  {
+    "filename": "2018_NYJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Express θ in terms of ω and t", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Write expression for x", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Prove shadow moves in SHM", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate acceleration at rest", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine velocity at S", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Sketch v-x graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.38
+  },
+  {
+    "filename": "2018_MJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State what is meant by natural frequency", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "State what is meant by resonance", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "State and explain useful resonance", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)", "description": "State situation where resonance avoided and how", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 10,
+    "overall_difficulty": 1.67
+  },
+  {
+    "filename": "2018_MI_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by SHM", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show a = -(2k/m)x", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)1", "description": "Determine frequency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)2", "description": "Determine amplitude", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)3", "description": "Determine maximum kinetic energy", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 32,
+    "overall_difficulty": 2.91
+  },
+  {
+    "filename": "2018_JJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain what is meant by SHM", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine amplitude", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine angular frequency", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Determine maximum acceleration", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iv)", "description": "Determine displacement at cloth", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(v)", "description": "Calculate speed at cloth", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 20,
+    "overall_difficulty": 2.50
+  },
+  {
+    "filename": "2018_IJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Distinguish free and forced oscillations", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine natural frequency from graph", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "State whether frictional forces exist", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)", "description": "Estimate maximum speed", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 21,
+    "overall_difficulty": 2.63
+  },
+  {
+    "filename": "2018_EJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State what is meant by SHM", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)1", "description": "State times when displacement is zero", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)2", "description": "State times when acceleration is maximum", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine frequency", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "State phase difference", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Distinguish free and forced oscillations", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Sketch amplitude-frequency graph", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(iii)", "description": "State frequency at maximum amplitude", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iv)", "description": "State how to reduce amplitude", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 30,
+    "overall_difficulty": 2.50
+  },
+  {
+    "filename": "2018_DHS_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show ball undergoes SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Determine time interval τ", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Sketch damped x-t graph", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.13
+  },
+  {
+    "filename": "2018_CJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain how Fig 3.1 shows SHM", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Calculate time to travel 0.50 cm from max displacement", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Show PE is 2.5×10⁻⁵ J at 0.75 cm", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 19,
+    "overall_difficulty": 2.71
+  },
+  {
+    "filename": "2018_AJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State what is meant by natural frequency", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "State what is meant by resonance", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "State and explain useful resonance", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Calculate time between max speed and max acceleration", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(ii)", "description": "Sketch amplitude-frequency with rubber mounting", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 24,
+    "overall_difficulty": 2.40
+  },
+  {
+    "filename": "2018_ACJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate maximum velocity using energy", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(ii)", "description": "Determine period", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Sketch KE and EPE vs t graphs", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Suggest how mass damper stabilizes building", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.38
+  }
+]
