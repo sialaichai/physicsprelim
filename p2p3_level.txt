@@ -17,3 +17,5 @@ Overall Score Range	Difficulty Band	Label
 5.00	Very Hard	Synthesis/Evaluation
 
 D. Generate the full JSON report of each question, for all the questions in the pdf file. The JSON should contain the parts with Part, Description, Level, Marks, Weighted Score for all the parts of the questions, and a summary of the Total marks, the weighted sum and the Overall Difficulty for the whole question.
+
+E. Classify all the questions. List out any questions that are not classified.
