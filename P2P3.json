@@ -745,5 +745,41 @@
     "total_marks": 20,
     "weighted_sum": 86,
     "overall_difficulty": 4.30
-  }
+  },
+    {
+  "filename": "2025_RI_P2_q4.pdf",
+  "parts": [
+    {
+      "part": "(a)(i)",
+      "description": "Explain how bright and dark fringes are formed.",
+      "level": 4,
+      "marks": 3,
+      "weighted_score": 12
+    },
+    {
+      "part": "(a)(ii)",
+      "description": "Explain why some bright fringes are missing.",
+      "level": 4,
+      "marks": 1,
+      "weighted_score": 4
+    },
+    {
+      "part": "(b)(i)",
+      "description": "Determine slit width from dark fringe distance.",
+      "level": 4,
+      "marks": 3,
+      "weighted_score": 12
+    },
+    {
+      "part": "(b)(ii)",
+      "description": "Explain if diffraction patterns are resolved using Rayleigh criterion.",
+      "level": 3,
+      "marks": 2,
+      "weighted_score": 6
+    }
+  ],
+  "total_marks": 9,
+  "weighted_sum": 34,
+  "overall_difficulty": 3.78
+}
 ]
