@@ -16,6 +16,20 @@ Overall Score Range	Difficulty Band	Label
 4.00 – 4.99	Hard	Analysis
 5.00	Very Hard	Synthesis/Evaluation
 
-D. Generate the full JSON report of each question, for all the questions in the pdf file. The JSON should contain the parts with Part, Description, Level, Marks, Weighted Score for all the parts of the questions, and a summary of the Total marks, the weighted sum and the Overall Difficulty for the whole question.
+D. Generate the full JSON report of each question, for all the questions in the pdf file. The JSON should contain the parts with Part, Description, Level, Marks, Weighted Score for all the parts of the questions, and a summary of the Total marks, the weighted sum and the Overall Difficulty for the whole question. e.g format 
+{
+    "filename": "2018_AJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why resistance increases", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Draw ohmic line on graph", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iii)", "description": "Determine change in resistance", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Explain why lamp does not operate at rated power", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Calculate resistance of LDR", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 43,
+    "overall_difficulty": 3.91
+  }
+
 
 E. Classify all the questions. List out any questions that are not classified.
