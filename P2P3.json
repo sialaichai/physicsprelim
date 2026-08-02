@@ -13412,5 +13412,1847 @@
     "weighted_sum": 39,
     "overall_difficulty": 3.55,
     "difficulty_band": "Medium"
+  },
+      {
+    "filename": "2025_VJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State conditions required for equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Draw and label forces on rod", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)", "description": "Determine force T using equilibrium", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 12,
+    "overall_difficulty": 2.00,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2025_TMJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State origin of upthrust", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "State expression for weight", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "State expression for upthrust", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)", "description": "Show density comparison for sinking", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Describe motion until terminal velocity", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.89,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2025_TJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Suggest implication about mass distribution", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Explain two conditions for equilibrium while moving", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Determine tension in ropes", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)", "description": "Calculate minimum power", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2025_SAJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State principle of moments", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Show upthrust using moments", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate area of cylinder", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Sketch variation of x with h", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.13,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2025_RVHS_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define moment of a force", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Determine magnitude and direction of elbow force", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(c)", "description": "Explain why strike must be quick using Newton's laws", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.67,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2025_R1_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine maximum number of masses before toppling", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "State and explain effect of string modification", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 24,
+    "overall_difficulty": 4.00,
+    "difficulty_band": "Hard"
+  },
+  {
+    "filename": "2025_NYJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State two conditions for equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Explain why point G lies below C", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Calculate distances MG and DG", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine tension T2", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.89,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2025_NJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show theta is 30 degrees", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Draw contact force arrow", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)", "description": "Show minimum force F", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)", "description": "Determine contact force at P", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2025_MI_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain upthrust", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Draw and label forces on balloon", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Determine tension in rope", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Explain how balloon rises and reaches equilibrium", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 29,
+    "overall_difficulty": 2.90,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2025_JPJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain upthrust", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Calculate mass of air displaced", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate mass of air in balloon", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Explain difference between values", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Explain why acceleration approaches zero", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.27,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2025_HCI_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show pressure equation", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Show resultant force expression", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Calculate mass of sample", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 37,
+    "overall_difficulty": 3.70,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2025_EJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State principle of moments", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Calculate tension T", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 4,
+    "weighted_sum": 10,
+    "overall_difficulty": 2.50,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2025_DHS_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State meaning of moment of a force", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Determine tension in cable", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine force at pivot A", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 19,
+    "overall_difficulty": 3.17,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2025_CJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show upthrust", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate force constant", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Explain why string breaks", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Calculate volume of fluid displaced", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.56,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2025_CJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State meaning of centre of gravity", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Show upthrust on sphere", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine force on spring", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate elastic potential energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Explain why work done not equal to gain in EPE", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.10,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2025_ASRJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Draw force arrow", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Explain origin of force", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)", "description": "Explain how force helps equilibrium", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Calculate density of sphere", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)", "description": "Calculate diameter of sphere", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 24,
+    "overall_difficulty": 2.67,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2025_ACJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show hydrostatic pressure expression", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Explain why seawater exerts upthrust", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Calculate upthrust", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate weight", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iv)", "description": "Determine tensions in cables", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(c)(i)", "description": "Calculate thrust", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate efficiency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Calculate initial upward acceleration", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 18,
+    "weighted_sum": 59,
+    "overall_difficulty": 3.28,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_YIJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine value of x", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Draw and label tension and contact force", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Show magnitude of R", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 18,
+    "overall_difficulty": 3.00,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_VJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define moment of a force and torque of a couple with sketches", "level": 1, "marks": 4, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Label forces on truck and pulley", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Determine mass of counterweight", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 24,
+    "overall_difficulty": 2.40,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2024_TMJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State two conditions for equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate vertical force F", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate normal reaction force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate horizontal force", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 20,
+    "overall_difficulty": 2.50,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2024_TJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain train arrival frequency", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Suggest why aluminium alloy is used", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "State compression or tension", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Calculate normal reaction force", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iii)", "description": "State total load on column 1", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iv)", "description": "Calculate total load on ground", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Complete best-fit line graph", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(ii)", "description": "Determine applied stress", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iii)", "description": "Determine if column structure is safe", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(i)", "description": "Calculate applied load", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(ii)", "description": "Calculate allowable weight of passengers", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(e)(iii)", "description": "Calculate allowable number of passengers", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(f)", "description": "Determine maximum time interval", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 24,
+    "weighted_sum": 75,
+    "overall_difficulty": 3.13,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_TJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State conditions for equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate force F", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Draw force R on diagram", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Calculate work done", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iv)", "description": "Calculate power exerted", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 25,
+    "overall_difficulty": 2.50,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2024_SAJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate density of liquid", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Draw force arrows", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Determine terminal velocity", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 17,
+    "overall_difficulty": 2.83,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2024_RVHS_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Draw tensile forces", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Determine magnitude of T3", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Explain which wire breaks first", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 20,
+    "overall_difficulty": 3.33,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_R1_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine ratio F/W using moments", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "State and explain change in force", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 20,
+    "overall_difficulty": 4.00,
+    "difficulty_band": "Hard"
+  },
+  {
+    "filename": "2024_NYJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show pressure equation", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Explain why equation doesn't give total pressure", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iii)", "description": "Determine density from graph", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Determine percentage submerged", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 17,
+    "overall_difficulty": 2.83,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2024_NJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine pressure at base", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Draw forces and describe motion", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 22,
+    "overall_difficulty": 3.67,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_MI_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain moment of force and torque of couple", "level": 2, "marks": 3, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Explain why rod remains horizontal with no load", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Explain why distance is kept short", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate mass of sack", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Explain why steelyard is less accurate", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Derive Ep = mgh", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)-1", "description": "Determine average power needed", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(ii)-2", "description": "Calculate power to overcome friction", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(ii)-3", "description": "Explain power requirement with walking", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 22,
+    "weighted_sum": 72,
+    "overall_difficulty": 3.27,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_JPJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define moment of a force", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Determine maximum number of masses", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Draw tension arrow", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Determine tension when just toppling", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 23,
+    "overall_difficulty": 3.29,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_HCI_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why liquid exerts upthrust", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Show external force needed", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Calculate volume of compressed air", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.13,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_EJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State two conditions for equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Explain centre of gravity", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)(i)", "description": "Explain why force F passes through P", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)-1", "description": "Calculate tension T", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)-2", "description": "Calculate angle alpha", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.00,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_DHS_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State two conditions for equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Draw free body diagram", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Calculate position of centre of gravity", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate magnitude and direction of wall force", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 28,
+    "overall_difficulty": 2.80,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2024_CJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine magnitude of FA", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Explain why spring force increases", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 21,
+    "overall_difficulty": 3.50,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_ASRJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State two conditions for equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Show weight W", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate magnitude of F", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)", "description": "State and explain effect on horizontal component", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 25,
+    "overall_difficulty": 2.78,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2024_ACJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine pressure at depth", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Show minimum thickness", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(iii)", "description": "Explain thin wall assumption", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iv)", "description": "Determine new diameter", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(v)", "description": "State two limitations", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Describe sound travel in sea", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Determine speed of sound", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iii)", "description": "Suggest why speed in seawater is faster", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Show distance expression", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Determine minimum engine power", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Suggest why more power needed", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 23,
+    "weighted_sum": 69,
+    "overall_difficulty": 3.00,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2024_ACJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State two conditions for equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Determine mass of canopy", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Suggest direction of hinge force", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 19,
+    "overall_difficulty": 2.71,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2023_YIJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define moment of a force", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Show tension T", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate vertical component", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Explain why Tv doesn't equal sum", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Determine reaction force", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.40,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2023_VJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate extension of springs", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine total EPE", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Calculate acceleration", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iv)", "description": "Comment on method", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(v)", "description": "Show period of oscillation", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Determine ratio of masses", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Calculate net loss in GPE", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iii)", "description": "Calculate rate of work done", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Show relation for angle alpha", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 23,
+    "weighted_sum": 88,
+    "overall_difficulty": 3.83,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2023_TMJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State conditions for equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Draw direction of force R", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iii)", "description": "Calculate ratio Q/P", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine normal contact force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "State Newton's second law", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Determine horizontal acceleration", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 24,
+    "overall_difficulty": 2.18,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2023_RVHS_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define moment of a force", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate tension in rope", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Draw force R with construction", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Suggest effect of submerged load", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.33,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2023_RI_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State conditions for equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show mass of block M", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine density of liquid", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Describe equilibrium positions", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.11,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2023_NYJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State principle of moments", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate maximum mass of traffic", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Suggest reason for safety margin", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Calculate minimum mass of block", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Draw forces on block", "level": 2, "marks": 3, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 24,
+    "overall_difficulty": 2.40,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2023_NJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain origin of upthrust", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Sketch forces on buoy", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Determine percentage submerged", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 17,
+    "overall_difficulty": 2.43,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2023_MI_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State Archimedes' principle", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Explain why object experiences upthrust", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Calculate mass of seawater", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Calculate pressure at depth", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 17,
+    "overall_difficulty": 2.43,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2023_HCI_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State conditions for equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Draw forces on beam", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Show tension magnitude", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine force by bench", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iv)", "description": "Calculate acceleration", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(v)", "description": "Explain effect of heavier ball", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(vi)", "description": "Determine if ball completes loop", "level": 5, "marks": 4, "weighted_score": 20},
+      {"part": "(c)", "description": "Describe subsequent path", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 19,
+    "weighted_sum": 66,
+    "overall_difficulty": 3.47,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2023_EJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State two conditions for equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Determine tension and reaction force", "level": 4, "marks": 6, "weighted_score": 24}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2023_DHS_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain origin of upthrust", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Show upthrust on cannon", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "State Newton's second law", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(d)", "description": "Calculate resultant force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)", "description": "Estimate volume of air", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 30,
+    "overall_difficulty": 2.73,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2023_CJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show centre of mass location", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Calculate magnitude of force at P", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Suggest advantage of design", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 29,
+    "overall_difficulty": 3.63,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2023_ASRJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate force constant", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate actual uncertainty", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Show hydrostatic pressure equation", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Determine density", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 29,
+    "overall_difficulty": 3.22,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2023_ACJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain upthrust", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Draw and label forces", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Determine tension", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Explain how balloon rises and reaches height", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_YIJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Describe graph showing Hooke's law", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Determine spring constant", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate elastic potential energy", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Determine upthrust", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Calculate pressure difference", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "State effect of greater density", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "Determine percentage uncertainty", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.40,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_VJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Draw and label forces", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Determine L", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Determine tension in cable", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Explain why hinge force is not vertical", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.00,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_TMJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State Archimedes' principle", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Explain why object experiences upthrust", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Calculate mass of seawater", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Calculate pressure at depth", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate force on porthole", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 23,
+    "overall_difficulty": 2.56,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2022_TMJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain advantage of many cables", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate maximum total mass", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate mass of roadway section", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Calculate angle between cable and horizontal", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)", "description": "Draw forces and explain equilibrium", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(f)", "description": "Calculate tension in cable", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(g)", "description": "Calculate increase in extension", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(h)", "description": "Suggest reason for safety margin", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(i)", "description": "Explain tension in roadway", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 65,
+    "overall_difficulty": 3.25,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_TJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show horizontal component of R", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Determine speed v", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "State direction of sliding", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 20,
+    "overall_difficulty": 3.33,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_SAJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State principle of moments", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Calculate force B", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "State sum of forces and explain", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iv)", "description": "Describe changes in forces", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Determine tensions T1 and T2", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.00,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_RVHS_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain system in equilibrium", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Label forces on block", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Determine minimum force", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 20,
+    "overall_difficulty": 2.86,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2022_RI_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate tension in rope", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Determine horizontal distance d", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Explain maximum theta", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 19,
+    "overall_difficulty": 3.80,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_NYJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate volume of seawater displaced", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Show pulling force T", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine magnitude of R", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Suggest why volume displaced is lower", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.13,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_NJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain centre of gravity", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain origin of upthrust", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Calculate volume displaced", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Mark weight and upthrust", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Explain why ship won't overturn", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Draw forces and explain danger", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 28,
+    "overall_difficulty": 2.80,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2022_MI_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State conditions for static equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Draw forces on rod", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Show tension T", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine force by hinge", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 28,
+    "overall_difficulty": 2.80,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2022_HCI_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine lift and drag", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine vertical separation", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Suggest tail stabiliser function", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain thrust using Newton's laws", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Calculate thrust", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Suggest reason for difference", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Determine pressure on upper surface", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Show CL is dimensionless", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(ii)", "description": "Explain tilt and speed increase", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(i)", "description": "Show L/D = CL/CD", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(e)(ii)", "description": "Suggest why max L/D is most efficient", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(e)(iii)-1", "description": "Determine L/D at 4 degrees", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(e)(iii)-2", "description": "Plot point and sketch curve", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 22,
+    "weighted_sum": 73,
+    "overall_difficulty": 3.32,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_HCI_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show spring constant", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate actual uncertainty", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "State value with uncertainty", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Label forces on cube P", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "State expression for weight", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Show tension in string", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Determine theta", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.09,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_EJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Draw labelled force diagram", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Calculate tension in spring", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Determine reaction force at pivot", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)", "description": "State change in angle", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.43,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_DHS_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)-1", "description": "State relation between masses", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(i)-2", "description": "State relation between densities", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "State and explain level change", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Explain upthrust", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Determine upthrust", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine volume of air", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.20,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_CJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Sketch vector triangle", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate tension T", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate force R", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Explain why cord snaps", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.50,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_CJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Describe force direction in gravitational field", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Describe force direction in electric field", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iii)", "description": "Describe force direction in magnetic field", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Describe path at right angles", "level": 4, "marks": 5, "weighted_score": 20}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_ASRJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State wave type", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Calculate time taken", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Calculate power received", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(iv)", "description": "Suggest why actual power is greater", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Determine wavelength", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Explain why particles are at rest", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Explain formation of stationary wave", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Calculate vertical distance", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iii)", "description": "Label positions of max pressure", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 15,
+    "weighted_sum": 49,
+    "overall_difficulty": 3.27,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2022_ACJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain terminal velocity with FBD", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Show force P", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Explain why ground must exert force", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Calculate force Q", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iv)", "description": "Draw force directions", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.75,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_YIJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State and explain if spring obeys Hooke's law", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Describe how to check permanent deformation", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Calculate work done", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 20,
+    "overall_difficulty": 3.33,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_VJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Describe friction opposing and causing motion", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Show frictional force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Calculate acceleration", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate velocity", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Draw all forces", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)(ii)-1", "description": "Write vertical equilibrium expression", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(ii)-2", "description": "Write rotational equilibrium expression", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(iii)", "description": "Show N2 expression", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iv)", "description": "Determine N2 and N1", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(v)", "description": "Determine maximum height", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(vi)", "description": "Suggest two features", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 62,
+    "overall_difficulty": 3.10,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_TMJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Derive pressure equation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain origin of upthrust", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Calculate tension", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iii)", "description": "Suggest why balloon sinks", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_TMJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State principle of moments", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Show tension in spring", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Sketch vector triangle", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Determine R and direction", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Describe energy changes", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.60,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_TJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Suggest pivot position", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Calculate tension in rope", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)-1", "description": "Sketch and label force R", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)-2", "description": "Calculate magnitude of R", "level": 3, "marks": 4, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.10,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_SAJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define moment of a force", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate tension T", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate force at A and angle", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 19,
+    "overall_difficulty": 3.17,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_RVHS_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define moment of a force", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Show tension T", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Determine force at elbow", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_RI_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define moment of a force", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Determine vertical separation", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "State and explain friction direction", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Calculate force P", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_NYJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State conditions for equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Suggest implication about mass distribution", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Show tension T", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine force at hinge", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 23,
+    "overall_difficulty": 2.88,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2021_NJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show pressure equation", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Explain why graph doesn't pass origin", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Calculate density", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Explain why object floats", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 21,
+    "overall_difficulty": 2.63,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2021_MI_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Draw reaction force arrow", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain no net moments", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Explain closed vector triangle", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Calculate R and T", "level": 3, "marks": 4, "weighted_score": 12},
+      {"part": "(c)", "description": "Explain lifting with vertical spine", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.33,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_JPJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain upthrust", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Calculate upthrust", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Show tension", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Sketch forces", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Determine force D", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 22,
+    "overall_difficulty": 2.75,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2021_HCI_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show tension in spring", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine force constant", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine percentage uncertainty", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Draw force direction", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Calculate magnitude", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.11,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_EJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine magnitude of R", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Determine H magnitude and direction", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 18,
+    "overall_difficulty": 3.60,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_DHS_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain weight", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate tension T", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Explain tension change", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Suggest reason for greater work", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Suggest advantage", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 23,
+    "overall_difficulty": 2.88,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2021_CJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State Archimedes' principle", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Show upthrust", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Explain why net work is zero", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Calculate drag force", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Describe and explain motion", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.30,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_ASRJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine SI base units", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate resultant moment", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Explain why CG below pivot", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Calculate upthrust", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate pressure difference", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "State effect of greater density", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.09,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2021_ACJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define upthrust", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Show tension", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Calculate tension TCD", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Explain hinge force needed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Explain direction of hinge force", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 28,
+    "overall_difficulty": 2.80,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2020_VJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State upthrust", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Draw forces", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Determine drag force", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Explain water level change", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.89,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2020_TMJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State upthrust", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "State and explain water level change", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Calculate upthrust", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate spring balance reading", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Calculate weighing scale reading", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.10,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2020_TJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State two conditions for equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Draw forces", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Calculate contact force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Explain contact forces equal", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Explain bar cannot be horizontal", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "Sketch equilibrium position", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 28,
+    "overall_difficulty": 2.80,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2020_SAJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State conditions for equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Draw free body diagram", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Show tension T", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine force by hinge", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 28,
+    "overall_difficulty": 2.80,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2020_RVHS_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State conditions for equilibrium", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Sketch vector triangle", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Determine tension", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Determine minimum angle", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 21,
+    "overall_difficulty": 3.00,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2020_RI_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show average density", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "State which upthrust is larger", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Indicate upthrusts", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Deduce position of CG", "level": 5, "marks": 2, "weighted_score": 10},
+      {"part": "(c)(i)-1", "description": "Deduce upthrust in liquid A", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(i)-2", "description": "Deduce upthrust in liquid B", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Show acceleration expression", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(c)(iii)", "description": "Determine period", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Determine amplitude", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Calculate period", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(iii)", "description": "Determine time taken", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 80,
+    "overall_difficulty": 4.00,
+    "difficulty_band": "Hard"
+  },
+  {
+    "filename": "2020_RI_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show tension in cable AB", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Calculate tension in AC", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Label G on diagram", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Determine maximum load", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Explain why more likely to topple", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.38,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2020_NYJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine mass required", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Show gradient expression", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Determine cross-sectional area", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Determine density", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 23,
+    "overall_difficulty": 3.29,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2020_NJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State principle of moments", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)-1", "description": "Show tension", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)-2", "description": "Show force F", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine R and angle alpha", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "State changes to F", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.40,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2020_JPJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine spring constant", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate elastic potential energy", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Draw tension and reaction", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Determine x", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iii)", "description": "Determine R", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.89,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2020_HCI_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Draw forces", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Show tension", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Determine force at A", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(d)(i)", "description": "Draw new position", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(ii)", "description": "State magnitude", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.10,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2020_EJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Draw tensile forces", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Determine T3", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Explain which wire breaks", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Determine Nf", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine reaction force", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2020_CJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain origin of upthrust", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Calculate upthrust", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate drag force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Explain need to release air", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2020_ASRJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine d", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine effective force constant", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Calculate new extension", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate increase in EPE", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Determine distance of effective CG", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.20,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2020_ACJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain centre of gravity", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Describe nature of forces", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Determine normal contact force R2", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)", "description": "Find R1", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 22,
+    "overall_difficulty": 2.75,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2019_YIJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate upthrust", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Calculate tension", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate power output", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Explain why power increases", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2019_TMJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain origin of upthrust", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Calculate volume Vo", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)-1", "description": "Explain factor decreasing acceleration", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)-2", "description": "Explain factor increasing acceleration", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.50,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2019_SAJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State conditions for static equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Show tension T", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Determine force by hinge", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.00,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2019_RVHS_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain moment of a force", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show Q expression", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Determine Q", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 23,
+    "overall_difficulty": 2.88,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2019_NYJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Sketch T-l graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Show EPE proportional to e^2", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Determine EPE at lowest point", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)", "description": "Explain danger of stiffer rope", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.38,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2019_MI_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State conditions for static equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Determine tensions T1 and T2", "level": 3, "marks": 4, "weighted_score": 12},
+      {"part": "(c)", "description": "Distinguish frequency and angular frequency", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)(i)", "description": "Show acceleration expression", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Determine total energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(iii)", "description": "Calculate distance", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)(iv)", "description": "Sketch energy graphs", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(e)", "description": "Explain how graphs differ", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 61,
+    "overall_difficulty": 3.05,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2019_HCI_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain upthrust", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate mass of air displaced", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate mass of air in balloon", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Explain difference", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Calculate acceleration", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Explain why acceleration approaches zero", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.10,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2019_EJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State conditions for equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show T1 = 1.33 T2", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Determine distance x", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iii)", "description": "Determine maximum mass", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Explain effect of cord mass", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 29,
+    "overall_difficulty": 2.90,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2019_DHS_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State two conditions for equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)-1", "description": "Draw weight", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)-2", "description": "Draw resultant force R", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Calculate maximum F", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate force constant", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Show upthrust", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(ii)", "description": "Determine density of liquid", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 29,
+    "overall_difficulty": 2.42,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2019_ASRJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Draw forces", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Calculate change in submerged length", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(i)", "description": "Explain why tube returns upright", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Describe restoring force", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 23,
+    "overall_difficulty": 3.29,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2019_ACJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Archimedes' principle", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine x", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Explain effect on x and y", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Explain tipping", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.11,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2018_YJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Complete data table", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(ii)", "description": "Plot log graph", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(iii)", "description": "Determine k", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Plot F vs extension", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Determine gradient", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine Young's modulus", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)-1", "description": "Suggest stiffer material", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iv)-2", "description": "Sketch graph for stiffer material", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate total moment", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 59,
+    "overall_difficulty": 2.95,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2018_VJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain upthrust", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)-1", "description": "Write upthrust expression for Liquid A", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)-2", "description": "Write upthrust expression for Liquid B", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)-3", "description": "Determine x", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Calculate angle theta", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Suggest bear position", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Calculate mass of beam", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.30,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2018_TPJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain terminal velocity with FBD", "level": 4, "marks": 5, "weighted_score": 20},
+      {"part": "(b)(i)", "description": "State conditions for equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Determine tension", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.10,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2018_TJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine vertical component of F", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Determine horizontal component", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Determine weight W", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Explain wall force needed", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Draw force S", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "Draw forces S1 and S2", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.60,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2018_SRJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Mark centre of gravity", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Draw weight arrow", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "State conditions for equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(c)", "description": "Draw force R with construction", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)", "description": "Describe final position", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 18,
+    "overall_difficulty": 2.57,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2018_RVHS_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State conditions for equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Sketch FBD", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Determine force by rope", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Determine resultant of weight and upthrust", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Determine force by currents", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Determine angle theta", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 24,
+    "overall_difficulty": 2.40,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2018_NYJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(i)", "description": "Show tension T", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(ii)", "description": "Determine force at elbow", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 22,
+    "overall_difficulty": 3.67,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2018_NJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Express density", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Suggest subsequent motion", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(c)(i)", "description": "Sketch height-time graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Sketch KE-time graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 40,
+    "overall_difficulty": 4.00,
+    "difficulty_band": "Hard"
+  },
+  {
+    "filename": "2018_MJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State Newton's first law", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "State conditions for equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show force by wall", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate force by floor", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(iii)-1", "description": "Explain effect on vertical force", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(iii)-2", "description": "Explain effect on horizontal force", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.60,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2018_MI_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show work done expression", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "State conditions for equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Draw forces", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Determine weight", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Determine acceleration", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.60,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2018_JJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State conditions for equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine horizontal frictional force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine vertical force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Draw force S", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 18,
+    "overall_difficulty": 2.25,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2018_IJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate pressure difference", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Show upthrust", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Calculate force on spring", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iv)", "description": "Determine initial height", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "State Newton's second law", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Determine initial acceleration", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Describe acceleration variation", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 42,
+    "overall_difficulty": 3.00,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2018_HCI_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define centre of gravity", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Determine F", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Draw force R", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Explain direction of R", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Sketch F vs theta", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Explain shape of graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.30,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2018_EJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate pressure difference", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Show upthrust", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Determine force on spring", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Determine height h", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(e)(i)", "description": "Determine initial acceleration", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(ii)", "description": "Describe acceleration variation", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 41,
+    "overall_difficulty": 3.42,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2018_DHS_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain train arrival frequency", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Suggest why aluminium alloy used", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Indicate compression/tension", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Calculate normal force", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iii)", "description": "State total load", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(iv)", "description": "Calculate total load on ground", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Complete best-fit line", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(ii)", "description": "Determine applied stress", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iii)", "description": "Determine if structure safe", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(i)", "description": "Calculate applied load", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(ii)", "description": "Calculate allowable weight", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(iii)", "description": "Calculate number of passengers", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(f)", "description": "Determine longest time interval", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 21,
+    "weighted_sum": 68,
+    "overall_difficulty": 3.24,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2018_DHS_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State atmospheric pressure", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Determine density of liquid M", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine upthrust", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Calculate force on spring", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Suggest how to check elastic limit", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(i)", "description": "Determine horizontal force", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Determine force by lower ball", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 40,
+    "overall_difficulty": 3.33,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2018_CJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain why string is vertical", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Draw forces", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(iii)", "description": "Show T = 0.5U", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iv)", "description": "Calculate T", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(v)", "description": "Determine density of rod", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(i)", "description": "State conservation of momentum", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "Calculate initial speed", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(i)", "description": "State gas ejection direction", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Calculate speed", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 66,
+    "overall_difficulty": 3.30,
+    "difficulty_band": "Medium"
+  },
+  {
+    "filename": "2018_AJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Compare balance readings", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)-1", "description": "Draw forces on solid block", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)-2", "description": "Draw forces on system", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)-1", "description": "Calculate reading", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)-2", "description": "Determine change in reading", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.89,
+    "difficulty_band": "Medium-Low"
+  },
+  {
+    "filename": "2018_ACJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Archimedes' principle", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Show resultant force", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Draw resultant force", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Determine density", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)-1", "description": "Determine acceleration", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)-2", "description": "Calculate time", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)-3", "description": "State and explain difference", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 32,
+    "overall_difficulty": 2.91,
+    "difficulty_band": "Medium-Low"
   }
 ]
