@@ -18020,5 +18020,21 @@
   "total_marks": 5,
   "weighted_sum": 17,
   "overall_difficulty": 3.4
+},
+    {
+  "filename": "2024_R1_P3_q3",
+  "parts": [ 
+    {"part": "(a)", "description": "Distinguish progressive and stationary waves", "level": 2, "marks": 2, "weighted_score": 4},
+    {"part": "(b)(i)", "description": "Deduce wavelength from Fig 3.1", "level": 3, "marks": 1, "weighted_score": 3},
+    {"part": "(b)(ii)", "description": "Deduce amplitude from Fig 3.1", "level": 3, "marks": 1, "weighted_score": 3},
+    {"part": "(c)(i)", "description": "Indicate nodes and antinodes on Fig 3.2", "level": 3, "marks": 2, "weighted_score": 6},
+    {"part": "(c)(ii)(1)", "description": "Draw pressure variation at t₁", "level": 4, "marks": 1, "weighted_score": 4},
+    {"part": "(c)(ii)(2)", "description": "Draw pressure variation at t₁+T/8", "level": 4, "marks": 1, "weighted_score": 4},
+    {"part": "(d)(i)", "description": "Determine end correction of tube", "level": 4, "marks": 2, "weighted_score": 8},
+    {"part": "(d)(ii)", "description": "Determine length for next loud note", "level": 3, "marks": 2, "weighted_score": 6}
+  ],
+  "total_marks": 12,
+  "weighted_sum": 38,
+  "overall_difficulty": 3.17
 }
 ]
