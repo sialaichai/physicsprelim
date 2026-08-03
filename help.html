@@ -46,6 +46,11 @@
             margin-bottom: 10px;
             font-size: 18px;
         }
+        h4 {
+            color: #2c3e50;
+            margin-bottom: 6px;
+            font-size: 15px;
+        }
         .feature-grid {
             display: grid;
             grid-template-columns: 1fr 1fr;
@@ -91,6 +96,23 @@
         .badge-3 { background: #fd7e14; }
         .badge-4 { background: #dc3545; }
         .badge-5 { background: #6f42c1; }
+        
+        /* Difficulty Badge Examples */
+        .diff-badge-example {
+            display: inline-block;
+            padding: 2px 12px;
+            border-radius: 12px;
+            font-size: 12px;
+            font-weight: bold;
+            color: white;
+            margin: 2px 4px;
+        }
+        .diff-easy { background: #28a745; }
+        .diff-moderate { background: #17a2b8; }
+        .diff-challenging { background: #fd7e14; }
+        .diff-hard { background: #dc3545; }
+        .diff-veryhard { background: #6f42c1; }
+        
         .keyboard-shortcut {
             background: #2c3e50;
             color: white;
@@ -121,6 +143,13 @@
             border-radius: 4px;
             margin: 15px 0;
         }
+        .warning-box {
+            background: #f8d7da;
+            border-left: 4px solid #dc3545;
+            padding: 12px 16px;
+            border-radius: 4px;
+            margin: 15px 0;
+        }
         .table-icon {
             font-size: 18px;
             vertical-align: middle;
@@ -139,6 +168,12 @@
         .dot-4 { background: #dc3545; }
         .dot-5 { background: #6f42c1; }
         .dot-none { background: #dee2e6; }
+        .dot-easy { background: #28a745; }
+        .dot-moderate { background: #17a2b8; }
+        .dot-challenging { background: #fd7e14; }
+        .dot-hard { background: #dc3545; }
+        .dot-veryhard { background: #6f42c1; }
+        
         @media (max-width: 768px) {
             .feature-grid {
                 grid-template-columns: 1fr;
@@ -152,11 +187,13 @@
             padding: 16px 20px;
             border-radius: 8px;
             margin-bottom: 25px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px 16px;
         }
         .toc a {
             color: #007bff;
             text-decoration: none;
-            margin-right: 15px;
         }
         .toc a:hover {
             text-decoration: underline;
@@ -182,6 +219,107 @@
         .btn-close:hover {
             background: #5a6268;
         }
+        .formula-box {
+            background: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-radius: 6px;
+            padding: 16px 20px;
+            margin: 12px 0;
+            font-family: 'Courier New', monospace;
+            font-size: 14px;
+            text-align: center;
+        }
+        .formula-box .math {
+            font-size: 18px;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        .diff-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 12px 0;
+            font-size: 14px;
+        }
+        .diff-table th {
+            background: #f8f9fa;
+            padding: 8px 12px;
+            text-align: left;
+            border-bottom: 2px solid #dee2e6;
+        }
+        .diff-table td {
+            padding: 8px 12px;
+            border-bottom: 1px solid #e9ecef;
+        }
+        .diff-table tr:hover {
+            background: #f8f9fa;
+        }
+        .tooltip-demo {
+            background: #2d2d2d;
+            color: #e8e8e8;
+            padding: 14px 18px;
+            border-radius: 8px;
+            font-size: 12px;
+            max-width: 400px;
+            margin: 12px 0;
+            border: 1px solid #555;
+        }
+        .tooltip-demo .tt-title {
+            font-weight: bold;
+            font-size: 13px;
+            color: #fff;
+            border-bottom: 1px solid #555;
+            padding-bottom: 6px;
+            margin-bottom: 8px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .tooltip-demo .tt-badge {
+            font-size: 11px;
+            padding: 2px 10px;
+            border-radius: 12px;
+            color: white;
+            font-weight: bold;
+            background: #fd7e14;
+        }
+        .tooltip-demo .tt-part {
+            display: grid;
+            grid-template-columns: 50px 1fr 30px 30px;
+            gap: 6px;
+            padding: 3px 0;
+            border-bottom: 1px solid #3a3a3a;
+            font-size: 11px;
+        }
+        .tooltip-demo .tt-part .tt-label {
+            font-weight: bold;
+            color: #8ab4f8;
+        }
+        .tooltip-demo .tt-part .tt-desc {
+            color: #ddd;
+        }
+        .tooltip-demo .tt-part .tt-level {
+            text-align: center;
+            color: #fdd663;
+        }
+        .tooltip-demo .tt-part .tt-marks {
+            text-align: center;
+            color: #81c995;
+        }
+        .tooltip-demo .tt-summary {
+            display: flex;
+            gap: 16px;
+            margin-top: 8px;
+            padding-top: 8px;
+            border-top: 1px solid #444;
+            font-size: 12px;
+            flex-wrap: wrap;
+        }
+        .tooltip-demo .tt-summary span {
+            color: #ccc;
+        }
+        .tooltip-demo .tt-summary strong {
+            color: #fff;
+        }
     </style>
 </head>
 <body>
@@ -194,6 +332,7 @@
             <a href="#getting-started">Getting Started</a>
             <a href="#filters">Filters</a>
             <a href="#mcq-levels">MCQ Levels</a>
+            <a href="#weighted-difficulty">Weighted Difficulty</a>
             <a href="#table-features">Table Features</a>
             <a href="#export-tools">Export Tools</a>
             <a href="#mark-schemes">Mark Schemes</a>
@@ -259,7 +398,7 @@
         </ol>
 
         <div class="tip-box">
-            💡 <strong>Tip:</strong> You can combine multiple filters at once (e.g., Year + Topic + Level) to narrow down results precisely.
+            💡 <strong>Tip:</strong> You can combine multiple filters at once (e.g., Year + Topic + Level + Difficulty) to narrow down results precisely.
         </div>
 
         <!-- ============================================ -->
@@ -302,27 +441,245 @@
             <li>Click the <strong>Level</strong> filter button</li>
             <li>Check one or more levels (e.g., L1, L2, L3)</li>
             <li>Click <strong>Apply</strong> to show only questions at those levels</li>
-            <li>Only files with assigned levels will appear when filtering</li>
+            <li>Only MCQ files with assigned levels will appear when filtering</li>
         </ul>
 
         <h3>Visual Indicators</h3>
         <ul class="step-list">
-            <li>📌 <strong>Color-coded badges</strong> appear next to filenames for MCQ questions</li>
+            <li>📌 <strong>Color-coded badges</strong> appear in the Level column for MCQ questions</li>
             <li><span class="color-dot dot-1"></span> Level 1 - Green</li>
             <li><span class="color-dot dot-2"></span> Level 2 - Blue</li>
             <li><span class="color-dot dot-3"></span> Level 3 - Orange</li>
             <li><span class="color-dot dot-4"></span> Level 4 - Red</li>
             <li><span class="color-dot dot-5"></span> Level 5 - Purple</li>
             <li>💡 <strong>Row background colors</strong> also match the level for quick visual scanning</li>
-            <li>Non-MCQ questions show no badge and have a standard row color</li>
+            <li>Non-MCQ questions (Paper 2 &amp; 3) show <strong>Weighted Difficulty</strong> badges instead</li>
         </ul>
 
         <div class="note-box">
-            ⚠️ <strong>Note:</strong> MCQ levels are loaded in the background. If you don't see levels immediately, wait a few seconds. The app will show a toast notification when levels are loaded.
+            ⚠️ <strong>Note:</strong> MCQ levels are loaded in the background from <code>MCQ.json</code>. If you don't see levels immediately, wait a few seconds. The app will show a toast notification when levels are loaded.
         </div>
 
         <!-- ============================================ -->
-        <!-- 4. TABLE FEATURES -->
+        <!-- 4. WEIGHTED DIFFICULTY (NEW) -->
+        <!-- ============================================ -->
+        <h2 id="weighted-difficulty">📊 Weighted Difficulty for P2/P3</h2>
+        <p>Paper 2 and Paper 3 structured questions now display a <strong>weighted difficulty score</strong> based on the complexity of each sub-part.</p>
+
+        <div class="feature-grid">
+            <div class="feature-card">
+                <span class="icon">⭐</span>
+                <h4>Difficulty Badges</h4>
+                <p>P2/P3 questions show color-coded difficulty badges in the Level column:</p>
+                <div style="margin-top: 6px;">
+                    <span class="diff-badge-example diff-easy">Easy: 2.34</span>
+                    <span class="diff-badge-example diff-moderate">Moderate: 2.78</span>
+                    <span class="diff-badge-example diff-challenging">Challenging: 3.20</span>
+                    <span class="diff-badge-example diff-hard">Hard: 3.91</span>
+                    <span class="diff-badge-example diff-veryhard">Very Hard: 4.56</span>
+                </div>
+            </div>
+            <div class="feature-card">
+                <span class="icon">🔍</span>
+                <h4>Detailed Tooltip</h4>
+                <p><strong>Hover</strong> over any difficulty badge to see a detailed breakdown of the question:</p>
+                <ul style="font-size: 13px; color: #6c757d; margin-top: 4px; padding-left: 16px;">
+                    <li>📝 Total marks</li>
+                    <li>📊 Number of parts</li>
+                    <li>⚖️ Weighted sum</li>
+                    <li>⭐ Overall difficulty score</li>
+                    <li>📋 Part-by-part breakdown with levels &amp; marks</li>
+                </ul>
+            </div>
+        </div>
+
+        <h3>How Weighted Difficulty is Computed</h3>
+        <p>The difficulty score is calculated using a <strong>weighted average</strong> approach that accounts for both the complexity (level) and the marks allocated to each part.</p>
+
+        <div class="formula-box">
+            <div class="math">Overall Difficulty = Weighted Sum ÷ Total Marks</div>
+            <div style="font-size: 13px; color: #6c757d; margin-top: 8px;">
+                Where: <strong>Weighted Sum</strong> = Σ (Level × Marks) for each part
+            </div>
+        </div>
+
+        <h4>Step-by-Step Calculation</h4>
+        <ol class="step-list">
+            <li><strong>For each part</strong> of the question, multiply the <strong>Level</strong> (1-5) by the <strong>Marks</strong> allocated to that part</li>
+            <li><strong>Sum</strong> all these weighted values to get the <strong>Weighted Sum</strong></li>
+            <li><strong>Divide</strong> the Weighted Sum by the <strong>Total Marks</strong> of the question</li>
+            <li>The result is the <strong>Overall Difficulty</strong> score (ranging from 1.0 to 5.0)</li>
+        </ol>
+
+        <h4>Example Calculation</h4>
+        <p>Consider a question with 3 parts:</p>
+        <table class="diff-table">
+            <thead>
+                <tr>
+                    <th>Part</th>
+                    <th>Description</th>
+                    <th>Level</th>
+                    <th>Marks</th>
+                    <th>Weighted Score (Level × Marks)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>(a)</strong></td>
+                    <td>Define SHM</td>
+                    <td>1</td>
+                    <td>2</td>
+                    <td>1 × 2 = <strong>2</strong></td>
+                </tr>
+                <tr>
+                    <td><strong>(b)</strong></td>
+                    <td>Derive acceleration equation</td>
+                    <td>4</td>
+                    <td>3</td>
+                    <td>4 × 3 = <strong>12</strong></td>
+                </tr>
+                <tr>
+                    <td><strong>(c)</strong></td>
+                    <td>Calculate frequency</td>
+                    <td>3</td>
+                    <td>2</td>
+                    <td>3 × 2 = <strong>6</strong></td>
+                </tr>
+                <tr style="font-weight: bold; background: #f8f9fa;">
+                    <td colspan="3" style="text-align: right;">Totals:</td>
+                    <td><strong>7</strong></td>
+                    <td><strong>20</strong></td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="formula-box">
+            Overall Difficulty = 20 ÷ 7 = <strong>2.86</strong> → <span class="diff-badge-example diff-moderate">Moderate: 2.86</span>
+        </div>
+
+        <h3>Difficulty Categories</h3>
+        <p>The score is then mapped to one of five difficulty categories:</p>
+
+        <table class="diff-table">
+            <thead>
+                <tr>
+                    <th>Score Range</th>
+                    <th>Category</th>
+                    <th>Badge Color</th>
+                    <th>Meaning</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>&lt; 2.5</td>
+                    <td><span class="diff-badge-example diff-easy">Easy</span></td>
+                    <td><span class="color-dot dot-easy"></span> Green</td>
+                    <td>Basic questions with simple recall or straightforward application</td>
+                </tr>
+                <tr>
+                    <td>2.5 – 3.0</td>
+                    <td><span class="diff-badge-example diff-moderate">Moderate</span></td>
+                    <td><span class="color-dot dot-moderate"></span> Blue</td>
+                    <td>Questions requiring some analysis or multi-step reasoning</td>
+                </tr>
+                <tr>
+                    <td>3.0 – 3.5</td>
+                    <td><span class="diff-badge-example diff-challenging">Challenging</span></td>
+                    <td><span class="color-dot dot-challenging"></span> Orange</td>
+                    <td>Complex problems with multiple concepts and significant reasoning</td>
+                </tr>
+                <tr>
+                    <td>3.5 – 4.0</td>
+                    <td><span class="diff-badge-example diff-hard">Hard</span></td>
+                    <td><span class="color-dot dot-hard"></span> Red</td>
+                    <td>Advanced questions requiring synthesis of multiple topics</td>
+                </tr>
+                <tr>
+                    <td>≥ 4.0</td>
+                    <td><span class="diff-badge-example diff-veryhard">Very Hard</span></td>
+                    <td><span class="color-dot dot-veryhard"></span> Purple</td>
+                    <td>Mastery-level questions with complex, multi-step reasoning</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h3>Using the Difficulty Filter</h3>
+        <ul class="step-list">
+            <li>Click the <strong>Diff</strong> filter button</li>
+            <li>Check one or more difficulty categories (e.g., Easy, Moderate, Challenging)</li>
+            <li>Click <strong>Apply</strong> to show only P2/P3 questions at those difficulty levels</li>
+            <li>MCQ questions are <strong>not</strong> affected by this filter (they use the Level filter instead)</li>
+        </ul>
+
+        <div class="tip-box">
+            💡 <strong>Tip:</strong> Use the Difficulty filter alongside the Level filter to find specific types of questions. For example: Level 4 MCQ + Challenging P2 questions.
+        </div>
+
+        <h3>Tooltip Preview</h3>
+        <p>When you hover over a difficulty badge, you'll see a detailed tooltip like this:</p>
+
+        <div class="tooltip-demo">
+            <div class="tt-title">
+                <span>2025_VJC_P2_q3.pdf</span>
+                <span class="tt-badge">Challenging: 3.20</span>
+            </div>
+            <div class="tt-summary">
+                <span>📝 Marks: <strong>8</strong></span>
+                <span>📊 Parts: <strong>6</strong></span>
+                <span>⚖️ Weighted: <strong>27</strong></span>
+                <span>⭐ Difficulty: <strong>3.38</strong></span>
+            </div>
+            <div style="color: #aaa; font-size: 10px; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 8px; border-bottom: 1px solid #444; padding-bottom: 3px;">
+                📋 Part Breakdown
+            </div>
+            <div class="tt-part">
+                <span class="tt-label">(a)(i)</span>
+                <span class="tt-desc">Express angular displacement θ in terms of ω and t</span>
+                <span class="tt-level">L2</span>
+                <span class="tt-marks">1m</span>
+            </div>
+            <div class="tt-part">
+                <span class="tt-label">(a)(ii)</span>
+                <span class="tt-desc">Write expression for displacement x in terms of ω, t and r</span>
+                <span class="tt-level">L3</span>
+                <span class="tt-marks">1m</span>
+            </div>
+            <div class="tt-part">
+                <span class="tt-label">(a)(iii)</span>
+                <span class="tt-desc">Prove shadow moves in SHM with explanation</span>
+                <span class="tt-level">L4</span>
+                <span class="tt-marks">2m</span>
+            </div>
+            <div class="tt-part">
+                <span class="tt-label">(b)(i)</span>
+                <span class="tt-desc">Calculate acceleration when shadow is instantaneously at rest</span>
+                <span class="tt-level">L3</span>
+                <span class="tt-marks">1m</span>
+            </div>
+            <div class="tt-part">
+                <span class="tt-label">(b)(ii)</span>
+                <span class="tt-desc">Determine velocity as shadow passes through O</span>
+                <span class="tt-level">L3</span>
+                <span class="tt-marks">1m</span>
+            </div>
+            <div class="tt-part">
+                <span class="tt-label">(b)(iii)</span>
+                <span class="tt-desc">Sketch v-x graph for shadow</span>
+                <span class="tt-level">L4</span>
+                <span class="tt-marks">2m</span>
+            </div>
+        </div>
+
+        <div class="note-box">
+            📌 <strong>Data Source:</strong> Weighted difficulty data is loaded from <code>P2P3.json</code>. This file is automatically loaded in the background when you log in. If you don't see difficulty badges, wait a few seconds for the data to load.
+        </div>
+
+        <div class="warning-box">
+            ⚠️ <strong>Important:</strong> The Weighted Difficulty filter and display <strong>only apply to Paper 2 and Paper 3</strong> structured questions. MCQ questions continue to use the Level (L1-L5) system.
+        </div>
+
+        <!-- ============================================ -->
+        <!-- 5. TABLE FEATURES -->
         <!-- ============================================ -->
         <h2 id="table-features">📊 Table Features</h2>
         
@@ -349,6 +706,14 @@
             </div>
         </div>
 
+        <h3>Level Column Display</h3>
+        <p>The Level column shows different information depending on the question type:</p>
+        <ul class="step-list">
+            <li><strong>MCQ Questions:</strong> Shows <span class="badge-example badge-1">L1</span> to <span class="badge-example badge-5">L5</span> badges</li>
+            <li><strong>Paper 2/3 Questions:</strong> Shows <span class="diff-badge-example diff-easy">Easy: 2.34</span> to <span class="diff-badge-example diff-veryhard">Very Hard: 4.56</span> badges with numeric scores</li>
+            <li><strong>Uncategorized Questions:</strong> Shows a dash (<span style="color:#999;">—</span>)</li>
+        </ul>
+
         <h3>Display Limit</h3>
         <p>For performance reasons, the table only displays the first <strong>500 files</strong>. However:</p>
         <ul class="step-list">
@@ -358,7 +723,7 @@
         </ul>
 
         <!-- ============================================ -->
-        <!-- 5. EXPORT TOOLS -->
+        <!-- 6. EXPORT TOOLS -->
         <!-- ============================================ -->
         <h2 id="export-tools">📦 Export Tools</h2>
         <p>All export tools are located in the <strong>⬇️ dropdown menu</strong> next to the MS toggle.</p>
@@ -395,11 +760,11 @@
         </ol>
 
         <div class="tip-box">
-            💡 <strong>Tip:</strong> Use the checkboxes to create custom selections. For example, select only Level 4 and Level 5 questions, or only questions from a specific year, then export them.
+            💡 <strong>Tip:</strong> Use the checkboxes to create custom selections. For example, select only Challenging and Hard P2/P3 questions, or only Level 4 and Level 5 MCQ questions, then export them.
         </div>
 
         <!-- ============================================ -->
-        <!-- 6. MARK SCHEMES -->
+        <!-- 7. MARK SCHEMES -->
         <!-- ============================================ -->
         <h2 id="mark-schemes">📝 Mark Schemes (MS)</h2>
         <p>The app automatically detects mark scheme files if they follow the naming convention.</p>
@@ -417,19 +782,19 @@
         </div>
 
         <!-- ============================================ -->
-        <!-- 7. NAVIGATION -->
+        <!-- 8. NAVIGATION -->
         <!-- ============================================ -->
         <h2 id="navigation">🧭 Navigation</h2>
         <p>The <strong>Goto</strong> dropdown in the top-right corner lets you switch between different paper collections:</p>
         <ul class="step-list">
             <li><strong>9702</strong> - Cambridge A-Level Physics papers</li>
             <li><strong>SEAB</strong> - Singapore SEAB papers</li>
-            <li><strong>Prelim</strong> - Preliminary exam papers</li>
+            <li><strong>Prelim</strong> - Preliminary exam papers (current)</li>
             <li><strong>Data</strong> - Additional data resources</li>
         </ul>
 
         <!-- ============================================ -->
-        <!-- 8. KEYBOARD SHORTCUTS -->
+        <!-- 9. KEYBOARD SHORTCUTS -->
         <!-- ============================================ -->
         <h2 id="keyboard-shortcuts">⌨️ Keyboard Shortcuts</h2>
         <ul class="step-list">
@@ -438,7 +803,7 @@
         </ul>
 
         <!-- ============================================ -->
-        <!-- 9. TROUBLESHOOTING -->
+        <!-- 10. TROUBLESHOOTING -->
         <!-- ============================================ -->
         <h2 id="troubleshooting">🔧 Troubleshooting</h2>
 
@@ -450,8 +815,13 @@
             </div>
             <div class="feature-card">
                 <span class="icon">📂</span>
-                <h4>No Levels Showing</h4>
+                <h4>No MCQ Levels Showing</h4>
                 <p>MCQ.json loads in the background. Wait a few seconds. Check the debug console (<kbd>Ctrl+Shift+D</kbd>) to see if it loaded.</p>
+            </div>
+            <div class="feature-card">
+                <span class="icon">⭐</span>
+                <h4>No Difficulty Badges Showing</h4>
+                <p>P2P3.json loads in the background. Wait a few seconds. If you're viewing MCQ questions, they use the Level filter instead. Check the debug console for load status.</p>
             </div>
             <div class="feature-card">
                 <span class="icon">📄</span>
@@ -463,25 +833,30 @@
                 <h4>Export Fails</h4>
                 <p>Too many files selected? Try reducing the selection. The app has limits to prevent browser crashes.</p>
             </div>
+            <div class="feature-card">
+                <span class="icon">🔍</span>
+                <h4>Tooltip Not Showing</h4>
+                <p>Make sure you're hovering over the <strong>difficulty badge</strong> (the colored text in the Level column). The tooltip only appears for P2/P3 questions with difficulty data.</p>
+            </div>
         </div>
 
         <!-- ============================================ -->
-        <!-- 10. SUMMARY -->
+        <!-- 11. SUMMARY -->
         <!-- ============================================ -->
         <hr>
         <h2>✨ Quick Reference</h2>
         <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px; margin: 15px 0;">
             <div style="background: #e8f5e9; padding: 12px; border-radius: 8px; text-align: center;">
                 <strong>🔍 Filters</strong>
-                <p style="font-size: 13px; margin: 5px 0 0;">Year • Paper • Qn • Topic • Level</p>
+                <p style="font-size: 13px; margin: 5px 0 0;">Year • Paper • Qn • Topic<br>Level (MCQ) • Diff (P2/P3)</p>
             </div>
             <div style="background: #e3f2fd; padding: 12px; border-radius: 8px; text-align: center;">
                 <strong>📦 Exports</strong>
                 <p style="font-size: 13px; margin: 5px 0 0;">HTML • PDFs • ZIP</p>
             </div>
             <div style="background: #fce4ec; padding: 12px; border-radius: 8px; text-align: center;">
-                <strong>🎯 MCQ Levels</strong>
-                <p style="font-size: 13px; margin: 5px 0 0;">L1 • L2 • L3 • L4 • L5</p>
+                <strong>🎯 Difficulty Systems</strong>
+                <p style="font-size: 13px; margin: 5px 0 0;">MCQ: L1-L5<br>P2/P3: Easy → Very Hard</p>
             </div>
         </div>
 
