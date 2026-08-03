@@ -18034,7 +18034,7 @@
     "overall_difficulty": 2.89
   },
   {
-    "filename": "2025_R1_P2_q7.pdf",
+    "filename": "2025_RI_P2_q7.pdf",
     "parts": [
       {"part": "(a)(i)", "description": "Explain term isotopes", "level": 2, "marks": 1, "weighted_score": 2},
       {"part": "(a)(ii)", "description": "Define half-life of radioactive isotope", "level": 1, "marks": 1, "weighted_score": 1},
@@ -18047,7 +18047,7 @@
     "overall_difficulty": 3.33
   },
   {
-    "filename": "2025_R1_P2_q2.pdf",
+    "filename": "2025_RI_P2_q2.pdf",
     "parts": [
       {"part": "(a)", "description": "Determine maximum number of masses", "level": 4, "marks": 3, "weighted_score": 12},
       {"part": "(b)", "description": "Explain effect of string modification", "level": 4, "marks": 2, "weighted_score": 8}
@@ -18057,7 +18057,7 @@
     "overall_difficulty": 4.00
   },
   {
-    "filename": "2024_R1_P3_q7.pdf",
+    "filename": "2024_RI_P3_q7.pdf",
     "parts": [
       {"part": "(a)", "description": "Explain discrete energy levels from spectra", "level": 4, "marks": 2, "weighted_score": 8},
       {"part": "(b)(i)", "description": "Explain Kα wavelength > Kβ wavelength", "level": 4, "marks": 2, "weighted_score": 8}
@@ -18067,7 +18067,7 @@
     "overall_difficulty": 4.00
   },
   {
-    "filename": "2024_R1_P3_q9.pdf",
+    "filename": "2024_RI_P3_q9.pdf",
     "parts": [
       {"part": "(a)", "description": "State photoelectric observation evidence", "level": 2, "marks": 2, "weighted_score": 4},
       {"part": "(b)(i)", "description": "Calculate threshold wavelength", "level": 3, "marks": 2, "weighted_score": 6},
@@ -18083,7 +18083,7 @@
     "overall_difficulty": 3.35
   },
   {
-    "filename": "2025_R1_P3_q8.pdf",
+    "filename": "2025_RI_P3_q8.pdf",
     "parts": [
       {"part": "(b)(i)", "description": "Draw forces on rod PQ", "level": 3, "marks": 2, "weighted_score": 6},
       {"part": "(b)(ii)", "description": "Calculate current through rod", "level": 3, "marks": 1, "weighted_score": 3},
@@ -18099,7 +18099,7 @@
     "overall_difficulty": 3.83
   },
   {
-    "filename": "2024_R1_P3_q6.pdf",
+    "filename": "2024_RI_P3_q6.pdf",
     "parts": [
       {"part": "(a)", "description": "Define r.m.s. alternating current", "level": 1, "marks": 2, "weighted_score": 2},
       {"part": "(b)(i)", "description": "Draw V₁ variation with switch closed", "level": 4, "marks": 3, "weighted_score": 12},
@@ -18110,7 +18110,7 @@
     "overall_difficulty": 3.25
   },
   {
-    "filename": "2025_R1_P3_q6.pdf",
+    "filename": "2025_RI_P3_q6.pdf",
     "parts": [
       {"part": "(a)", "description": "Define electric potential", "level": 1, "marks": 2, "weighted_score": 2},
       {"part": "(b)(i)", "description": "Sketch V vs x graph", "level": 3, "marks": 2, "weighted_score": 6},
@@ -18123,7 +18123,7 @@
     "overall_difficulty": 2.90
   },
   {
-    "filename": "2025_R1_P3_q5.pdf",
+    "filename": "2025_RI_P3_q5.pdf",
     "parts": [
       {"part": "(a)", "description": "State first law of thermodynamics", "level": 1, "marks": 2, "weighted_score": 2},
       {"part": "(b)(i)", "description": "Draw P-V graph for isothermal expansion", "level": 4, "marks": 2, "weighted_score": 8},
@@ -18135,7 +18135,7 @@
     "overall_difficulty": 3.33
   },
   {
-    "filename": "2025_R1_P2_q5.pdf",
+    "filename": "2025_RI_P2_q2.pdf",
     "parts": [
       {"part": "(a)", "description": "State meaning of ideal gas", "level": 1, "marks": 2, "weighted_score": 2},
       {"part": "(b)", "description": "Calculate amount of gas in cylinder", "level": 3, "marks": 2, "weighted_score": 6},
@@ -18147,7 +18147,7 @@
     "overall_difficulty": 2.89
   },
   {
-    "filename": "2024_R1_P3_q3.pdf",
+    "filename": "2024_RI_P3_q3.pdf",
     "parts": [
       {"part": "(a)", "description": "Distinguish progressive and stationary waves", "level": 2, "marks": 2, "weighted_score": 4},
       {"part": "(b)(i)", "description": "Deduce wavelength from graph", "level": 3, "marks": 1, "weighted_score": 3},
