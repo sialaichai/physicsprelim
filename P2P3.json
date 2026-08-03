@@ -18021,20 +18021,145 @@
   "weighted_sum": 17,
   "overall_difficulty": 3.4
 },
-    {
-  "filename": "2024_R1_P3_q3",
-  "parts": [ 
-    {"part": "(a)", "description": "Distinguish progressive and stationary waves", "level": 2, "marks": 2, "weighted_score": 4},
-    {"part": "(b)(i)", "description": "Deduce wavelength from Fig 3.1", "level": 3, "marks": 1, "weighted_score": 3},
-    {"part": "(b)(ii)", "description": "Deduce amplitude from Fig 3.1", "level": 3, "marks": 1, "weighted_score": 3},
-    {"part": "(c)(i)", "description": "Indicate nodes and antinodes on Fig 3.2", "level": 3, "marks": 2, "weighted_score": 6},
-    {"part": "(c)(ii)(1)", "description": "Draw pressure variation at t₁", "level": 4, "marks": 1, "weighted_score": 4},
-    {"part": "(c)(ii)(2)", "description": "Draw pressure variation at t₁+T/8", "level": 4, "marks": 1, "weighted_score": 4},
-    {"part": "(d)(i)", "description": "Determine end correction of tube", "level": 4, "marks": 2, "weighted_score": 8},
-    {"part": "(d)(ii)", "description": "Determine length for next loud note", "level": 3, "marks": 2, "weighted_score": 6}
-  ],
-  "total_marks": 12,
-  "weighted_sum": 38,
-  "overall_difficulty": 3.17
-}
+  {
+    "filename": "2022_YIJC_P2_q7",
+    "parts": [
+      {"part": "(a)", "description": "State Faraday's law", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate change in flux linkage", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate average induced e.m.f.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Explain speed variation for constant e.m.f.", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.89
+  },
+  {
+    "filename": "2025_R1_P2_q7",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain term isotopes", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Define half-life of radioactive isotope", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Complete nuclear decay equation", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate energy released per decay", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Estimate age of rock sample", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2025_R1_P2_q2",
+    "parts": [
+      {"part": "(a)", "description": "Determine maximum number of masses", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Explain effect of string modification", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 20,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2024_R1_P3_q7",
+    "parts": [
+      {"part": "(a)", "description": "Explain discrete energy levels from spectra", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain Kα wavelength > Kβ wavelength", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 4,
+    "weighted_sum": 16,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2024_R1_P3_q9",
+    "parts": [
+      {"part": "(a)", "description": "State photoelectric observation evidence", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Calculate threshold wavelength", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate maximum photoelectron speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Explain motion difference at V=0 and V=+3V", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Draw I-V graph for shorter wavelength", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Explain rings as electron wave evidence", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Calculate de Broglie wavelength", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(iii)", "description": "State advantage of electron microscope", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 17,
+    "weighted_sum": 57,
+    "overall_difficulty": 3.35
+  },
+  {
+    "filename": "2025_R1_P3_q8",
+    "parts": [
+      {"part": "(b)(i)", "description": "Draw forces on rod PQ", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate current through rod", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Determine mass m of rod", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iv)", "description": "Explain effect of larger cross-sectional area", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Explain induced e.m.f. across rod", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Determine induced e.m.f. at 2.0cm", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(iii)(1)", "description": "State direction of induced current", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)(2)", "description": "Explain change to answer in (c)(ii)", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 18,
+    "weighted_sum": 69,
+    "overall_difficulty": 3.83
+  },
+  {
+    "filename": "2024_R1_P3_q6",
+    "parts": [
+      {"part": "(a)", "description": "Define r.m.s. alternating current", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Draw V₁ variation with switch closed", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Draw P₁ variation with switch opened", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25
+  },
+  {
+    "filename": "2025_R1_P3_q6",
+    "parts": [
+      {"part": "(a)", "description": "Define electric potential", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Sketch V vs x graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine electric field strength", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine speed of xenon ion", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Suggest reason for neutralisation", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 29,
+    "overall_difficulty": 2.90
+  },
+  {
+    "filename": "2025_R1_P3_q5",
+    "parts": [
+      {"part": "(a)", "description": "State first law of thermodynamics", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Draw P-V graph for isothermal expansion", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Explain heat equals area under graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Compare final temperatures in two experiments", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2025_R1_P2_q5",
+    "parts": [
+      {"part": "(a)", "description": "State meaning of ideal gas", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Calculate amount of gas in cylinder", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate root-mean-square speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Calculate mass of gas remaining", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.89
+  },
+  {
+    "filename": "2024_R1_P3_q3",
+    "parts": [
+      {"part": "(a)", "description": "Distinguish progressive and stationary waves", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Deduce wavelength from graph", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Deduce amplitude from graph", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Indicate nodes and antinodes", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)(1)", "description": "Draw pressure variation at t₁", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(ii)(2)", "description": "Draw pressure variation at t₁+T/8", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(i)", "description": "Determine end correction of tube", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Determine length for next loud note", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.17
+  }
 ]
