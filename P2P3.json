@@ -18624,5 +18624,65 @@
     "total_marks": 9,
     "weighted_sum": 34,
     "overall_difficulty": 3.78
+  },
+      {
+    "filename": "2019_JPJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State reasons for non‑constant resultant force", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Calculate momentum from force‑time graph area", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Calculate take‑off velocity from momentum", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)", "description": "Sketch velocity‑time graph from force data", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "Estimate runway distance from graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.50,
+    "difficulty_band": "Medium",
+    "label": "Multi‑step Application"
+  },
+  {
+    "filename": "2019_JPJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Sketch total mechanical energy over time", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate loop diameter from energy graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "State start and end times in zone A", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Calculate rate of kinetic‑energy loss", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "Calculate entry speed from kinetic energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iv)", "description": "Calculate frictional force from power and speed", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.45,
+    "difficulty_band": "Medium",
+    "label": "Multi‑step Application"
+  },
+  {
+    "filename": "2019_JPJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain internal energy of a gas", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Derive proportionality of KE to temperature", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(c)(i)1", "description": "Determine temperature at state C from graph", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)2", "description": "Determine pressure at state C", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Complete energy‑change table using first law", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 50,
+    "overall_difficulty": 3.85,
+    "difficulty_band": "Medium",
+    "label": "Multi‑step Application"
+  },
+  {
+    "filename": "2019_JPJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate radius of electron circular path", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Determine if electron collides with solenoid", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Suggest reason for inward spiral with constant B", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Calculate electric field strength for undeflected beam", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.50,
+    "difficulty_band": "Medium",
+    "label": "Multi‑step Application"
   }
 ]
