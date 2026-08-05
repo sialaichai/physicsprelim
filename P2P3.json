@@ -939,13 +939,16 @@
   {
     "filename": "2025_NYJC_P2_q5.pdf",
     "parts": [
-      {"part": "(c)(i)", "description": "Explain why sound waves cannot be polarised", "level": 2, "marks": 0, "weighted_score": 0},
-      {"part": "(c)(ii)", "description": "Determine ratio of intensities with rotating polariser", "level": 4, "marks": 0, "weighted_score": 0}
+      {"part": "(a)", "description": "State difference between progressive and stationary waves", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)1", "description": "Define transverse wave", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)2", "description": "Define longitudinal wave", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)(i)", "description": "Explain why sound waves cannot be polarised", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Calculate intensity ratio with rotating polariser", "level": 4, "marks": 3, "weighted_score": 12}
     ],
-    "total_marks": 0,
-    "weighted_sum": 0,
-    "overall_difficulty": 0
-  },
+    "total_marks": 8,
+    "weighted_sum": 19,
+    "overall_difficulty": 2.38
+  },  
   {
     "filename": "2025_JPJC_P3_q4.pdf",
     "parts": [
