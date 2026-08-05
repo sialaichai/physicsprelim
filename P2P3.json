@@ -1619,5 +1619,1119 @@
     "total_marks": 6,
     "weighted_sum": 18,
     "overall_difficulty": 3.00
+  },
+    {
+    "filename": "2023_YIJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Draw forces on charged sphere", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Determine period of revolution", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(iii)", "description": "Effect of downward electric field", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "State Lenz's law", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Explain induced current", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Calculate induced current", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Explain why rod stops", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(v)", "description": "Calculate required external force", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 17,
+    "weighted_sum": 47,
+    "overall_difficulty": 2.76
+  },
+  {
+    "filename": "2023_YIJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)1", "description": "Define frequency of source", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(i)2", "description": "State distance for n oscillations", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Deduce wave speed expression", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Explain stationary wave formation", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Mark nodes and antinodes", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Determine frequency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Determine amplitude ratio", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)1", "description": "Explain white light at zero order", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)2", "description": "Explain red/blue position difference", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Determine lines per metre", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Calculate other visible wavelength", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 54,
+    "overall_difficulty": 2.70
+  },
+  {
+    "filename": "2023_YIJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State total charge expression", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Show current equation", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine drift speed ratio", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Show resistance of wire AB", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)1", "description": "Calculate current supplied", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)2", "description": "Calculate p.d. between midpoints", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2023_YIJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State x for zero potential", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Determine charge at B", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Calculate projection speed", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "State and explain max force position", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 39,
+    "overall_difficulty": 3.90
+  },
+  {
+    "filename": "2023_YIJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State two kinetic theory assumptions", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain pressure increase with volume reduction", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)1", "description": "Determine number of moles", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)2", "description": "Calculate r.m.s. speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate work done and state on/by", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.17
+  },
+  {
+    "filename": "2023_VJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State induced current direction", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(ii)", "description": "Calculate max magnetic flux linkage", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Sketch induced e.m.f. vs time", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "State magnetic field direction", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Explain semi-circular path", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Show radius expression", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Show time in dee", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(v)", "description": "Explain same time in each dee", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Sketch speed vs time graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Show kinetic energy expression", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 63,
+    "overall_difficulty": 3.15
+  },
+  {
+    "filename": "2023_VJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show tension in string", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Draw forces on balloon B", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(iii)", "description": "Calculate charge q", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.43
+  },
+  {
+    "filename": "2023_VJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain vaporisation without temperature change", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Show amount of gas", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Show temperature at C", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate heat absorbed during AB", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Calculate heat lost during BC", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(v)", "description": "Calculate efficiency", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 38,
+    "overall_difficulty": 3.17
+  },
+  {
+    "filename": "2023_VJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate speed before impact", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Sketch velocity-time graph", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(iii)", "description": "Explain elastic bounce", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)", "description": "Sketch graph with air resistance", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2023_VJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine SI base units of k", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate fractional uncertainty", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate thermal energy flow", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)", "description": "Suggest conductivity relation", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 25,
+    "overall_difficulty": 2.78
+  },
+  {
+    "filename": "2023_TMJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain internal energy change in boiling", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Calculate mass of steam", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Explain steam burn severity", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Define ideal gas", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Explain temperature increase in compression", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(iii)1", "description": "Calculate number of moles", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)2", "description": "Calculate increase in internal energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)3", "description": "Calculate change in average KE", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Compare final pressures", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 19,
+    "weighted_sum": 52,
+    "overall_difficulty": 2.74
+  },
+  {
+    "filename": "2023_TMJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State and explain sound polarisation", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Suggest speed difference", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(iii)", "description": "State intensity-distance relationship", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(iv)1", "description": "Determine intensity and pressure amplitude at 120dB", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iv)2", "description": "Estimate eardrum area", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(iv)3", "description": "Estimate maximum force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Suggest ocean flight reason", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Suggest altitude reason", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Calculate X-59 cruising speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "State phenomenon", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)(ii)", "description": "Determine wavelength", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Calculate speed of sound", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iv)", "description": "Calculate expected speed at 22°C", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 24,
+    "weighted_sum": 61,
+    "overall_difficulty": 2.54
+  },
+  {
+    "filename": "2023_TMJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define magnetic flux density", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Indicate current direction", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iii)", "description": "Calculate B at centre", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iv)", "description": "Calculate magnetic force", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 13,
+    "overall_difficulty": 2.17
+  },
+  {
+    "filename": "2023_TJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain random in definition", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Explain no potential energy", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(iii)", "description": "Derive internal energy expression", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iv)", "description": "State two ideal gas conditions", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate temperature at A", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Show non-isothermal process", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Estimate net work done", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Calculate heat absorbed", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 16,
+    "weighted_sum": 47,
+    "overall_difficulty": 2.94
+  },
+  {
+    "filename": "2023_TJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain point charge for spherical conductor", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Draw forces on smoke particle", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)1", "description": "Determine magnitude of F", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)2", "description": "Determine angle of F", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Sketch s vs t graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Determine time T", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 30,
+    "overall_difficulty": 2.73
+  },
+  {
+    "filename": "2023_TJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define magnetic flux density", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Draw field directions", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)1", "description": "Compare B at X and W", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)2", "description": "Compare B at Z and W", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Sketch field pattern around current", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Explain moment from QL", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(iii)", "description": "Explain no moment from PQ and LM", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iv)", "description": "Show change in moment", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 17,
+    "weighted_sum": 39,
+    "overall_difficulty": 2.29
+  },
+  {
+    "filename": "2023_TJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Distinguish e.m.f. and p.d.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Show E is 11V", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine time for charge", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine fraction of power", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Calculate length MQ", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)1", "description": "Effect of warming thermistor", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)2", "description": "Effect of larger wire area", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 46,
+    "overall_difficulty": 3.29
+  },
+  {
+    "filename": "2023_TJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine g with uncertainty", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Suggest cause of delay", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "State error type", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(iii)", "description": "Suggest how delay can be determined", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 19,
+    "overall_difficulty": 2.71
+  },
+  {
+    "filename": "2023_SAJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine tension in string", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Calculate spring compression", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate maximum height", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Calculate average power", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Show train not beyond loop", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Determine if rider falls", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(i)", "description": "State equilibrium conditions", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(d)(ii)", "description": "Show tension is 4.1kN", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(iii)", "description": "Determine hinge force", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 19,
+    "weighted_sum": 64,
+    "overall_difficulty": 3.37
+  },
+  {
+    "filename": "2023_SAJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain circular paths", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "State charge sign", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iii)", "description": "Determine qX/qY ratio", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Explain path with gas particles", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)1", "description": "Deduce expression for T", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)2", "description": "State if particle X could be tau", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 40,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2023_SAJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Coulomb's law", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Estimate speed of proton", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(c)(i)", "description": "Determine potential of other plate", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Sketch trajectory with plates moved", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Determine potential of new drop", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 41,
+    "overall_difficulty": 3.42
+  },
+  {
+    "filename": "2023_SAJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Estimate total distance", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Estimate uncertainty", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Determine angle of slope", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)1", "description": "Sketch path with air resistance", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)2", "description": "Give reasons for shape", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 43,
+    "overall_difficulty": 3.91
+  },
+  {
+    "filename": "2023_SAJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define specific latent heat", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "State two processes for boiling", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Calculate equilibrium temperature", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Explain steam burn severity", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(i)", "description": "Calculate work done XY", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(ii)", "description": "Explain heat transfer in ZX", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)(iii)", "description": "Mark highest temperature", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 32,
+    "overall_difficulty": 2.46
+  },
+  {
+    "filename": "2023_RVHS_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine number of gas atoms", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Define ideal gas", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Calculate change in internal energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate percentage change in r.m.s.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "State first law", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Determine work done", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Determine heat at constant volume", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Calculate volumes", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(ii)", "description": "Sketch p-V graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)", "description": "Comment on heat difference", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 61,
+    "overall_difficulty": 3.05
+  },
+  {
+    "filename": "2023_RVHS_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define random error and reduction method", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Determine SI base units of Q", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "Determine mass with uncertainty", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(c)(ii)", "description": "Explain effect on percentage uncertainty", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.40
+  },
+  {
+    "filename": "2023_RVHS_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define electric field strength", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate number of electrons", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Determine initial acceleration", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25
+  },
+  {
+    "filename": "2023_RVHS_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain pressure derivation", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Calculate force on side", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Effect of intermolecular forces", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 32,
+    "overall_difficulty": 4.00
+  },
+  {
+    "filename": "2023_RI_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define electric potential", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate potential at surface", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Draw V vs x graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine electric field strength at P", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "State and explain practical field strength", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2023_RI_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine pressure at C", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate work done B→C", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "State two conditions for constant temperature", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)", "description": "Complete first law table", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)", "description": "Explain why curve inappropriate", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.27
+  },
+  {
+    "filename": "2023_RI_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine r.m.s. voltage", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Calculate average power", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Determine V0", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Sketch P vs t graph", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 23,
+    "overall_difficulty": 3.29
+  },
+  {
+    "filename": "2023_RI_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define longitudinal wave", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)1", "description": "Determine wavelength", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)2", "description": "Determine frequency", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Label compression and rarefaction", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Sketch displacement vs time", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Determine distance moved", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.60
+  },
+  {
+    "filename": "2023_NYJC_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State two kinetic theory assumptions", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Write momentum change expression", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "Write time between collisions", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(iii)", "description": "Write collision frequency", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(iv)", "description": "Write momentum change per unit time", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(v)", "description": "Write average force", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(vi)", "description": "Write average pressure", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)", "description": "Explain derivation to pressure relation", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(i)", "description": "Show KE proportional to T", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(ii)", "description": "Calculate r.m.s. speed ratio", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(iii)", "description": "Suggest why Earth lacks hydrogen", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 19,
+    "weighted_sum": 45,
+    "overall_difficulty": 2.37
+  },
+  {
+    "filename": "2023_NYJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain r.m.s. of AC", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Determine Y-gain and time-base", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Sketch P vs t graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Draw average power line", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(iii)", "description": "Calculate r.m.s. current", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 24,
+    "overall_difficulty": 2.67
+  },
+  {
+    "filename": "2023_NYJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Draw vertical force on wire", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain balance reading change", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Complete table", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Plot data point and line of best fit", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Determine B from graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)", "description": "Suggest reason for inaccuracy", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.11
+  },
+  {
+    "filename": "2023_NYJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine base units for resistance", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate resistivity with uncertainty", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)", "description": "Discuss graph method advantages", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.75
+  },
+  {
+    "filename": "2023_NYJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain field of force", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "State similarity and difference", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)", "description": "Determine E expression", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(i)", "description": "Explain sum of field strengths", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)(ii)", "description": "Explain not equal to 2E in practice", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 23,
+    "overall_difficulty": 2.56
+  },
+  {
+    "filename": "2023_NYJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State difference between polarised and unpolarised", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Explain sound cannot polarise", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Deduce from observation", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Sketch intensity vs angle graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine intensity at 30°", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.89
+  },
+  {
+    "filename": "2023_NYJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define acceleration", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "State time interval for greatest acceleration", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Explain acceleration increase", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Suggest reason for abrupt change", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Explain negligible air resistance", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Determine maximum height", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.60
+  },
+  {
+    "filename": "2023_NJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define magnetic flux density", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Draw electric field direction", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Calculate speed v", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate charge ratio", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 16,
+    "overall_difficulty": 2.29
+  },
+  {
+    "filename": "2023_NJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain initial displacement necessity", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Show charge expression", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Calculate electrostatic force", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)", "description": "Determine time from M to M'", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(e)", "description": "Explain time change without battery", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2023_NJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Match stages with descriptions", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Deduce saturated vapour", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Identify saturated vapour and liquid states", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Fill missing values for state P", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)1", "description": "Verify temperature at Q", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(ii)2", "description": "Fill missing values for state Q", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(c)(iii)", "description": "Fill missing values for state R", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iv)", "description": "Fill missing values for state S", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(i)", "description": "Calculate rate of work done", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(ii)1", "description": "State first law", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(d)(ii)2", "description": "Show Q = mΔh", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)3", "description": "Calculate rate of heat removal", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)", "description": "Explain freezer limitation", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 66,
+    "overall_difficulty": 3.30
+  },
+  {
+    "filename": "2023_NJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate thrust", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Calculate initial weight", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Calculate time to lift off", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iv)", "description": "Calculate acceleration after 200s", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain both cannot stop", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)1", "description": "Label curve for body A", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)2", "description": "Label stopping times", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)3", "description": "Label closest approach time", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.10
+  },
+  {
+    "filename": "2023_MI_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State evidence for conductors", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "State and explain charge polarity", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Determine charge ratio", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)", "description": "Sketch electric field lines", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(e)", "description": "Estimate change in energy", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 46,
+    "overall_difficulty": 3.83
+  },
+  {
+    "filename": "2023_MI_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State molecular volume assumption", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Estimate total volume of molecules", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Justify assumption", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(i)", "description": "State total internal energy change", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(d)(ii)", "description": "Complete first law table", "level": 4, "marks": 5, "weighted_score": 20}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 37,
+    "overall_difficulty": 3.08
+  },
+  {
+    "filename": "2023_MI_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State number of positive particles", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Explain proposal possibility", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Suggest spiral path reason", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Deduce charge of fourth particle", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "State lowest momentum particle", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(i)", "description": "Explain no track", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(ii)", "description": "Deduce charges of decay particles", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(i)1", "description": "Complete momentum sums", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(e)(i)2", "description": "Complete energy sums", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(e)(ii)1", "description": "Determine undetected particle momentum", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(e)(ii)2", "description": "Determine undetected particle mass", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 67,
+    "overall_difficulty": 3.35
+  },
+  {
+    "filename": "2023_MI_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show equation is homogenous", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Determine mass with uncertainty", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 22,
+    "overall_difficulty": 3.67
+  },
+  {
+    "filename": "2023_JPJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show number density", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate drift velocity", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Explain drift velocity change in thinner segment", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 18,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2023_JPJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define internal energy", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Write first law with symbols", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(iii)", "description": "Explain cp > cv", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Calculate equilibrium temperature", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 23,
+    "overall_difficulty": 2.88
+  },
+  {
+    "filename": "2023_JPJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show air intake velocity", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate maximum thrust", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Determine maximum acceleration", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Explain rotation using momentum", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Show moment expression for NR", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(c)(ii)", "description": "Determine expression for NF", "level": 5, "marks": 1, "weighted_score": 5},
+      {"part": "(c)(iii)", "description": "Show weight transfer", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Calculate total energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(ii)", "description": "Explain specific energy", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(iii)", "description": "Determine battery mass", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(i)", "description": "Explain battery feasibility", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(e)(ii)", "description": "Suggest two advantages", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 22,
+    "weighted_sum": 76,
+    "overall_difficulty": 3.45
+  },
+  {
+    "filename": "2023_JPJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show speed of electron", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Draw path of electron", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Calculate magnetic flux density", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Describe motion at 30° angle", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Calculate radius of new path", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2023_JPJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State relation between E and V", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Suggest uniform field", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iii)", "description": "Calculate electric field strength", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Draw electric field lines", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Calculate charge of particle", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Suggest particle", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)(iii)", "description": "Calculate speed at B", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 30,
+    "overall_difficulty": 2.73
+  },
+  {
+    "filename": "2023_JPJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine B with uncertainty", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Explain precision limitation", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show tension magnitude", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate force F", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.56
+  },
+  {
+    "filename": "2023_HCI_P3_q9.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define magnetic flux linkage", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show magnetic flux", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)1", "description": "Calculate induced e.m.f.", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)2", "description": "Calculate charge through resistor", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)3", "description": "Calculate charge through solenoid", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Determine magnetic flux density", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Explain uniform circular motion", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(iii)", "description": "Calculate radius of path", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iv)", "description": "Determine proton speed", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(v)", "description": "Sketch electron and proton paths", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 59,
+    "overall_difficulty": 2.95
+  },
+  {
+    "filename": "2023_HCI_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State symbols in pressure equation", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Derive U-T relationship", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate temperature for argon", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Discuss argon in Moon's atmosphere", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25
+  },
+  {
+    "filename": "2023_HCI_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define electric potential", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Show 54 protons in nucleus", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Justify point charge assumption", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)1", "description": "Explain E determination from graph", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)2", "description": "Determine electric force", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.40
+  },
+  {
+    "filename": "2023_EJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define r.m.s. by heating effect", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Determine Vo", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Determine k and unit", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Determine max p.d. across diode", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(e)", "description": "State p.d. across A and B", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(f)", "description": "Sketch power vs time", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 25,
+    "overall_difficulty": 2.78
+  },
+  {
+    "filename": "2023_EJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State first law", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain roasting temperature rise", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Calculate change in internal energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine work done by gas", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2023_EJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Mark visible wavelength", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Suggest red glow", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show λmaxT constant", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Determine wavelength at 1200K", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Determine n from graph", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Determine Itot at 1200K", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(d)", "description": "Sketch Iλ vs λ for 1200K", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(e)(i)", "description": "Suggest property for temperature", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(ii)", "description": "Suggest advantage and disadvantage", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 63,
+    "overall_difficulty": 3.15
+  },
+  {
+    "filename": "2023_EJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State polarity of P", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Show v = E/B", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Sketch path and explain", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain constant speed", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Show q/m expression", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2023_EJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define electric field strength", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Determine electric force at A", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Calculate final speed at C", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Estimate change in potential energy", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.67
+  },
+  {
+    "filename": "2023_EJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State most precise set", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "State most accurate set", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Sketch displacement and acceleration graphs", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Find minimum distance", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.56
+  },
+  {
+    "filename": "2023_DHS_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)1", "description": "Define frequency of source", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(i)2", "description": "State distance for n oscillations", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Derive v = fλ", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Determine frequency from c.r.o.", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Define coherent sources", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)(ii)", "description": "Calculate frequency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Describe and explain intensity at X", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(iv)", "description": "Effect of decreasing wavelength", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(i)", "description": "Complete angles of maxima table", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(d)(ii)", "description": "Describe double slit pattern", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 66,
+    "overall_difficulty": 3.30
+  },
+  {
+    "filename": "2023_DHS_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate steady voltage", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Explain high voltage transmission", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Calculate r.m.s. output voltage", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Sketch power vs time", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)1", "description": "Describe current flow", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(iii)2", "description": "Describe voltage across resistor", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 25,
+    "overall_difficulty": 2.50
+  },
+  {
+    "filename": "2023_DHS_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State magnetic field direction", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Derive speed expression", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "State energy equation", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)", "description": "Calculate radius", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Explain constant speed", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 25,
+    "overall_difficulty": 2.78
+  },
+  {
+    "filename": "2023_DHS_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define ideal gas", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Complete first law table", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Explain temperature fall molecularly", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 17,
+    "overall_difficulty": 2.83
+  },
+  {
+    "filename": "2023_DHS_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define electric field strength", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Draw electric field lines", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "State W in terms of V and Q", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)(ii)", "description": "State W in terms of F and d", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(d)", "description": "Deduce E = -dV/dx", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 15,
+    "overall_difficulty": 2.14
+  },
+  {
+    "filename": "2023_CJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate time to melt ice", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(a)(ii)", "description": "Calculate work done on ice", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Complete first law table", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 29,
+    "overall_difficulty": 3.63
+  },
+  {
+    "filename": "2023_CJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine acceleration at t=0", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Suggest difference from g", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Calculate maximum resistive force", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Draw curve for more viscous medium", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.13
+  },
+  {
+    "filename": "2023_CJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate current in S", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Calculate internal resistance", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Explain r.m.s. by heating effect", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Calculate maximum power", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Sketch P vs t graph", "level": 3, "marks": 3, "weighted_score": 9}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2023_CJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Describe motion in gravitational field", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Describe electron motion in E field", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)", "description": "Describe molecule initial motion", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)(i)", "description": "Calculate electric force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(ii)", "description": "Sketch path of sphere", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(e)", "description": "Explain opposite signs of potentials", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.60
+  },
+  {
+    "filename": "2023_CJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain constant speed", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Calculate CD with uncertainty", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(c)(i)", "description": "Derive F expression", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate work done", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2023_ASRJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate final thermometer reading", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "State assumption", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iii)", "description": "Suggest design change", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iv)", "description": "Explain not direct thermodynamic", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(v)", "description": "State substance type", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Explain U = total KE", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Explain ΔU = Q", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Show c = 3k/(2m)", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iv)", "description": "Compare specific heat capacity", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(v)", "description": "Explain temperature change in expansion", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 67,
+    "overall_difficulty": 3.35
+  },
+  {
+    "filename": "2023_ASRJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define force", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Derive P = Fv", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Show resistive force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Describe horizontal forces", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)", "description": "Determine total force", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2023_ASRJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain progressive transverse wave", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Deduce v = fλ", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Complete table of amplitude and intensity", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(ii)", "description": "Complete table of angles", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2023_ASRJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State E-V relationship", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Draw electric field direction", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Calculate E magnitude", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Explain speed independence", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iv)", "description": "Calculate speed at x=0.40cm", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 21,
+    "overall_difficulty": 2.63
+  },
+  {
+    "filename": "2023_ACJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State observation about laser light", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Sketch intensity vs angle graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Calculate intensity at 30°", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Explain output voltage variation", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(b)(ii)1", "description": "Calculate separation between maxima", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)2", "description": "Determine speed of train", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Determine slit width", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "State changes at central maximum", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Sketch output voltage vs time", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 71,
+    "overall_difficulty": 3.55
+  },
+  {
+    "filename": "2023_ACJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define electric field strength", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate E at surface", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Sketch E vs distance graph", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(i)", "description": "Draw electric field lines", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Explain equipotential perpendicular", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 25,
+    "overall_difficulty": 2.27
+  },
+  {
+    "filename": "2023_ACJC_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate expected volume", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Suggest reason for difference", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)", "description": "Describe constant pressure and amount", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)", "description": "Explain V-T variation using kinetic theory", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2023_ACJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Distinguish e.m.f. and p.d.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Draw line of best fit and state e.m.f.", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine internal resistance", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Draw component and explain", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Calculate RC", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2023_ACJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate distance for overtaking", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Sketch displacement vs time", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine angle θ", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "State and explain angle difference", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.75
   }
 ]
