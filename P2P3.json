@@ -2700,16 +2700,6 @@
     "overall_difficulty": 3.75
   },
   {
-    "filename": "2025_NYJC_P2_q5.pdf",
-    "parts": [
-      {"part": "(c)(i)", "description": "Explain why sound waves cannot be polarised", "level": 2, "marks": 0, "weighted_score": 0},
-      {"part": "(c)(ii)", "description": "Determine ratio of intensities with rotating polariser", "level": 4, "marks": 0, "weighted_score": 0}
-    ],
-    "total_marks": 0,
-    "weighted_sum": 0,
-    "overall_difficulty": 0
-  },
-  {
     "filename": "2025_JPJC_P3_q4.pdf",
     "parts": [
       {"part": "(a)", "description": "Explain progressive transverse wave", "level": 2, "marks": 2, "weighted_score": 4},
