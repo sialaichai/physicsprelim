@@ -3530,5 +3530,219 @@
     "total_marks": 9,
     "weighted_sum": 32,
     "overall_difficulty": 3.56
+  },
+  {
+    "filename": "2020_ACJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define internal energy of ideal gas", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show temperature relationship from p-V graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Sketch four isotherms on p-V diagram", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Explain zero internal energy change in cycle", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(iv)", "description": "Complete first law table with signs", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(v)", "description": "Determine net heat gain from ellipse area", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Explain applicability of KE-temperature expression", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 14,
+    "weighted_sum": 41,
+    "overall_difficulty": 2.93
+  },
+  {
+    "filename": "2020_DHS_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define acceleration", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Show speed leaving ramp is 6.0 m/s", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 3,
+    "weighted_sum": 7,
+    "overall_difficulty": 2.33
+  },
+  {
+    "filename": "2020_DHS_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate light travel time from Sun", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)", "description": "Show C has no units in period formula", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Calculate C with uncertainty", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "Explain accuracy vs precision", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.13
+  },
+  {
+    "filename": "2020_DHS_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain derivation of p = (1/3)(Nm/V)<c²>", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Calculate work done in B→C expansion", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Complete first law table for cycle", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.78
+  },
+  {
+    "filename": "2020_EJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Distinguish precision and accuracy", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Calculate number of iron atoms in cube", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Estimate radius of iron atom", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 16,
+    "overall_difficulty": 2.67
+  },
+  {
+    "filename": "2020_EJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Comment on validity of averaging readings", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate spring constant", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate absolute uncertainty in k", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "State k with uncertainty", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Plot data point with error bars", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)1", "description": "Plot steepest possible line", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)2", "description": "Plot gentlest possible line", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(iii)", "description": "Determine uncertainty Δk from fit lines", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)", "description": "Discuss accuracy of extrapolated unstretched length", "level": 4, "marks": 1, "weighted_score": 4}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.09
+  },
+  {
+    "filename": "2020_EJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define magnetic flux density", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Draw magnetic field lines for two wires", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)1", "description": "Determine direction of current in wire 3", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)2", "description": "Determine ratio Is/I3", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 23,
+    "overall_difficulty": 2.88
+  },
+  {
+    "filename": "2020_MI_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine units of C and k", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Calculate radius with uncertainty", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)", "description": "Calculate average force magnitude", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 29,
+    "overall_difficulty": 3.63
+  },
+  {
+    "filename": "2020_MI_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State two quantities increasing with temperature at constant volume", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate amount of air in moles", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate mass of air", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate density of air", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Define specific heat capacity", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Explain cp vs cv using first law", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 27,
+    "overall_difficulty": 2.70
+  },
+  {
+    "filename": "2020_NYJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain accuracy and associated error type", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain precision and associated error type", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Identify most accurate clock", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Identify most precise clock", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Estimate time with uncertainty for clock B", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2020_NYJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define ideal gas", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate initial temperature of gas", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine new volume after heat removal", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine change in internal energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Determine rate of heat loss", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 29,
+    "overall_difficulty": 2.90
+  },
+  {
+    "filename": "2020_RVHS_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Give examples of systematic and random errors", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Calculate percentage uncertainty in work done", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 16,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2020_TJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show p not inversely proportional to V", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Explain temperature change during compression", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Account for temperature change using collisions", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Determine lg(p/Pa) for V=1.00×10⁻³ m³", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Plot point and draw best fit line", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(iii)", "description": "Determine constants x and y", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(i)", "description": "Determine number of atoms with speeds 500-600 m/s", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Determine number of atoms with speed <200 m/s", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(d)(iii)", "description": "Determine number of atoms with speed >1000 m/s", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iv)", "description": "Determine range containing r.m.s. speed", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "Sketch histogram outline at higher temperature", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 21,
+    "weighted_sum": 71,
+    "overall_difficulty": 3.38
+  },
+  {
+    "filename": "2020_TMJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain accuracy check for printed cubes", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Explain precision check for dimensions", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(iii)", "description": "Explain reducing random errors", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Determine mass with uncertainty", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 28,
+    "overall_difficulty": 2.80
+  },
+  {
+    "filename": "2020_TMJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define ideal gas", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "State first law of thermodynamics", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Determine r.m.s. speed ratio for O₂ and N₂", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Explain temperature increase using kinetic theory", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Explain temperature increase using first law", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)", "description": "Explain why process cannot be constant pressure", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.17
+  },
+  {
+    "filename": "2020_VJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define wavelength", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Sketch waveform along hull at hull speed", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(iii)", "description": "Deduce inefficiency above hull speed", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Determine lg(v_hull) for L_WL=12.0m", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)1", "description": "Plot point on graph", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)2", "description": "Draw best fit line", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Determine value of n", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iv)", "description": "Determine magnitude of k", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(v)", "description": "Determine SI base units for k", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Calculate hull speed of frigate", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Suggest reason for higher maximum speed", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)", "description": "Suggest how bulbous bows improve fuel efficiency", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 60,
+    "overall_difficulty": 3.00
   }
 ]
