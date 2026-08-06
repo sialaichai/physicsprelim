@@ -3036,5 +3036,303 @@
     "total_marks": 11,
     "weighted_sum": 31,
     "overall_difficulty": 2.82
+  },
+  {
+    "filename": "2018_DHS_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Estimate thickness of A4 paper", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Estimate mass of A4 paper", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Calculate time for light to travel", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Determine SI base units of K", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate K with uncertainty", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(iii)", "description": "State quantity with largest uncertainty", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 28,
+    "overall_difficulty": 2.80
+  },
+  {
+    "filename": "2018_HCI_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Suggest function of Faraday's cage", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Estimate spacing for holes in metal grid", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Show maximum kinetic energy of electron", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate least number of electrons per second", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Suggest why actual number is larger", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iv)1", "description": "Draw and label forces on electron at A", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(iv)2", "description": "State and explain effect of magnetic field on KE", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Complete table for ln(I)", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)1", "description": "Plot point at z=8mm", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)2", "description": "Draw best fit line", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(iii)", "description": "Determine gradient of line", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iv)", "description": "Determine penetration depth", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(v)1", "description": "Suggest effect of higher water content", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(v)2", "description": "Sketch new graph for higher water content", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 22,
+    "weighted_sum": 63,
+    "overall_difficulty": 2.86
+  },
+  {
+    "filename": "2018_HCI_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define internal energy", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate internal energy of monoatomic gas", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)1", "description": "Calculate pressure at end of process 2", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 17,
+    "overall_difficulty": 2.43
+  },
+  {
+    "filename": "2018_HCI_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State uncertainty in L", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Comment on ignoring uncertainty", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(iii)", "description": "Calculate minimum angle with uncertainty", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Explain Rayleigh criterion", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Estimate minimum angle using Rayleigh", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.30
+  },
+  {
+    "filename": "2018_HCI_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Correct errors in units/numbers", "level": 2, "marks": 3, "weighted_score": 6},
+      {"part": "(b)", "description": "Suggest why physical standard became inadequate", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Draw current direction", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)1", "description": "Explain how potential difference is set up", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)2", "description": "Show V = BLu", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Show mass in terms of Planck constant", "level": 5, "marks": 3, "weighted_score": 15}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 41,
+    "overall_difficulty": 3.15
+  },
+  {
+    "filename": "2018_JJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate number of electrons removed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Sketch E vs r graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Calculate work done bringing second sphere", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Determine E field strength and direction", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2018_JJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate g with uncertainty", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Compare accuracy and precision", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Estimate number of atoms in screen protector", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2018_MI_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine magnitude and angle of velocity change", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Identify error type from varying pressure", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Determine base units of emissivity", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate emissivity with uncertainty", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 28,
+    "overall_difficulty": 3.11
+  },
+  {
+    "filename": "2018_MJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Plot points and draw line of best fit", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Determine h0 at 0°C", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Explain support for relationship", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iv)", "description": "Determine value of k with units", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Estimate radius for 25m tree", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "State assumption", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Comment on answer", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Suggest how low pressure is created", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Calculate height from pressure difference", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Suggest and explain height change on hot day", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 65,
+    "overall_difficulty": 3.25
+  },
+  {
+    "filename": "2018_MJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Estimate uncertainty in θ", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate specific heat capacity", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate uncertainty in c and express result", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)", "description": "State assumption", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 26,
+    "overall_difficulty": 3.25
+  },
+  {
+    "filename": "2018_R1_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine acceleration of free fall from graph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Determine time to reach constant speed", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Calculate maximum resistive force", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Deduce value of k", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Determine maximum speed on Earth", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iv)1", "description": "Sketch graph P with increased mass", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)2", "description": "Sketch graph Q with initial downward speed", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 37,
+    "overall_difficulty": 3.36
+  },
+  {
+    "filename": "2018_RVHS_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate minimum deceleration with ABS", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Calculate maximum braking distance", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "State and explain effect of wet asphalt", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(iv)", "description": "Suggest two disadvantages of large deceleration", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Draw line for hand brake test", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Read braking efficiency from chart", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Calculate deceleration from efficiency", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iv)", "description": "Show deceleration with both brakes", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(v)", "description": "Suggest why not advisable", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Determine stopping distance from chart", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Plot point and draw line of best fit", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(iii)", "description": "Determine work done from graph", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(iv)", "description": "Calculate minimum force on passenger", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(c)(v)", "description": "Suggest whether passenger can prevent flying", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 23,
+    "weighted_sum": 69,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2018_TPJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Distinguish transverse and longitudinal waves", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Deduce displacement of particle 2", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Draw displacement-position graph", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Deduce amplitude", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iv)", "description": "State phase difference between particles 5 and 7", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 25,
+    "overall_difficulty": 3.13
+  },
+  {
+    "filename": "2018_VJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State First Law of Thermodynamics in words", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate change in internal energy for AB", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate heat flow during DA", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Calculate efficiency of engine", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.89
+  },
+  {
+    "filename": "2018_YJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Determine units of dynamic viscosity μ", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 2,
+    "weighted_sum": 6,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2018_YJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate r.m.s. speed of nitrogen", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate temperature of nitrogen", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Explain effect of temperature increase on pressure", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Calculate time to cool refrigerator", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.60
+  },
+  {
+    "filename": "2018_YJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State first law of thermodynamics", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Illustrate changes on p-V diagram", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)", "description": "Complete first law table", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Calculate efficiency of engine", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 29,
+    "overall_difficulty": 2.90
+  },
+  {
+    "filename": "2018_YJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Draw electric field lines in region R", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Suggest purpose of slits", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "State direction of magnetic fields", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Explain same velocity regardless of mass", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iii)", "description": "State and explain for slower ions", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Explain larger amplitude for pulse C", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)", "description": "Explain wider pulse from leading edge", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(iii)", "description": "Explain why amplitude of pulse C larger", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 15,
+    "weighted_sum": 50,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2018_ACJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State two differences between random and systematic errors", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Calculate T with uncertainty", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Explain timing many oscillations", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(iii)", "description": "Suggest reason for variation in g", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 22,
+    "overall_difficulty": 2.75
+  },
+  {
+    "filename": "2018_ACJC_P2_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show I = nevA", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate drift velocity in tungsten", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Determine E and r from graph", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "State and explain power variation with temperature", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2018_ACJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Suggest advantage of electric cars", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Calculate distance to top speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)1", "description": "Show Cd has no units", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)2", "description": "Calculate power at constant speed", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(i)", "description": "State energy efficiency of conventional car", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Describe energy transformation in regenerative braking", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(iii)", "description": "Calculate overall efficiency increase", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(i)", "description": "Deduce meaning of specific energy", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(ii)", "description": "Determine mass of each battery cell", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(iii)", "description": "Determine charging time", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(iv)1", "description": "Complete table for x=72", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(iv)2", "description": "Plot point at x=72", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(iv)3", "description": "Draw best-fit line", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(iv)4", "description": "Determine battery capacity after 45000 miles", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(e)(i)", "description": "Suggest why emission factor is used", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(e)(ii)", "description": "Determine VES Banding", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 27,
+    "weighted_sum": 81,
+    "overall_difficulty": 3.00
   }
 ]
