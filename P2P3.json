@@ -3334,5 +3334,201 @@
     "total_marks": 27,
     "weighted_sum": 81,
     "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2019_ASRJJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State evidence for conductors from E-x graph", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "State and explain charge polarity", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine ratio of charges", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "Sketch electric field lines", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2019_ASRJC_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State two conditions for s = ½at²", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)1", "description": "Calculate time before photograph", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)2", "description": "Calculate time interval T", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)3", "description": "Comment on shutter time", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "State and explain changes with air resistance", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "State relation between force and momentum", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(ii)1", "description": "Calculate change in momentum", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)2", "description": "Show average force is 35N", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)3", "description": "Calculate force on support A", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)", "description": "State and explain effect of sponge cushion", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 20,
+    "weighted_sum": 67,
+    "overall_difficulty": 3.35
+  },
+  {
+    "filename": "2019_DHS_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Estimate mass of adult", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Estimate weight of handphone", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(iii)", "description": "Estimate energy to climb auditorium", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(iv)", "description": "Estimate pressure at 1m depth", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Determine base SI units of Q", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Calculate percentage uncertainty in Q", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 15,
+    "overall_difficulty": 2.14
+  },
+  {
+    "filename": "2019_NJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State SI base units of pressure", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Show γ has no unit", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Calculate fractional error of P", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)1", "description": "Calculate absolute uncertainty in v", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)2", "description": "State v with uncertainty", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)", "description": "Explain systematic error", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 21,
+    "overall_difficulty": 2.63
+  },
+  {
+    "filename": "2019_NYJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "State example of zero speed with non-zero acceleration", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "State example of constant speed with non-zero acceleration", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine maximum speed from a-t graph", "level": 4, "marks": 1, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Sketch v-t graph from a-t graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 16,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2019_NYJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define ideal gas", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate r.m.s. speed", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(ii)1", "description": "Calculate amount of gas", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)2", "description": "Calculate mass of one atom", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine nucleon number A", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 29,
+    "overall_difficulty": 2.64
+  },
+  {
+    "filename": "2019_RVHS_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State two ideal gas conditions", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Explain pressure derivation using one molecule", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(c)(i)", "description": "Draw p-V graph for constant temperature", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate number of gas molecules", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Determine total kinetic energy", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2019_TJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show base units of viscosity", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Calculate drag force with uncertainty", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Explain which measurement to improve", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 22,
+    "overall_difficulty": 3.14
+  },
+  {
+    "filename": "2019_SAJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State three kinetic theory assumptions", "level": 1, "marks": 3, "weighted_score": 3},
+      {"part": "(b)", "description": "Calculate number of Argon molecules", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)", "description": "Sketch p-V cycle graph", "level": 3, "marks": 4, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 24,
+    "overall_difficulty": 2.40
+  },
+  {
+    "filename": "2019_TMJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State two kinetic theory assumptions", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Derive p = (1/3)ρ<c²>", "level": 5, "marks": 4, "weighted_score": 20},
+      {"part": "(c)(i)", "description": "Define specific latent heat of fusion", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Calculate mass of ice formed", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 36,
+    "overall_difficulty": 3.27
+  },
+  {
+    "filename": "2019_YIJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Describe variation of Δp with Q", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Suggest pressure difference reason", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)", "description": "Suggest effect of vertical installation", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)(i)", "description": "Determine lg(Δp/Pa) for Q=8.0", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(ii)1", "description": "Plot point on graph", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(ii)2", "description": "Draw best fit line", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(iii)", "description": "Determine gradient", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(iv)", "description": "Determine magnitude of k", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(v)", "description": "Determine SI base units for k", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(i)", "description": "Calculate radius of hole", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(ii)", "description": "Sketch graph for oil on Fig 7.3", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(e)(iii)", "description": "Sketch graph for oil on Fig 7.2", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(e)(iv)", "description": "State and explain manometer design", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 22,
+    "weighted_sum": 64,
+    "overall_difficulty": 2.91
+  },
+  {
+    "filename": "2019_VJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate pressure in canister", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Calculate pressure after thermal equilibrium", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Calculate mass of ice melted", "level": 5, "marks": 4, "weighted_score": 20}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 35,
+    "overall_difficulty": 3.89
+  },
+  {
+    "filename": "2019_VJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain base quantity with example", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "State and explain most significant uncertainty", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(i)", "description": "Calculate acceleration magnitude and direction", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate final velocity with direction", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2019_MI_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate area with uncertainty", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)", "description": "Distinguish accuracy and precision", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 16,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2019_ACJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate volume with uncertainty", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(ii)", "description": "Comment on water displacement method", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Suggest improvement", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Determine direction and speed using vectors", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.56
   }
 ]
