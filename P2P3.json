@@ -4242,5 +4242,606 @@
     "total_marks": 9,
     "weighted_sum": 28,
     "overall_difficulty": 3.11
+  },
+  {
+    "filename": "2022_TMJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain internal energy", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate heat energy required", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Show work done on atmosphere", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Determine increase in internal energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Explain temperature change in sudden compression", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 32,
+    "overall_difficulty": 3.20
+  },
+  {
+    "filename": "2022_TMJC_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate number density of electrons", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Calculate average drift velocity", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine internal resistance of battery", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate percentage power loss", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "State and explain drift velocity comparison", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "State and explain efficiency comparison", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.40
+  },
+  {
+    "filename": "2022_TMJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show equation is homogenous", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Calculate acceleration", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Calculate absolute uncertainty in acceleration", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Express acceleration with uncertainty", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "State and explain which is more accurate", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "State and explain which is more precise", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2022_TJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)1", "description": "Explain rocket acceleration using Newton's laws", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(i)2", "description": "Outline conservation of momentum", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(i)3", "description": "Deduce initial acceleration expression", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(a)(ii)", "description": "Explain final speed comparison with two-stage rocket", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(b)(i)1", "description": "Show mass of girl is 36kg", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)2", "description": "Calculate speed just before landing", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)3", "description": "Calculate maximum contact force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)1", "description": "State and explain how speed changes", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)2", "description": "Show change in momentum is 5 Ns", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)3", "description": "Estimate speed at point D", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 22,
+    "weighted_sum": 80,
+    "overall_difficulty": 3.64
+  },
+  {
+    "filename": "2022_TJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain heating effect of AC", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Calculate power lost during transmission", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine money saved per day", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 22,
+    "overall_difficulty": 3.14
+  },
+  {
+    "filename": "2022_TJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain internal energy of ideal gas", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Determine number of molecules", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Determine mean translational kinetic energy", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Determine change in internal energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Determine work done on gas", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Sketch p-V graph for both gases", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 31,
+    "overall_difficulty": 3.10
+  },
+  {
+    "filename": "2022_TJC_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate energy absorbed per second", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "State radiated power for equilibrium", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(iii)", "description": "Show radiated power per square metre", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Mark peak wavelength on graph", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Calculate Wien's constant k", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate peak wavelengths for Sun and Earth", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Draw emission curve for Sun", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "Suggest meaning of radiation windows", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "State if CO2 has window at 11μm", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)", "description": "Explain greenhouse effect using Wien's law and windows", "level": 5, "marks": 3, "weighted_score": 15},
+      {"part": "(e)(i)", "description": "Calculate volume of water from melted ice", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(ii)", "description": "State and explain sea level change from floating ice melt", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 21,
+    "weighted_sum": 65,
+    "overall_difficulty": 3.10
+  },
+  {
+    "filename": "2022_SAJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine p.d. at max power from graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Explain why not equal to e.m.f.", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Calculate number of electrons", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine e.m.f. E", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 19,
+    "overall_difficulty": 2.71
+  },
+  {
+    "filename": "2022_SAJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Calculate phase difference between air molecules", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate energy received at eardrum", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "State assumption", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Distinguish polarised and unpolarised wave", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 18,
+    "overall_difficulty": 2.57
+  },
+  {
+    "filename": "2022_SAJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain thermal equilibrium", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Derive mean KE expression", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(a)(iii)", "description": "Calculate average KE of hydrogen molecule", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Explain different mean square speeds at same temperature", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Explain scarcity of hydrogen in atmosphere", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.30
+  },
+  {
+    "filename": "2022_RVHS_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain lamp rating", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Calculate number of electrons per second", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)", "description": "Explain resistance change in filament", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 5,
+    "weighted_sum": 11,
+    "overall_difficulty": 2.20
+  },
+  {
+    "filename": "2022_RVHS_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate distance travelled before hitting ground", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)", "description": "Calculate maximum height after rebound", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 4,
+    "weighted_sum": 12,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2022_RVHS_P2_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Determine period of V", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Sketch Vout vs time", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine V0 from mean power", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Sketch power vs time", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.38
+  },
+  {
+    "filename": "2022_RVHS_P2_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define progressive waves", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate speed of sound from particle positions", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate power intercepted by ear", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 14,
+    "overall_difficulty": 2.33
+  },
+  {
+    "filename": "2022_RVHS_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain volume expansion using kinetic theory", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(a)(ii)", "description": "Sketch p-V graph with values", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Determine change in internal energy", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(i)", "description": "Show average KE = 3/2 kT", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Calculate r.m.s. speed of helium", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 40,
+    "overall_difficulty": 3.64
+  },
+  {
+    "filename": "2022_RVHS_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define random error", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate north component of velocity", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Determine north component with uncertainty", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 17,
+    "overall_difficulty": 2.83
+  },
+  {
+    "filename": "2022_NYJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Define ideal gas", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "State and explain assumption for constant temperature", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Calculate final temperature", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate average kinetic energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Explain heat transfer using first law", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 26,
+    "overall_difficulty": 2.60
+  },
+  {
+    "filename": "2022_NYJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Suggest why opaque particles not used", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Sketch vector diagram for momentum", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Explain force on sphere using Newton's laws", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(iii)", "description": "Calculate momentum of single photon", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Show change in momentum of one photon", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(v)", "description": "Calculate number of photons per unit time", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(vi)", "description": "Calculate force due to beam H", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(vii)", "description": "Suggest why beam G produces larger force", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(i)", "description": "Determine base units of viscosity", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Draw line of best fit", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(iii)", "description": "Determine gradient of line", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iv)", "description": "Determine trap stiffness k", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 22,
+    "weighted_sum": 68,
+    "overall_difficulty": 3.09
+  },
+  {
+    "filename": "2022_NYJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Newton's Second Law", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Derive F = ρAu² from momentum", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)1", "description": "Calculate force on wall", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)2", "description": "Sketch pressure vs velocity graph", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)3", "description": "Suggest change if area doubled", "level": 2, "marks": 1, "weighted_score": 2}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 25,
+    "overall_difficulty": 2.78
+  },
+  {
+    "filename": "2022_NJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain progressive longitudinal wave", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Determine amplitude and frequency from graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Show maximum speed of eardrum", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate mass of eardrum", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iv)", "description": "Sketch v vs displacement graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Deduce why buzzing sound heard", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(c)(ii)", "description": "Calculate distance for 60% intensity increase", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(iii)", "description": "Calculate distance covered by air molecule", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iv)", "description": "Explain noise cancellation", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 19,
+    "weighted_sum": 52,
+    "overall_difficulty": 2.74
+  },
+  {
+    "filename": "2022_NJC_P3_q6.pdf",
+    "parts": [
+      {"part": "(i)", "description": "Determine frequency of current", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(ii)", "description": "Determine r.m.s. current", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(iii)", "description": "Calculate energy dissipated", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(iv)", "description": "Explain heating effect despite zero average current", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 22,
+    "overall_difficulty": 2.75
+  },
+  {
+    "filename": "2022_NJC_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain internal energy equals total KE", "level": 2, "marks": 3, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Explain constant pressure as volume increases", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(ii)", "description": "Determine specific heat capacity", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(c)", "description": "Compare specific heat capacity at constant volume", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 42,
+    "overall_difficulty": 3.50
+  },
+  {
+    "filename": "2022_MI_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Compare average KE of molecules in ice and water", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Explain need for control setup", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Calculate specific latent heat of fusion", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(i)", "description": "Calculate pressure in container A", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(ii)", "description": "Calculate pressure and amount after opening valve", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Calculate pressure when B heated", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(i)", "description": "Confirm BC is isothermal", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(ii)", "description": "Explain experimental approach for isothermal", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)(iii)", "description": "Calculate temperature at A", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(iv)", "description": "Calculate increase in internal energy", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 21,
+    "weighted_sum": 62,
+    "overall_difficulty": 2.95
+  },
+  {
+    "filename": "2022_MI_P3_q6.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define acceleration", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "State scenario with acceleration but at rest", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Explain whether air resistance negligible", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(ii)", "description": "Explain if ball reached bottom when a=0", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(iii)", "description": "Draw free body diagram", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(iv)", "description": "Determine highest velocity", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(v)", "description": "Determine terminal velocity", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(vi)", "description": "Sketch velocity-time graph", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(i)", "description": "Explain how to determine pellet speed from h", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(ii)", "description": "Explain underestimated/overestimated with friction", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(d)(i)", "description": "State conservation of momentum", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(d)(ii)", "description": "Calculate speed of pellet before impact", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)", "description": "Show collision is inelastic", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 24,
+    "weighted_sum": 61,
+    "overall_difficulty": 2.54
+  },
+  {
+    "filename": "2022_MI_P2_q7.pdf",
+    "parts": [
+      {"part": "(a)1", "description": "Explain longitudinal wave", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)2", "description": "Explain transverse wave", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)(i)", "description": "Calculate time for S-waves", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Calculate distance of epicentre", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Explain why S-waves not detected", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(c)(ii)", "description": "State location of seismographs", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)(i)", "description": "Describe and explain speed change", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(d)(ii)", "description": "Describe effect on path", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(i)", "description": "Explain shadow zone for P-waves", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)(ii)1", "description": "Estimate Earth's radius from figure", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(e)(ii)2", "description": "Estimate shadow zone length", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(f)", "description": "Suggest justification for geophysics funding", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 21,
+    "weighted_sum": 68,
+    "overall_difficulty": 3.24
+  },
+  {
+    "filename": "2022_JPJC_P3_q7.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show electron rate", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Calculate drift velocity", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Explain immediate current flow", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Calculate internal resistance from I-V graph", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2022_JPJC_P3_q5.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain progressive transverse wave", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Calculate intensity at 3.0m", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate amplitude ratio", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Explain intensity difference with torchlight", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 18,
+    "overall_difficulty": 2.25
+  },
+  {
+    "filename": "2022_JPJC_P3_q4.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain internal energy of gas", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Show number of molecules", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)1", "description": "Calculate change in internal energy", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)2", "description": "Calculate thermal energy required", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)3", "description": "Calculate r.m.s. speed ratio", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 23,
+    "overall_difficulty": 2.56
+  },
+  {
+    "filename": "2022_JPJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State Newton's third law", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)(i)", "description": "Draw force diagram for high jumper at P", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)(ii)", "description": "Draw force diagrams on her and mattress", "level": 4, "marks": 3, "weighted_score": 12},
+      {"part": "(b)(iii)(i)", "description": "Calculate speed hitting mattress", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)(ii)", "description": "Calculate speed of bar after elastic collision", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 34,
+    "overall_difficulty": 3.09
+  },
+  {
+    "filename": "2022_JPJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Show n = -2 using SI units", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Calculate fractional uncertainty in r", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Determine r with absolute uncertainty", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 6,
+    "weighted_sum": 22,
+    "overall_difficulty": 3.67
+  },
+  {
+    "filename": "2022_HCI_P3_q2.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Sketch P-V diagram for three processes", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)", "description": "Identify process B", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(c)", "description": "State net heat transfer direction", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(d)", "description": "Determine net temperature change", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(e)", "description": "Calculate net work done on gas", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 19,
+    "overall_difficulty": 2.38
+  },
+  {
+    "filename": "2022_HCI_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate speed of sound wave", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Identify particle at rest", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Identify particle at rarefaction centre", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iii)", "description": "Identify particle represented by Fig 3.2", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(c)(i)", "description": "Determine phase difference between S and R", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Sketch wave 1.0ms later", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Sketch graph for particle S", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2022_EJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Show specific latent heat of vaporisation", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(ii)", "description": "Explain assumption of constant heat loss", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)(i)", "description": "Calculate heat supplied", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate work done by water", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Calculate increase in internal energy", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(iv)", "description": "Find potential energy of gaseous water", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(v)", "description": "Explain why energy must be continuously supplied", "level": 2, "marks": 2, "weighted_score": 4}
+    ],
+    "total_marks": 13,
+    "weighted_sum": 37,
+    "overall_difficulty": 2.85
+  },
+  {
+    "filename": "2022_DHS_P3_q8.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Deduce change in momentum per collision", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(ii)", "description": "Deduce time between collisions", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iii)", "description": "Deduce average force", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(a)(iv)", "description": "Deduce pressure", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(i)", "description": "Explain derivation to 3D equation", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(ii)", "description": "Show average KE = 3/2 kT", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)", "description": "Calculate r.m.s. speed of hydrogen", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)", "description": "Explain internal energy equals total KE", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(e)(i)", "description": "Explain ΔU = Q using first law", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(e)(ii)", "description": "Define specific heat capacity", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(e)(iii)", "description": "Show specific heat capacity expression", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(f)", "description": "Compare specific heat capacity at constant pressure", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 19,
+    "weighted_sum": 61,
+    "overall_difficulty": 3.21
+  },
+  {
+    "filename": "2022_DHS_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Estimate mass of metre rule", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(a)(ii)", "description": "Estimate volume of tennis ball", "level": 1, "marks": 1, "weighted_score": 1},
+      {"part": "(b)", "description": "Determine SI base units of C", "level": 3, "marks": 2, "weighted_score": 6}
+    ],
+    "total_marks": 4,
+    "weighted_sum": 8,
+    "overall_difficulty": 2.00
+  },
+  {
+    "filename": "2022_CJC_P2_q8.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Explain why gear 1 used for acceleration", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Explain available force", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "State available force and resistive force", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate maximum acceleration", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(iii)", "description": "Explain optimum gear for max power", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(c)(iv)", "description": "Explain need to change gear", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Show power = driving force × speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(d)(ii)", "description": "Explain smaller available force for gear 3", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(e)", "description": "State maximum possible speed", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(f)(i)", "description": "Show gradient is 36%", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(f)(ii)", "description": "Determine climbing resistance", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(f)(iii)", "description": "Estimate maximum speed up slope", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(g)", "description": "Estimate stopping distance", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 24,
+    "weighted_sum": 81,
+    "overall_difficulty": 3.38
+  },
+  {
+    "filename": "2022_CJC_P2_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain ideal gas", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain pressure increase with volume decrease", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(b)(i)", "description": "Calculate work done on gas in B→C", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Explain net thermal energy absorbed", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 8,
+    "weighted_sum": 24,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2022_CJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)", "description": "Calculate vertical height during acceleration", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(b)(i)", "description": "Calculate normal reaction at constant speed", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Explain working", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(i)", "description": "State forces on man during acceleration", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(c)(ii)", "description": "Explain how forces produce acceleration", "level": 4, "marks": 2, "weighted_score": 8},
+      {"part": "(d)(i)", "description": "Sketch h vs t for acceleration", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(ii)", "description": "Sketch h vs t for constant speed", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(d)(iii)", "description": "Sketch h vs t for deceleration", "level": 3, "marks": 1, "weighted_score": 3}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 33,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2022_ASRJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Define gravitational potential", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(a)(ii)", "description": "Explain why gravitational potential is negative", "level": 2, "marks": 1, "weighted_score": 2},
+      {"part": "(b)", "description": "Sketch g vs x graph", "level": 3, "marks": 3, "weighted_score": 9},
+      {"part": "(c)(i)", "description": "Show gravitational force on Moon", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Calculate change in GPE of Moon per year", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 11,
+    "weighted_sum": 31,
+    "overall_difficulty": 2.82
+  },
+  {
+    "filename": "2022_ASRJC_P2_q2.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain undamped oscillations", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Calculate angular frequency", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(a)(iii)", "description": "Determine maximum speed", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine resonant frequency", "level": 3, "marks": 1, "weighted_score": 3},
+      {"part": "(b)(ii)", "description": "Explain resonance at half frequency", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 9,
+    "weighted_sum": 27,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2022_ACJC_P3_q3.pdf",
+    "parts": [
+      {"part": "(a)", "description": "State first law of thermodynamics", "level": 1, "marks": 2, "weighted_score": 2},
+      {"part": "(b)", "description": "Calculate gain in internal energy during vaporisation", "level": 4, "marks": 4, "weighted_score": 16},
+      {"part": "(c)(i)", "description": "State and explain higher temperature at C or D", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(c)(ii)", "description": "Complete first law table", "level": 4, "marks": 4, "weighted_score": 16}
+    ],
+    "total_marks": 12,
+    "weighted_sum": 40,
+    "overall_difficulty": 3.33
+  },
+  {
+    "filename": "2022_ACJC_P3_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Label forces on block A", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Show mass of block A is 5.0 kg", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(i)", "description": "Determine force on block C during collision", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(ii)", "description": "Calculate velocity of A after collision", "level": 3, "marks": 2, "weighted_score": 6},
+      {"part": "(b)(iii)", "description": "Deduce if elastic or inelastic", "level": 4, "marks": 2, "weighted_score": 8}
+    ],
+    "total_marks": 10,
+    "weighted_sum": 30,
+    "overall_difficulty": 3.00
+  },
+  {
+    "filename": "2022_ACJC_P2_q1.pdf",
+    "parts": [
+      {"part": "(a)(i)", "description": "Explain how dividing T by N reduces random error", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(a)(ii)", "description": "Suggest method to improve accuracy", "level": 2, "marks": 2, "weighted_score": 4},
+      {"part": "(b)", "description": "Determine pressure with uncertainty", "level": 4, "marks": 3, "weighted_score": 12}
+    ],
+    "total_marks": 7,
+    "weighted_sum": 20,
+    "overall_difficulty": 2.86
   }
 ]
