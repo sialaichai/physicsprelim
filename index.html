@@ -2140,9 +2140,19 @@
             updateP2P3Data: function(diffMap) {
                 p2p3DataMap = diffMap;
                 debugLog(`🔄 P2/P3 data updated: ${Object.keys(p2p3DataMap).length} entries`);
-                renderTable(currentFilteredData);
-                const diffCount = currentFilteredData.filter(i => p2p3DataMap[i.filename]).length;
-                document.querySelector('#difficulty-filter-btn span').textContent = diffCount;
+                    // ✅ Force a render with the current filtered data
+                currentFilteredData = [...processedData];
+
+                // ✅ Wait a moment for the DOM to settle, then render
+                setTimeout(() => {
+                    renderTable(currentFilteredData);
+                    const diffCount = currentFilteredData.filter(i => p2p3DataMap[i.filename]).length;
+                    document.querySelector('#difficulty-filter-btn span').textContent = diffCount;
+                }, 50);
+                
+               // renderTable(currentFilteredData);
+               // const diffCount = currentFilteredData.filter(i => p2p3DataMap[i.filename]).length;
+               // document.querySelector('#difficulty-filter-btn span').textContent = diffCount;
             }
         };
     }
