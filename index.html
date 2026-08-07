@@ -807,6 +807,7 @@
         const tooltipDiffBadge = document.getElementById('tooltip-diff-badge');
         const tooltipContent = document.getElementById('tooltip-content');
 
+        // Keyboard shortcut: Ctrl+Shift+D
         document.addEventListener('keydown', (e) => {
             if (!debugEnabled) return;
             if ((e.ctrlKey || e.metaKey) && e.shiftKey && (e.key === 'd' || e.key === 'D')) {
@@ -952,10 +953,12 @@
         }
 
         function getDifficultyCategory(diff) {
-            if (diff < 2.5) return { label: 'Easy', class: 'diff-easy', rowClass: 'diff-row-easy', hoverClass: 'diff-row-hover-easy' };
-            if (diff < 3.0) return { label: 'Moderate', class: 'diff-moderate', rowClass: 'diff-row-moderate', hoverClass: 'diff-row-hover-moderate' };
-            if (diff < 3.5) return { label: 'Challenging', class: 'diff-challenging', rowClass: 'diff-row-challenging', hoverClass: 'diff-row-hover-challenging' };
-            if (diff < 4.0) return { label: 'Hard', class: 'diff-hard', rowClass: 'diff-row-hard', hoverClass: 'diff-row-hover-hard' };
+            // Ensure diff is a number
+            const d = parseFloat(diff) || 0;
+            if (d < 2.5) return { label: 'Easy', class: 'diff-easy', rowClass: 'diff-row-easy', hoverClass: 'diff-row-hover-easy' };
+            if (d < 3.0) return { label: 'Moderate', class: 'diff-moderate', rowClass: 'diff-row-moderate', hoverClass: 'diff-row-hover-moderate' };
+            if (d < 3.5) return { label: 'Challenging', class: 'diff-challenging', rowClass: 'diff-row-challenging', hoverClass: 'diff-row-hover-challenging' };
+            if (d < 4.0) return { label: 'Hard', class: 'diff-hard', rowClass: 'diff-row-hard', hoverClass: 'diff-row-hover-hard' };
             return { label: 'Very Hard', class: 'diff-veryhard', rowClass: 'diff-row-veryhard', hoverClass: 'diff-row-hover-veryhard' };
         }
 
@@ -1159,7 +1162,7 @@
                                                 parts: item.parts || [],
                                                 total_marks: item.total_marks || 0,
                                                 weighted_sum: item.weighted_sum || 0,
-                                                overall_difficulty: item.overall_difficulty || 0
+                                                overall_difficulty: parseFloat(item.overall_difficulty) || 0
                                             };
                                         }
                                     });
@@ -1267,7 +1270,6 @@
             let msEnabled = false;
             let lastNotifiedFile = '';
             let p2p3DataMap = {};
-            // --- NEW: Store selected filenames for checkbox persistence ---
             let selectedRowFilenames = new Set();
 
             const tableBody = document.getElementById('data-table-body');
@@ -1279,7 +1281,7 @@
 
             // --- PAGINATION STATE ---
             let currentPage = 1;
-            const rowsPerPage = 80; // reduced to 50 for safety
+            const rowsPerPage = 50;
             let totalPages = 1;
 
             debugLog(`🚀 Starting app with ${allData.length} items`);
@@ -1711,14 +1713,14 @@
                 });
             }
 
-            // --- getSelectedRows now returns data objects, not DOM rows ---
+            // --- getSelectedRows returns data objects, not DOM rows ---
             function getSelectedRows() {
                 return currentFilteredData.filter(item => selectedRowFilenames.has(item.filename));
             }
 
             function showTooltip(e, data) {
                 const filename = data.filename || 'Unknown';
-                const diff = data.overall_difficulty || 0;
+                const diff = parseFloat(data.overall_difficulty) || 0;
                 const category = getDifficultyCategory(diff);
                 tooltipFilename.textContent = filename;
                 tooltipDiffBadge.textContent = `${category.label}: ${diff.toFixed(2)}`;
@@ -1770,7 +1772,6 @@
             }
 
             function applyFilters(data) {
-                // Clear selected rows when filter context changes
                 selectedRowFilenames.clear();
                 selectAllCheckbox.checked = false;
 
@@ -1819,7 +1820,6 @@
                         }
                     });
 
-                    // Sort the full data
                     data.sort((a, b) => {
                         const keys = ['', 'filename', 'year', 'jc', 'paper', 'question', 'mainTopic', 'otherTopics', 'level'];
                         const key = keys[currentSort.column];
@@ -1844,7 +1844,6 @@
                             String(valB).localeCompare(String(valA), undefined, { numeric: true, sensitivity: 'base' });
                     });
 
-                    // Paginate
                     totalPages = Math.max(1, Math.ceil(data.length / rowsPerPage));
                     if (currentPage > totalPages) currentPage = totalPages;
                     if (currentPage < 1) currentPage = 1;
@@ -1853,12 +1852,10 @@
                     const end = Math.min(start + rowsPerPage, data.length);
                     const pageData = data.slice(start, end);
 
-                    // Update pagination controls
                     document.getElementById('prev-page').disabled = (currentPage <= 1);
                     document.getElementById('next-page').disabled = (currentPage >= totalPages);
                     document.getElementById('page-info').textContent = `Page ${currentPage} of ${totalPages} (${data.length} items)`;
 
-                    // Build table
                     tableBody.innerHTML = '';
                     const fragment = document.createDocumentFragment();
 
@@ -1871,7 +1868,6 @@
                             const p2p3Info = p2p3DataMap[r.filename];
                             const isP2P3 = !!p2p3Info;
 
-                            // Check if this row is selected
                             const isChecked = selectedRowFilenames.has(r.filename);
 
                             let levelDisplay = '';
@@ -1879,7 +1875,9 @@
                             let hoverClass = '';
 
                             if (isP2P3) {
-                                const diff = p2p3Info.overall_difficulty || 0;
+                                // --- FIX: parse difficulty as float ---
+                                const rawDiff = p2p3Info.overall_difficulty;
+                                const diff = parseFloat(rawDiff) || 0;
                                 const category = getDifficultyCategory(diff);
                                 levelDisplay = `
                                         <span class="difficulty-badge ${category.class}" 
@@ -1942,7 +1940,6 @@
                                 } else {
                                     selectedRowFilenames.delete(r.filename);
                                 }
-                                // Update select all state
                                 const allCheckboxes = tableBody.querySelectorAll('.row-checkbox');
                                 const checkedCheckboxes = tableBody.querySelectorAll('.row-checkbox:checked');
                                 selectAllCheckbox.checked = allCheckboxes.length === checkedCheckboxes.length;
@@ -2004,7 +2001,6 @@
                     tableBody.appendChild(fragment);
                     fileCountDisplay.textContent = data.length > 500 ? `Top 500/${data.length}` : `${data.length} files`;
 
-                    // Update filter counts
                     const yearCount = new Set(data.map(i => i.year)).size;
                     const jcCount = new Set(data.map(i => i.jc)).size;
                     const paperCount = new Set(data.map(i => i.paper)).size;
@@ -2085,6 +2081,5 @@
                 }
             };
         }
-    </script>
-</body>
+    </script></body>
 </html>
